@@ -1,10 +1,6 @@
 name: Build Master Sports API
 
 on:
-  # 1. প্রতি ১০ মিনিটে auto run
-  schedule:
-    - cron: "*/10 * * * *"
-
   # 2. Manual trigger (Actions tab থেকে)
   workflow_dispatch:
 
