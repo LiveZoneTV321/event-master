@@ -2,7 +2,7 @@
 """
 Master API builder
 ==================
-Source 1: sajal620/event/events.json          (events[] flat)
+Source 1: LiveZoneTV321/event/events.json          (events[] flat)
 Source 2: sm-monirulislam/Sports_data.json    (matches[] with status)
 
 Output  : master_sports.json  (Sports_data.json format)
@@ -26,7 +26,7 @@ from zoneinfo import ZoneInfo
 
 API1_URL = (
     "https://raw.githubusercontent.com/"
-    "sajal620/event/refs/heads/main/events.json"
+    "LiveZoneTV321/api1event/refs/heads/main/events.json"
 )
 
 API2_URL = (
