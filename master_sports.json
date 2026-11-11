@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:40:14 PM 11-11-2026",
-  "total_matches": 369,
+  "last_update_time": "11:50:14 PM 11-11-2026",
+  "total_matches": 371,
   "live_match": 11,
-  "upcoming_match": 351,
+  "upcoming_match": 353,
   "ended_match": 7,
   "sources": [
     "api1:events.json",
@@ -7418,6 +7418,40 @@
       },
       "streams": [],
       "id": "evt_c8015b785787",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "India Vs Bhutan",
+      "eventInfo": {
+        "teamA": "India",
+        "teamB": "Bhutan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/191564/image",
+        "eventName": "SAFF Championship 2026 - (Semi-Final 1)",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
+        "startTime": "14/11/2026 03:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_3cfe1d15c18e",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Bangladesh Vs Pakistan",
+      "eventInfo": {
+        "teamA": "Bangladesh",
+        "teamB": "Pakistan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6080/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6081/image",
+        "eventName": "SAFF Championship 2026 - (Semi-Final 2)",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
+        "startTime": "14/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_f2bb98a984df",
       "isHot": false
     },
     {
