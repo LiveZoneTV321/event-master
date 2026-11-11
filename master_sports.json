@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:30:20 AM 12-11-2026",
+  "last_update_time": "03:40:14 AM 12-11-2026",
   "total_matches": 307,
-  "live_match": 8,
+  "live_match": 7,
   "upcoming_match": 287,
-  "ended_match": 12,
+  "ended_match": 13,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -97,23 +97,6 @@
       ],
       "isHot": false,
       "id": "evt_7abf87716ec4"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Barnsley Vs Oldham Athletic",
-      "eventInfo": {
-        "teamA": "Barnsley",
-        "teamB": "Oldham Athletic",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/65/image",
-        "eventName": "Football League Trophy",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
-        "startTime": "12/11/2026 01:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_e7e8edce52da"
     },
     {
       "status": "LIVE",
@@ -6671,6 +6654,23 @@
       "streams": [],
       "isHot": false,
       "id": "evt_59a5f1767bcc"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Barnsley Vs Oldham Athletic",
+      "eventInfo": {
+        "teamA": "Barnsley",
+        "teamB": "Oldham Athletic",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/65/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "12/11/2026 01:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_e7e8edce52da"
     }
   ]
 }
