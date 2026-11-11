@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:20:13 PM 11-11-2026",
+  "last_update_time": "12:25:16 PM 11-11-2026",
   "total_matches": 336,
   "live_match": 3,
   "upcoming_match": 310,
@@ -58,7 +58,7 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
-      "isHot": true,
+      "isHot": false,
       "id": "evt_ef30158142c8"
     },
     {
