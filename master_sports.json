@@ -1,16 +1,138 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:30:18 AM 12-11-2026",
+  "last_update_time": "12:40:14 AM 12-11-2026",
   "total_matches": 308,
-  "live_match": 10,
-  "upcoming_match": 291,
+  "live_match": 12,
+  "upcoming_match": 289,
   "ended_match": 7,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
   ],
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Japan Vs Sweden",
+      "eventInfo": {
+        "teamA": "Japan",
+        "teamB": "Sweden",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22241/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5724/image",
+        "eventName": "World Championship Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "startTime": "12/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_32933556fa48"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "USA Vs Czechia",
+      "eventInfo": {
+        "teamA": "USA",
+        "teamB": "Czechia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5726/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/72454/image",
+        "eventName": "World Championship Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "startTime": "12/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4177356fae22"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "CA Independiente Reserve Vs Lanús Reserve",
+      "eventInfo": {
+        "teamA": "CA Independiente Reserve",
+        "teamB": "Lanús Reserve",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/236797/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/236219/image",
+        "eventName": "Campeonato de Reserva de Primera División",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18817/image/dark",
+        "startTime": "12/11/2026 12:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_59a5f1767bcc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Oud-Heverlee Leuven Vs HB Køge",
+      "eventInfo": {
+        "teamA": "Oud-Heverlee Leuven",
+        "teamB": "HB Køge",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/178246/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/333128/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "startTime": "11/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hpfhm49n/index.m3u8"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794403409-0-0-68282e46185bb7d360a7f1ea76dc1872",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "http://193.47.62.44/hls/A555AAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e12367087a3c"
+    },
     {
       "status": "LIVE",
       "Category": "Basketball",
@@ -147,124 +269,42 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Oud-Heverlee Leuven Vs HB Køge",
+      "event_name": "Barnsley Vs Oldham Athletic",
       "eventInfo": {
-        "teamA": "Oud-Heverlee Leuven",
-        "teamB": "HB Køge",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/178246/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/333128/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "startTime": "11/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hpfhm49n/index.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794403409-0-0-68282e46185bb7d360a7f1ea76dc1872",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "http://193.47.62.44/hls/A555AAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e12367087a3c"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Japan Vs Sweden",
-      "eventInfo": {
-        "teamA": "Japan",
-        "teamB": "Sweden",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22241/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5724/image",
-        "eventName": "World Championship Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "startTime": "12/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_32933556fa48"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "USA Vs Czechia",
-      "eventInfo": {
-        "teamA": "USA",
-        "teamB": "Czechia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5726/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/72454/image",
-        "eventName": "World Championship Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "startTime": "12/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_4177356fae22"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CA Independiente Reserve Vs Lanús Reserve",
-      "eventInfo": {
-        "teamA": "CA Independiente Reserve",
-        "teamB": "Lanús Reserve",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/236797/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/236219/image",
-        "eventName": "Campeonato de Reserva de Primera División",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18817/image/dark",
-        "startTime": "12/11/2026 12:00:00 AM"
+        "teamA": "Barnsley",
+        "teamB": "Oldham Athletic",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/65/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "12/11/2026 01:00:00 AM"
       },
       "streams": [],
       "isHot": false,
-      "id": "evt_59a5f1767bcc"
+      "id": "evt_e7e8edce52da"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "UCAM Murcia Vs Bamberg Baskets",
+      "eventInfo": {
+        "teamA": "UCAM Murcia",
+        "teamB": "Bamberg Baskets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6495/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7779/image",
+        "eventName": "Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
+        "startTime": "12/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA2 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7abf87716ec4"
     },
     {
       "status": "LIVE",
@@ -2129,46 +2169,6 @@
       ],
       "isHot": false,
       "id": "evt_21ef12fbd3fb"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Barnsley Vs Oldham Athletic",
-      "eventInfo": {
-        "teamA": "Barnsley",
-        "teamB": "Oldham Athletic",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/65/image",
-        "eventName": "Football League Trophy",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
-        "startTime": "12/11/2026 01:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_e7e8edce52da"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "UCAM Murcia Vs Bamberg Baskets",
-      "eventInfo": {
-        "teamA": "UCAM Murcia",
-        "teamB": "Bamberg Baskets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6495/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7779/image",
-        "eventName": "Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
-        "startTime": "12/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NOVA2 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_7abf87716ec4"
     },
     {
       "status": "UPCOMING",
