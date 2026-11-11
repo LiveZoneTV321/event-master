@@ -31,8 +31,7 @@ API1_URL = (
 
 API2_URL = (
     "https://raw.githubusercontent.com/"
-    "sm-monirulislam/Upcoming-and-Live-Sports-Data/"
-    "refs/heads/main/Sports_data.json"
+    "LiveZoneTV321/Sports-Data/refs/heads/main/sports_data.json"
 )
 
 MANUAL_CONTROL_FILE = "manual_control.json"
