@@ -92,5 +92,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "chore: update master_sports.json"
+          git commit -m "update master_sports.json"
           git push
