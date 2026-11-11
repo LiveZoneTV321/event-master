@@ -658,13 +658,8 @@ def main():
 
         # 9. Output
         out = {
-            "name": (api2_data.get("name")
-                     if isinstance(api2_data, dict)
-                     else "Live and Upcoming Sports Data"),
-            "telegram_channel": (
-                api2_data.get("telegram_channel")
-                if isinstance(api2_data, dict) else ""
-            ),
+            "name": "Live and Upcoming Sports Data",
+            "telegram_channel": "https://t.me/LiveZoneTV",
             "last_update_time": now.strftime("%I:%M:%S %p %d-%m-%Y"),
             "total_matches": len(merged),
             "live_match": live,
