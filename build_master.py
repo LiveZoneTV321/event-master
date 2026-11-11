@@ -210,6 +210,13 @@ def adapt_api1_event(event, now):
     if not isinstance(event, dict):
         return None
 
+    team_a = str(event.get("team1", "")).strip()
+    team_b = str(event.get("team2", "")).strip()
+
+    # 💡 ফিক্স ১: যদি দুই টিমের নামই একই থাকে (যেমন: Women's Big Bash League Vs Women's Big Bash League), তবে বাদ দিন
+    if team_a.lower() == team_b.lower() and team_a != "":
+        return None
+
     league = str(event.get("league", "")).strip()
     if "|" in league:
         category, tournament = league.split("|", 1)
@@ -218,9 +225,6 @@ def adapt_api1_event(event, now):
     else:
         category = league
         tournament = league
-
-    team_a = str(event.get("team1", "")).strip()
-    team_b = str(event.get("team2", "")).strip()
 
     date_str = str(event.get("date", "")).strip()
     time_str = str(event.get("time", "")).strip()
@@ -323,7 +327,7 @@ def adapt_api2_match(match):
 
 
 # ============================================================
-# DEDUP + MERGE (SMART MATCHING ADDED)
+# DEDUP + MERGE (SMART MATCHING)
 # ============================================================
 
 def dedup_key(match):
@@ -333,13 +337,12 @@ def dedup_key(match):
         if not name:
             return ""
         n = str(name).lower()
-        # টিমের নামের অপ্রয়োজনীয় শব্দ বাদ দেওয়া
-        bad_words = ["national", "team", "fc", "club", "women", "w", "men", "m"]
+        bad_words = {"national", "team", "fc", "club", "women", "w", "men", "m"}
         words = n.split()
         cleaned_words = [word for word in words if word not in bad_words]
-        cleaned = "".join(cleaned_words)
-        cleaned = re.sub(r'[^a-z0-9]', '', cleaned)
-        return cleaned
+        cleaned = " ".join(cleaned_words)
+        cleaned = re.sub(r'[^a-z0-9\s]', '', cleaned)
+        return re.sub(r"\s+", " ", cleaned).strip()
 
     category = normalize_text(match.get("Category", ""))
     if "|" in category:
@@ -348,17 +351,22 @@ def dedup_key(match):
     team_a = clean_team_name(info.get("teamA", ""))
     team_b = clean_team_name(info.get("teamB", ""))
     
-    if not team_a or not team_b:
+    if len(team_a) < 3 or len(team_b) < 3:
         team_a = normalize_text(info.get("teamA", ""))
         team_b = normalize_text(info.get("teamB", ""))
 
-    # টিমগুলোর সিকোয়েন্স ম্যাটার করে না (A vs B এবং B vs A একই)
+    # 💡 ফিক্স ২: টুর্নামেন্টের নাম ক্লিন করা যাতে API 1 এবং API 2 মিলে যায়
+    tournament = normalize_text(info.get("eventName", ""))
+    tournament_clean = re.sub(r'[0-9]', '', tournament)
+    tournament_clean = re.sub(r'(match|st|nd|rd|th)', '', tournament_clean).strip()
+
     teams = sorted([team_a, team_b])
-    
     start = str(info.get("startTime", "")).strip()
     date_part = start.split(" ")[0] if start else ""
     
-    return f"{category}|{teams[0]}|{teams[1]}|{date_part}"
+    tournament_first_word = tournament_clean.split(" ")[0] if tournament_clean else ""
+    
+    return f"{category}|{teams[0]}|{teams[1]}|{tournament_first_word}|{date_part}"
 
 
 def merge_streams_into(target_streams, new_streams):
