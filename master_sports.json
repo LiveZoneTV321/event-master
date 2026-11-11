@@ -1,9 +1,9 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:40:13 PM 11-11-2026",
-  "total_matches": 350,
-  "live_match": 7,
+  "last_update_time": "06:50:13 PM 11-11-2026",
+  "total_matches": 349,
+  "live_match": 6,
   "upcoming_match": 320,
   "ended_match": 23,
   "sources": [
@@ -140,18 +140,6 @@
           "channel_name": "WILLOW ALT",
           "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
           "drm_key": "d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3"
-        },
-        {
-          "channel_name": "Tapmad - (bd)",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -341,48 +329,6 @@
       ],
       "isHot": false,
       "id": "evt_a6252405842b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Perth Scorchers Women Vs Sydney Thunder Women",
-      "eventInfo": {
-        "teamA": "Perth Scorchers Women",
-        "teamB": "Sydney Thunder Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274889/image",
-        "eventName": "WBBL 2026 - 18th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "11/11/2026 02:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "willow sports - aq",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "21ef535c5597589225d278308c2a5c93:a4a38ac31294c388aaec39cab4aae93a"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "21ef535c5597589225d278308c2a5c93:a4a38ac31294c388aaec39cab4aae93a"
-        },
-        {
-          "channel_name": "Tapmad - (bd)",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_989f6bc2caf1",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -2826,6 +2772,85 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Royal Desert Champions Vs UAE Bulls",
+      "eventInfo": {
+        "teamA": "Royal Desert Champions",
+        "teamB": "UAE Bulls",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LL.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/78.png",
+        "eventName": "Abu Dhabi T10 League 2026 - 11th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+        "startTime": "11/11/2026 07:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "a sports - aq",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_87b5be8f3f95",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Arabian Aces Vs Yas Lions",
+      "eventInfo": {
+        "teamA": "Arabian Aces",
+        "teamB": "Yas Lions",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LI.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LH.png",
+        "eventName": "Abu Dhabi T10 League 2026 - 12th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+        "startTime": "11/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "a sports - aq",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_c925528bd857",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Melbourne Stars Women Vs Brisbane Heat Women",
+      "eventInfo": {
+        "teamA": "Melbourne Stars Women",
+        "teamB": "Brisbane Heat Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274886/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274884/image",
+        "eventName": "WBBL 2026 - 19th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "12/11/2026 10:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "willow sports - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_15c741fcd865",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Oud-Heverlee Leuven (W) Vs Koge (W)",
       "eventInfo": {
@@ -2839,6 +2864,23 @@
       },
       "streams": [],
       "id": "evt_572d07d72057",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Benfica (W) Vs Austria Wien (W)",
+      "eventInfo": {
+        "teamA": "Benfica (W)",
+        "teamB": "Austria Wien (W)",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2203/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
+        "startTime": "12/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_3a262e5b108a",
       "isHot": false
     },
     {
@@ -2861,35 +2903,35 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
-      "event_name": "1st in Group A Vs 2nd in Group B",
+      "event_name": "Pakistan Under-19 Vs Bangladesh Under-19",
       "eventInfo": {
-        "teamA": "1st in Group A",
-        "teamB": "2nd in Group B",
-        "teamAFlag": "",
-        "teamBFlag": "",
+        "teamA": "Pakistan Under-19",
+        "teamB": "Bangladesh Under-19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213104/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213099/image",
         "eventName": "U19 Asia Cup 2026 - 1st Semi Final",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
         "startTime": "12/11/2026 11:00:00 AM"
       },
       "streams": [],
-      "id": "evt_7585c41d0542",
+      "id": "evt_4547e55e3fdb",
       "isHot": false
     },
     {
       "status": "UPCOMING",
       "Category": "Cricket",
-      "event_name": "1st in Group B Vs 2nd in Group A",
+      "event_name": "Afghanistan Under-19 Vs India Under-19",
       "eventInfo": {
-        "teamA": "1st in Group B",
-        "teamB": "2nd in Group A",
-        "teamAFlag": "",
-        "teamBFlag": "",
+        "teamA": "Afghanistan Under-19",
+        "teamB": "India Under-19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213103/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213112/image",
         "eventName": "U19 Asia Cup 2026 - 2nd Semi Final",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
         "startTime": "12/11/2026 11:00:00 AM"
       },
       "streams": [],
-      "id": "evt_6ca728d40463",
+      "id": "evt_e2ba91d2c530",
       "isHot": false
     },
     {
@@ -2912,23 +2954,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Benfica (W) Vs Austria Wien (W)",
-      "eventInfo": {
-        "teamA": "Benfica (W)",
-        "teamB": "Austria Wien (W)",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2203/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-        "startTime": "12/11/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_3a262e5b108a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Juventus (W) Vs Olympique Lyonnais (W)",
       "eventInfo": {
         "teamA": "Juventus (W)",
@@ -2941,23 +2966,6 @@
       },
       "streams": [],
       "id": "evt_394c38c96709",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Melbourne Stars Women Vs Brisbane Heat Women",
-      "eventInfo": {
-        "teamA": "Melbourne Stars Women",
-        "teamB": "Brisbane Heat Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274886/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274884/image",
-        "eventName": "WBBL 2026 - 19th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "12/11/2026 10:40:00 AM"
-      },
-      "streams": [],
-      "id": "evt_15c741fcd865",
       "isHot": false
     },
     {
@@ -4216,64 +4224,6 @@
       },
       "streams": [],
       "id": "evt_3758e9a31f9b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Royal Desert Champions Vs UAE Bulls",
-      "eventInfo": {
-        "teamA": "Royal Desert Champions",
-        "teamB": "UAE Bulls",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/78.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 11th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "11/11/2026 07:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS - aq",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "a sports - aq",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_87b5be8f3f95",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Arabian Aces Vs Yas Lions",
-      "eventInfo": {
-        "teamA": "Arabian Aces",
-        "teamB": "Yas Lions",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 12th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "11/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS - aq",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "a sports - aq",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_c925528bd857",
       "isHot": false
     },
     {
