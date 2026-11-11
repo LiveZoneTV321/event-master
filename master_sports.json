@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:20:13 PM 11-11-2026",
-  "total_matches": 351,
-  "live_match": 10,
-  "upcoming_match": 319,
+  "last_update_time": "05:21:39 PM 11-11-2026",
+  "total_matches": 336,
+  "live_match": 9,
+  "upcoming_match": 305,
   "ended_match": 22,
   "sources": [
     "api1:events.json",
@@ -82,8 +82,8 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_72aecdc8f4a5",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_72aecdc8f4a5"
     },
     {
       "status": "LIVE",
@@ -99,8 +99,8 @@
         "startTime": "11/11/2026 02:30:00 PM"
       },
       "streams": [],
-      "id": "evt_b7b80eaea8a2",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_b7b80eaea8a2"
     },
     {
       "status": "LIVE",
@@ -132,8 +132,8 @@
           "user_agent": "Mozilla"
         }
       ],
-      "id": "evt_cf32a5d3ffcf",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_cf32a5d3ffcf"
     },
     {
       "status": "LIVE",
@@ -168,10 +168,22 @@
           "channel_name": "WILLOW ALT",
           "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
           "drm_key": "d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3"
+        },
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_ef30158142c8",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_ef30158142c8"
     },
     {
       "status": "LIVE",
@@ -226,8 +238,8 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_dfa6ba76db50",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_dfa6ba76db50"
     },
     {
       "status": "LIVE",
@@ -249,8 +261,8 @@
           "drm_key": "b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841"
         }
       ],
-      "id": "evt_cb92eaad2884",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_cb92eaad2884"
     },
     {
       "status": "LIVE",
@@ -343,8 +355,8 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_a6252405842b",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_a6252405842b"
     },
     {
       "status": "LIVE",
@@ -365,49 +377,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_18c7a269a72e",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Pakistan Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "Pakistan",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "PAK vs SL - 1st Test, Day 3",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "11/11/2026 10:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "t sports hd",
-          "stream_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3"
-        },
-        {
-          "channel_name": "Tapmad - (bd)",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_162fa0545dde",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_18c7a269a72e"
     },
     {
       "status": "LIVE",
@@ -524,8 +495,8 @@
           "drm_key": "1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b"
         }
       ],
-      "id": "evt_c4e10ab9664c",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_c4e10ab9664c"
     },
     {
       "status": "UPCOMING",
@@ -576,8 +547,8 @@
           "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
         }
       ],
-      "id": "evt_b0ea17825774",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_b0ea17825774"
     },
     {
       "status": "UPCOMING",
@@ -622,8 +593,8 @@
           "drm_key": "8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4"
         }
       ],
-      "id": "evt_f9521ce2453e",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_f9521ce2453e"
     },
     {
       "status": "UPCOMING",
@@ -667,8 +638,8 @@
           "drm_key": "7f6cef23a9b2d9b21e04cd96753f7d01:3f260e0025a8b3273ece982cff0562e0"
         }
       ],
-      "id": "evt_fe585796ba9e",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_fe585796ba9e"
     },
     {
       "status": "UPCOMING",
@@ -689,8 +660,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_47b3dbc3b81c",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_47b3dbc3b81c"
     },
     {
       "status": "UPCOMING",
@@ -711,8 +682,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_03b8066de58d",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_03b8066de58d"
     },
     {
       "status": "UPCOMING",
@@ -733,8 +704,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_833c9d11f948",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_833c9d11f948"
     },
     {
       "status": "UPCOMING",
@@ -755,8 +726,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_1e7ae65d29f7",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_1e7ae65d29f7"
     },
     {
       "status": "UPCOMING",
@@ -777,8 +748,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_214e03fff257",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_214e03fff257"
     },
     {
       "status": "UPCOMING",
@@ -799,8 +770,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_8bdb9819266e",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_8bdb9819266e"
     },
     {
       "status": "UPCOMING",
@@ -821,8 +792,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_bc68f7ef9b33",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_bc68f7ef9b33"
     },
     {
       "status": "UPCOMING",
@@ -843,8 +814,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_b71784c8f75d",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_b71784c8f75d"
     },
     {
       "status": "UPCOMING",
@@ -865,8 +836,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_66cbef17f0ab",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_66cbef17f0ab"
     },
     {
       "status": "UPCOMING",
@@ -887,8 +858,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_6d19ac1fe6b8",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_6d19ac1fe6b8"
     },
     {
       "status": "UPCOMING",
@@ -909,8 +880,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_9151b289995d",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_9151b289995d"
     },
     {
       "status": "UPCOMING",
@@ -931,8 +902,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_f82e5d41eb3d",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_f82e5d41eb3d"
     },
     {
       "status": "UPCOMING",
@@ -953,8 +924,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_081d5e303edd",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_081d5e303edd"
     },
     {
       "status": "UPCOMING",
@@ -975,8 +946,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_b7d66ba85ca5",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_b7d66ba85ca5"
     },
     {
       "status": "UPCOMING",
@@ -997,8 +968,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_0047c2975fcc",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_0047c2975fcc"
     },
     {
       "status": "UPCOMING",
@@ -1019,8 +990,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_167d4bb5dbc2",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_167d4bb5dbc2"
     },
     {
       "status": "UPCOMING",
@@ -1047,8 +1018,8 @@
           "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         }
       ],
-      "id": "evt_2498ae2cced5",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_2498ae2cced5"
     },
     {
       "status": "UPCOMING",
@@ -1070,8 +1041,8 @@
           "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         }
       ],
-      "id": "evt_f51a8fdfa4a1",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_f51a8fdfa4a1"
     },
     {
       "status": "UPCOMING",
@@ -1093,8 +1064,8 @@
           "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         }
       ],
-      "id": "evt_503cdb809ffe",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_503cdb809ffe"
     },
     {
       "status": "UPCOMING",
@@ -1115,8 +1086,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_640e53a32e76",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_640e53a32e76"
     },
     {
       "status": "UPCOMING",
@@ -1137,8 +1108,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_e62bb3253ef9",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_e62bb3253ef9"
     },
     {
       "status": "UPCOMING",
@@ -1159,8 +1130,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_57240ad332ee",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_57240ad332ee"
     },
     {
       "status": "UPCOMING",
@@ -1181,8 +1152,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_039509eabdb8",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_039509eabdb8"
     },
     {
       "status": "UPCOMING",
@@ -1203,8 +1174,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_022baa77f5a2",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_022baa77f5a2"
     },
     {
       "status": "UPCOMING",
@@ -1226,8 +1197,8 @@
           "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         }
       ],
-      "id": "evt_c77a1218f06c",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_c77a1218f06c"
     },
     {
       "status": "UPCOMING",
@@ -1249,8 +1220,8 @@
           "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         }
       ],
-      "id": "evt_964a802b2a42",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_964a802b2a42"
     },
     {
       "status": "UPCOMING",
@@ -1277,8 +1248,8 @@
           "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         }
       ],
-      "id": "evt_e47a26339a05",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_e47a26339a05"
     },
     {
       "status": "UPCOMING",
@@ -1305,8 +1276,8 @@
           "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         }
       ],
-      "id": "evt_fe3ecbabf690",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_fe3ecbabf690"
     },
     {
       "status": "UPCOMING",
@@ -1328,8 +1299,8 @@
           "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         }
       ],
-      "id": "evt_b97d029a585b",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_b97d029a585b"
     },
     {
       "status": "UPCOMING",
@@ -1350,8 +1321,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_5021ee506126",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_5021ee506126"
     },
     {
       "status": "UPCOMING",
@@ -1372,8 +1343,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_770b123e7b92",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_770b123e7b92"
     },
     {
       "status": "UPCOMING",
@@ -1394,8 +1365,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_ebaee61058d0",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_ebaee61058d0"
     },
     {
       "status": "UPCOMING",
@@ -1427,8 +1398,8 @@
           "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8"
         }
       ],
-      "id": "evt_ba64dd6df17a",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_ba64dd6df17a"
     },
     {
       "status": "UPCOMING",
@@ -1463,8 +1434,8 @@
           "referer": "https://xlz.domainkqt.cc/"
         }
       ],
-      "id": "evt_41c1d130a75e",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_41c1d130a75e"
     },
     {
       "status": "UPCOMING",
@@ -1486,8 +1457,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_04abbac93ba3",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_04abbac93ba3"
     },
     {
       "status": "UPCOMING",
@@ -1521,8 +1492,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_752beea5bb36",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_752beea5bb36"
     },
     {
       "status": "UPCOMING",
@@ -1550,8 +1521,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_32933556fa48",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_32933556fa48"
     },
     {
       "status": "UPCOMING",
@@ -1579,8 +1550,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_9f570c259941",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_9f570c259941"
     },
     {
       "status": "UPCOMING",
@@ -1602,8 +1573,8 @@
           "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
         }
       ],
-      "id": "evt_50bd6349cd46",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_50bd6349cd46"
     },
     {
       "status": "UPCOMING",
@@ -1625,8 +1596,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_1055555defa5",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_1055555defa5"
     },
     {
       "status": "UPCOMING",
@@ -1648,8 +1619,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_72be6413e788",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_72be6413e788"
     },
     {
       "status": "UPCOMING",
@@ -1671,8 +1642,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_fe66b07247d8",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_fe66b07247d8"
     },
     {
       "status": "UPCOMING",
@@ -1694,8 +1665,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_c9d4b03fa891",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_c9d4b03fa891"
     },
     {
       "status": "UPCOMING",
@@ -1717,8 +1688,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_e6c6eb3b0b3a",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_e6c6eb3b0b3a"
     },
     {
       "status": "UPCOMING",
@@ -1740,8 +1711,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_351b9e7a832d",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_351b9e7a832d"
     },
     {
       "status": "UPCOMING",
@@ -1763,8 +1734,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_4489ce55c8f4",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_4489ce55c8f4"
     },
     {
       "status": "UPCOMING",
@@ -1786,8 +1757,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_30edc4c516f8",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_30edc4c516f8"
     },
     {
       "status": "UPCOMING",
@@ -1809,8 +1780,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_de451df80263",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_de451df80263"
     },
     {
       "status": "UPCOMING",
@@ -1832,8 +1803,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_bead86b87fe1",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_bead86b87fe1"
     },
     {
       "status": "UPCOMING",
@@ -1855,8 +1826,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_2f8f17e0879a",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_2f8f17e0879a"
     },
     {
       "status": "UPCOMING",
@@ -1878,8 +1849,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_53edf288eb5c",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_53edf288eb5c"
     },
     {
       "status": "UPCOMING",
@@ -1901,8 +1872,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_512daf83ac37",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_512daf83ac37"
     },
     {
       "status": "UPCOMING",
@@ -1924,8 +1895,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_e8ec441bd37c",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_e8ec441bd37c"
     },
     {
       "status": "UPCOMING",
@@ -1947,8 +1918,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_d14d2d841b99",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_d14d2d841b99"
     },
     {
       "status": "UPCOMING",
@@ -1970,8 +1941,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_a1ac50475012",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_a1ac50475012"
     },
     {
       "status": "UPCOMING",
@@ -1992,8 +1963,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_e212e80eb1fc",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_e212e80eb1fc"
     },
     {
       "status": "UPCOMING",
@@ -2049,8 +2020,8 @@
           "user_agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1"
         }
       ],
-      "id": "evt_56907a8baee5",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_56907a8baee5"
     },
     {
       "status": "UPCOMING",
@@ -2071,8 +2042,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_3f60f4f67bec",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_3f60f4f67bec"
     },
     {
       "status": "UPCOMING",
@@ -2093,8 +2064,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_47036a211ca1",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_47036a211ca1"
     },
     {
       "status": "UPCOMING",
@@ -2127,8 +2098,8 @@
           "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         }
       ],
-      "id": "evt_0c930d6f6dfc",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_0c930d6f6dfc"
     },
     {
       "status": "UPCOMING",
@@ -2155,8 +2126,8 @@
           "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         }
       ],
-      "id": "evt_025f5b853fec",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_025f5b853fec"
     },
     {
       "status": "UPCOMING",
@@ -2177,8 +2148,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_fce086148248",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_fce086148248"
     },
     {
       "status": "UPCOMING",
@@ -2210,8 +2181,8 @@
           "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         }
       ],
-      "id": "evt_ea56564ad67a",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_ea56564ad67a"
     },
     {
       "status": "UPCOMING",
@@ -2232,8 +2203,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_71e0fc7f5e2c",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_71e0fc7f5e2c"
     },
     {
       "status": "UPCOMING",
@@ -2254,8 +2225,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_b0271773f347",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_b0271773f347"
     },
     {
       "status": "UPCOMING",
@@ -2276,8 +2247,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_3cd046a1c20f",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_3cd046a1c20f"
     },
     {
       "status": "UPCOMING",
@@ -2298,8 +2269,8 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_d2bbf63c4558",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_d2bbf63c4558"
     },
     {
       "status": "UPCOMING",
@@ -2327,25 +2298,8 @@
           "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         }
       ],
-      "id": "evt_33376bbaba8f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Vietnam Vs Chinese Taipei",
-      "eventInfo": {
-        "teamA": "Vietnam",
-        "teamB": "Chinese Taipei",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5462",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8509",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "11/11/2026 06:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_d86933fb3f30",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_33376bbaba8f"
     },
     {
       "status": "UPCOMING",
@@ -2485,23 +2439,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "New Zealand Vs India",
-      "eventInfo": {
-        "teamA": "New Zealand",
-        "teamB": "India",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4784/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "12/11/2026 12:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_d7b9f9b4fb20",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "Biratnagar Kings Vs Pokhara Avengers",
       "eventInfo": {
@@ -2571,23 +2508,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Uzbekistan Vs Russia",
-      "eventInfo": {
-        "teamA": "Uzbekistan",
-        "teamB": "Russia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4723/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4694/image",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "12/11/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_54479cf8d918",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Guinea Vs Eritrea",
       "eventInfo": {
         "teamA": "Guinea",
@@ -2651,40 +2571,6 @@
       },
       "streams": [],
       "id": "evt_f334fdcb2060",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Lithuania Vs Suriname",
-      "eventInfo": {
-        "teamA": "Lithuania",
-        "teamB": "Suriname",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4776/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21822/image",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "12/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_c9fe144eb27f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Malta Vs Eswatini",
-      "eventInfo": {
-        "teamA": "Malta",
-        "teamB": "Eswatini",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4483/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4733/image",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "12/11/2026 11:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_23aa4343225a",
       "isHot": false
     },
     {
@@ -2962,23 +2848,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Singapore Vs Paraguay",
-      "eventInfo": {
-        "teamA": "Singapore",
-        "teamB": "Paraguay",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4789/image",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "13/11/2026 06:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_2cbcda78c26b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Kuwait Vs Syria",
       "eventInfo": {
         "teamA": "Kuwait",
@@ -2991,40 +2860,6 @@
       },
       "streams": [],
       "id": "evt_77177d717f4a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Saudi Arabia Vs South Korea",
-      "eventInfo": {
-        "teamA": "Saudi Arabia",
-        "teamB": "South Korea",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5087",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2383",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "13/11/2026 08:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_8e1368467c53",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Qatar Vs Australia",
-      "eventInfo": {
-        "teamA": "Qatar",
-        "teamB": "Australia",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5079",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2380",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "13/11/2026 08:45:00 PM"
-      },
-      "streams": [],
-      "id": "evt_61c44c94dedb",
       "isHot": false
     },
     {
@@ -3081,23 +2916,6 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
-      "event_name": "New Zealand Vs India",
-      "eventInfo": {
-        "teamA": "New Zealand",
-        "teamB": "India",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "eventName": "NZ vs IND - 4th ODI",
-        "event_logo": "https://img.sofascore.com/api/v1/team/287712/image",
-        "startTime": "13/11/2026 08:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_6a7c612807ff",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
       "event_name": "Australia Vs England",
       "eventInfo": {
         "teamA": "Australia",
@@ -3127,23 +2945,6 @@
       },
       "streams": [],
       "id": "evt_a2e8bc3b5e33",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Afghanistan Vs Zimbabwe",
-      "eventInfo": {
-        "teamA": "Afghanistan",
-        "teamB": "Zimbabwe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-        "eventName": "AFG vs ZIM - 2nd Test, Day 1",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "13/11/2026 12:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_666887275a69",
       "isHot": false
     },
     {
@@ -3404,108 +3205,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Argentina Vs Uruguay",
-      "eventInfo": {
-        "teamA": "Argentina",
-        "teamB": "Uruguay",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4725/image",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "14/11/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_3f4f866ec239",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Colombia Vs Chile",
-      "eventInfo": {
-        "teamA": "Colombia",
-        "teamB": "Chile",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4820/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4754/image",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "14/11/2026 06:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_8c55ce16a9bb",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Ecuador Vs Costa Rica",
-      "eventInfo": {
-        "teamA": "Ecuador",
-        "teamB": "Costa Rica",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4757/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4756/image",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "14/11/2026 06:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_24327d6bd2fe",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Peru Vs Bolivia",
-      "eventInfo": {
-        "teamA": "Peru",
-        "teamB": "Bolivia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4790/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4746/image",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "14/11/2026 07:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_2bd9417c8607",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Bahrain Vs Yemen",
-      "eventInfo": {
-        "teamA": "Bahrain",
-        "teamB": "Yemen",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5161/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4721/image",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "14/11/2026 12:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_e07e24ccca32",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Japan Vs Brazil",
-      "eventInfo": {
-        "teamA": "Japan",
-        "teamB": "Brazil",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4748/image",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "14/11/2026 04:15:00 PM"
-      },
-      "streams": [],
-      "id": "evt_33ad90904e06",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Thailand Vs Tajikistan",
       "eventInfo": {
         "teamA": "Thailand",
@@ -3518,23 +3217,6 @@
       },
       "streams": [],
       "id": "evt_c5b2db92bb67",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "China Vs Malaysia",
-      "eventInfo": {
-        "teamA": "China",
-        "teamB": "Malaysia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4755/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6912/image",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "14/11/2026 06:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_d31dc95790a8",
       "isHot": false
     },
     {
@@ -3569,23 +3251,6 @@
       },
       "streams": [],
       "id": "evt_61c44c94dedb",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Palestine Vs Iran",
-      "eventInfo": {
-        "teamA": "Palestine",
-        "teamB": "Iran",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/18361",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5091",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "14/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_16f8d683125c",
       "isHot": false
     },
     {
@@ -5349,6 +5014,23 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
+      "event_name": "TBC Vs TBC",
+      "eventInfo": {
+        "teamA": "TBC",
+        "teamB": "TBC",
+        "teamAFlag": "",
+        "teamBFlag": "",
+        "eventName": "Nepal Premier League 2026 - Qualifier 1",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "startTime": "17/11/2026 05:15:00 PM"
+      },
+      "streams": [],
+      "id": "evt_bbf083aab57f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
       "event_name": "Yas Lions Vs Arabian Aces",
       "eventInfo": {
         "teamA": "Yas Lions",
@@ -5740,6 +5422,23 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
+      "event_name": "TBC Vs TBC",
+      "eventInfo": {
+        "teamA": "TBC",
+        "teamB": "TBC",
+        "teamAFlag": "",
+        "teamBFlag": "",
+        "eventName": "Nepal Premier League 2026 - Eliminator",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "startTime": "18/11/2026 05:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_18a6aa9fece8",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
       "event_name": "UAE Bulls Vs United Tigers",
       "eventInfo": {
         "teamA": "UAE Bulls",
@@ -6126,6 +5825,23 @@
       },
       "streams": [],
       "id": "evt_058698a4ae68",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "TBC Vs TBC",
+      "eventInfo": {
+        "teamA": "TBC",
+        "teamB": "TBC",
+        "teamAFlag": "",
+        "teamBFlag": "",
+        "eventName": "Nepal Premier League 2026 - Qualifier 2",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "startTime": "19/11/2026 05:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_cad52c994cf1",
       "isHot": false
     },
     {
@@ -6554,6 +6270,23 @@
       "isHot": false
     },
     {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "TBC Vs TBC",
+      "eventInfo": {
+        "teamA": "TBC",
+        "teamB": "TBC",
+        "teamAFlag": "",
+        "teamBFlag": "",
+        "eventName": "Abu Dhabi T10 League 2026 - Qualifier (2v3)",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+        "startTime": "20/11/2026 05:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_c8015b785787",
+      "isHot": false
+    },
+    {
       "status": "ENDED",
       "Category": "Other",
       "event_name": "DARTS PDC Vs DARTS PDC",
@@ -6574,8 +6307,8 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_bc2beb8eb4e5",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_bc2beb8eb4e5"
     },
     {
       "status": "ENDED",
@@ -6618,8 +6351,8 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_e4e534184d1e",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_e4e534184d1e"
     },
     {
       "status": "ENDED",
@@ -6642,8 +6375,8 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_ca409592a551",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_ca409592a551"
     },
     {
       "status": "ENDED",
@@ -6680,8 +6413,8 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_38747064c422",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_38747064c422"
     },
     {
       "status": "ENDED",
@@ -6779,8 +6512,8 @@
           "drm_key": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41"
         }
       ],
-      "id": "evt_a21b10ab40cc",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_a21b10ab40cc"
     },
     {
       "status": "ENDED",
@@ -6820,8 +6553,8 @@
           "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
         }
       ],
-      "id": "evt_8b8e774bdacf",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_8b8e774bdacf"
     },
     {
       "status": "ENDED",
@@ -6859,8 +6592,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_d1a6c3d7a0ab",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_d1a6c3d7a0ab"
     },
     {
       "status": "ENDED",
@@ -6888,8 +6621,8 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_f7a236702985",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_f7a236702985"
     },
     {
       "status": "ENDED",
@@ -6905,8 +6638,8 @@
         "startTime": "09/11/2026 06:40:00 AM"
       },
       "streams": [],
-      "id": "evt_30293d2ce2a4",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_30293d2ce2a4"
     },
     {
       "status": "ENDED",
@@ -6941,8 +6674,8 @@
           "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
         }
       ],
-      "id": "evt_8164e402a2e1",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_8164e402a2e1"
     },
     {
       "status": "ENDED",
@@ -6985,8 +6718,8 @@
           "stream_url": "https://admin2.formaturamaxi.com.br/wwealt.m3u8"
         }
       ],
-      "id": "evt_c3a162aa9f82",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_c3a162aa9f82"
     },
     {
       "status": "ENDED",
@@ -7020,8 +6753,8 @@
           "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
         }
       ],
-      "id": "evt_41c37aa9edfb",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_41c37aa9edfb"
     },
     {
       "status": "ENDED",
@@ -7055,8 +6788,8 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_7bf068374d17",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_7bf068374d17"
     },
     {
       "status": "ENDED",
@@ -7090,8 +6823,8 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_9e6d86ce28b7",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_9e6d86ce28b7"
     },
     {
       "status": "ENDED",
@@ -7107,8 +6840,8 @@
         "startTime": "11/11/2026 08:00:00 AM"
       },
       "streams": [],
-      "id": "evt_dcfa74016204",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_dcfa74016204"
     },
     {
       "status": "ENDED",
@@ -7124,8 +6857,8 @@
         "startTime": "11/11/2026 08:00:00 AM"
       },
       "streams": [],
-      "id": "evt_99e38c53bbb7",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_99e38c53bbb7"
     },
     {
       "status": "ENDED",
@@ -7141,8 +6874,8 @@
         "startTime": "11/11/2026 08:00:00 AM"
       },
       "streams": [],
-      "id": "evt_ffec777d23ba",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_ffec777d23ba"
     },
     {
       "status": "ENDED",
@@ -7158,8 +6891,8 @@
         "startTime": "11/11/2026 08:30:00 AM"
       },
       "streams": [],
-      "id": "evt_cb9fe71f6753",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_cb9fe71f6753"
     },
     {
       "status": "ENDED",
@@ -7186,8 +6919,8 @@
           "referer": "https://xlz.domainkqt.cc/"
         }
       ],
-      "id": "evt_26b77214f324",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_26b77214f324"
     },
     {
       "status": "ENDED",
@@ -7215,8 +6948,8 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_8fee295e69c0",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_8fee295e69c0"
     },
     {
       "status": "ENDED",
@@ -7247,8 +6980,8 @@
           "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a303a19d-9d30-4284-b19d-5371a2a17d19/master.m3u8"
         }
       ],
-      "id": "evt_9253070dc4fe",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_9253070dc4fe"
     },
     {
       "status": "ENDED",
@@ -7297,8 +7030,8 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_e8ec441bd37c_2",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_e8ec441bd37c"
     }
   ]
 }
