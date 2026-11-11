@@ -2,7 +2,9 @@
   "remove_events": [],
   
   "status_override": {
-    "evt_f903bb0deec6": "ENDED"
+    "evt_f903bb0deec6": "ENDED",
+    "evt_cb92eaad2884": "ENDED",
+    "evt_a6252405842b": "ENDED"
   },
   
   "remove_streams": {},
