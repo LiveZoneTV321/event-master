@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:30:21 AM 12-11-2026",
+  "last_update_time": "01:40:13 AM 12-11-2026",
   "total_matches": 307,
   "live_match": 13,
   "upcoming_match": 287,
@@ -11,6 +11,29 @@
     "api2:Sports_data.json"
   ],
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "UCAM Murcia Vs Bamberg Baskets",
+      "eventInfo": {
+        "teamA": "UCAM Murcia",
+        "teamB": "Bamberg Baskets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6495/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7779/image",
+        "eventName": "Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
+        "startTime": "12/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA2 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7abf87716ec4"
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -282,29 +305,6 @@
       ],
       "isHot": false,
       "id": "evt_ba64dd6df17a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "UCAM Murcia Vs Bamberg Baskets",
-      "eventInfo": {
-        "teamA": "UCAM Murcia",
-        "teamB": "Bamberg Baskets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6495/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7779/image",
-        "eventName": "Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
-        "startTime": "12/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NOVA2 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_7abf87716ec4"
     },
     {
       "status": "LIVE",
