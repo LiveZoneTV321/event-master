@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:00:26 AM 12-11-2026",
-  "total_matches": 371,
-  "live_match": 11,
-  "upcoming_match": 353,
+  "last_update_time": "12:02:04 AM 12-11-2026",
+  "total_matches": 308,
+  "live_match": 10,
+  "upcoming_match": 291,
   "ended_match": 7,
   "sources": [
     "api1:events.json",
@@ -55,7 +55,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_346c43876565"
+      "id": "evt_9f323d9a9396"
     },
     {
       "status": "LIVE",
@@ -168,10 +168,28 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/prime_us_b0hpfhm49n/index.m3u8"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794403409-0-0-68282e46185bb7d360a7f1ea76dc1872",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "http://193.47.62.44/hls/A555AAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_9eecf6eb506b"
+      "id": "evt_e12367087a3c"
     },
     {
       "status": "LIVE",
@@ -229,7 +247,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_9f570c259941"
+      "id": "evt_4177356fae22"
     },
     {
       "status": "LIVE",
@@ -246,7 +264,7 @@
       },
       "streams": [],
       "isHot": false,
-      "id": "evt_63c9411ed2c4"
+      "id": "evt_59a5f1767bcc"
     },
     {
       "status": "LIVE",
@@ -280,42 +298,6 @@
         }
       ],
       "id": "evt_c925528bd857",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Oud-Heverlee Leuven (W) Vs Koge (W)",
-      "eventInfo": {
-        "teamA": "Oud-Heverlee Leuven (W)",
-        "teamB": "Koge (W)",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/71508",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/66336",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-        "startTime": "11/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794403409-0-0-68282e46185bb7d360a7f1ea76dc1872",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "http://193.47.62.44/hls/A555AAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_572d07d72057",
       "isHot": false
     },
     {
@@ -973,7 +955,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_66cbef17f0ab"
+      "id": "evt_d41ca9aaa556"
     },
     {
       "status": "UPCOMING",
@@ -1436,7 +1418,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_b97d029a585b"
+      "id": "evt_54c8a82870a6"
     },
     {
       "status": "UPCOMING",
@@ -1640,7 +1622,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_3260284935b4"
+      "id": "evt_f4bbafd78111"
     },
     {
       "status": "UPCOMING",
@@ -2261,7 +2243,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_9adcdd072fb2"
+      "id": "evt_a8637ffe6298"
     },
     {
       "status": "UPCOMING",
@@ -2466,7 +2448,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_ee6cf0d47a9a"
+      "id": "evt_0a9e80be6c33"
     },
     {
       "status": "UPCOMING",
@@ -2598,7 +2580,7 @@
       },
       "streams": [],
       "isHot": false,
-      "id": "evt_595954fc463d"
+      "id": "evt_f767abe7e858"
     },
     {
       "status": "UPCOMING",
@@ -2713,7 +2695,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_f7c07b160bcb"
+      "id": "evt_435a8065b7d4"
     },
     {
       "status": "UPCOMING",
@@ -2811,7 +2793,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_f71be9b90de9"
+      "id": "evt_9fcd494a2fb3"
     },
     {
       "status": "UPCOMING",
@@ -2986,7 +2968,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_57e88b9bb54f"
+      "id": "evt_4a781ceb3f48"
     },
     {
       "status": "UPCOMING",
@@ -3009,7 +2991,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_f54393f7c91c"
+      "id": "evt_372b0feb5916"
     },
     {
       "status": "UPCOMING",
@@ -3190,7 +3172,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_779f7cc76d14"
+      "id": "evt_4991eec21f32"
     },
     {
       "status": "UPCOMING",
@@ -3315,7 +3297,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_0c930d6f6dfc"
+      "id": "evt_c6baa672b288"
     },
     {
       "status": "UPCOMING",
@@ -3413,7 +3395,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_4d6dc73e9471"
+      "id": "evt_e82d5ab0b508"
     },
     {
       "status": "UPCOMING",
@@ -3459,7 +3441,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_7f913d0c8972"
+      "id": "evt_865ab723055c"
     },
     {
       "status": "UPCOMING",
@@ -3626,7 +3608,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_d2bbf63c4558"
+      "id": "evt_f2924db83bfd"
     },
     {
       "status": "UPCOMING",
@@ -3700,7 +3682,7 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_15c741fcd865",
+      "id": "evt_60dfeb8e42ef",
       "isHot": false
     },
     {
@@ -3717,24 +3699,7 @@
         "startTime": "12/11/2026 02:00:00 AM"
       },
       "streams": [],
-      "id": "evt_3a262e5b108a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Juventus (W) Vs Olympique Lyonnais (W)",
-      "eventInfo": {
-        "teamA": "Juventus (W)",
-        "teamB": "Olympique Lyonnais (W)",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1649/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-        "startTime": "12/11/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_394c38c96709",
+      "id": "evt_ec131c67b867",
       "isHot": false
     },
     {
@@ -3785,7 +3750,7 @@
         "startTime": "12/11/2026 02:10:00 PM"
       },
       "streams": [],
-      "id": "evt_4ce61c5f4346",
+      "id": "evt_12eedbfcf8b9",
       "isHot": false
     },
     {
@@ -3808,23 +3773,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Turkey Vs Belgium",
-      "eventInfo": {
-        "teamA": "Turkey",
-        "teamB": "Belgium",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4700/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-        "startTime": "12/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_f334fdcb2060",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Puertollano Vs Albacete",
       "eventInfo": {
         "teamA": "Puertollano",
@@ -3842,23 +3790,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Barcelona (W) Vs Arsenal (W)",
-      "eventInfo": {
-        "teamA": "Barcelona (W)",
-        "teamB": "Arsenal (W)",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-        "startTime": "12/11/2026 11:45:00 PM"
-      },
-      "streams": [],
-      "id": "evt_c7c9be375b42",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Ivory Coast Vs Gambia",
       "eventInfo": {
         "teamA": "Ivory Coast",
@@ -3870,7 +3801,7 @@
         "startTime": "13/11/2026 01:00:00 AM"
       },
       "streams": [],
-      "id": "evt_c1f5ebfe47ce",
+      "id": "evt_aaf7d9ea8a50",
       "isHot": false
     },
     {
@@ -3978,23 +3909,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Equatorial Guinea Vs Zimbabwe",
-      "eventInfo": {
-        "teamA": "Equatorial Guinea",
-        "teamB": "Zimbabwe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8032/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4719/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "13/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_af28f04a118c",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Tunisia Vs Libya",
       "eventInfo": {
         "teamA": "Tunisia",
@@ -4063,23 +3977,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "UAE Vs Honduras",
-      "eventInfo": {
-        "teamA": "UAE",
-        "teamB": "Honduras",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5089",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/2390",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "13/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_af50e18ad7c4",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Navalcarnero Vs Real Betis",
       "eventInfo": {
         "teamA": "Navalcarnero",
@@ -4108,7 +4005,7 @@
         "startTime": "13/11/2026 12:00:00 AM"
       },
       "streams": [],
-      "id": "evt_1b379128222f",
+      "id": "evt_83cdfb4e3484",
       "isHot": false
     },
     {
@@ -4126,23 +4023,6 @@
       },
       "streams": [],
       "id": "evt_eab61f5b6a74",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Pakistan Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "Pakistan",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "PAK vs SL - 1st Test, Day 5",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "13/11/2026 10:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_a2e8bc3b5e33",
       "isHot": false
     },
     {
@@ -4386,23 +4266,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Kosovo Vs Motherfucker",
-      "eventInfo": {
-        "teamA": "Kosovo",
-        "teamB": "Motherfucker",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/154426/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4480/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-        "startTime": "14/11/2026 08:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_b449c4d19795",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Thailand Vs Tajikistan",
       "eventInfo": {
         "teamA": "Thailand",
@@ -4415,40 +4278,6 @@
       },
       "streams": [],
       "id": "evt_c5b2db92bb67",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Chinese Taipei Vs Kyrgyzstan",
-      "eventInfo": {
-        "teamA": "Chinese Taipei",
-        "teamB": "Kyrgyzstan",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8509",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/11295",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "14/11/2026 06:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_6248e3dd72b9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Qatar Vs Australia",
-      "eventInfo": {
-        "teamA": "Qatar",
-        "teamB": "Australia",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5079",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2380",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "14/11/2026 09:45:00 PM"
-      },
-      "streams": [],
-      "id": "evt_61c44c94dedb",
       "isHot": false
     },
     {
@@ -4482,7 +4311,7 @@
         "startTime": "14/11/2026 01:30:00 AM"
       },
       "streams": [],
-      "id": "evt_2d3f349c6bb3",
+      "id": "evt_2ccb4ac13aee",
       "isHot": false
     },
     {
@@ -4567,7 +4396,7 @@
         "startTime": "14/11/2026 10:40:00 AM"
       },
       "streams": [],
-      "id": "evt_5e52b705b543",
+      "id": "evt_31d9c960cd9e",
       "isHot": false
     },
     {
@@ -4584,24 +4413,7 @@
         "startTime": "14/11/2026 02:10:00 PM"
       },
       "streams": [],
-      "id": "evt_abb00de0a11a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Afghanistan Vs Zimbabwe",
-      "eventInfo": {
-        "teamA": "Afghanistan",
-        "teamB": "Zimbabwe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-        "eventName": "Afghanistan vs Zimbabwe in UAE, 2026 - 2nd Test, Day 2",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "14/11/2026 12:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_270a5501abfc",
+      "id": "evt_66df2bad8117",
       "isHot": false
     },
     {
@@ -4669,7 +4481,7 @@
         "startTime": "15/11/2026 03:30:00 AM"
       },
       "streams": [],
-      "id": "evt_0f3738b8b6a7",
+      "id": "evt_d91e7dbba653",
       "isHot": false
     },
     {
@@ -4687,23 +4499,6 @@
       },
       "streams": [],
       "id": "evt_b6185095e6d3",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "N. Ireland Vs Ukraine",
-      "eventInfo": {
-        "teamA": "N. Ireland",
-        "teamB": "Ukraine",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4786/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4701/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-        "startTime": "15/11/2026 01:45:00 AM"
-      },
-      "streams": [],
-      "id": "evt_42c74e121d82",
       "isHot": false
     },
     {
@@ -4794,23 +4589,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "New Zealand Vs India",
-      "eventInfo": {
-        "teamA": "New Zealand",
-        "teamB": "India",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4784/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "15/11/2026 09:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_d7b9f9b4fb20",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Real Oviedo Vs Girona",
       "eventInfo": {
         "teamA": "Real Oviedo",
@@ -4891,74 +4669,6 @@
       },
       "streams": [],
       "id": "evt_0b149741d8b0",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Sydney Sixers Women Vs Melbourne Renegades Women",
-      "eventInfo": {
-        "teamA": "Sydney Sixers Women",
-        "teamB": "Melbourne Renegades Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274883/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274887/image",
-        "eventName": "Womens Big Bash League 2026",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "15/11/2026 06:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_dd17f81e6ad2",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "New Zealand Vs India",
-      "eventInfo": {
-        "teamA": "New Zealand",
-        "teamB": "India",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "eventName": "India tour of New Zealand 2026 - 5th ODI",
-        "event_logo": "",
-        "startTime": "15/11/2026 08:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_4dddf2667fc2",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Australia Vs England",
-      "eventInfo": {
-        "teamA": "Australia",
-        "teamB": "England",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-        "eventName": "England tour of Australia, 2026 - 2nd ODI",
-        "event_logo": "",
-        "startTime": "15/11/2026 09:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_97e84e72e61a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Afghanistan Vs Zimbabwe",
-      "eventInfo": {
-        "teamA": "Afghanistan",
-        "teamB": "Zimbabwe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-        "eventName": "Afghanistan vs Zimbabwe in UAE, 2026 - 2nd Test, Day 3",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "15/11/2026 12:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_c843a189cde8",
       "isHot": false
     },
     {
@@ -5168,108 +4878,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Zimbabwe Vs Equatorial Guinea",
-      "eventInfo": {
-        "teamA": "Zimbabwe",
-        "teamB": "Equatorial Guinea",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4719/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/8032/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "16/11/2026 07:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_ce722c9e820a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Sudan Vs Senegal",
-      "eventInfo": {
-        "teamA": "Sudan",
-        "teamB": "Senegal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4734/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4739/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "16/11/2026 07:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_60a1f2d6a3ec",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Namibia Vs Cameroon",
-      "eventInfo": {
-        "teamA": "Namibia",
-        "teamB": "Cameroon",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4832/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4751/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "16/11/2026 07:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_cef8bdfc9d1f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Somalia Vs Ghana",
-      "eventInfo": {
-        "teamA": "Somalia",
-        "teamB": "Ghana",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23472/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "16/11/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_334baa90259c",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Eritrea Vs Guinea",
-      "eventInfo": {
-        "teamA": "Eritrea",
-        "teamB": "Guinea",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8041/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4826/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "16/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_5070040693a3",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Central African Republic Vs Benin",
-      "eventInfo": {
-        "teamA": "Central African Republic",
-        "teamB": "Benin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23470/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4744/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "16/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_9ef752b34b1f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Spain Vs England",
       "eventInfo": {
         "teamA": "Spain",
@@ -5298,7 +4906,7 @@
         "startTime": "16/11/2026 01:45:00 AM"
       },
       "streams": [],
-      "id": "evt_934d61501cc8",
+      "id": "evt_80217c38e775",
       "isHot": false
     },
     {
@@ -5315,7 +4923,7 @@
         "startTime": "16/11/2026 01:45:00 AM"
       },
       "streams": [],
-      "id": "evt_514808d3a8be",
+      "id": "evt_d39b4e9b82cc",
       "isHot": false
     },
     {
@@ -5423,40 +5031,6 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
-      "event_name": "Afghanistan Vs Zimbabwe",
-      "eventInfo": {
-        "teamA": "Afghanistan",
-        "teamB": "Zimbabwe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-        "eventName": "Afghanistan vs Zimbabwe in UAE, 2026 - 2nd Test, Day 4",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "16/11/2026 12:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_aa2d1c5c39f6",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "South Africa Vs Bangladesh",
-      "eventInfo": {
-        "teamA": "South Africa",
-        "teamB": "Bangladesh",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-        "eventName": "Bangladesh tour of South Africa, 2026 - 1st Test, Day 2",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "16/11/2026 02:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_6ed89cae2098",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
       "event_name": "Sydney Thunder Women Vs Melbourne Stars Women",
       "eventInfo": {
         "teamA": "Sydney Thunder Women",
@@ -5468,7 +5042,7 @@
         "startTime": "16/11/2026 02:10:00 PM"
       },
       "streams": [],
-      "id": "evt_dca79a6412b7",
+      "id": "evt_ab834eace457",
       "isHot": false
     },
     {
@@ -5503,227 +5077,6 @@
       },
       "streams": [],
       "id": "evt_e84e708949fb",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Mauritania Vs Burkina Faso",
-      "eventInfo": {
-        "teamA": "Mauritania",
-        "teamB": "Burkina Faso",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4779/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4749/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "17/11/2026 01:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_5be5e39e7b12",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Malawi Vs Egypt",
-      "eventInfo": {
-        "teamA": "Malawi",
-        "teamB": "Egypt",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8043/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4758/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "17/11/2026 07:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_359a241cab54",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Lesotho Vs Gabon",
-      "eventInfo": {
-        "teamA": "Lesotho",
-        "teamB": "Gabon",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8033/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4761/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "17/11/2026 07:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_75920f49e824",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "South Sudan Vs Angola",
-      "eventInfo": {
-        "teamA": "South Sudan",
-        "teamB": "Angola",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/19417",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5105",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "17/11/2026 07:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_98612293b243",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Burundi Vs Zambia",
-      "eventInfo": {
-        "teamA": "Burundi",
-        "teamB": "Zambia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4750/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4720/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "17/11/2026 07:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_5ac722d939de",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Ethiopia Vs Mozambique",
-      "eventInfo": {
-        "teamA": "Ethiopia",
-        "teamB": "Mozambique",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8036/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4783/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "17/11/2026 07:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_27fea74960a1",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Tanzania Vs Nigeria",
-      "eventInfo": {
-        "teamA": "Tanzania",
-        "teamB": "Nigeria",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4835/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4785/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "17/11/2026 07:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_753fda54329c",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Togo Vs Algeria",
-      "eventInfo": {
-        "teamA": "Togo",
-        "teamB": "Algeria",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5405",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5109",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_710ac95b89f3",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Sierra Leone Vs DR Congo",
-      "eventInfo": {
-        "teamA": "Sierra Leone",
-        "teamB": "DR Congo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4737/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4823/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_cb10980af19d",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Gambia Vs Ivory Coast",
-      "eventInfo": {
-        "teamA": "Gambia",
-        "teamB": "Ivory Coast",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4762/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4768/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_6e9d0952e11d",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Kenya Vs South Africa",
-      "eventInfo": {
-        "teamA": "Kenya",
-        "teamB": "South Africa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4773/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4736/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_48441e9c2521",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Libya Vs Tunisia",
-      "eventInfo": {
-        "teamA": "Libya",
-        "teamB": "Tunisia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4775/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4729/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_22e2b1bc9c49",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Guinea-Bissau Vs Madagascar",
-      "eventInfo": {
-        "teamA": "Guinea-Bissau",
-        "teamB": "Madagascar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23478/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/8035/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_b98d1d29ce6a",
       "isHot": false
     },
     {
@@ -5944,7 +5297,7 @@
         "startTime": "17/11/2026 08:00:00 PM"
       },
       "streams": [],
-      "id": "evt_787dced6501d",
+      "id": "evt_774be98aec47",
       "isHot": false
     },
     {
@@ -5961,7 +5314,7 @@
         "startTime": "17/11/2026 08:10:00 PM"
       },
       "streams": [],
-      "id": "evt_c9ee673e83fd",
+      "id": "evt_80f8fe183629",
       "isHot": false
     },
     {
@@ -6086,57 +5439,6 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
-      "event_name": "Sri Lanka Vs Pakistan",
-      "eventInfo": {
-        "teamA": "Sri Lanka",
-        "teamB": "Pakistan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "eventName": "Sri Lanka tour of Pakistan 2026 - 2nd Test, Day 1",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "17/11/2026 10:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_f4200b534493",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Afghanistan Vs Zimbabwe",
-      "eventInfo": {
-        "teamA": "Afghanistan",
-        "teamB": "Zimbabwe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-        "eventName": "Afghanistan vs Zimbabwe in UAE, 2026 - 2nd Test, Day 5",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "17/11/2026 12:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_8f5e81fb71b4",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "South Africa Vs Bangladesh",
-      "eventInfo": {
-        "teamA": "South Africa",
-        "teamB": "Bangladesh",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-        "eventName": "Bangladesh tour of South Africa, 2026 - 1st Test, Day 3",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "17/11/2026 02:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_28591477bc17",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
       "event_name": "Adelaide Strikers Women Vs Sydney Sixers Women",
       "eventInfo": {
         "teamA": "Adelaide Strikers Women",
@@ -6148,41 +5450,7 @@
         "startTime": "17/11/2026 02:10:00 PM"
       },
       "streams": [],
-      "id": "evt_8333f774cf0d",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "TBC Vs TBC",
-      "eventInfo": {
-        "teamA": "TBC",
-        "teamB": "TBC",
-        "teamAFlag": "",
-        "teamBFlag": "",
-        "eventName": "Nepal Premier League 2026 - Qualifier 1",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "startTime": "17/11/2026 05:15:00 PM"
-      },
-      "streams": [],
-      "id": "evt_bbf083aab57f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Yas Lions Vs Arabian Aces",
-      "eventInfo": {
-        "teamA": "Yas Lions",
-        "teamB": "Arabian Aces",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 24th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "17/11/2026 07:45:00 PM"
-      },
-      "streams": [],
-      "id": "evt_03dc103eca5d",
+      "id": "evt_bcbd1d81965d",
       "isHot": false
     },
     {
@@ -6200,91 +5468,6 @@
       },
       "streams": [],
       "id": "evt_50ae1f83d68c",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Botswana Vs Uganda",
-      "eventInfo": {
-        "teamA": "Botswana",
-        "teamB": "Uganda",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4747/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4726/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "18/11/2026 01:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_fa0a9d379844",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Rwanda Vs Mali",
-      "eventInfo": {
-        "teamA": "Rwanda",
-        "teamB": "Mali",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8037/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4831/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "18/11/2026 01:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_d05a115a6ff6",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Liberia Vs Cape Verde",
-      "eventInfo": {
-        "teamA": "Liberia",
-        "teamB": "Cape Verde",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8034/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4753/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "18/11/2026 01:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_6d690170ff0d",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Congo Vs Comoros",
-      "eventInfo": {
-        "teamA": "Congo",
-        "teamB": "Comoros",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8040/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/23494/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "18/11/2026 01:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_69046fe0a1ca",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Niger Vs Morocco",
-      "eventInfo": {
-        "teamA": "Niger",
-        "teamB": "Morocco",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8031/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4778/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "18/11/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_05cdaace06b4",
       "isHot": false
     },
     {
@@ -6369,7 +5552,7 @@
         "startTime": "18/11/2026 01:45:00 AM"
       },
       "streams": [],
-      "id": "evt_b63c44a949b0",
+      "id": "evt_b72d18c3df47",
       "isHot": false
     },
     {
@@ -6437,7 +5620,7 @@
         "startTime": "18/11/2026 11:45:00 PM"
       },
       "streams": [],
-      "id": "evt_66b3f64bc4fc",
+      "id": "evt_93eb81de68af",
       "isHot": false
     },
     {
@@ -6454,24 +5637,7 @@
         "startTime": "18/11/2026 11:45:00 PM"
       },
       "streams": [],
-      "id": "evt_dabca8f42fe3",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Chile Vs Colombia",
-      "eventInfo": {
-        "teamA": "Chile",
-        "teamB": "Colombia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4820/image",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "18/11/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_d36b6467bc87",
+      "id": "evt_f00b12e7d466",
       "isHot": false
     },
     {
@@ -6506,74 +5672,6 @@
       },
       "streams": [],
       "id": "evt_5ed4089159b5",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Australia Vs England",
-      "eventInfo": {
-        "teamA": "Australia",
-        "teamB": "England",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-        "eventName": "England tour of Australia, 2026 - 3rd ODI",
-        "event_logo": "https://img.sofascore.com/api/v1/team/287712/image",
-        "startTime": "18/11/2026 02:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_f5cf7ffaa15f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Pakistan Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "Pakistan",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "Sri Lanka tour of Pakistan, 2026 - 2nd Test, Day 2",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "18/11/2026 09:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_1c77503b291f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "South Africa Vs Bangladesh",
-      "eventInfo": {
-        "teamA": "South Africa",
-        "teamB": "Bangladesh",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-        "eventName": "Bangladesh tour of South Africa, 2026 - 1st Test, Day 4",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "18/11/2026 10:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_6bcaaf04e33c",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "TBC Vs TBC",
-      "eventInfo": {
-        "teamA": "TBC",
-        "teamB": "TBC",
-        "teamAFlag": "",
-        "teamBFlag": "",
-        "eventName": "Nepal Premier League 2026 - Eliminator",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "startTime": "18/11/2026 05:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_18a6aa9fece8",
       "isHot": false
     },
     {
@@ -6726,7 +5824,7 @@
         "startTime": "19/11/2026 02:00:00 AM"
       },
       "streams": [],
-      "id": "evt_7f3b43c79283",
+      "id": "evt_cb60cc6262c6",
       "isHot": false
     },
     {
@@ -6743,7 +5841,7 @@
         "startTime": "19/11/2026 02:00:00 AM"
       },
       "streams": [],
-      "id": "evt_d09c7da08034",
+      "id": "evt_cf38cbdaa198",
       "isHot": false
     },
     {
@@ -6760,7 +5858,7 @@
         "startTime": "19/11/2026 11:45:00 PM"
       },
       "streams": [],
-      "id": "evt_c1daedb4f0df",
+      "id": "evt_b7899f07b7fd",
       "isHot": false
     },
     {
@@ -6777,7 +5875,7 @@
         "startTime": "19/11/2026 11:45:00 PM"
       },
       "streams": [],
-      "id": "evt_1154238721c4",
+      "id": "evt_5c8aa237bde9",
       "isHot": false
     },
     {
@@ -6885,40 +5983,6 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
-      "event_name": "New Zealand Vs India",
-      "eventInfo": {
-        "teamA": "New Zealand",
-        "teamB": "India",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "eventName": "India tour of New Zealand 2026 - 1st Test, Day 1",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "19/11/2026 11:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_7fcf72c1c6ef",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Pakistan Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "Pakistan",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "Sri Lanka tour of Pakistan, 2026 - 2nd Test, Day 3",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "19/11/2026 09:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_16a7af22eb5b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
       "event_name": "Hobart Hurricanes Women Vs Perth Scorchers Women",
       "eventInfo": {
         "teamA": "Hobart Hurricanes Women",
@@ -6930,7 +5994,7 @@
         "startTime": "19/11/2026 02:40:00 PM"
       },
       "streams": [],
-      "id": "evt_e3858bcfebee",
+      "id": "evt_1679ec3a91f3",
       "isHot": false
     },
     {
@@ -6947,92 +6011,7 @@
         "startTime": "19/11/2026 06:10:00 PM"
       },
       "streams": [],
-      "id": "evt_84c3a7d568d7",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "South Africa Vs Bangladesh",
-      "eventInfo": {
-        "teamA": "South Africa",
-        "teamB": "Bangladesh",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-        "eventName": "Bangladesh tour of South Africa, 2026 - 1st Test, Day 5",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "19/11/2026 10:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_058698a4ae68",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "TBC Vs TBC",
-      "eventInfo": {
-        "teamA": "TBC",
-        "teamB": "TBC",
-        "teamAFlag": "",
-        "teamBFlag": "",
-        "eventName": "Nepal Premier League 2026 - Qualifier 2",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "startTime": "19/11/2026 05:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_cad52c994cf1",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "UAE Bulls Vs Arabian Aces",
-      "eventInfo": {
-        "teamA": "UAE Bulls",
-        "teamB": "Arabian Aces",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/78.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 28th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "19/11/2026 03:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_b4c484eacaad",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Yas Lions Vs Royal Desert Champions",
-      "eventInfo": {
-        "teamA": "Yas Lions",
-        "teamB": "Royal Desert Champions",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 29th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "19/11/2026 05:45:00 PM"
-      },
-      "streams": [],
-      "id": "evt_c611483f4932",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Emirates Eagles Vs United Tigers",
-      "eventInfo": {
-        "teamA": "Emirates Eagles",
-        "teamB": "United Tigers",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LK.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 30th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "19/11/2026 08:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_d7a7e12e8395",
+      "id": "evt_055ee61ca325",
       "isHot": false
     },
     {
@@ -7083,7 +6062,7 @@
         "startTime": "20/11/2026 06:30:00 AM"
       },
       "streams": [],
-      "id": "evt_f610808db423",
+      "id": "evt_7913c2508cce",
       "isHot": false
     },
     {
@@ -7100,7 +6079,7 @@
         "startTime": "20/11/2026 02:00:00 AM"
       },
       "streams": [],
-      "id": "evt_8b1bbdf2a1b5",
+      "id": "evt_84e027515c09",
       "isHot": false
     },
     {
@@ -7117,7 +6096,7 @@
         "startTime": "20/11/2026 02:00:00 AM"
       },
       "streams": [],
-      "id": "evt_659157ce0f93",
+      "id": "evt_6fe273baf750",
       "isHot": false
     },
     {
@@ -7134,7 +6113,7 @@
         "startTime": "20/11/2026 02:00:00 AM"
       },
       "streams": [],
-      "id": "evt_f147c301796c",
+      "id": "evt_7bff6dd8763a",
       "isHot": false
     },
     {
@@ -7185,7 +6164,7 @@
         "startTime": "20/11/2026 11:00:00 PM"
       },
       "streams": [],
-      "id": "evt_fbd019833be0",
+      "id": "evt_e8c78aaf4101",
       "isHot": false
     },
     {
@@ -7202,7 +6181,7 @@
         "startTime": "20/11/2026 11:00:00 PM"
       },
       "streams": [],
-      "id": "evt_3f6bcfb1458c",
+      "id": "evt_9b644d29e6d1",
       "isHot": false
     },
     {
@@ -7253,7 +6232,7 @@
         "startTime": "20/11/2026 11:00:00 PM"
       },
       "streams": [],
-      "id": "evt_31192b653124",
+      "id": "evt_3fe744cde566",
       "isHot": false
     },
     {
@@ -7270,7 +6249,7 @@
         "startTime": "20/11/2026 11:00:00 PM"
       },
       "streams": [],
-      "id": "evt_fd295b3f7680",
+      "id": "evt_12d7928f9bdf",
       "isHot": false
     },
     {
@@ -7321,7 +6300,7 @@
         "startTime": "20/11/2026 11:00:00 PM"
       },
       "streams": [],
-      "id": "evt_760dc2a56e16",
+      "id": "evt_17b1a598080c",
       "isHot": false
     },
     {
@@ -7361,40 +6340,6 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
-      "event_name": "New Zealand Vs India",
-      "eventInfo": {
-        "teamA": "New Zealand",
-        "teamB": "India",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "eventName": "India tour of New Zealand 2026 - 1st Test, Day 2",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "20/11/2026 11:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_6880149db503",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Pakistan Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "Pakistan",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "Sri Lanka tour of Pakistan, 2026 - 2nd Test, Day 4",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "20/11/2026 09:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_687c774b7825",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
       "event_name": "Adelaide Strikers Women Vs Melbourne Renegades Women",
       "eventInfo": {
         "teamA": "Adelaide Strikers Women",
@@ -7406,24 +6351,7 @@
         "startTime": "20/11/2026 06:40:00 PM"
       },
       "streams": [],
-      "id": "evt_6c3bd35fef33",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "TBC Vs TBC",
-      "eventInfo": {
-        "teamA": "TBC",
-        "teamB": "TBC",
-        "teamAFlag": "",
-        "teamBFlag": "",
-        "eventName": "Abu Dhabi T10 League 2026 - Qualifier (2v3)",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "20/11/2026 05:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_c8015b785787",
+      "id": "evt_09e65a64326b",
       "isHot": false
     },
     {
