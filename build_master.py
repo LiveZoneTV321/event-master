@@ -155,6 +155,33 @@ def decode_drm_b64(drm_b64):
     return None
 
 
+def extract_drm_from_url(stream_url):
+    """
+    URL থেকে ?|drmScheme=...&drmLicense=KID:KEY অংশটুকু কেটে বের করে আনে।
+    """
+    if not stream_url:
+        return stream_url, None
+        
+    # যদি URL-এর ভেতর drmLicense থাকে
+    if "drmLicense=" in stream_url:
+        try:
+            # URL-কে দুই ভাগে ভাগ করি
+            base_url, params = stream_url.split("drmLicense=", 1)
+            
+            # base_url থেকে শেষের অপ্রয়োজনীয় অংশ (?|drmScheme=clearkey&) বাদ দিই
+            if "?" in base_url:
+                base_url = base_url.split("?")[0]
+                
+            # params থেকে drm_key বের করি (এর পরে আর কোনো & থাকলে কেটে ফেলি)
+            drm_key = params.split("&")[0].strip()
+            
+            return base_url, drm_key
+        except Exception:
+            pass
+            
+    return stream_url, None
+
+
 def join_kid_key(kid, key):
     if kid and key:
         return f"{str(kid).strip()}:{str(key).strip()}"
@@ -256,9 +283,12 @@ def adapt_api1_event(event, now):
         if not url:
             continue
 
+        # ১. URL থেকে DRM বের করা
+        clean_url, url_drm_key = extract_drm_from_url(url)
+
         out = {
             "channel_name": str(s.get("name", "")).strip(),
-            "stream_url": url,
+            "stream_url": clean_url, # পরিষ্কার করা URL
         }
 
         ref = str(s.get("referer", "")).strip()
@@ -269,7 +299,14 @@ def adapt_api1_event(event, now):
         if ua:
             out["user_agent"] = ua
 
-        drm_key = decode_drm_b64(s.get("drm"))
+        # ২. DRM কি-তে আগে URL থেকে পাওয়া কি রাখি
+        drm_key = url_drm_key
+        
+        # ৩. যদি আলাদা base64 drm ফিল্ড থাকে, তবে সেটা প্রায়োরিটি পাবে (যদি থাকে)
+        b64_drm = decode_drm_b64(s.get("drm"))
+        if b64_drm:
+            drm_key = b64_drm
+
         if drm_key:
             out["drm_key"] = drm_key
 
@@ -570,13 +607,19 @@ def remove_empty_stream_urls(matches):
         for s in streams:
             if not isinstance(s, dict):
                 continue
-            url = str(
-                s.get("stream_url", s.get("url", ""))
-            ).strip()
+            
+            # এখানেও URL পরিষ্কার করব
+            raw_url = str(s.get("stream_url", s.get("url", ""))).strip()
+            url, url_drm = extract_drm_from_url(raw_url)
+            
             if not url:
                 removed += 1
                 continue
+                
             s["stream_url"] = url
+            if url_drm and "drm_key" not in s:
+                s["drm_key"] = url_drm
+
             kept.append(s)
         m["streams"] = kept
     return removed
