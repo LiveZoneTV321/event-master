@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:00:24 PM 11-11-2026",
+  "last_update_time": "03:07:56 PM 11-11-2026",
   "total_matches": 336,
-  "live_match": 6,
+  "live_match": 5,
   "upcoming_match": 306,
-  "ended_match": 24,
+  "ended_match": 25,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -44,8 +44,8 @@
       "streams": [
         {
           "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhdal9buc7/out/v1/8bc185a9052e4f0b911f5a26bf2e907d/cenc.mpd",
-          "drm_key": "41b0e855ff51711a08ab8e4ccf1d0ba1:e849d0113e5fe023ff48664f3dc76b02"
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd",
+          "drm_key": "21ef535c5597589225d278308c2a5c93:a4a38ac31294c388aaec39cab4aae93a"
         },
         {
           "channel_name": "WILLOW HD",
@@ -110,62 +110,6 @@
       ],
       "isHot": false,
       "id": "evt_ef30158142c8"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Other",
-      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
-      "eventInfo": {
-        "teamA": "GOLF EVENTO",
-        "teamB": "GOLF EVENTO",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "eventName": "GOLF EVENTO",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "startTime": "11/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY GOLF FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agdcjco1zo/out/v1/e7aec5bb76ba477b8c5a59213af465ad/cenc.mpd",
-          "drm_key": "5583887653a2df2531c22aa784c3f5fc:ab47a175b1912a7985daab1ac3ea160a"
-        },
-        {
-          "channel_name": "Golf Channel - HD",
-          "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
-        },
-        {
-          "channel_name": "Golf PGA Baycurrent Classic (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SKY GOLF ALT",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3eyutz3sbr/out/v1/369f8b2194004b5192c0c8e6a22822bf/cenc.mpd",
-          "drm_key": "5583887653a2df2531c22aa784c3f5fc:ab47a175b1912a7985daab1ac3ea160a"
-        },
-        {
-          "channel_name": "Golf Open de Espana",
-          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Golf PGA VidantaWorld Mexico Open",
-          "stream_url": "http://193.47.62.59/hls/6HHHAAQQQAAQQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Golf LPGA Maybank Championship",
-          "stream_url": "http://193.47.62.59/hls/TTTTQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_dfa6ba76db50"
     },
     {
       "status": "LIVE",
@@ -6101,6 +6045,62 @@
       "streams": [],
       "id": "evt_c8015b785787",
       "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Other",
+      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
+      "eventInfo": {
+        "teamA": "GOLF EVENTO",
+        "teamB": "GOLF EVENTO",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "eventName": "GOLF EVENTO",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "startTime": "11/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY GOLF FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agdcjco1zo/out/v1/e7aec5bb76ba477b8c5a59213af465ad/cenc.mpd",
+          "drm_key": "5583887653a2df2531c22aa784c3f5fc:ab47a175b1912a7985daab1ac3ea160a"
+        },
+        {
+          "channel_name": "Golf Channel - HD",
+          "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
+        },
+        {
+          "channel_name": "Golf PGA Baycurrent Classic (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SKY GOLF ALT",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3eyutz3sbr/out/v1/369f8b2194004b5192c0c8e6a22822bf/cenc.mpd",
+          "drm_key": "5583887653a2df2531c22aa784c3f5fc:ab47a175b1912a7985daab1ac3ea160a"
+        },
+        {
+          "channel_name": "Golf Open de Espana",
+          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Golf PGA VidantaWorld Mexico Open",
+          "stream_url": "http://193.47.62.59/hls/6HHHAAQQQAAQQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Golf LPGA Maybank Championship",
+          "stream_url": "http://193.47.62.59/hls/TTTTQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_dfa6ba76db50"
     },
     {
       "status": "ENDED",
