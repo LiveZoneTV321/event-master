@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:00:26 PM 11-11-2026",
-  "total_matches": 332,
-  "live_match": 7,
-  "upcoming_match": 320,
+  "last_update_time": "10:10:12 PM 11-11-2026",
+  "total_matches": 370,
+  "live_match": 8,
+  "upcoming_match": 357,
   "ended_match": 5,
   "sources": [
     "api1:events.json",
@@ -13,15 +13,15 @@
   "matches": [
     {
       "status": "LIVE",
-      "Category": "Boxing",
-      "event_name": "Elif Nur Turhan Vs Alycia Baumgardner",
+      "Category": "Football",
+      "event_name": "Mamelodi Sundowns Vs Kawempe Muslim La",
       "eventInfo": {
-        "teamA": "Elif Nur Turhan",
-        "teamB": "Alycia Baumgardner",
-        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
-        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
-        "eventName": "caf",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+        "teamA": "Mamelodi Sundowns",
+        "teamB": "Kawempe Muslim La",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7665/image",
+        "teamBFlag": "7",
+        "eventName": "CAF WOMEN'S ",
+        "event_logo": "h",
         "startTime": "11/11/2026 09:00:00 PM"
       },
       "streams": [
@@ -31,7 +31,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_5d309d64adaa"
+      "id": "evt_de09b08ae4dd"
     },
     {
       "status": "LIVE",
@@ -204,6 +204,29 @@
       ],
       "isHot": false,
       "id": "evt_ba64dd6df17a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "SK Slavia Praha Vs Igokea m:tel",
+      "eventInfo": {
+        "teamA": "SK Slavia Praha",
+        "teamB": "Igokea m:tel",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/361678/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/44467/image",
+        "eventName": "Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
+        "startTime": "11/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA1 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_346c43876565"
     },
     {
       "status": "LIVE",
@@ -1456,25 +1479,646 @@
     {
       "status": "UPCOMING",
       "Category": "Basketball",
-      "event_name": "SK Slavia Praha Vs Igokea m:tel",
+      "event_name": "Brigham Young Cougars Vs Montana State Bobcats",
       "eventInfo": {
-        "teamA": "SK Slavia Praha",
-        "teamB": "Igokea m:tel",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/361678/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/44467/image",
-        "eventName": "Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
-        "startTime": "11/11/2026 11:00:00 PM"
+        "teamA": "Brigham Young Cougars",
+        "teamB": "Montana State Bobcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34604/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86710/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "13/11/2026 08:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "NOVA1 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
-      "id": "evt_346c43876565"
+      "id": "evt_db708ab70bda"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Washington Wizards Vs Detroit Pistons",
+      "eventInfo": {
+        "teamA": "Washington Wizards",
+        "teamB": "Detroit Pistons",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "13/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3744c3acf69e"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Minnesota Timberwolves Vs Dallas Mavericks",
+      "eventInfo": {
+        "teamA": "Minnesota Timberwolves",
+        "teamB": "Dallas Mavericks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "13/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b5d0f5162871"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Philadelphia 76ers Vs Toronto Raptors",
+      "eventInfo": {
+        "teamA": "Philadelphia 76ers",
+        "teamB": "Toronto Raptors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "13/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7c5d8a48eeea"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Phoenix Suns Vs Charlotte Hornets",
+      "eventInfo": {
+        "teamA": "Phoenix Suns",
+        "teamB": "Charlotte Hornets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "13/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f6f21e60f298"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Hockey",
+      "event_name": "Boston Bruins Vs Montréal Canadiens",
+      "eventInfo": {
+        "teamA": "Boston Bruins",
+        "teamB": "Montréal Canadiens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "13/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3260284935b4"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Hockey",
+      "event_name": "Columbus Blue Jackets Vs Tampa Bay Lightning",
+      "eventInfo": {
+        "teamA": "Columbus Blue Jackets",
+        "teamB": "Tampa Bay Lightning",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "13/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_6901e96d02b5"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Hockey",
+      "event_name": "Florida Panthers Vs Detroit Red Wings",
+      "eventInfo": {
+        "teamA": "Florida Panthers",
+        "teamB": "Detroit Red Wings",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "13/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c2485bb1dbc8"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Hockey",
+      "event_name": "New Jersey Devils Vs Washington Capitals",
+      "eventInfo": {
+        "teamA": "New Jersey Devils",
+        "teamB": "Washington Capitals",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "13/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b3d5734a475b"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Hockey",
+      "event_name": "Chicago Blackhawks Vs Buffalo Sabres",
+      "eventInfo": {
+        "teamA": "Chicago Blackhawks",
+        "teamB": "Buffalo Sabres",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "13/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_715c87bf6d05"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Hockey",
+      "event_name": "Toronto Maple Leafs Vs Minnesota Wild",
+      "eventInfo": {
+        "teamA": "Toronto Maple Leafs",
+        "teamB": "Minnesota Wild",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "13/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3265ce7caa64"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Hockey",
+      "event_name": "Ottawa Senators Vs Colorado Avalanche",
+      "eventInfo": {
+        "teamA": "Ottawa Senators",
+        "teamB": "Colorado Avalanche",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "13/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ac4f9029cffb"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Hockey",
+      "event_name": "Los Angeles Kings Vs New York Islanders",
+      "eventInfo": {
+        "teamA": "Los Angeles Kings",
+        "teamB": "New York Islanders",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "13/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ee427dafd892"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Hockey",
+      "event_name": "Dallas Stars Vs Winnipeg Jets",
+      "eventInfo": {
+        "teamA": "Dallas Stars",
+        "teamB": "Winnipeg Jets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "13/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_cb6d7f5946ab"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Hockey",
+      "event_name": "Utah Mammoth Vs St. Louis Blues",
+      "eventInfo": {
+        "teamA": "Utah Mammoth",
+        "teamB": "St. Louis Blues",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "13/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_391a0c355fb0"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "New York Giants Vs Washington Commanders",
+      "eventInfo": {
+        "teamA": "New York Giants",
+        "teamB": "Washington Commanders",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4426/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4432/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "13/11/2026 07:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e41b08c21951"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Detroit Lions Vs New England Patriots",
+      "eventInfo": {
+        "teamA": "Detroit Lions",
+        "teamB": "New England Patriots",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4419/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4424/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "15/11/2026 08:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b87f9332ae39"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Atlanta Falcons Vs Kansas City Chiefs",
+      "eventInfo": {
+        "teamA": "Atlanta Falcons",
+        "teamB": "Kansas City Chiefs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4393/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "16/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4db9df5e2cc9"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Indianapolis Colts Vs Miami Dolphins",
+      "eventInfo": {
+        "teamA": "Indianapolis Colts",
+        "teamB": "Miami Dolphins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4421/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4287/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "16/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3504732b65f2"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Green Bay Packers Vs Minnesota Vikings",
+      "eventInfo": {
+        "teamA": "Green Bay Packers",
+        "teamB": "Minnesota Vikings",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4420/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4423/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "16/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_9763704e9007"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Cleveland Browns Vs Houston Texans",
+      "eventInfo": {
+        "teamA": "Cleveland Browns",
+        "teamB": "Houston Texans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4417/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4324/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "16/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_6e860419efaa"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Arizona Cardinals Vs Los Angeles Rams",
+      "eventInfo": {
+        "teamA": "Arizona Cardinals",
+        "teamB": "Los Angeles Rams",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4412/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4387/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "16/11/2026 03:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f337338d81f8"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Las Vegas Raiders Vs Seattle Seahawks",
+      "eventInfo": {
+        "teamA": "Las Vegas Raiders",
+        "teamB": "Seattle Seahawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4390/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4430/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "16/11/2026 03:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_eb9f0322ebc9"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Tennessee Titans Vs Jacksonville Jaguars",
+      "eventInfo": {
+        "teamA": "Tennessee Titans",
+        "teamB": "Jacksonville Jaguars",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4431/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4386/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "16/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7e5d9ca57a69"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "New York Jets Vs Buffalo Bills",
+      "eventInfo": {
+        "teamA": "New York Jets",
+        "teamB": "Buffalo Bills",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4427/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "16/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a3d61dd3bffa"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "New Orleans Saints Vs Carolina Panthers",
+      "eventInfo": {
+        "teamA": "New Orleans Saints",
+        "teamB": "Carolina Panthers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4425/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4415/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "16/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a4e1359de7e8"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Cincinnati Bengals Vs Pittsburgh Steelers",
+      "eventInfo": {
+        "teamA": "Cincinnati Bengals",
+        "teamB": "Pittsburgh Steelers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4416/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4345/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "16/11/2026 07:20:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b3b22ebbfade"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Dallas Cowboys Vs San Francisco 49ers",
+      "eventInfo": {
+        "teamA": "Dallas Cowboys",
+        "teamB": "San Francisco 49ers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4389/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "16/11/2026 03:25:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_21ef12fbd3fb"
     },
     {
       "status": "UPCOMING",
@@ -1879,6 +2523,52 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Michigan Wolverines Vs Marquette Golden Eagles",
+      "eventInfo": {
+        "teamA": "Michigan Wolverines",
+        "teamB": "Marquette Golden Eagles",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34615/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34636/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "12/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e1ad35f93596"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "St. John's Red Storm Vs Colgate Raiders",
+      "eventInfo": {
+        "teamA": "St. John's Red Storm",
+        "teamB": "Colgate Raiders",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/49865/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/89116/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "12/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ee6cf0d47a9a"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Hockey",
       "event_name": "Calgary Flames Vs New York Rangers",
       "eventInfo": {
@@ -2012,6 +2702,52 @@
     {
       "status": "UPCOMING",
       "Category": "Basketball",
+      "event_name": "Houston Cougars Vs Jacksonville State Gamecocks",
+      "eventInfo": {
+        "teamA": "Houston Cougars",
+        "teamB": "Jacksonville State Gamecocks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41223/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86764/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "12/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_325b5c88c8ed"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Arkansas Razorbacks Vs Robert Morris Colonials",
+      "eventInfo": {
+        "teamA": "Arkansas Razorbacks",
+        "teamB": "Robert Morris Colonials",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/87830/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34657/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "12/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_63fe0dc81992"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
       "event_name": "Utah Jazz Vs Orlando Magic",
       "eventInfo": {
         "teamA": "Utah Jazz",
@@ -2054,6 +2790,52 @@
       ],
       "isHot": false,
       "id": "evt_2f8f17e0879a"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "UCLA Bruins Vs Arkansas-Pine Bluff Golden Lions",
+      "eventInfo": {
+        "teamA": "UCLA Bruins",
+        "teamB": "Arkansas-Pine Bluff Golden Lions",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34626/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/41195/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "12/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f7c07b160bcb"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Nebraska Cornhuskers Vs Lindenwood Lions",
+      "eventInfo": {
+        "teamA": "Nebraska Cornhuskers",
+        "teamB": "Lindenwood Lions",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/86762/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/303199/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "12/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4a66b72412eb"
     },
     {
       "status": "UPCOMING",
@@ -2223,6 +3005,29 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "California Golden Bears Vs USC Trojans",
+      "eventInfo": {
+        "teamA": "California Golden Bears",
+        "teamB": "USC Trojans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34610/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34647/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "12/11/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_09fc0bd7b6a5"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "Pakistan Vs Sri Lanka",
       "eventInfo": {
@@ -2383,6 +3188,40 @@
       ],
       "isHot": false,
       "id": "evt_56907a8baee5"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Adelaide 36ers Vs Melbourne United",
+      "eventInfo": {
+        "teamA": "Adelaide 36ers",
+        "teamB": "Melbourne United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3612/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3608/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "12/11/2026 02:30:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_06857a7de281"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Perth Wildcats Vs Tasmania Jackjumpers",
+      "eventInfo": {
+        "teamA": "Perth Wildcats",
+        "teamB": "Tasmania Jackjumpers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3609/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/400450/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "12/11/2026 04:30:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_05b67f7747b6"
     },
     {
       "status": "UPCOMING",
@@ -2604,6 +3443,29 @@
       ],
       "isHot": false,
       "id": "evt_025f5b853fec"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Hockey",
+      "event_name": "Seattle Kraken Vs Carolina Hurricanes",
+      "eventInfo": {
+        "teamA": "Seattle Kraken",
+        "teamB": "Carolina Hurricanes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "12/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_6440da8053d3"
     },
     {
       "status": "UPCOMING",
