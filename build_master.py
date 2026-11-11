@@ -526,7 +526,7 @@ def remove_empty_stream_urls(matches):
 
 
 # ============================================================
-# STATUS UPDATE (CORE LOGIC - API 1 PRIORITY)
+# STATUS UPDATE (CORE LOGIC)
 # ============================================================
 
 def update_match_status(match, now_bd, manual_control):
@@ -540,15 +540,7 @@ def update_match_status(match, now_bd, manual_control):
     has_streams = bool(match.get("streams", []))
     start_dt = parse_event_start_time(match)
 
-    # ২. API ১-এর প্রায়োরিটি (স্ট্রিম + টাইম চেক)
-    # যদি স্ট্রিম থাকে এবং ম্যাচ শুরু হতে ১০ মিনিট বা তার কম বাকি থাকে বা শুরু হয়ে যায়
-    if has_streams and start_dt:
-        diff_minutes = (now_bd - start_dt).total_seconds() / 60
-        if diff_minutes >= -10:
-            match["status"] = "LIVE"
-            return "LIVE"
-
-    # ৩. API ২ থেকে আসা স্ট্যাটাস
+    # ২. API ২-এর স্ট্যাটাস (সোর্স অফ ট্রুথ)
     if source_status:
         if source_status in ENDED_SOURCE_STATUSES:
             match["status"] = "ENDED"
@@ -557,24 +549,44 @@ def update_match_status(match, now_bd, manual_control):
             match["status"] = "LIVE"
             return "LIVE"
         elif source_status in UPCOMING_SOURCE_STATUSES:
+            # API ২ UPCOMING বললেও, স্ট্রিম থাকলে এবং ১০ মিনিটের ভেতর হলে LIVE
+            if has_streams and start_dt:
+                diff_minutes = (now_bd - start_dt).total_seconds() / 60
+                if diff_minutes >= -10:
+                    match["status"] = "LIVE"
+                    return "LIVE"
             match["status"] = "UPCOMING"
             return "UPCOMING"
 
-    # ৪. ফলব্যাক (যদি API ২-তে কিছু না থাকে)
-    if has_streams:
-        match["status"] = "LIVE"
-        return "LIVE"
+    # ৩. API ১-এর জন্য লজিক (স্ট্রিম থাকলে)
+    if has_streams and start_dt:
+        diff_minutes = (now_bd - start_dt).total_seconds() / 60
+        if diff_minutes >= -10:
+            if diff_minutes > 600: # ১০ ঘণ্টা (৬০০ মিনিট)
+                match["status"] = "ENDED"
+                return "ENDED"
+            else:
+                match["status"] = "LIVE"
+                return "LIVE"
 
+    # ৪. ফলব্যাক (স্ট্রিম না থাকলেও ১০ মিনিট আগে থেকে LIVE)
     if start_dt:
         diff_minutes = (now_bd - start_dt).total_seconds() / 60
-        if diff_minutes < -10:
-            match["status"] = "UPCOMING"
+        
+        # ১০ মিনিট আগে (diff_minutes >= -10) থেকে ১০ ঘণ্টা পর্যন্ত LIVE
+        if diff_minutes >= -10 and diff_minutes <= 600:
+            match["status"] = "LIVE"
+            return "LIVE"
+        elif diff_minutes > 600:
+            match["status"] = "ENDED"
+            return "ENDED"
         else:
-            match["status"] = "LIVE"  
-    else:
-        match["status"] = "UPCOMING"
-
-    return match["status"]
+            match["status"] = "UPCOMING"
+            return "UPCOMING"
+            
+    # যদি startTime-ই না থাকে
+    match["status"] = "UPCOMING"
+    return "UPCOMING"
 
 
 def update_all_match_statuses(matches, now_bd, manual_control):
