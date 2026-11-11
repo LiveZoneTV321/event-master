@@ -323,17 +323,42 @@ def adapt_api2_match(match):
 
 
 # ============================================================
-# DEDUP + MERGE
+# DEDUP + MERGE (SMART MATCHING ADDED)
 # ============================================================
 
 def dedup_key(match):
     info = match.get("eventInfo", {}) or {}
+    
+    def clean_team_name(name):
+        if not name:
+            return ""
+        n = str(name).lower()
+        # টিমের নামের অপ্রয়োজনীয় শব্দ বাদ দেওয়া
+        bad_words = ["national", "team", "fc", "club", "women", "w", "men", "m"]
+        words = n.split()
+        cleaned_words = [word for word in words if word not in bad_words]
+        cleaned = "".join(cleaned_words)
+        cleaned = re.sub(r'[^a-z0-9]', '', cleaned)
+        return cleaned
+
     category = normalize_text(match.get("Category", ""))
-    team_a = normalize_text(info.get("teamA", ""))
-    team_b = normalize_text(info.get("teamB", ""))
+    if "|" in category:
+        category = category.split("|")[0].strip()
+        
+    team_a = clean_team_name(info.get("teamA", ""))
+    team_b = clean_team_name(info.get("teamB", ""))
+    
+    if not team_a or not team_b:
+        team_a = normalize_text(info.get("teamA", ""))
+        team_b = normalize_text(info.get("teamB", ""))
+
+    # টিমগুলোর সিকোয়েন্স ম্যাটার করে না (A vs B এবং B vs A একই)
+    teams = sorted([team_a, team_b])
+    
     start = str(info.get("startTime", "")).strip()
     date_part = start.split(" ")[0] if start else ""
-    return f"{category}|{team_a}|{team_b}|{date_part}"
+    
+    return f"{category}|{teams[0]}|{teams[1]}|{date_part}"
 
 
 def merge_streams_into(target_streams, new_streams):
