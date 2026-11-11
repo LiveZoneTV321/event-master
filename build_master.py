@@ -46,9 +46,6 @@ API1_START_OUT_FORMAT = "%d/%m/%Y %I:%M:%S %p"
 # API2 startTime format
 API2_START_FORMAT = "%d/%m/%Y %I:%M:%S %p"
 
-# LIVE window — API1-এর জন্য heuristic
-LIVE_WINDOW = timedelta(hours=4)
-
 
 # ============================================================
 # STATUS SETS
@@ -162,19 +159,12 @@ def extract_drm_from_url(stream_url):
     if not stream_url:
         return stream_url, None
         
-    # যদি URL-এর ভেতর drmLicense থাকে
     if "drmLicense=" in stream_url:
         try:
-            # URL-কে দুই ভাগে ভাগ করি
             base_url, params = stream_url.split("drmLicense=", 1)
-            
-            # base_url থেকে শেষের অপ্রয়োজনীয় অংশ (?|drmScheme=clearkey&) বাদ দিই
             if "?" in base_url:
                 base_url = base_url.split("?")[0]
-                
-            # params থেকে drm_key বের করি (এর পরে আর কোনো & থাকলে কেটে ফেলি)
             drm_key = params.split("&")[0].strip()
-            
             return base_url, drm_key
         except Exception:
             pass
@@ -199,14 +189,18 @@ def parse_start_time(value, fmt):
         return None
 
 
-def infer_status_from_time(start_dt, now):
-    if start_dt is None:
-        return "UPCOMING"
-    if start_dt > now:
-        return "UPCOMING"
-    if now - start_dt > LIVE_WINDOW:
-        return "ENDED"
-    return "LIVE"
+def parse_event_start_time(match):
+    """API-থেকে পাওয়া startTime স্ট্রিং থেকে datetime বের করে"""
+    if not isinstance(match, dict):
+        return None
+    event_info = match.get("eventInfo", {})
+    start_time_str = event_info.get("startTime", "")
+    if not start_time_str:
+        return None
+    try:
+        return datetime.strptime(start_time_str, API2_START_FORMAT).replace(tzinfo=BD_TIMEZONE)
+    except (ValueError, TypeError):
+        return None
 
 
 def stream_priority_rank(name):
@@ -217,26 +211,24 @@ def stream_priority_rank(name):
     return len(STREAM_PRIORITY_KEYWORDS)
 
 
+def get_event_name(match):
+    return str(match.get("event_name", "Unknown Event")).strip()
+
+
+def get_source_status(match):
+    return str(match.get("status", match.get("match_status", ""))).strip().upper()
+
+
 # ============================================================
 # API1  ->  MASTER FORMAT
 # ============================================================
 
 def adapt_api1_event(event, now):
-    """
-    API1 event:
-      {
-        id, date, time, league, team1, team2,
-        logo1, logo2, leagueLogo,
-        isHot, visibility,
-        streams: [{name, url, referer, userAgent, drm}]
-      }
-    """
     if not isinstance(event, dict):
         return None
 
     league = str(event.get("league", "")).strip()
 
-    # "Cricket | PAK vs SL - 1st Test, Day 3"
     if "|" in league:
         category, tournament = league.split("|", 1)
         category = category.strip()
@@ -262,7 +254,9 @@ def adapt_api1_event(event, now):
         else:
             start_time_out = f"{date_str} {time_str}"
 
-    status = infer_status_from_time(start_dt, now)
+    # API1-তে স্ট্যাটাস থাকে না, তবে আমরা এখানে ডিফল্ট UPCOMING রাখব
+    # আসল স্ট্যাটাস update_match_status এ ঠিক হবে
+    status = "UPCOMING"
 
     event_info = {
         "teamA": team_a,
@@ -283,12 +277,11 @@ def adapt_api1_event(event, now):
         if not url:
             continue
 
-        # ১. URL থেকে DRM বের করা
         clean_url, url_drm_key = extract_drm_from_url(url)
 
         out = {
             "channel_name": str(s.get("name", "")).strip(),
-            "stream_url": clean_url, # পরিষ্কার করা URL
+            "stream_url": clean_url,
         }
 
         ref = str(s.get("referer", "")).strip()
@@ -299,10 +292,7 @@ def adapt_api1_event(event, now):
         if ua:
             out["user_agent"] = ua
 
-        # ২. DRM কি-তে আগে URL থেকে পাওয়া কি রাখি
         drm_key = url_drm_key
-        
-        # ৩. যদি আলাদা base64 drm ফিল্ড থাকে, তবে সেটা প্রায়োরিটি পাবে (যদি থাকে)
         b64_drm = decode_drm_b64(s.get("drm"))
         if b64_drm:
             drm_key = b64_drm
@@ -334,7 +324,7 @@ def adapt_api1_event(event, now):
 
 
 # ============================================================
-# API2  ->  MASTER FORMAT (light normalize)
+# API2  ->  MASTER FORMAT
 # ============================================================
 
 def adapt_api2_match(match):
@@ -343,7 +333,6 @@ def adapt_api2_match(match):
 
     out = copy.deepcopy(match)
 
-    # Ensure required keys
     out.setdefault("Category", "Other")
     out.setdefault("event_name", "Unknown Event")
     out.setdefault("eventInfo", {})
@@ -351,7 +340,6 @@ def adapt_api2_match(match):
     out.setdefault("status", "UPCOMING")
     out.setdefault("isHot", False)
 
-    # kid + key -> drm_key
     for s in out["streams"]:
         if not isinstance(s, dict):
             continue
@@ -362,7 +350,6 @@ def adapt_api2_match(match):
         s.pop("kid", None)
         s.pop("key", None)
 
-    # If API2 id missing -> generate
     if not str(out.get("id", "")).strip():
         out["id"] = generate_event_id(out)
 
@@ -378,11 +365,8 @@ def dedup_key(match):
     category = normalize_text(match.get("Category", ""))
     team_a = normalize_text(info.get("teamA", ""))
     team_b = normalize_text(info.get("teamB", ""))
-
-    # Same teams playing twice on different dates must NOT merge
     start = str(info.get("startTime", "")).strip()
     date_part = start.split(" ")[0] if start else ""
-
     return f"{category}|{team_a}|{team_b}|{date_part}"
 
 
@@ -392,7 +376,6 @@ def merge_streams_into(target_streams, new_streams):
         for s in target_streams
         if isinstance(s, dict)
     }
-
     added = 0
     for s in new_streams:
         if not isinstance(s, dict):
@@ -403,26 +386,18 @@ def merge_streams_into(target_streams, new_streams):
         target_streams.append(copy.deepcopy(s))
         seen.add(url)
         added += 1
-
     return added
 
 
 def merge_matches(api2_matches, api1_matches):
-    """
-    API2 = primary (has status + stable id).
-    API1 = secondary (only adds missing streams + isHot OR).
-    """
     master = {}
     order = []
 
     for m in api2_matches:
         k = dedup_key(m)
         if k in master:
-            # duplicate inside API2 -> keep first, merge streams
             merge_streams_into(master[k]["streams"], m.get("streams", []))
-            master[k]["isHot"] = bool(
-                master[k].get("isHot") or m.get("isHot")
-            )
+            master[k]["isHot"] = bool(master[k].get("isHot") or m.get("isHot"))
         else:
             master[k] = m
             order.append(k)
@@ -436,9 +411,7 @@ def merge_matches(api2_matches, api1_matches):
             merged_streams += merge_streams_into(
                 master[k]["streams"], m.get("streams", [])
             )
-            master[k]["isHot"] = bool(
-                master[k].get("isHot") or m.get("isHot")
-            )
+            master[k]["isHot"] = bool(master[k].get("isHot") or m.get("isHot"))
         else:
             master[k] = m
             order.append(k)
@@ -470,7 +443,7 @@ def sort_matches_by_status(matches):
 
 
 # ============================================================
-# MANUAL CONTROL (from your existing script)
+# MANUAL CONTROL
 # ============================================================
 
 def load_manual_control():
@@ -502,7 +475,6 @@ def apply_status_override(match, manual):
 
 
 def apply_manual_events_and_streams(matches, manual):
-    # remove events
     remove_ids = {
         str(x).strip()
         for x in manual.get("remove_events", []) or []
@@ -516,7 +488,6 @@ def apply_manual_events_and_streams(matches, manual):
         ]
         print(f"[MANUAL] Events removed: {before - len(matches)}")
 
-    # remove streams
     remove_streams = manual.get("remove_streams", {}) or {}
     if isinstance(remove_streams, dict):
         for m in matches:
@@ -532,7 +503,6 @@ def apply_manual_events_and_streams(matches, manual):
                 not in names_set
             ]
 
-    # add streams
     add_streams = manual.get("add_streams", {}) or {}
     if isinstance(add_streams, dict):
         for m in matches:
@@ -557,7 +527,6 @@ def apply_manual_events_and_streams(matches, manual):
                 existing.append(copy.deepcopy(s))
                 seen.add(name.lower())
 
-    # add events
     add_events = manual.get("add_events", []) or []
     if isinstance(add_events, list):
         existing_ids = {
@@ -608,7 +577,6 @@ def remove_empty_stream_urls(matches):
             if not isinstance(s, dict):
                 continue
             
-            # এখানেও URL পরিষ্কার করব
             raw_url = str(s.get("stream_url", s.get("url", ""))).strip()
             url, url_drm = extract_drm_from_url(raw_url)
             
@@ -623,6 +591,63 @@ def remove_empty_stream_urls(matches):
             kept.append(s)
         m["streams"] = kept
     return removed
+
+
+# ============================================================
+# STATUS UPDATE (CORE LOGIC)
+# ============================================================
+
+def update_match_status(match, now_bd, manual_control):
+    event_name = get_event_name(match)
+    source_status = get_source_status(match)
+
+    # ১. ম্যানুয়াল ওভাররাইড
+    if apply_status_override(match, manual_control):
+        return match["status"]
+
+    # ২. API ২ থেকে আসা স্ট্যাটাস (LIVE, ENDED, UPCOMING)
+    if source_status:
+        if source_status in ENDED_SOURCE_STATUSES:
+            match["status"] = "ENDED"
+            return "ENDED"
+        elif source_status in LIVE_SOURCE_STATUSES:
+            match["status"] = "LIVE"
+            return "LIVE"
+        elif source_status in UPCOMING_SOURCE_STATUSES:
+            match["status"] = "UPCOMING"
+            return "UPCOMING"
+
+    # ৩. API ১-এর ক্ষেত্রে (যেহেতু এখানে status থাকে না)
+    start_dt = parse_event_start_time(match)
+    if start_dt:
+        # ১০ মিনিট আগে থেকে লাইভ ধরার লজিক
+        diff_minutes = (now_bd - start_dt).total_seconds() / 60
+
+        if diff_minutes < -10:
+            match["status"] = "UPCOMING"
+        else:
+            match["status"] = "LIVE"  
+    else:
+        match["status"] = "UPCOMING"
+
+    return match["status"]
+
+
+def update_all_match_statuses(matches, now_bd, manual_control):
+    live_count = 0
+    upcoming_count = 0
+    ended_count = 0
+
+    for match in matches:
+        status = update_match_status(match, now_bd, manual_control)
+        if status == "LIVE":
+            live_count += 1
+        elif status == "UPCOMING":
+            upcoming_count += 1
+        elif status == "ENDED":
+            ended_count += 1
+
+    return live_count, upcoming_count, ended_count
 
 
 # ============================================================
@@ -675,29 +700,23 @@ def main():
 
         # 4. Manual control
         manual = load_manual_control()
-
-        for m in merged:
-            apply_status_override(m, manual)
-
         merged = apply_manual_events_and_streams(merged, manual)
 
         # 5. Remove empty URLs
         removed_empty = remove_empty_stream_urls(merged)
         print(f"[CLEAN] Empty streams removed: {removed_empty}")
 
-        # 6. Sort
+        # 6. Update Statuses (এখানে লজিক কাজ করবে)
+        live, upcoming, ended = update_all_match_statuses(merged, now, manual)
+        
+        # 7. Sort
         for m in merged:
             sort_streams_by_priority(m)
         sort_matches_by_status(merged)
 
-        # 7. Hot
+        # 8. Hot
         hot_count = apply_hot_events(merged, manual)
         print(f"[HOT] Hot events: {hot_count}")
-
-        # 8. Counts
-        live = sum(1 for m in merged if m["status"] == "LIVE")
-        upcoming = sum(1 for m in merged if m["status"] == "UPCOMING")
-        ended = sum(1 for m in merged if m["status"] == "ENDED")
 
         # 9. Output
         out = {
