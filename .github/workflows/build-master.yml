@@ -1,0 +1,100 @@
+name: Build Master Sports API
+
+on:
+  # 1. প্রতি ১০ মিনিটে auto run
+  schedule:
+    - cron: "*/10 * * * *"
+
+  # 2. Manual trigger (Actions tab থেকে)
+  workflow_dispatch:
+
+  # 3. build_master.py বা manual_control.json বদলালে
+  push:
+    branches: [ main ]
+    paths:
+      - "build_master.py"
+      - "manual_control.json"
+      - ".github/workflows/build-master.yml"
+
+# একই সময়ে একাধিক run হলে আগেরটা বাতিল
+concurrency:
+  group: build-master
+  cancel-in-progress: true
+
+permissions:
+  contents: write          # commit/push করার জন্য
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # --------------------------------------------------------
+      # 1. Checkout
+      # --------------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # --------------------------------------------------------
+      # 2. Python setup
+      # --------------------------------------------------------
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # --------------------------------------------------------
+      # 3. (Optional) dependency install
+      #    build_master.py শুধু stdlib ব্যবহার করে,
+      #    তাই কিছু install করার দরকার নেই।
+      #    ভবিষ্যতে লাগলে uncomment করুন।
+      # --------------------------------------------------------
+      # - name: Install dependencies
+      #   run: |
+      #     python -m pip install --upgrade pip
+      #     pip install requests
+
+      # --------------------------------------------------------
+      # 4. Run script
+      # --------------------------------------------------------
+      - name: Build master JSON
+        run: |
+          python build_master.py master_sports.json
+
+      # --------------------------------------------------------
+      # 5. Validate output
+      # --------------------------------------------------------
+      - name: Validate output JSON
+        run: |
+          python - <<'EOF'
+          import json, sys
+          with open("master_sports.json", "r", encoding="utf-8") as f:
+              data = json.load(f)
+          assert "matches" in data, "matches key missing"
+          assert isinstance(data["matches"], list), "matches must be list"
+          print(f"OK: {len(data['matches'])} matches, "
+                f"LIVE={data.get('live_match')}, "
+                f"UPCOMING={data.get('upcoming_match')}, "
+                f"ENDED={data.get('ended_match')}")
+          EOF
+
+      # --------------------------------------------------------
+      # 6. Commit & push (only if changed)
+      # --------------------------------------------------------
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add master_sports.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update master_sports.json [skip ci]"
+          git push
