@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:40:15 PM 11-11-2026",
+  "last_update_time": "09:51:09 PM 11-11-2026",
   "total_matches": 332,
-  "live_match": 6,
-  "upcoming_match": 321,
+  "live_match": 7,
+  "upcoming_match": 320,
   "ended_match": 5,
   "sources": [
     "api1:events.json",
@@ -237,6 +237,34 @@
         }
       ],
       "id": "evt_87b5be8f3f95",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Arabian Aces Vs Yas Lions",
+      "eventInfo": {
+        "teamA": "Arabian Aces",
+        "teamB": "Yas Lions",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LI.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LH.png",
+        "eventName": "Abu Dhabi T10 League 2026 - 12th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+        "startTime": "11/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "a sports - aq",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_c925528bd857",
       "isHot": false
     },
     {
@@ -2888,34 +2916,6 @@
       ],
       "isHot": false,
       "id": "evt_c91ed94c15f3"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Arabian Aces Vs Yas Lions",
-      "eventInfo": {
-        "teamA": "Arabian Aces",
-        "teamB": "Yas Lions",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 12th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "11/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS - aq",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "a sports - aq",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_c925528bd857",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
