@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:30:19 PM 11-11-2026",
+  "last_update_time": "05:40:14 PM 11-11-2026",
   "total_matches": 336,
-  "live_match": 9,
+  "live_match": 8,
   "upcoming_match": 305,
-  "ended_match": 22,
+  "ended_match": 23,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -84,23 +84,6 @@
       ],
       "isHot": false,
       "id": "evt_72aecdc8f4a5"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "South East Melbourne Phoenix Vs Illawarra Hawks",
-      "eventInfo": {
-        "teamA": "South East Melbourne Phoenix",
-        "teamB": "Illawarra Hawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/325629/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3613/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "11/11/2026 02:30:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_b7b80eaea8a2"
     },
     {
       "status": "LIVE",
@@ -7032,6 +7015,23 @@
       ],
       "isHot": false,
       "id": "evt_e8ec441bd37c"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "South East Melbourne Phoenix Vs Illawarra Hawks",
+      "eventInfo": {
+        "teamA": "South East Melbourne Phoenix",
+        "teamB": "Illawarra Hawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/325629/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3613/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "11/11/2026 02:30:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_b7b80eaea8a2"
     }
   ]
 }
