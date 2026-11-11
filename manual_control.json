@@ -1,5 +1,5 @@
 {
-  "status_override": { "evt_a6252405842b","evt_cb92eaad2884": "ENDED" },
+  "status_override": { "": "ENDED" },
   "remove_events": ["id"],
   "remove_streams": { "id": ["WILLOW ALT"] },
   "add_streams": { "id": [{"channel_name": "New HD", "stream_url": "https://..."}] },
