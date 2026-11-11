@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:00:24 PM 11-11-2026",
+  "last_update_time": "02:10:13 PM 11-11-2026",
   "total_matches": 336,
-  "live_match": 4,
-  "upcoming_match": 308,
+  "live_match": 5,
+  "upcoming_match": 307,
   "ended_match": 24,
   "sources": [
     "api1:events.json",
@@ -166,6 +166,23 @@
       "streams": [],
       "isHot": false,
       "id": "evt_b7b80eaea8a2"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Perth Scorchers Women Vs Sydney Thunder Women",
+      "eventInfo": {
+        "teamA": "Perth Scorchers Women",
+        "teamB": "Sydney Thunder Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274889/image",
+        "eventName": "WBBL 2026 - 18th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "11/11/2026 02:10:00 PM"
+      },
+      "streams": [],
+      "id": "evt_989f6bc2caf1",
+      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -2077,23 +2094,6 @@
       ],
       "isHot": false,
       "id": "evt_33376bbaba8f"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Perth Scorchers Women Vs Sydney Thunder Women",
-      "eventInfo": {
-        "teamA": "Perth Scorchers Women",
-        "teamB": "Sydney Thunder Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274889/image",
-        "eventName": "WBBL 2026 - 18th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "11/11/2026 02:10:00 PM"
-      },
-      "streams": [],
-      "id": "evt_989f6bc2caf1",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
