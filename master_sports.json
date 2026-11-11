@@ -1,57 +1,16 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:30:19 AM 12-11-2026",
+  "last_update_time": "04:40:15 AM 12-11-2026",
   "total_matches": 307,
-  "live_match": 7,
-  "upcoming_match": 287,
-  "ended_match": 13,
+  "live_match": 6,
+  "upcoming_match": 286,
+  "ended_match": 15,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
   ],
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Juventus Vs OL Lyonnes",
-      "eventInfo": {
-        "teamA": "Juventus",
-        "teamB": "OL Lyonnes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/26245/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "startTime": "12/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hkdbcbnv/index.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001794421415-0-0-a8fb40f4234cc63f3ec69c89e63ef59b",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_901a2d83da46"
-    },
     {
       "status": "LIVE",
       "Category": "Rugby",
@@ -74,29 +33,6 @@
       ],
       "isHot": false,
       "id": "evt_50bd6349cd46"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "UCAM Murcia Vs Bamberg Baskets",
-      "eventInfo": {
-        "teamA": "UCAM Murcia",
-        "teamB": "Bamberg Baskets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6495/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7779/image",
-        "eventName": "Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
-        "startTime": "12/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NOVA2 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_7abf87716ec4"
     },
     {
       "status": "LIVE",
@@ -209,6 +145,29 @@
       ],
       "isHot": false,
       "id": "evt_752beea5bb36"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Platense Vs Peñarol Mar del Plata",
+      "eventInfo": {
+        "teamA": "Platense",
+        "teamB": "Peñarol Mar del Plata",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/272047/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/125888/image",
+        "eventName": "Argentina Liga Nacional",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1680/image/dark",
+        "startTime": "12/11/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS +2 FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+          "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a8637ffe6298"
     },
     {
       "status": "UPCOMING",
@@ -2039,29 +1998,6 @@
       ],
       "isHot": false,
       "id": "evt_21ef12fbd3fb"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Platense Vs Peñarol Mar del Plata",
-      "eventInfo": {
-        "teamA": "Platense",
-        "teamB": "Peñarol Mar del Plata",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/272047/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/125888/image",
-        "eventName": "Argentina Liga Nacional",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1680/image/dark",
-        "startTime": "12/11/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS +2 FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-          "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a8637ffe6298"
     },
     {
       "status": "UPCOMING",
@@ -6671,6 +6607,70 @@
       "streams": [],
       "isHot": false,
       "id": "evt_e7e8edce52da"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "UCAM Murcia Vs Bamberg Baskets",
+      "eventInfo": {
+        "teamA": "UCAM Murcia",
+        "teamB": "Bamberg Baskets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6495/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7779/image",
+        "eventName": "Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
+        "startTime": "12/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA2 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7abf87716ec4"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Juventus Vs OL Lyonnes",
+      "eventInfo": {
+        "teamA": "Juventus",
+        "teamB": "OL Lyonnes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/26245/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "startTime": "12/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hkdbcbnv/index.m3u8"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001794421415-0-0-a8fb40f4234cc63f3ec69c89e63ef59b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_901a2d83da46"
     }
   ]
 }
