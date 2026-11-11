@@ -1,16 +1,38 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:30:20 PM 11-11-2026",
-  "total_matches": 331,
+  "last_update_time": "09:40:15 PM 11-11-2026",
+  "total_matches": 332,
   "live_match": 6,
   "upcoming_match": 321,
-  "ended_match": 4,
+  "ended_match": 5,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
   ],
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Boxing",
+      "event_name": "Elif Nur Turhan Vs Alycia Baumgardner",
+      "eventInfo": {
+        "teamA": "Elif Nur Turhan",
+        "teamB": "Alycia Baumgardner",
+        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+        "eventName": "caf",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+        "startTime": "11/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Mamelodi Sundowns vs Kawempe Muslim La",
+          "stream_url": "http://162.251.160.53:8089/1231/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5d309d64adaa"
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -182,30 +204,6 @@
       ],
       "isHot": false,
       "id": "evt_ba64dd6df17a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Simba Queens Vs JKT Queens",
-      "eventInfo": {
-        "teamA": "Simba Queens",
-        "teamB": "JKT Queens",
-        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
-        "eventName": "Tanzania Ligi Kuu Bara",
-        "event_logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
-        "startTime": "11/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "http://193.47.62.50/hls/WAWAWA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_340add1212d8"
     },
     {
       "status": "LIVE",
@@ -1493,6 +1491,10 @@
           "referer": "https://amazon.com",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
           "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hpfhm49n/index.m3u8"
         }
       ],
       "isHot": false,
@@ -1656,6 +1658,10 @@
           "referer": "https://amazon.com",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
           "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hkdbcbnv/index.m3u8"
         }
       ],
       "isHot": false,
@@ -6739,33 +6745,9 @@
           "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
         },
         {
-          "channel_name": "Golf PGA Baycurrent Classic (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
           "channel_name": "SKY GOLF ALT",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3eyutz3sbr/out/v1/369f8b2194004b5192c0c8e6a22822bf/cenc.mpd",
           "drm_key": "5583887653a2df2531c22aa784c3f5fc:ab47a175b1912a7985daab1ac3ea160a"
-        },
-        {
-          "channel_name": "Golf Open de Espana",
-          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Golf PGA VidantaWorld Mexico Open",
-          "stream_url": "http://193.47.62.59/hls/6HHHAAQQQAAQQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Golf LPGA Maybank Championship",
-          "stream_url": "http://193.47.62.59/hls/TTTTQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -6871,7 +6853,7 @@
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/BUUU.m3u8",
+          "stream_url": "http://193.47.62.55/hls/RGGG.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
@@ -6883,22 +6865,34 @@
         {
           "channel_name": "TENNIS PLUS",
           "stream_url": "https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8"
-        },
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a6252405842b"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Simba Queens Vs JKT Queens",
+      "eventInfo": {
+        "teamA": "Simba Queens",
+        "teamB": "JKT Queens",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+        "eventName": "Tanzania Ligi Kuu Bara",
+        "event_logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+        "startTime": "11/11/2026 07:00:00 PM"
+      },
+      "streams": [
         {
-          "channel_name": "1. Tennis Masters Paris",
-          "stream_url": "http://193.47.62.44/hls/T777A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "2 Tennis Masters Paris",
-          "stream_url": "http://193.47.62.44/hls/T777AA.m3u8",
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.50/hls/WAWAWA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_a6252405842b"
+      "id": "evt_340add1212d8"
     }
   ]
 }
