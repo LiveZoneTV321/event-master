@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:00:28 AM 12-11-2026",
+  "last_update_time": "03:10:18 AM 12-11-2026",
   "total_matches": 307,
-  "live_match": 12,
+  "live_match": 8,
   "upcoming_match": 287,
-  "ended_match": 8,
+  "ended_match": 12,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -175,93 +175,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CA Independiente Reserve Vs Lanús Reserve",
-      "eventInfo": {
-        "teamA": "CA Independiente Reserve",
-        "teamB": "Lanús Reserve",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/236797/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/236219/image",
-        "eventName": "Campeonato de Reserva de Primera División",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18817/image/dark",
-        "startTime": "12/11/2026 12:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_59a5f1767bcc"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Oud-Heverlee Leuven Vs HB Køge",
-      "eventInfo": {
-        "teamA": "Oud-Heverlee Leuven",
-        "teamB": "HB Køge",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/178246/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/333128/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "startTime": "11/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hpfhm49n/index.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794403409-0-0-68282e46185bb7d360a7f1ea76dc1872",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "http://193.47.62.44/hls/A555AAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e12367087a3c"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Rytas Vilnius Vs Nanterre 92",
-      "eventInfo": {
-        "teamA": "Rytas Vilnius",
-        "teamB": "Nanterre 92",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5858/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/53125/image",
-        "eventName": "Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
-        "startTime": "11/11/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "NOVA2 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_4b4c1e21f45b"
-    },
-    {
-      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Germany Vs Switzerland",
       "eventInfo": {
@@ -313,39 +226,6 @@
       ],
       "isHot": false,
       "id": "evt_752beea5bb36"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE",
-      "eventInfo": {
-        "teamA": "ABU DHABI T20 LEAGUE",
-        "teamB": "ABU DHABI T20 LEAGUE",
-        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "eventName": "ABU DHABI T20 LEAGUE",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "startTime": "11/11/2026 07:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q6p7ehxwmc/out/v1/64ff7b94fefb4ec4b838bc86e9b32bda/cenc.mpd",
-          "drm_key": "1e9def1e0c216818e8edc06ce10d25c9:4743d779da68303948a6e7e18fc77056"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ba64dd6df17a"
     },
     {
       "status": "UPCOMING",
@@ -6592,6 +6472,39 @@
     },
     {
       "status": "ENDED",
+      "Category": "Cricket",
+      "event_name": "ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE",
+      "eventInfo": {
+        "teamA": "ABU DHABI T20 LEAGUE",
+        "teamB": "ABU DHABI T20 LEAGUE",
+        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "eventName": "ABU DHABI T20 LEAGUE",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "startTime": "11/11/2026 07:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q6p7ehxwmc/out/v1/64ff7b94fefb4ec4b838bc86e9b32bda/cenc.mpd",
+          "drm_key": "1e9def1e0c216818e8edc06ce10d25c9:4743d779da68303948a6e7e18fc77056"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ba64dd6df17a"
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "Bangladesh Vs Sri Lanka",
       "eventInfo": {
@@ -6671,6 +6584,93 @@
       ],
       "isHot": false,
       "id": "evt_9f323d9a9396"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Rytas Vilnius Vs Nanterre 92",
+      "eventInfo": {
+        "teamA": "Rytas Vilnius",
+        "teamB": "Nanterre 92",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5858/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/53125/image",
+        "eventName": "Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9357/image/dark",
+        "startTime": "11/11/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA2 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4b4c1e21f45b"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Oud-Heverlee Leuven Vs HB Køge",
+      "eventInfo": {
+        "teamA": "Oud-Heverlee Leuven",
+        "teamB": "HB Køge",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/178246/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/333128/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "startTime": "11/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hpfhm49n/index.m3u8"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794403409-0-0-68282e46185bb7d360a7f1ea76dc1872",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "http://193.47.62.44/hls/A555AAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e12367087a3c"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "CA Independiente Reserve Vs Lanús Reserve",
+      "eventInfo": {
+        "teamA": "CA Independiente Reserve",
+        "teamB": "Lanús Reserve",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/236797/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/236219/image",
+        "eventName": "Campeonato de Reserva de Primera División",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18817/image/dark",
+        "startTime": "12/11/2026 12:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_59a5f1767bcc"
     }
   ]
 }
