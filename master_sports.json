@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:40:14 AM 12-11-2026",
+  "last_update_time": "12:50:13 AM 12-11-2026",
   "total_matches": 308,
   "live_match": 12,
   "upcoming_match": 289,
@@ -3687,6 +3687,34 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "United Tigers Vs Emirates Eagles",
+      "eventInfo": {
+        "teamA": "United Tigers",
+        "teamB": "Emirates Eagles",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LK.png",
+        "eventName": "Abu Dhabi T10 League 2026 - 13th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+        "startTime": "13/11/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "a sports - aq",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_38f0e55a8f97",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Benfica (W) Vs Austria Wien (W)",
       "eventInfo": {
@@ -4720,23 +4748,6 @@
       },
       "streams": [],
       "id": "evt_3758e9a31f9b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "United Tigers Vs Emirates Eagles",
-      "eventInfo": {
-        "teamA": "United Tigers",
-        "teamB": "Emirates Eagles",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LK.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 13th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "13/11/2026 03:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_38f0e55a8f97",
       "isHot": false
     },
     {
