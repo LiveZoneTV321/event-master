@@ -14,6 +14,7 @@ import hashlib
 import json
 import re
 import sys
+import unicodedata
 from datetime import datetime, timedelta
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
@@ -91,6 +92,62 @@ STREAM_PRIORITY_KEYWORDS = [
 
 
 # ============================================================
+# TEAM NAME NORMALIZATION (fix duplicate)
+# ============================================================
+
+# একই টিমের ভিন্ন বানান একসাথে আনতে alias map
+TEAM_ALIASES = {
+    "turkey": "turkiye",
+    "ivory coast": "cote divoire",
+    "uae": "united arab emirates",
+    "usa": "united states",
+    "czechia": "czech republic",
+    "south korea": "korea republic",
+    "north korea": "korea dpr",
+    "bosnia herzegovina": "bosnia and herzegovina",
+    "hb koge": "koge",
+    "hb køge": "koge",
+    "koge w": "koge",
+    "køge w": "koge",
+    "oudheverlee leuven w": "oudheverlee leuven",
+    "st johns red storm": "st johns red storm",
+}
+
+# corrupt / placeholder টিম — এগুলো থাকলে ম্যাচ বাদ যাবে
+BLACKLIST_TEAMS = {
+    "motherfucker", "unknown", "tbd", "tbc", "team 1", "team 2",
+}
+
+WOMEN_SUFFIX_RE = re.compile(
+    r"\(w\)|\(women\)|\(women's\)|\bw\b|\bwomen\b|\bwomen's\b|\bladies\b|\bfeminine\b",
+    re.IGNORECASE,
+)
+
+
+def normalize_team_name(name):
+    """টিমের নাম normalize — duplicate ধরার জন্য।
+    - lowercase
+    - unicode decompose (ø→o, ü→u)
+    - (W), Women সাফিক্স সরানো
+    - punctuation বাদ
+    - alias apply
+    """
+    if name is None:
+        return ""
+    s = str(name).strip().lower()
+    # unicode → ascii
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    # Women সাফিক্স সরাও
+    s = WOMEN_SUFFIX_RE.sub(" ", s)
+    # punctuation → space
+    s = re.sub(r"[^a-z0-9\s]", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    # alias
+    return TEAM_ALIASES.get(s, s)
+
+
+# ============================================================
 # HELPERS
 # ============================================================
 
@@ -116,8 +173,8 @@ def generate_event_id(match):
     category = normalize_text(match.get("Category", ""))
     event_name = normalize_text(match.get("event_name", ""))
     info = match.get("eventInfo", {}) or {}
-    team_a = normalize_text(info.get("teamA", ""))
-    team_b = normalize_text(info.get("teamB", ""))
+    team_a = normalize_team_name(info.get("teamA", ""))
+    team_b = normalize_team_name(info.get("teamB", ""))
     tournament = normalize_text(info.get("eventName", ""))
     start = normalize_text(info.get("startTime", ""))
     parts = [category, team_a, team_b, tournament]
@@ -324,60 +381,135 @@ def adapt_api2_match(match):
 
 
 # ============================================================
-# DEDUP + MERGE
+# DEDUP + MERGE  (fix duplicate)
 # ============================================================
 
-def dedup_key(match):
+def _match_identity(match):
+    """match থেকে normalized identity বের করে (team, eventName, date)।"""
     info = match.get("eventInfo", {}) or {}
     category = normalize_text(match.get("Category", ""))
-    team_a = normalize_text(info.get("teamA", ""))
-    team_b = normalize_text(info.get("teamB", ""))
+    team_a = normalize_team_name(info.get("teamA", ""))
+    team_b = normalize_team_name(info.get("teamB", ""))
+    event_name = normalize_text(
+        info.get("eventName", "") or match.get("event_name", "")
+    )
     start = str(info.get("startTime", "")).strip()
     date_part = start.split(" ")[0] if start else ""
-    return f"{category}|{team_a}|{team_b}|{date_part}"
+    return {
+        "category": category,
+        "team_a": team_a,
+        "team_b": team_b,
+        "event_name": event_name,
+        "date": date_part,
+    }
+
+
+def is_valid_match(match):
+    """corrupt / placeholder টিম বাদ দেয়।"""
+    ident = _match_identity(match)
+    for t in (ident["team_a"], ident["team_b"]):
+        if t in BLACKLIST_TEAMS:
+            return False
+    return True
+
+
+def _is_same_match(a_ident, b_ident):
+    """দুই match একই কিনা (duplicate detection rules)।"""
+    if a_ident["category"] != b_ident["category"]:
+        return False
+
+    a_ta, a_tb = a_ident["team_a"], a_ident["team_b"]
+    b_ta, b_tb = b_ident["team_a"], b_ident["team_b"]
+
+    # নিয়ম ১: teamA ও teamB দুটোই মিলছে → merge
+    if a_ta and a_tb and a_ta == b_ta and a_tb == b_tb:
+        return True
+
+    # নিয়ম ১বি: টিমের ক্রম উল্টে গেলেও merge
+    if a_ta and a_tb and a_ta == b_tb and a_tb == b_ta:
+        return True
+
+    # নিয়ম ২: eventName মিলছে + date মিলছে + অন্তত একটা team মিলছে → merge
+    if (
+        a_ident["event_name"]
+        and a_ident["event_name"] == b_ident["event_name"]
+        and a_ident["date"]
+        and a_ident["date"] == b_ident["date"]
+    ):
+        teams_overlap = (
+            (a_ta and (a_ta == b_ta or a_ta == b_tb))
+            or (a_tb and (a_tb == b_ta or a_tb == b_tb))
+        )
+        if teams_overlap:
+            return True
+
+    return False
+
+
+def _find_existing_match(master_list, new_match):
+    """master list-এ same match খুঁজে ফেরত দেয়; না পেলে None।"""
+    new_ident = _match_identity(new_match)
+    for existing in master_list:
+        if _is_same_match(_match_identity(existing), new_ident):
+            return existing
+    return None
 
 
 def merge_streams_into(target_streams, new_streams):
-    seen = {str(s.get("stream_url", "")).strip() for s in target_streams if isinstance(s, dict)}
+    """stream merge — URL মিললে metadata enrich, নতুন হলে append।"""
+    by_url = {
+        str(s.get("stream_url", "")).strip(): s
+        for s in target_streams if isinstance(s, dict)
+    }
     added = 0
     for s in new_streams:
         if not isinstance(s, dict):
             continue
         url = str(s.get("stream_url", "")).strip()
-        if not url or url in seen:
+        if not url:
             continue
-        target_streams.append(copy.deepcopy(s))
-        seen.add(url)
-        added += 1
+        if url in by_url:
+            existing = by_url[url]
+            for k in ("drm_key", "referer", "user_agent"):
+                if not existing.get(k) and s.get(k):
+                    existing[k] = s[k]
+        else:
+            target_streams.append(copy.deepcopy(s))
+            by_url[url] = target_streams[-1]
+            added += 1
     return added
 
 
 def merge_matches(api2_matches, api1_matches):
-    master = {}
-    order = []
-    for m in api2_matches:
-        k = dedup_key(m)
-        if k in master:
-            merge_streams_into(master[k]["streams"], m.get("streams", []))
-            master[k]["isHot"] = bool(master[k].get("isHot") or m.get("isHot"))
-        else:
-            master[k] = m
-            order.append(k)
+    """API2 primary, API1 থেকে stream ও নতুন match merge।"""
+    # corrupt data বাদ
+    api2_matches = [m for m in api2_matches if is_valid_match(m)]
+    api1_matches = [m for m in api1_matches if is_valid_match(m)]
 
+    master = []
+
+    # ১) API2 সব ঢোকাই
+    for m in api2_matches:
+        existing = _find_existing_match(master, m)
+        if existing is not None:
+            merge_streams_into(existing["streams"], m.get("streams", []))
+            existing["isHot"] = bool(existing.get("isHot") or m.get("isHot"))
+        else:
+            master.append(m)
+
+    # ২) API1 merge / add
     added_from_api1 = 0
     merged_streams = 0
-
     for m in api1_matches:
-        k = dedup_key(m)
-        if k in master:
-            merged_streams += merge_streams_into(master[k]["streams"], m.get("streams", []))
-            master[k]["isHot"] = bool(master[k].get("isHot") or m.get("isHot"))
+        existing = _find_existing_match(master, m)
+        if existing is not None:
+            merged_streams += merge_streams_into(existing["streams"], m.get("streams", []))
+            existing["isHot"] = bool(existing.get("isHot") or m.get("isHot"))
         else:
-            master[k] = m
-            order.append(k)
+            master.append(m)
             added_from_api1 += 1
 
-    return [master[k] for k in order], added_from_api1, merged_streams
+    return master, added_from_api1, merged_streams
 
 
 # ============================================================
@@ -530,7 +662,6 @@ def remove_empty_stream_urls(matches):
 # ============================================================
 
 def update_match_status(match, now_bd, manual_control):
-    event_name = get_event_name(match)
     source_status = get_source_status(match)
 
     # ১. ম্যানুয়াল ওভাররাইড (সবচেয়ে বেশি প্রায়োরিটি)
@@ -549,7 +680,6 @@ def update_match_status(match, now_bd, manual_control):
             match["status"] = "LIVE"
             return "LIVE"
         elif source_status in UPCOMING_SOURCE_STATUSES:
-            # API ২ UPCOMING বললেও, স্ট্রিম থাকলে এবং ১০ মিনিটের ভেতর হলে LIVE
             if has_streams and start_dt:
                 diff_minutes = (now_bd - start_dt).total_seconds() / 60
                 if diff_minutes >= -10:
@@ -562,19 +692,17 @@ def update_match_status(match, now_bd, manual_control):
     if has_streams and start_dt:
         diff_minutes = (now_bd - start_dt).total_seconds() / 60
         if diff_minutes >= -10:
-            if diff_minutes > 600: # ১০ ঘণ্টা (৬০০ মিনিট)
+            if diff_minutes > 600:
                 match["status"] = "ENDED"
                 return "ENDED"
             else:
                 match["status"] = "LIVE"
                 return "LIVE"
 
-    # ৪. ফলব্যাক (স্ট্রিম না থাকলেও ১০ মিনিট আগে থেকে LIVE)
+    # ৪. ফলব্যাক
     if start_dt:
         diff_minutes = (now_bd - start_dt).total_seconds() / 60
-        
-        # ১০ মিনিট আগে (diff_minutes >= -10) থেকে ১০ ঘণ্টা পর্যন্ত LIVE
-        if diff_minutes >= -10 and diff_minutes <= 600:
+        if -10 <= diff_minutes <= 600:
             match["status"] = "LIVE"
             return "LIVE"
         elif diff_minutes > 600:
@@ -583,8 +711,7 @@ def update_match_status(match, now_bd, manual_control):
         else:
             match["status"] = "UPCOMING"
             return "UPCOMING"
-            
-    # যদি startTime-ই না থাকে
+
     match["status"] = "UPCOMING"
     return "UPCOMING"
 
@@ -659,9 +786,9 @@ def main():
         removed_empty = remove_empty_stream_urls(merged)
         print(f"[CLEAN] Empty streams removed: {removed_empty}")
 
-        # 6. Update Statuses (API 1 Priority + API 2 Priority)
+        # 6. Update Statuses
         live, upcoming, ended = update_all_match_statuses(merged, now, manual)
-        
+
         # 7. Sort
         for m in merged:
             sort_streams_by_priority(m)
