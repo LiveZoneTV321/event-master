@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:50:13 PM 11-11-2026",
+  "last_update_time": "08:00:25 PM 11-11-2026",
   "total_matches": 349,
   "live_match": 7,
   "upcoming_match": 315,
@@ -183,6 +183,17 @@
         {
           "channel_name": "Server - 3",
           "stream_url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=07ff4c040ec6880d6cb11bed6ed7a676&txTime=6af4b46c",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001794403167-0-0-ae0c03a1a548ec73f26f134b58c19b1d",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
