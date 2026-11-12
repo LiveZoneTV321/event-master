@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:30:18 AM 13-11-2026",
+  "last_update_time": "05:40:11 AM 13-11-2026",
   "total_matches": 272,
-  "live_match": 13,
-  "upcoming_match": 225,
+  "live_match": 14,
+  "upcoming_match": 224,
   "ended_match": 34,
   "sources": [
     "api1:events.json",
@@ -337,6 +337,33 @@
       ],
       "isHot": false,
       "id": "evt_ac4f9029cffb"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Curaçao Vs Panama",
+      "eventInfo": {
+        "teamA": "Curaçao",
+        "teamB": "Panama",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/55827/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5164/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "13/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c31a3d12d696"
     },
     {
       "status": "UPCOMING",
@@ -2082,33 +2109,6 @@
       ],
       "isHot": false,
       "id": "evt_ccd3e7a5895d"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Curaçao Vs Panama",
-      "eventInfo": {
-        "teamA": "Curaçao",
-        "teamB": "Panama",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/55827/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5164/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "13/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c31a3d12d696"
     },
     {
       "status": "UPCOMING",
