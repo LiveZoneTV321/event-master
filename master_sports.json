@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:30:19 PM 12-11-2026",
+  "last_update_time": "04:40:13 PM 12-11-2026",
   "total_matches": 277,
   "live_match": 11,
   "upcoming_match": 257,
@@ -11,6 +11,23 @@
     "api2:Sports_data.json"
   ],
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Perth Wildcats Vs Tasmania Jackjumpers",
+      "eventInfo": {
+        "teamA": "Perth Wildcats",
+        "teamB": "Tasmania Jackjumpers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3609/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/400450/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "12/11/2026 04:30:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_05b67f7747b6"
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -350,23 +367,6 @@
       ],
       "isHot": false,
       "id": "evt_ccd3e7a5895d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Perth Wildcats Vs Tasmania Jackjumpers",
-      "eventInfo": {
-        "teamA": "Perth Wildcats",
-        "teamB": "Tasmania Jackjumpers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3609/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/400450/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "12/11/2026 04:30:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_05b67f7747b6"
     },
     {
       "status": "LIVE",
