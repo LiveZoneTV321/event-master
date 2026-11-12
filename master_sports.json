@@ -1,16 +1,45 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:00:25 AM 13-11-2026",
+  "last_update_time": "03:10:17 AM 13-11-2026",
   "total_matches": 272,
-  "live_match": 22,
-  "upcoming_match": 236,
+  "live_match": 23,
+  "upcoming_match": 235,
   "ended_match": 14,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
   ],
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Primera A Vs Primera A",
+      "eventInfo": {
+        "teamA": "Primera A",
+        "teamB": "Primera A",
+        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "13/11/2026 02:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "Alianza vs Llaneros",
+          "stream_url": "http://193.47.62.44/hls/C555AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f7a236702985"
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -1115,31 +1144,29 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Primera A Vs Primera A",
+      "event_name": "Aruba Vs Martinique",
       "eventInfo": {
-        "teamA": "Primera A",
-        "teamB": "Primera A",
-        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "13/11/2026 02:45:00 AM"
+        "teamA": "Aruba",
+        "teamB": "Martinique",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21806/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/45485/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "13/11/2026 04:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
         },
         {
-          "channel_name": "Alianza vs Llaneros",
-          "stream_url": "http://193.47.62.44/hls/C555AA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
         }
       ],
       "isHot": false,
-      "id": "evt_f7a236702985"
+      "id": "evt_67ebe00c2f7f"
     },
     {
       "status": "LIVE",
@@ -3229,33 +3256,6 @@
       "streams": [],
       "isHot": false,
       "id": "evt_f51d7f52f863"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Aruba Vs Martinique",
-      "eventInfo": {
-        "teamA": "Aruba",
-        "teamB": "Martinique",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21806/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/45485/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "13/11/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_67ebe00c2f7f"
     },
     {
       "status": "UPCOMING",
