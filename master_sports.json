@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:40:14 AM 13-11-2026",
+  "last_update_time": "12:50:14 AM 13-11-2026",
   "total_matches": 274,
-  "live_match": 18,
-  "upcoming_match": 242,
+  "live_match": 19,
+  "upcoming_match": 241,
   "ended_match": 14,
   "sources": [
     "api1:events.json",
@@ -749,6 +749,46 @@
         }
       ],
       "id": "evt_858a8b9cb34a",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Ivory Coast Vs Gambia",
+      "eventInfo": {
+        "teamA": "Ivory Coast",
+        "teamB": "Gambia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4768/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4762/image",
+        "eventName": "Africa Cup of Nations Qualification",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+        "startTime": "13/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001794504012-0-0-1dd3f6a9d3f27ff1f3fe48f87f850981",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794496088-0-0-4997dd4761f87ef41fc73fb22962d98f",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794499928-0-0-5e18bebe1d471a1f1afeaaa988e45e8f",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_aaf7d9ea8a50",
       "isHot": false
     },
     {
@@ -3171,46 +3211,6 @@
       "streams": [],
       "isHot": false,
       "id": "evt_6f9631e53c74"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Ivory Coast Vs Gambia",
-      "eventInfo": {
-        "teamA": "Ivory Coast",
-        "teamB": "Gambia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4768/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4762/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "13/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001794504012-0-0-1dd3f6a9d3f27ff1f3fe48f87f850981",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794496088-0-0-4997dd4761f87ef41fc73fb22962d98f",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794499928-0-0-5e18bebe1d471a1f1afeaaa988e45e8f",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_aaf7d9ea8a50",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
