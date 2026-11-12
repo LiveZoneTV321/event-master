@@ -1,16 +1,118 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:00:22 AM 12-11-2026",
+  "last_update_time": "08:10:14 AM 12-11-2026",
   "total_matches": 306,
-  "live_match": 26,
-  "upcoming_match": 264,
+  "live_match": 30,
+  "upcoming_match": 260,
   "ended_match": 16,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
   ],
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Utah Jazz Vs Orlando Magic",
+      "eventInfo": {
+        "teamA": "Utah Jazz",
+        "teamB": "Orlando Magic",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "12/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59862/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/AVVVAAAAQA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_bead86b87fe1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Edmonton Oilers Vs Philadelphia Flyers",
+      "eventInfo": {
+        "teamA": "Edmonton Oilers",
+        "teamB": "Philadelphia Flyers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "12/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59861/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d5a96525-fc6f-4a42-8be7-2096abf040c0/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_2f8f17e0879a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "UCLA Bruins Vs Arkansas-Pine Bluff Golden Lions",
+      "eventInfo": {
+        "teamA": "UCLA Bruins",
+        "teamB": "Arkansas-Pine Bluff Golden Lions",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34626/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/41195/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "12/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_435a8065b7d4"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Nebraska Cornhuskers Vs Lindenwood Lions",
+      "eventInfo": {
+        "teamA": "Nebraska Cornhuskers",
+        "teamB": "Lindenwood Lions",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/86762/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/303199/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "12/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4a66b72412eb"
+    },
     {
       "status": "LIVE",
       "Category": "Basketball",
@@ -25,6 +127,22 @@
         "startTime": "12/11/2026 07:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "NBA LEAGUEPASS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5k9akh3f0y/out/v1/52839b2a70154ed79d701cdf580b02b5/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "101118173924285029f1fb2164ab46bb:fb649721eb84f26b9bdfb82ac8d53e6c"
+        },
+        {
+          "channel_name": "HD QUALITY 1",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59858/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59853/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist/59858/load-playlist?&.m3u8",
@@ -92,6 +210,12 @@
       },
       "streams": [
         {
+          "channel_name": "NBA LEAGUEPASS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o6iroxzgrx/out/v1/07e72b33027741f694a83cff227d466f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "5f697a7fecd2d6013c2ce75cd5d6d2ae:a135193cddc54efca49e9fbecadd11f2"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist/59852/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
@@ -121,6 +245,12 @@
       },
       "streams": [
         {
+          "channel_name": "NBA LEAGUEPASS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r9tnyvocsi/out/v1/541be1df14c140f1a9dc9d5599764fe1/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "44863f71eb6ea03099335d5e2eb7a42b:34246440de81a8a7bd7872dc0417c5e6"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist/59857/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
@@ -134,6 +264,16 @@
           "stream_url": "http://193.47.62.59/hls/AVVVA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "TV QUALITY 1",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59857/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "TV QUALITY 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59851/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
@@ -591,108 +731,6 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Utah Jazz Vs Orlando Magic",
-      "eventInfo": {
-        "teamA": "Utah Jazz",
-        "teamB": "Orlando Magic",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3437/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "12/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/AVVVAAAAQA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_bead86b87fe1"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Edmonton Oilers Vs Philadelphia Flyers",
-      "eventInfo": {
-        "teamA": "Edmonton Oilers",
-        "teamB": "Philadelphia Flyers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "12/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59861/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d5a96525-fc6f-4a42-8be7-2096abf040c0/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_2f8f17e0879a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "UCLA Bruins Vs Arkansas-Pine Bluff Golden Lions",
-      "eventInfo": {
-        "teamA": "UCLA Bruins",
-        "teamB": "Arkansas-Pine Bluff Golden Lions",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34626/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/41195/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "12/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_435a8065b7d4"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Nebraska Cornhuskers Vs Lindenwood Lions",
-      "eventInfo": {
-        "teamA": "Nebraska Cornhuskers",
-        "teamB": "Lindenwood Lions",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/86762/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/303199/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "12/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_4a66b72412eb"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
       "event_name": "Houston Rockets Vs Golden State Warriors",
       "eventInfo": {
         "teamA": "Houston Rockets",
@@ -706,7 +744,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59865/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -741,7 +779,7 @@
         },
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59864/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -774,6 +812,111 @@
       ],
       "isHot": false,
       "id": "evt_9fcd494a2fb3"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Portland Trail Blazers Vs Oklahoma City Thunder",
+      "eventInfo": {
+        "teamA": "Portland Trail Blazers",
+        "teamB": "Oklahoma City Thunder",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "12/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/AVVVAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e8ec441bd37c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Anaheim Ducks Vs Nashville Predators",
+      "eventInfo": {
+        "teamA": "Anaheim Ducks",
+        "teamB": "Nashville Predators",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "12/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4a88a604-e5a7-448b-9402-fe22708951ad/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d14d2d841b99"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "San Jose Sharks Vs Pittsburgh Penguins",
+      "eventInfo": {
+        "teamA": "San Jose Sharks",
+        "teamB": "Pittsburgh Penguins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "12/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA1 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/52b0951b-5639-45e1-ac2c-7aa157dd3efd/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a1ac50475012"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Pachuca Vs Monterrey",
+      "eventInfo": {
+        "teamA": "Pachuca",
+        "teamB": "Monterrey",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/260999/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274540/image",
+        "eventName": "Liga MX, Women, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13593/image/dark",
+        "startTime": "12/11/2026 09:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_ddfaec53b43d"
     },
     {
       "status": "UPCOMING",
@@ -2604,111 +2747,6 @@
       ],
       "isHot": false,
       "id": "evt_21ef12fbd3fb"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Portland Trail Blazers Vs Oklahoma City Thunder",
-      "eventInfo": {
-        "teamA": "Portland Trail Blazers",
-        "teamB": "Oklahoma City Thunder",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "12/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/AVVVAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e8ec441bd37c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Anaheim Ducks Vs Nashville Predators",
-      "eventInfo": {
-        "teamA": "Anaheim Ducks",
-        "teamB": "Nashville Predators",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "12/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4a88a604-e5a7-448b-9402-fe22708951ad/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d14d2d841b99"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "San Jose Sharks Vs Pittsburgh Penguins",
-      "eventInfo": {
-        "teamA": "San Jose Sharks",
-        "teamB": "Pittsburgh Penguins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "12/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NOVA1 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/52b0951b-5639-45e1-ac2c-7aa157dd3efd/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a1ac50475012"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Pachuca Vs Monterrey",
-      "eventInfo": {
-        "teamA": "Pachuca",
-        "teamB": "Monterrey",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/260999/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274540/image",
-        "eventName": "Liga MX, Women, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13593/image/dark",
-        "startTime": "12/11/2026 09:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_ddfaec53b43d"
     },
     {
       "status": "UPCOMING",
