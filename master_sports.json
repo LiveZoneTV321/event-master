@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:30:19 PM 12-11-2026",
+  "last_update_time": "05:40:13 PM 12-11-2026",
   "total_matches": 275,
-  "live_match": 10,
+  "live_match": 9,
   "upcoming_match": 256,
-  "ended_match": 9,
+  "ended_match": 10,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -87,23 +87,6 @@
       ],
       "isHot": false,
       "id": "evt_af9d2b57ae37"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Adelaide 36ers Vs Melbourne United",
-      "eventInfo": {
-        "teamA": "Adelaide 36ers",
-        "teamB": "Melbourne United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3612/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3608/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "12/11/2026 02:30:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_06857a7de281"
     },
     {
       "status": "LIVE",
@@ -6009,6 +5992,23 @@
       ],
       "isHot": false,
       "id": "evt_d1a6c3d7a0ab"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Adelaide 36ers Vs Melbourne United",
+      "eventInfo": {
+        "teamA": "Adelaide 36ers",
+        "teamB": "Melbourne United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3612/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3608/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "12/11/2026 02:30:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_06857a7de281"
     }
   ]
 }
