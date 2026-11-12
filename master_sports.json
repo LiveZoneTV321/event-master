@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:50:12 AM 12-11-2026",
+  "last_update_time": "11:00:24 AM 12-11-2026",
   "total_matches": 306,
   "live_match": 18,
   "upcoming_match": 255,
@@ -57,6 +57,12 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm_key": "e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900"
+        },
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -537,6 +543,18 @@
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dgcuvppny7/out/v1/bdda2132bb0d48b58073099204524d19/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "69b4f7d5d85ff47192fce27c107246f7:8993f991655c84eb324bad2c1c551cc1"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dgcuvppny7/out/v1/bdda2132bb0d48b58073099204524d19/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "69b4f7d5d85ff47192fce27c107246f7:8993f991655c84eb324bad2c1c551cc1"
         }
       ],
       "isHot": false,
@@ -560,6 +578,18 @@
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gzvikpbslw/out/v1/63a3205231a0489fb62c8acc96e52bc2/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "ae9dfc3e14f81520c96678b2818203b0:890f27ce6531575d09365c95c7557cd8"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gzvikpbslw/out/v1/63a3205231a0489fb62c8acc96e52bc2/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "ae9dfc3e14f81520c96678b2818203b0:890f27ce6531575d09365c95c7557cd8"
         }
       ],
       "isHot": false,
@@ -589,6 +619,18 @@
           "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
           "referer": "https://www.tapmad.com/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/anug0owvyf/out/v1/c5ae61f47b43420a9ce245e4b6c30f2f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "c913b1471f49e4025d8d7b9fa1aef810:a3e85530de55a1f402a099b2ade8808f"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/anug0owvyf/out/v1/c5ae61f47b43420a9ce245e4b6c30f2f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "c913b1471f49e4025d8d7b9fa1aef810:a3e85530de55a1f402a099b2ade8808f"
         }
       ],
       "id": "evt_60dfeb8e42ef",
