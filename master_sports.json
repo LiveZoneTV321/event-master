@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:30:19 AM 12-11-2026",
+  "last_update_time": "06:40:14 AM 12-11-2026",
   "total_matches": 307,
   "live_match": 20,
   "upcoming_match": 271,
@@ -11,6 +11,29 @@
     "api2:Sports_data.json"
   ],
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Calgary Flames Vs New York Rangers",
+      "eventInfo": {
+        "teamA": "Calgary Flames",
+        "teamB": "New York Rangers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "12/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e6c6eb3b0b3a"
+    },
     {
       "status": "LIVE",
       "Category": "Boxing",
@@ -350,29 +373,6 @@
       ],
       "isHot": false,
       "id": "evt_752beea5bb36"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Calgary Flames Vs New York Rangers",
-      "eventInfo": {
-        "teamA": "Calgary Flames",
-        "teamB": "New York Rangers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "12/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e6c6eb3b0b3a"
     },
     {
       "status": "LIVE",
