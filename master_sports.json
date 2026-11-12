@@ -1,16 +1,76 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:30:20 PM 12-11-2026",
+  "last_update_time": "11:40:14 PM 12-11-2026",
   "total_matches": 274,
-  "live_match": 16,
+  "live_match": 14,
   "upcoming_match": 249,
-  "ended_match": 9,
+  "ended_match": 11,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
   ],
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Malta Vs Eswatini",
+      "eventInfo": {
+        "teamA": "Malta",
+        "teamB": "Eswatini",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4483/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4733/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "12/11/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/V333A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=1c0168f38fd9f0f9fa1681cbb6f2c8fb&wsABSTime=1794543859",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_fce086148248"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Calvo Sotelo Puertollano Vs Albacete Balompié",
+      "eventInfo": {
+        "teamA": "Calvo Sotelo Puertollano",
+        "teamB": "Albacete Balompié",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/295639/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image",
+        "eventName": "Copa del Rey",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "startTime": "12/11/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/V333.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/V333.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_cd959dd1e854"
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -56,10 +116,25 @@
       },
       "streams": [
         {
+          "channel_name": "DAZN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/af78moxwel/out/v1/412cee2767ed4c4a9bccc22f950ce86c/cenc.mpd",
+          "drm_key": "a59ccf4a670e13932b4bd5972b2be7d1:de96de2f353e2922634e7e1b34befee0"
+        },
+        {
+          "channel_name": "SonyLiv PRIME FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/td0oga2768/out/v1/a45152e1f3204d6aa040ea44742c838e/cenc.mpd",
+          "drm_key": "af5adf2f9aebfbce439fd9de4d6f6111:bd962ed1dc6391f707b93c9385d9b54c"
+        },
+        {
           "channel_name": "BEIN3 SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "VIX Español FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0pkxlhb5ji/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd",
+          "drm_key": "c4df001be8b4bf02ebb396f1ef9aba4f:ab259ee18cef520f319cdea61ddfa293"
         },
         {
           "channel_name": "FOX1 SPORTS FHD",
@@ -77,6 +152,10 @@
           "channel_name": "HD QUALITY ",
           "stream_url": "https://chatgpt.hereisman.net/playlist/59876/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 8",
+          "stream_url": "https://www.rtmpcdn.com/live/177f579d-a5a2-4aa9-a3a9-0bd2e41fdcd3.m3u8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -134,6 +213,21 @@
       },
       "streams": [
         {
+          "channel_name": "DAZN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rsmrmcmdzb/out/v1/fa673d18f36e4b999c3e8a3f79721ee9/cenc.mpd",
+          "drm_key": "aa030376eae4a60c422a069784a0b221:f18ac2a2d72a87ffe66b62740336907a"
+        },
+        {
+          "channel_name": "VIX Español FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/82oqikb16e/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
+          "drm_key": "fb2f6053cd382eb138d7c8f0dfa461e2:94eae87ba9e0eb456dcb0a3f2debd0df"
+        },
+        {
+          "channel_name": "SonyLiv PRIME FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yi7ehwmaqx/out/v1/b544273aaf66429a8892963d8fbdd086/cenc.mpd",
+          "drm_key": "8a8998a833ad2d041de7cacd95c3f685:8256d9686b0c3dde63f205614c0772a5"
+        },
+        {
           "channel_name": "BeIN2 SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
           "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
@@ -149,6 +243,10 @@
           "channel_name": "HD QUALITY ",
           "stream_url": "https://chatgpt.hereisman.net/playlist/59877/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 7",
+          "stream_url": "https://www.rtmpcdn.com/live/805fb1e1-c171-469e-9cd0-659b98ca4547.m3u8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -212,6 +310,67 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Guinea Vs Eritrea",
+      "eventInfo": {
+        "teamA": "Guinea",
+        "teamB": "Eritrea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4826/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8041/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "12/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN SPORTS3 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "QUALITY TV+ HD ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4642737.m3u8?txSecret=137499192f6d400dd8bf072328e9be6d&txTime=6AF5F7AC",
+          "referer": "https://player.on8on8.com/"
+        },
+        {
+          "channel_name": "HD QUALITY 4",
+          "stream_url": "https://www.rtmpcdn.com/live/576e7206-53a9-498f-9735-1383ded86fe8.m3u8"
+        },
+        {
+          "channel_name": "HD QUICKLY ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4642737.m3u8?txSecret=137499192f6d400dd8bf072328e9be6d&txTime=6AF5F7AC",
+          "referer": "https://player.on8on8.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/GGGGAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "TV QUALITY+",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hlzw7dt5/index.m3u8"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001794496928-0-0-3521641e9909b7262a596963c5141a3d",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4a1e4e1632e4"
+    },
+    {
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Seattle Kraken Vs Carolina Hurricanes",
       "eventInfo": {
@@ -265,7 +424,7 @@
         },
         {
           "channel_name": "QUALITY TV+ HD ",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4642729.m3u8?txSecret=48a079fe4408e07b5a964f09ff37db8c&txTime=6AF5F7FD",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4642741.m3u8?txSecret=6bb1fc6644ad2ec3bd1b90e4f2d79630&txTime=6AF5F73F",
           "referer": "https://player.on8on8.com/"
         },
         {
@@ -309,6 +468,11 @@
         "startTime": "12/11/2026 10:00:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "HD QUALITY TV ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4642741.m3u8?txSecret=6bb1fc6644ad2ec3bd1b90e4f2d79630&txTime=6AF5F73F",
+          "referer": "https://player.on8on8.com/"
+        },
         {
           "channel_name": "HD QUALITY ",
           "stream_url": "https://www.rtmpcdn.com/live/b9b09c7b-5cc0-477b-8148-7345d757cf57.m3u8"
@@ -373,188 +537,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Guinea Vs Eritrea",
-      "eventInfo": {
-        "teamA": "Guinea",
-        "teamB": "Eritrea",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4826/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/8041/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "12/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN SPORTS3 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "QUALITY TV+ HD ",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4642737.m3u8?txSecret=137499192f6d400dd8bf072328e9be6d&txTime=6AF5F7AC",
-          "referer": "https://player.on8on8.com/"
-        },
-        {
-          "channel_name": "HD QUALITY 4",
-          "stream_url": "https://www.rtmpcdn.com/live/576e7206-53a9-498f-9735-1383ded86fe8.m3u8"
-        },
-        {
-          "channel_name": "HD QUICKLY ",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4642737.m3u8?txSecret=137499192f6d400dd8bf072328e9be6d&txTime=6AF5F7AC",
-          "referer": "https://player.on8on8.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/GGGGAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "TV QUALITY+",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hlzw7dt5/index.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001794496928-0-0-3521641e9909b7262a596963c5141a3d",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_4a1e4e1632e4"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Uzbekistan Vs Russia",
-      "eventInfo": {
-        "teamA": "Uzbekistan",
-        "teamB": "Russia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4723/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4694/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "12/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4663034.m3u8?txSecret=a476905ff9106c96ebfbeb9e6d9bf977&txTime=6AF5ED78",
-          "referer": "https://player.on8on8.com/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/FF444A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3f60f4f67bec"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Ghana Vs Somalia",
-      "eventInfo": {
-        "teamA": "Ghana",
-        "teamB": "Somalia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4764/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/23472/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "12/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
-        },
-        {
-          "channel_name": "beIN ESPNAOL FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4642738.m3u8?txSecret=2c99896f3129522ec25a93e6fb26417a&txTime=6AF5E8C5",
-          "referer": "https://player.on8on8.com/"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://www.rtmpcdn.com/live/17e1ac47-caa9-4698-a236-70ce92411dea.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/GGGG.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ce87361c865a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Malta Vs Eswatini",
-      "eventInfo": {
-        "teamA": "Malta",
-        "teamB": "Eswatini",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4483/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4733/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "12/11/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=1c0168f38fd9f0f9fa1681cbb6f2c8fb&wsABSTime=1794543859",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_fce086148248"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Calvo Sotelo Puertollano Vs Albacete Balompié",
-      "eventInfo": {
-        "teamA": "Calvo Sotelo Puertollano",
-        "teamB": "Albacete Balompié",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/295639/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "startTime": "12/11/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_cd959dd1e854"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Fútbol Club Barcelona Vs Arsenal",
       "eventInfo": {
         "teamA": "Fútbol Club Barcelona",
@@ -574,6 +556,12 @@
           "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
         },
         {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/V333AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/2260/index.m3u8"
         },
@@ -587,6 +575,16 @@
           "channel_name": "Server - 2",
           "stream_url": "https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=eea4e263fb494346a826b33ffce0c584&wsABSTime=1794543969",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://playback.livetl004.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=0c25231e82e4a5b4516c29120da10803&txTime=6af60cf4",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
@@ -609,8 +607,27 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "stream_url": "http://193.47.62.55/hls/V333AAAAQQQQAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/V333AAAAQQQQAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel14/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001794503984-0-0-ec8e91e216e26ead2b7057d9d9798639",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -629,7 +646,14 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
         "startTime": "13/11/2026 12:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/V333AAAAQQQQAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
       "isHot": false,
       "id": "evt_8b73f27d0dc1"
     },
@@ -651,6 +675,12 @@
           "channel_name": "Server - 1",
           "stream_url": "https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=3509af53c75be39f6669419c0432a27a&wsABSTime=1794543761",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "http://193.47.62.55/hls/V333.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
@@ -3178,6 +3208,42 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Tarancón Vs Levante",
+      "eventInfo": {
+        "teamA": "Tarancón",
+        "teamB": "Levante",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/293881/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+        "eventName": "Copa del Rey",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
+        "startTime": "13/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001794504042-0-0-45e7e16980466326960f1734a9063a1b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "http://193.47.62.55/hls/V333AAAAQQQQAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_83cdfb4e3484",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "United Tigers Vs Emirates Eagles",
       "eventInfo": {
@@ -3465,23 +3531,6 @@
       },
       "streams": [],
       "id": "evt_77177d717f4a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Tarancón Vs Levante",
-      "eventInfo": {
-        "teamA": "Tarancón",
-        "teamB": "Levante",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/293881/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
-        "startTime": "13/11/2026 12:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_83cdfb4e3484",
       "isHot": false
     },
     {
@@ -6228,6 +6277,80 @@
       ],
       "isHot": false,
       "id": "evt_64810d33ad2c"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Uzbekistan Vs Russia",
+      "eventInfo": {
+        "teamA": "Uzbekistan",
+        "teamB": "Russia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4723/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4694/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "12/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4663034.m3u8?txSecret=a476905ff9106c96ebfbeb9e6d9bf977&txTime=6AF5ED78",
+          "referer": "https://player.on8on8.com/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/FF444A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3f60f4f67bec"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Ghana Vs Somalia",
+      "eventInfo": {
+        "teamA": "Ghana",
+        "teamB": "Somalia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4764/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/23472/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "12/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "channel_name": "beIN ESPNAOL FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4642738.m3u8?txSecret=2c99896f3129522ec25a93e6fb26417a&txTime=6AF5E8C5",
+          "referer": "https://player.on8on8.com/"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://www.rtmpcdn.com/live/17e1ac47-caa9-4698-a236-70ce92411dea.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/GGGG.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ce87361c865a"
     }
   ]
 }
