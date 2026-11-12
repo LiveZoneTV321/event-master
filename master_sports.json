@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:10:15 PM 12-11-2026",
+  "last_update_time": "01:20:13 PM 12-11-2026",
   "total_matches": 306,
   "live_match": 7,
   "upcoming_match": 252,
@@ -368,6 +368,11 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://scontent.fdac24-2.fna.fbcdn.net/hvideo-frc-prn/_nc_cat-1/_nc_sr_t-4/v/rAbbd9PQszyBLvoOo7dn05XqiBVoqXp7NwK5dl_1mi1k-0w/_nc_ohc-o5sf-CHGRcwQ7kNvwHEcyUN/live-dash/dash-abr-ibr-audio/122147769177382821.mpd?_nc_eui2=AeFS-0Mb2R3wE49iptmW7FWtxRje9_UXKRnFGN739RcpGfC-_WJiRBwW_gtb80dq44zQni6T8un2Ni4YAhm0hR0D&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQSvcCxLROooNAViCDvSQap-ALaVzxh6ukFOkVM4AkToJQ&oe=6AF745E9",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "id": "evt_66cc88747828",
