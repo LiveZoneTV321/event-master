@@ -1,151 +1,16 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:00:23 AM 12-11-2026",
+  "last_update_time": "06:10:13 AM 12-11-2026",
   "total_matches": 307,
-  "live_match": 13,
-  "upcoming_match": 278,
+  "live_match": 20,
+  "upcoming_match": 271,
   "ended_match": 16,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
   ],
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Platense Vs Peñarol Mar del Plata",
-      "eventInfo": {
-        "teamA": "Platense",
-        "teamB": "Peñarol Mar del Plata",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/272047/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/125888/image",
-        "eventName": "Argentina Liga Nacional",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1680/image/dark",
-        "startTime": "12/11/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS +2 FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-          "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a8637ffe6298"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Japan Vs Sweden",
-      "eventInfo": {
-        "teamA": "Japan",
-        "teamB": "Sweden",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22241/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5724/image",
-        "eventName": "World Championship Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "startTime": "12/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_32933556fa48"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "USA Vs Czechia",
-      "eventInfo": {
-        "teamA": "USA",
-        "teamB": "Czechia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5726/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/72454/image",
-        "eventName": "World Championship Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "startTime": "12/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_4177356fae22"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Germany Vs Switzerland",
-      "eventInfo": {
-        "teamA": "Germany",
-        "teamB": "Switzerland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5727/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5725/image",
-        "eventName": "World Championship Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "startTime": "11/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_04abbac93ba3"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Canada Vs Finland",
-      "eventInfo": {
-        "teamA": "Canada",
-        "teamB": "Finland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5721/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5728/image",
-        "eventName": "World Championship Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "startTime": "11/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_752beea5bb36"
-    },
     {
       "status": "LIVE",
       "Category": "Boxing",
@@ -353,6 +218,141 @@
     },
     {
       "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Platense Vs Peñarol Mar del Plata",
+      "eventInfo": {
+        "teamA": "Platense",
+        "teamB": "Peñarol Mar del Plata",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/272047/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/125888/image",
+        "eventName": "Argentina Liga Nacional",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1680/image/dark",
+        "startTime": "12/11/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS +2 FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+          "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a8637ffe6298"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Japan Vs Sweden",
+      "eventInfo": {
+        "teamA": "Japan",
+        "teamB": "Sweden",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22241/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5724/image",
+        "eventName": "World Championship Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "startTime": "12/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_32933556fa48"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "USA Vs Czechia",
+      "eventInfo": {
+        "teamA": "USA",
+        "teamB": "Czechia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5726/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/72454/image",
+        "eventName": "World Championship Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "startTime": "12/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4177356fae22"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Germany Vs Switzerland",
+      "eventInfo": {
+        "teamA": "Germany",
+        "teamB": "Switzerland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5727/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5725/image",
+        "eventName": "World Championship Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "startTime": "11/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_04abbac93ba3"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Canada Vs Finland",
+      "eventInfo": {
+        "teamA": "Canada",
+        "teamB": "Finland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5721/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5728/image",
+        "eventName": "World Championship Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "startTime": "11/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_752beea5bb36"
+    },
+    {
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Calgary Flames Vs New York Rangers",
       "eventInfo": {
@@ -373,6 +373,161 @@
       ],
       "isHot": false,
       "id": "evt_e6c6eb3b0b3a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Memphis Grizzlies Vs Denver Nuggets",
+      "eventInfo": {
+        "teamA": "Memphis Grizzlies",
+        "teamB": "Denver Nuggets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "12/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_351b9e7a832d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Chicago Bulls Vs San Antonio Spurs",
+      "eventInfo": {
+        "teamA": "Chicago Bulls",
+        "teamB": "San Antonio Spurs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "12/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4489ce55c8f4"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "New Orleans Pelicans Vs Brooklyn Nets",
+      "eventInfo": {
+        "teamA": "New Orleans Pelicans",
+        "teamB": "Brooklyn Nets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "12/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_30edc4c516f8"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Milwaukee Bucks Vs Los Angeles Lakers",
+      "eventInfo": {
+        "teamA": "Milwaukee Bucks",
+        "teamB": "Los Angeles Lakers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "12/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_de451df80263"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Club América Vs Toluca",
+      "eventInfo": {
+        "teamA": "Club América",
+        "teamB": "Toluca",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/261128/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/261026/image",
+        "eventName": "Liga MX, Women, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13593/image/dark",
+        "startTime": "12/11/2026 07:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_f767abe7e858"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Houston Cougars Vs Jacksonville State Gamecocks",
+      "eventInfo": {
+        "teamA": "Houston Cougars",
+        "teamB": "Jacksonville State Gamecocks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41223/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86764/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "12/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_325b5c88c8ed"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Arkansas Razorbacks Vs Robert Morris Colonials",
+      "eventInfo": {
+        "teamA": "Arkansas Razorbacks",
+        "teamB": "Robert Morris Colonials",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/87830/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34657/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "12/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_63fe0dc81992"
     },
     {
       "status": "UPCOMING",
@@ -2203,161 +2358,6 @@
       ],
       "isHot": false,
       "id": "evt_21ef12fbd3fb"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Memphis Grizzlies Vs Denver Nuggets",
-      "eventInfo": {
-        "teamA": "Memphis Grizzlies",
-        "teamB": "Denver Nuggets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "12/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_351b9e7a832d"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Chicago Bulls Vs San Antonio Spurs",
-      "eventInfo": {
-        "teamA": "Chicago Bulls",
-        "teamB": "San Antonio Spurs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "12/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_4489ce55c8f4"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "New Orleans Pelicans Vs Brooklyn Nets",
-      "eventInfo": {
-        "teamA": "New Orleans Pelicans",
-        "teamB": "Brooklyn Nets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5539/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "12/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_30edc4c516f8"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Milwaukee Bucks Vs Los Angeles Lakers",
-      "eventInfo": {
-        "teamA": "Milwaukee Bucks",
-        "teamB": "Los Angeles Lakers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "12/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_de451df80263"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Club América Vs Toluca",
-      "eventInfo": {
-        "teamA": "Club América",
-        "teamB": "Toluca",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/261128/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/261026/image",
-        "eventName": "Liga MX, Women, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13593/image/dark",
-        "startTime": "12/11/2026 07:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_f767abe7e858"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Houston Cougars Vs Jacksonville State Gamecocks",
-      "eventInfo": {
-        "teamA": "Houston Cougars",
-        "teamB": "Jacksonville State Gamecocks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/41223/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/86764/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "12/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_325b5c88c8ed"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Arkansas Razorbacks Vs Robert Morris Colonials",
-      "eventInfo": {
-        "teamA": "Arkansas Razorbacks",
-        "teamB": "Robert Morris Colonials",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/87830/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34657/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "12/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_63fe0dc81992"
     },
     {
       "status": "UPCOMING",
