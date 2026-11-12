@@ -190,6 +190,9 @@ def generate_event_id(match):
 def decode_drm_b64(drm_b64):
     if not drm_b64:
         return None
+         # ✅ নতুন: plain KID:KEY হলে সরাসরি ফেরত (32 hex : 32 hex)
+    if re.match(r"^[0-9a-fA-F]{32}:[0-9a-fA-F]{32}$", raw):
+        return raw.lower()
     try:
         decoded = base64.b64decode(str(drm_b64)).decode("utf-8").strip()
         if ":" in decoded:
