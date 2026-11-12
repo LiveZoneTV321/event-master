@@ -1,16 +1,107 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:30:17 AM 12-11-2026",
+  "last_update_time": "08:40:13 AM 12-11-2026",
   "total_matches": 306,
-  "live_match": 30,
+  "live_match": 29,
   "upcoming_match": 260,
-  "ended_match": 16,
+  "ended_match": 17,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
   ],
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Houston Rockets Vs Golden State Warriors",
+      "eventInfo": {
+        "teamA": "Houston Rockets",
+        "teamB": "Golden State Warriors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "12/11/2026 08:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59865/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/NRRRAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_53edf288eb5c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Vegas Golden Knights Vs Utah Mammoth",
+      "eventInfo": {
+        "teamA": "Vegas Golden Knights",
+        "teamB": "Utah Mammoth",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "12/11/2026 08:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59864/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SKY SPORTS MIX",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c667d106-f371-4d2c-9c19-a3d39220e60b/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_512daf83ac37"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Naranjeros de Hermosillo Vs Yaquis de Obregón",
+      "eventInfo": {
+        "teamA": "Naranjeros de Hermosillo",
+        "teamB": "Yaquis de Obregón",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/188265/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/188406/image",
+        "eventName": "Liga Mexicana del Pacifico",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19488/image/dark",
+        "startTime": "12/11/2026 08:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_9fcd494a2fb3"
+    },
     {
       "status": "LIVE",
       "Category": "Basketball",
@@ -25,6 +116,22 @@
         "startTime": "12/11/2026 08:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "NBA LEAGUEPASS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xpijzxet2m/out/v1/bc51e05df44d4a9ca5990fb2699d54da/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "e752dd17d627110e79652951a4d1846f:93bbd6b0a8f9afa2e2dbaffb4b6304f5"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59862/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 3",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59870/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist/59862/load-playlist?&.m3u8",
@@ -214,6 +321,16 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o6iroxzgrx/out/v1/07e72b33027741f694a83cff227d466f/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "5f697a7fecd2d6013c2ce75cd5d6d2ae:a135193cddc54efca49e9fbecadd11f2"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59852/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 3",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59856/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         },
         {
           "channel_name": "STREAM TV + HD",
@@ -708,114 +825,6 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Platense Vs Peñarol Mar del Plata",
-      "eventInfo": {
-        "teamA": "Platense",
-        "teamB": "Peñarol Mar del Plata",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/272047/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/125888/image",
-        "eventName": "Argentina Liga Nacional",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1680/image/dark",
-        "startTime": "12/11/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS +2 FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-          "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a8637ffe6298"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Houston Rockets Vs Golden State Warriors",
-      "eventInfo": {
-        "teamA": "Houston Rockets",
-        "teamB": "Golden State Warriors",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "12/11/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59865/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/NRRRAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_53edf288eb5c"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Vegas Golden Knights Vs Utah Mammoth",
-      "eventInfo": {
-        "teamA": "Vegas Golden Knights",
-        "teamB": "Utah Mammoth",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "12/11/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59864/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c667d106-f371-4d2c-9c19-a3d39220e60b/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_512daf83ac37"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Naranjeros de Hermosillo Vs Yaquis de Obregón",
-      "eventInfo": {
-        "teamA": "Naranjeros de Hermosillo",
-        "teamB": "Yaquis de Obregón",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/188265/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/188406/image",
-        "eventName": "Liga Mexicana del Pacifico",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19488/image/dark",
-        "startTime": "12/11/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9fcd494a2fb3"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
       "event_name": "Portland Trail Blazers Vs Oklahoma City Thunder",
       "eventInfo": {
         "teamA": "Portland Trail Blazers",
@@ -829,7 +838,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59867/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -858,7 +867,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59869/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -890,7 +899,7 @@
         },
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59868/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -2868,12 +2877,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "startTime": "12/11/2026 12:00:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "isHot": false,
       "id": "evt_e212e80eb1fc"
     },
@@ -3118,12 +3122,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "startTime": "12/11/2026 11:00:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "isHot": false,
       "id": "evt_47036a211ca1"
     },
@@ -3225,12 +3224,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "startTime": "12/11/2026 11:30:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "isHot": false,
       "id": "evt_fce086148248"
     },
@@ -3400,7 +3394,8 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
@@ -3422,7 +3417,8 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
@@ -3444,7 +3440,8 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
@@ -3466,7 +3463,8 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
@@ -6772,6 +6770,29 @@
       ],
       "isHot": false,
       "id": "evt_901a2d83da46"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Platense Vs Peñarol Mar del Plata",
+      "eventInfo": {
+        "teamA": "Platense",
+        "teamB": "Peñarol Mar del Plata",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/272047/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/125888/image",
+        "eventName": "Argentina Liga Nacional",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1680/image/dark",
+        "startTime": "12/11/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS +2 FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+          "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a8637ffe6298"
     }
   ]
 }
