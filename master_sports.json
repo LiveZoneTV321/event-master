@@ -1,16 +1,43 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:00:23 AM 13-11-2026",
+  "last_update_time": "04:10:15 AM 13-11-2026",
   "total_matches": 272,
-  "live_match": 16,
-  "upcoming_match": 236,
+  "live_match": 18,
+  "upcoming_match": 234,
   "ended_match": 20,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
   ],
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Aruba Vs Martinique",
+      "eventInfo": {
+        "teamA": "Aruba",
+        "teamB": "Martinique",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21806/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/45485/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "13/11/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_67ebe00c2f7f"
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -578,29 +605,42 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Aruba Vs Martinique",
+      "event_name": "Antigua and Barbuda Vs Trinidad and Tobago",
       "eventInfo": {
-        "teamA": "Aruba",
-        "teamB": "Martinique",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21806/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/45485/image",
+        "teamA": "Antigua and Barbuda",
+        "teamB": "Trinidad and Tobago",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21805/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5162/image",
         "eventName": "CONCACAF Nations League",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "13/11/2026 04:00:00 AM"
+        "startTime": "13/11/2026 05:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
-      "id": "evt_67ebe00c2f7f"
+      "id": "evt_529527bd8c89"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Estudiantes de La Plata Vs Independiente Rivadavia",
+      "eventInfo": {
+        "teamA": "Estudiantes de La Plata",
+        "teamB": "Independiente Rivadavia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3206/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36842/image",
+        "eventName": "Supercopa Argentina",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1618/image/dark",
+        "startTime": "13/11/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_6f9631e53c74"
     },
     {
       "status": "UPCOMING",
@@ -2644,46 +2684,6 @@
       "streams": [],
       "isHot": false,
       "id": "evt_f51d7f52f863"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Antigua and Barbuda Vs Trinidad and Tobago",
-      "eventInfo": {
-        "teamA": "Antigua and Barbuda",
-        "teamB": "Trinidad and Tobago",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21805/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5162/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "13/11/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_529527bd8c89"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Estudiantes de La Plata Vs Independiente Rivadavia",
-      "eventInfo": {
-        "teamA": "Estudiantes de La Plata",
-        "teamB": "Independiente Rivadavia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3206/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36842/image",
-        "eventName": "Supercopa Argentina",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1618/image/dark",
-        "startTime": "13/11/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_6f9631e53c74"
     },
     {
       "status": "UPCOMING",
