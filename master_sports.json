@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:50:12 PM 12-11-2026",
-  "total_matches": 277,
-  "live_match": 11,
-  "upcoming_match": 257,
+  "last_update_time": "05:00:27 PM 12-11-2026",
+  "total_matches": 275,
+  "live_match": 10,
+  "upcoming_match": 256,
   "ended_match": 9,
   "sources": [
     "api1:events.json",
@@ -250,23 +250,6 @@
           "channel_name": "PRIME VIDEO FHD",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v9vh6sx6aa/out/v1/fa0840b9189c43a5b75029161e4f1829/cenc.mpd",
           "drm_key": "2d895ee3ffc49f5334210c8ee8cccee2:612a73373cbc8a0c795ef02e725ea42e"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gzvikpbslw/out/v1/63a3205231a0489fb62c8acc96e52bc2/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "ae9dfc3e14f81520c96678b2818203b0:890f27ce6531575d09365c95c7557cd8"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gzvikpbslw/out/v1/63a3205231a0489fb62c8acc96e52bc2/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "ae9dfc3e14f81520c96678b2818203b0:890f27ce6531575d09365c95c7557cd8"
-        },
-        {
-          "channel_name": "sonyliv - (eng)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -367,51 +350,6 @@
       ],
       "isHot": false,
       "id": "evt_ccd3e7a5895d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Biratnagar Kings Vs Pokhara Avengers",
-      "eventInfo": {
-        "teamA": "Biratnagar Kings",
-        "teamB": "Pokhara Avengers",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/PU.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/PW.png",
-        "eventName": "NPL 2026 - 22nd Match",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "startTime": "12/11/2026 12:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FANCODE - SD",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f"
-        },
-        {
-          "channel_name": "fancode - Aq",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://scontent.fdac24-2.fna.fbcdn.net/hvideo-frc-prn/_nc_cat-1/_nc_sr_t-4/v/rAbbd9PQszyBLvoOo7dn05XqiBVoqXp7NwK5dl_1mi1k-0w/_nc_ohc-o5sf-CHGRcwQ7kNvwHEcyUN/live-dash/dash-abr-ibr-audio/122147769177382821.mpd?_nc_eui2=AeFS-0Mb2R3wE49iptmW7FWtxRje9_UXKRnFGN739RcpGfC-_WJiRBwW_gtb80dq44zQni6T8un2Ni4YAhm0hR0D&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQSvcCxLROooNAViCDvSQap-ALaVzxh6ukFOkVM4AkToJQ&oe=6AF745E9",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://scontent.fdac198-1.fna.fbcdn.net/hvideo-atn-hil/_nc_cat-104/_nc_sr_t-4/v/rAbbjY4Ihb9LjZxduTgwQmmafFgzW_Ol-gN5jdcH37evN7g/_nc_ohc-U05qpXkFzq8Q7kNvwHFOeDv/live-dash/dash-abr-ibr-audio/122147797119382821.mpd?_nc_eui2=AeFZis-5QElZUN1UTDNdqSxkx4HJYJVrq37HgclglWurfqg9NbhE1zXc0twLPJv8lYdf0QCZOjYcnTHy1Or-q5Hq&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQRppbBDXDOL37aNSOg4tZgPLgV99NJ5K048sqGAlsWcVg&oe=6AF7341B",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_66cc88747828",
-      "isHot": false
     },
     {
       "status": "LIVE",
@@ -3117,23 +3055,6 @@
       },
       "streams": [],
       "id": "evt_91aabbbd1978",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Karnali Yaks Vs Lumbini Lions",
-      "eventInfo": {
-        "teamA": "Karnali Yaks",
-        "teamB": "Lumbini Lions",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/ZW.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/PS.png",
-        "eventName": "NPL 2026 - 23rd Match",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "startTime": "12/11/2026 05:15:00 PM"
-      },
-      "streams": [],
-      "id": "evt_dcac482bf0c8",
       "isHot": false
     },
     {
