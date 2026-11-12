@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:26:40 AM 12-11-2026",
+  "last_update_time": "10:30:18 AM 12-11-2026",
   "total_matches": 305,
-  "live_match": 16,
-  "upcoming_match": 256,
+  "live_match": 17,
+  "upcoming_match": 255,
   "ended_match": 33,
   "sources": [
     "api1:events.json",
@@ -482,6 +482,29 @@
       ],
       "isHot": false,
       "id": "evt_372b0feb5916"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Melbourne Stars Women Vs Brisbane Heat Women",
+      "eventInfo": {
+        "teamA": "Melbourne Stars Women",
+        "teamB": "Brisbane Heat Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274886/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274884/image",
+        "eventName": "WBBL 2026 - 19th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "12/11/2026 10:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "willow sports - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_60dfeb8e42ef",
+      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -2970,29 +2993,6 @@
       ],
       "isHot": false,
       "id": "evt_c91ed94c15f3"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Melbourne Stars Women Vs Brisbane Heat Women",
-      "eventInfo": {
-        "teamA": "Melbourne Stars Women",
-        "teamB": "Brisbane Heat Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274886/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274884/image",
-        "eventName": "WBBL 2026 - 19th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "12/11/2026 10:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "willow sports - aq",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_60dfeb8e42ef",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
