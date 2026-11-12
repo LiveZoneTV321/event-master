@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:30:19 AM 13-11-2026",
-  "total_matches": 273,
-  "live_match": 26,
+  "last_update_time": "02:40:15 AM 13-11-2026",
+  "total_matches": 272,
+  "live_match": 22,
   "upcoming_match": 236,
-  "ended_match": 11,
+  "ended_match": 14,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -452,6 +452,11 @@
           "stream_url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001794511419-0-0-fe6774c0e39389edee095117a4c04333",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://www.rtmpcdn.com/live/aa117ce3-4caf-46fc-814f-840fb3611e26.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -472,8 +477,8 @@
       },
       "streams": [
         {
-          "channel_name": "TVE La 1 ES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+          "channel_name": "TVE La 1 FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54"
         },
@@ -501,6 +506,12 @@
           "stream_url": "http://193.47.62.59/hls/FMMMAAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "TVE La 1 ALT",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54"
         },
         {
           "channel_name": "TV QUALITY+",
@@ -640,6 +651,12 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
+          "channel_name": "beIN ENGLISH ALT",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
           "channel_name": "sonyliv - (bd)",
           "stream_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf534prod-PlaybackConfig/2120307/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
@@ -685,6 +702,12 @@
           "stream_url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001794511179-0-0-dd80563998ebef9a83a751675d15ce1f",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Bein Sports - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
         }
       ],
       "isHot": false,
@@ -1092,106 +1115,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "CDA Navalcarnero Vs Real Betis",
-      "eventInfo": {
-        "teamA": "CDA Navalcarnero",
-        "teamB": "Real Betis",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24352/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "startTime": "13/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/V333AAAAQQQQAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel14/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001794503984-0-0-ec8e91e216e26ead2b7057d9d9798639",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b99fa532aec6"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CD Tarancón Vs Levante UD",
-      "eventInfo": {
-        "teamA": "CD Tarancón",
-        "teamB": "Levante UD",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/293881/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "startTime": "13/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/V333AAAAQQQQAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8b73f27d0dc1"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Fútbol Club Barcelona Vs Arsenal",
-      "eventInfo": {
-        "teamA": "Fútbol Club Barcelona",
-        "teamB": "Arsenal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/77889/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/26243/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "startTime": "12/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PARAMOUNT+ FHD ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eat53lihtk/out/v1/bad04cf10c3540cba411b006724a8d0c/cenc.mpd",
-          "drm_key": "6156ce2089ed6da0174588694057c21f:4a9f4027837a4380c293f48f33583d30"
-        },
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/V333AA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/2260/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e82d5ab0b508"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Primera A Vs Primera A",
       "eventInfo": {
         "teamA": "Primera A",
@@ -1262,42 +1185,6 @@
         }
       ],
       "id": "evt_aaf7d9ea8a50",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Tarancón Vs Levante",
-      "eventInfo": {
-        "teamA": "Tarancón",
-        "teamB": "Levante",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/293881/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
-        "startTime": "13/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001794504042-0-0-45e7e16980466326960f1734a9063a1b",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "http://193.47.62.55/hls/V333AAAAQQQQAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_83cdfb4e3484",
       "isHot": false
     },
     {
@@ -6575,6 +6462,94 @@
       ],
       "isHot": false,
       "id": "evt_cd959dd1e854"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Fútbol Club Barcelona Vs Arsenal",
+      "eventInfo": {
+        "teamA": "Fútbol Club Barcelona",
+        "teamB": "Arsenal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77889/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/26243/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "startTime": "12/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eat53lihtk/out/v1/bad04cf10c3540cba411b006724a8d0c/cenc.mpd",
+          "drm_key": "6156ce2089ed6da0174588694057c21f:4a9f4027837a4380c293f48f33583d30"
+        },
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/V333AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/2260/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e82d5ab0b508"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "CDA Navalcarnero Vs Real Betis",
+      "eventInfo": {
+        "teamA": "CDA Navalcarnero",
+        "teamB": "Real Betis",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24352/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+        "eventName": "Copa del Rey",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "startTime": "13/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/V333AAAAQQQQAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b99fa532aec6"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "CD Tarancón Vs Levante UD",
+      "eventInfo": {
+        "teamA": "CD Tarancón",
+        "teamB": "Levante UD",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/293881/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+        "eventName": "Copa del Rey",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "startTime": "13/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/V333AAAAQQQQAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8b73f27d0dc1"
     }
   ]
 }
