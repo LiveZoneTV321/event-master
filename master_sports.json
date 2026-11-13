@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:20:13 PM 13-11-2026",
+  "last_update_time": "02:30:18 PM 13-11-2026",
   "total_matches": 251,
   "live_match": 5,
   "upcoming_match": 221,
@@ -2263,23 +2263,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Equatorial Guinea Vs Zimbabwe",
-      "eventInfo": {
-        "teamA": "Equatorial Guinea",
-        "teamB": "Zimbabwe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8032/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4719/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "13/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_af28f04a118c",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Cape Verde Vs Liberia",
       "eventInfo": {
         "teamA": "Cape Verde",
@@ -3091,6 +3074,23 @@
       },
       "streams": [],
       "id": "evt_5ddb56cd3ab1",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Zimbabwe Vs Equatorial Guinea",
+      "eventInfo": {
+        "teamA": "Zimbabwe",
+        "teamB": "Equatorial Guinea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4719/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8032/image",
+        "eventName": "Africa Cup of Nations Qualification",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+        "startTime": "16/11/2026 07:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_ce722c9e820a",
       "isHot": false
     },
     {
