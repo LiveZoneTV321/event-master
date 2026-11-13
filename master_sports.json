@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:30:18 AM 14-11-2026",
+  "last_update_time": "03:40:13 AM 14-11-2026",
   "total_matches": 371,
-  "live_match": 22,
+  "live_match": 16,
   "upcoming_match": 322,
-  "ended_match": 27,
+  "ended_match": 33,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -834,66 +834,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Bermuda Vs Saint Lucia",
-      "eventInfo": {
-        "teamA": "Bermuda",
-        "teamB": "Saint Lucia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4745/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21820/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "14/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/EBBB.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/EBBB.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_89ffb17ede83"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Puerto Rico Vs Dominica",
-      "eventInfo": {
-        "teamA": "Puerto Rico",
-        "teamB": "Dominica",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21818/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21812/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "14/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/EBBBA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/EBBBA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c5c5171856d5"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Leganés Vs Burgos Club de Fútbol",
       "eventInfo": {
         "teamA": "Leganés",
@@ -926,121 +866,6 @@
       ],
       "isHot": false,
       "id": "evt_55ee3a815859"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Egypt Vs Malawi",
-      "eventInfo": {
-        "teamA": "Egypt",
-        "teamB": "Malawi",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4758/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/8043/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "14/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/eff2cec1-a2de-4e47-bf6f-77d432202d16.m3u8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hmxc7ggv/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/GPPP.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001794590367-0-0-baa76406d248cc188ff2cd9a76357d49",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1794594488-0-0-037b2d9d1aba49246d6f4c9e7e45b30d",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1794594488-0-0-53972d350988c572ca9b959d02efb03d",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0e610c907d21"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Mali Vs Rwanda",
-      "eventInfo": {
-        "teamA": "Mali",
-        "teamB": "Rwanda",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4831/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/8037/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "14/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/0f882ec5-b256-4467-aab8-3c912c365f65.m3u8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hpzg7wkw/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/GPPPA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001794590616-0-0-69a27f570cf662565c1cede569257f5f",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_21b5ca2da8f1"
     },
     {
       "status": "LIVE",
@@ -1194,64 +1019,6 @@
       ],
       "isHot": false,
       "id": "evt_e6cb2f8a33ed"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Sweden Vs Switzerland",
-      "eventInfo": {
-        "teamA": "Sweden",
-        "teamB": "Switzerland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5724/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5725/image",
-        "eventName": "World Championship Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "startTime": "14/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59944/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3bc21b0da0ea"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "USA Vs Denmark",
-      "eventInfo": {
-        "teamA": "USA",
-        "teamB": "Denmark",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5726/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/95003/image",
-        "eventName": "World Championship Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "startTime": "14/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59943/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_645d655dcb0a"
     },
     {
       "status": "LIVE",
@@ -1682,6 +1449,18 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001794601464-0-0-239924e30b5d7da94ebde60a71b3796d",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -1728,6 +1507,28 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://file.genoads.com/ch1.m3u8"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001794601268-0-0-3a0c944e454c771365c7f68ec9dda49c",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=2ff966b1607d595c5d251888cd85d705&txTime=6af75c1c",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://playback.livetl004.com/live/69cf6331585c5992182f4160.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -7736,6 +7537,66 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Bermuda Vs Saint Lucia",
+      "eventInfo": {
+        "teamA": "Bermuda",
+        "teamB": "Saint Lucia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4745/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21820/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "14/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/EBBB.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/EBBB.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_89ffb17ede83"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Puerto Rico Vs Dominica",
+      "eventInfo": {
+        "teamA": "Puerto Rico",
+        "teamB": "Dominica",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21818/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21812/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "14/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/EBBBA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/EBBBA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c5c5171856d5"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Gabon Vs Lesotho",
       "eventInfo": {
         "teamA": "Gabon",
@@ -8006,6 +7867,82 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Egypt Vs Malawi",
+      "eventInfo": {
+        "teamA": "Egypt",
+        "teamB": "Malawi",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4758/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8043/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "14/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/eff2cec1-a2de-4e47-bf6f-77d432202d16.m3u8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hmxc7ggv/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/GPPP.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0e610c907d21"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Mali Vs Rwanda",
+      "eventInfo": {
+        "teamA": "Mali",
+        "teamB": "Rwanda",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4831/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8037/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "14/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/0f882ec5-b256-4467-aab8-3c912c365f65.m3u8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hpzg7wkw/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/GPPPA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_21b5ca2da8f1"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Kuwait Vs Syria",
       "eventInfo": {
         "teamA": "Kuwait",
@@ -8083,6 +8020,64 @@
       ],
       "isHot": false,
       "id": "evt_12ba31c89cf5"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Sweden Vs Switzerland",
+      "eventInfo": {
+        "teamA": "Sweden",
+        "teamB": "Switzerland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5724/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5725/image",
+        "eventName": "World Championship Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "startTime": "14/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59944/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3bc21b0da0ea"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "USA Vs Denmark",
+      "eventInfo": {
+        "teamA": "USA",
+        "teamB": "Denmark",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5726/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/95003/image",
+        "eventName": "World Championship Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "startTime": "14/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59943/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_645d655dcb0a"
     },
     {
       "status": "ENDED",
