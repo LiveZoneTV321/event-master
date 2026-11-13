@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:30:20 PM 13-11-2026",
-  "total_matches": 251,
-  "live_match": 8,
-  "upcoming_match": 217,
-  "ended_match": 26,
+  "last_update_time": "05:40:13 PM 13-11-2026",
+  "total_matches": 250,
+  "live_match": 6,
+  "upcoming_match": 219,
+  "ended_match": 25,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -78,166 +78,6 @@
     {
       "status": "LIVE",
       "Category": "Cricket",
-      "event_name": "Pakistan Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "Pakistan",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "ICC World Test Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-        "startTime": "13/11/2026 10:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd",
-          "drm_key": "5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "T SPORTS HD",
-          "stream_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
-        },
-        {
-          "channel_name": "ptv sports - hd",
-          "stream_url": "https://live.msnetworks.net/ptv-sports/720p.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "t sports - hd",
-          "stream_url": "http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/VFFFA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd",
-          "drm_key": "5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb"
-        },
-        {
-          "channel_name": "Tapmad - (bd)",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "ptv sports - aq",
-          "stream_url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ef30158142c8"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "WBBL Vs WBBL",
-      "eventInfo": {
-        "teamA": "WBBL",
-        "teamB": "WBBL",
-        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "eventName": "Women's Big Bash League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "startTime": "13/11/2026 10:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd",
-          "drm_key": "636a1180048a50dcdcb44283999a7a9b:fd4f90a2703266be6aea6b6d01274a07"
-        },
-        {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "WILLOW HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd",
-          "drm_key": "636a1180048a50dcdcb44283999a7a9b:fd4f90a2703266be6aea6b6d01274a07"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ccd3e7a5895d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Australia Vs England",
-      "eventInfo": {
-        "teamA": "Australia",
-        "teamB": "England",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-        "eventName": "One Day International",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "13/11/2026 09:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "EUROSPORT FHD",
-          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
-        },
-        {
-          "channel_name": "WILLOW HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/vvvve.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e210297e0dc2"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
       "event_name": "ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE",
       "eventInfo": {
         "teamA": "ABU DHABI T20 LEAGUE",
@@ -257,8 +97,8 @@
         },
         {
           "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q6p7ehxwmc/out/v1/64ff7b94fefb4ec4b838bc86e9b32bda/cenc.mpd",
-          "drm_key": "1e9def1e0c216818e8edc06ce10d25c9:4743d779da68303948a6e7e18fc77056"
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7abe0qpjti/out/v1/fe7054b659bf4f30becc49b4f7586440/cenc.mpd",
+          "drm_key": "04afa3786bfbdb25de7c3ea3f5090f4c:f368f03d7c9c82af023ffcd99e533998"
         },
         {
           "channel_name": "WILLOW ALT",
@@ -267,6 +107,43 @@
       ],
       "isHot": false,
       "id": "evt_ba64dd6df17a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Boxing",
+      "event_name": "One Friday Fights Vs One Friday Fights",
+      "eventInfo": {
+        "teamA": "One Friday Fights",
+        "teamB": "One Friday Fights",
+        "teamAFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "teamBFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "eventName": "One Friday Fights",
+        "event_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "startTime": "13/11/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server 1",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+          "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
+        },
+        {
+          "channel_name": "Server 2",
+          "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+          "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271"
+        },
+        {
+          "channel_name": "Server 3",
+          "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
+        },
+        {
+          "channel_name": "MMA Fighting",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59937/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_38747064c422"
     },
     {
       "status": "LIVE",
@@ -466,44 +343,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Boxing",
-      "event_name": "One Friday Fights Vs One Friday Fights",
-      "eventInfo": {
-        "teamA": "One Friday Fights",
-        "teamB": "One Friday Fights",
-        "teamAFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "teamBFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "eventName": "One Friday Fights",
-        "event_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "startTime": "13/11/2026 06:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server 1",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
-          "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
-        },
-        {
-          "channel_name": "Server 2",
-          "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
-          "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271"
-        },
-        {
-          "channel_name": "Server 3",
-          "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
-        },
-        {
-          "channel_name": "MMA Fighting",
-          "stream_url": "http://193.47.62.41/hls/ASSSA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_38747064c422"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Motorsports",
       "event_name": "MotorGP Vs MotorGP",
       "eventInfo": {
@@ -696,6 +535,72 @@
       ],
       "isHot": false,
       "id": "evt_c3a162aa9f82"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Pakistan Vs Sri Lanka",
+      "eventInfo": {
+        "teamA": "Pakistan",
+        "teamB": "Sri Lanka",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+        "eventName": "ICC World Test Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "startTime": "17/11/2026 10:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd",
+          "drm_key": "5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "T SPORTS HD",
+          "stream_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
+        },
+        {
+          "channel_name": "ptv sports - hd",
+          "stream_url": "https://live.msnetworks.net/ptv-sports/720p.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "t sports - hd",
+          "stream_url": "http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/VFFFA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd",
+          "drm_key": "5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb"
+        },
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "ptv sports - aq",
+          "stream_url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ef30158142c8"
     },
     {
       "status": "UPCOMING",
@@ -1658,6 +1563,100 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "WBBL Vs WBBL",
+      "eventInfo": {
+        "teamA": "WBBL",
+        "teamB": "WBBL",
+        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "eventName": "Women's Big Bash League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "startTime": "14/11/2026 10:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd",
+          "drm_key": "636a1180048a50dcdcb44283999a7a9b:fd4f90a2703266be6aea6b6d01274a07"
+        },
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd",
+          "drm_key": "636a1180048a50dcdcb44283999a7a9b:fd4f90a2703266be6aea6b6d01274a07"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ccd3e7a5895d"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Australia Vs England",
+      "eventInfo": {
+        "teamA": "Australia",
+        "teamB": "England",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "eventName": "One Day International",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "15/11/2026 09:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "EUROSPORT FHD",
+          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/vvvve.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e210297e0dc2"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Saint Martin Vs El Salvador",
       "eventInfo": {
@@ -1832,9 +1831,22 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "channel_name": "beIN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "channel_name": "beIN ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "beIN ESPNAOL FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
         }
       ],
       "isHot": false,
@@ -1855,9 +1867,10 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "channel_name": "beIN ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
         }
       ],
       "isHot": false,
@@ -4821,7 +4834,7 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
         "eventName": "One Day International",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "10/11/2026 08:00:00 AM"
+        "startTime": "15/11/2026 08:00:00 AM"
       },
       "streams": [
         {
@@ -5257,29 +5270,6 @@
       ],
       "isHot": false,
       "id": "evt_e41b08c21951"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Baseball",
-      "event_name": "MLB Awards 2026 Vs MLB Awards 2026",
-      "eventInfo": {
-        "teamA": "MLB Awards 2026",
-        "teamB": "MLB Awards 2026",
-        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "eventName": "MLB",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "10/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59907/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_7cab2a8821eb"
     },
     {
       "status": "ENDED",
