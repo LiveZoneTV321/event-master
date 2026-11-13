@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:00:27 AM 14-11-2026",
-  "total_matches": 373,
-  "live_match": 18,
-  "upcoming_match": 340,
-  "ended_match": 15,
+  "last_update_time": "12:10:14 AM 14-11-2026",
+  "total_matches": 372,
+  "live_match": 19,
+  "upcoming_match": 336,
+  "ended_match": 17,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -558,80 +558,19 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "stream_url": "http://193.47.62.41/hls/RPPPAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/RPPPAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
       "id": "evt_8f4a2350bac7"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Germany Vs Finland",
-      "eventInfo": {
-        "teamA": "Germany",
-        "teamB": "Finland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5727/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5728/image",
-        "eventName": "World Championship Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "startTime": "13/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59939/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_12ba31c89cf5"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Canada Vs Czechia",
-      "eventInfo": {
-        "teamA": "Canada",
-        "teamB": "Czechia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5721/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/72454/image",
-        "eventName": "World Championship Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "startTime": "13/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59940/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_931e7ae8b4de"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Jordan Vs Indonesia",
-      "eventInfo": {
-        "teamA": "Jordan",
-        "teamB": "Indonesia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4771/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4829/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "14/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_1e7ae65d29f7"
     },
     {
       "status": "LIVE",
@@ -649,7 +588,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59944/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         }
       ],
@@ -672,12 +611,102 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59943/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
       "id": "evt_645d655dcb0a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Bermuda Vs Saint Lucia",
+      "eventInfo": {
+        "teamA": "Bermuda",
+        "teamB": "Saint Lucia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4745/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21820/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "14/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_89ffb17ede83"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Puerto Rico Vs Dominica",
+      "eventInfo": {
+        "teamA": "Puerto Rico",
+        "teamB": "Dominica",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21818/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21812/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "14/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c5c5171856d5"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Egypt Vs Malawi",
+      "eventInfo": {
+        "teamA": "Egypt",
+        "teamB": "Malawi",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4758/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8043/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "14/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hmxc7ggv/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0e610c907d21"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Mali Vs Rwanda",
+      "eventInfo": {
+        "teamA": "Mali",
+        "teamB": "Rwanda",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4831/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8037/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "14/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hpzg7wkw/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_21b5ca2da8f1"
     },
     {
       "status": "LIVE",
@@ -1323,7 +1352,12 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "startTime": "14/11/2026 01:45:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "http://162.251.160.53:8089/2489/index.m3u8"
+        }
+      ],
       "isHot": false,
       "id": "evt_0047c2975fcc"
     },
@@ -1340,7 +1374,12 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "startTime": "14/11/2026 01:45:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "http://162.251.160.53:8089/2010/index.m3u8"
+        }
+      ],
       "isHot": false,
       "id": "evt_167d4bb5dbc2"
     },
@@ -1408,7 +1447,12 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "startTime": "14/11/2026 01:45:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "http://162.251.160.53:8089/1920/index.m3u8"
+        }
+      ],
       "isHot": false,
       "id": "evt_640e53a32e76"
     },
@@ -1425,7 +1469,12 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "startTime": "14/11/2026 01:45:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "http://162.251.160.53:8089/2325/index.m3u8"
+        }
+      ],
       "isHot": false,
       "id": "evt_e62bb3253ef9"
     },
@@ -1442,7 +1491,12 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "startTime": "14/11/2026 01:45:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_95ddfc7b_066d_4f9d_9430_1493811b9564/index.m3u8"
+        }
+      ],
       "isHot": false,
       "id": "evt_57240ad332ee"
     },
@@ -1459,7 +1513,12 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "startTime": "14/11/2026 01:45:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_cd77b381_1df5_4c85_8d84_38bc54dfa781/index.m3u8"
+        }
+      ],
       "isHot": false,
       "id": "evt_039509eabdb8"
     },
@@ -1476,7 +1535,12 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "startTime": "14/11/2026 01:45:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_b6de2f2c_861b_4c28_abbf_40e51123ff89/index.m3u8"
+        }
+      ],
       "isHot": false,
       "id": "evt_022baa77f5a2"
     },
@@ -2090,52 +2154,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Bermuda Vs Saint Lucia",
-      "eventInfo": {
-        "teamA": "Bermuda",
-        "teamB": "Saint Lucia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4745/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21820/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "14/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_89ffb17ede83"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Puerto Rico Vs Dominica",
-      "eventInfo": {
-        "teamA": "Puerto Rico",
-        "teamB": "Dominica",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21818/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21812/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "14/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c5c5171856d5"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Montserrat Vs Nicaragua",
       "eventInfo": {
         "teamA": "Montserrat",
@@ -2247,50 +2265,6 @@
       ],
       "isHot": false,
       "id": "evt_55ee3a815859"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Egypt Vs Malawi",
-      "eventInfo": {
-        "teamA": "Egypt",
-        "teamB": "Malawi",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4758/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/8043/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "14/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hmxc7ggv/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0e610c907d21"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Mali Vs Rwanda",
-      "eventInfo": {
-        "teamA": "Mali",
-        "teamB": "Rwanda",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4831/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/8037/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "14/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hpzg7wkw/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_21b5ca2da8f1"
     },
     {
       "status": "UPCOMING",
@@ -7537,6 +7511,52 @@
       ],
       "isHot": false,
       "id": "evt_2419e79db2ff"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Germany Vs Finland",
+      "eventInfo": {
+        "teamA": "Germany",
+        "teamB": "Finland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5727/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5728/image",
+        "eventName": "World Championship Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "startTime": "13/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59939/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_12ba31c89cf5"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Canada Vs Czechia",
+      "eventInfo": {
+        "teamA": "Canada",
+        "teamB": "Czechia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5721/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/72454/image",
+        "eventName": "World Championship Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "startTime": "13/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59940/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_931e7ae8b4de"
     },
     {
       "status": "ENDED",
