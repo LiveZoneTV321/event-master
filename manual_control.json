@@ -2,7 +2,8 @@
   "remove_events": [],
   
   "merge_events": [
-    ["evt_f8dc26497354", "evt_9676794a1aab"]
+    ["evt_f8dc26497354", "evt_9676794a1aab"],
+    ["evt_502f5d49dc08", "evt_2419e79db2ff"]
   ],
   
   "status_override": {
