@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:30:20 PM 13-11-2026",
+  "last_update_time": "08:40:15 PM 13-11-2026",
   "total_matches": 250,
-  "live_match": 13,
+  "live_match": 11,
   "upcoming_match": 212,
-  "ended_match": 25,
+  "ended_match": 27,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -142,9 +142,8 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/BBBBA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -171,57 +170,69 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Singapore Vs Paraguay",
+      "event_name": "Saudi Arabia Vs South Korea",
       "eventInfo": {
-        "teamA": "Singapore",
-        "teamB": "Paraguay",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4789/image",
+        "teamA": "Saudi Arabia",
+        "teamB": "South Korea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4834/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4735/image",
         "eventName": "International Friendly Games",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "13/11/2026 06:00:00 PM"
+        "startTime": "13/11/2026 08:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/3301dc12-b310-4708-971d-2cef8a7fd82f.m3u8"
-        },
-        {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
+          "stream_url": "http://193.47.62.41/hls/BBBBAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/BBBB.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_03b8066de58d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Chinese Taipei Vs Kyrgyzstan",
-      "eventInfo": {
-        "teamA": "Chinese Taipei",
-        "teamB": "Kyrgyzstan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5937/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7930/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "13/11/2026 06:00:00 PM"
-      },
-      "streams": [
+          "stream_url": "http://193.47.62.41/hls/BBBBAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001794575966-0-0-7d698687120fc0c3cc0ac53b4278ac64",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=ca077f92324921417e6722faaacaf0ef&txTime=6af75b68",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794577688-0-0-389da7826fb185af9e5e261d23455bca",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=67ccae6b17c98decc84cdf4774097144&txTime=6af762e8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 7",
+          "stream_url": "https://live2.zktsva.app/live/306290.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_833c9d11f948"
+      "id": "evt_d41ca9aaa556"
     },
     {
       "status": "LIVE",
@@ -423,73 +434,6 @@
       ],
       "isHot": false,
       "id": "evt_b71784c8f75d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Saudi Arabia Vs South Korea",
-      "eventInfo": {
-        "teamA": "Saudi Arabia",
-        "teamB": "South Korea",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4834/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "13/11/2026 08:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/BBBBAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/BBBBAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001794575966-0-0-7d698687120fc0c3cc0ac53b4278ac64",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=ca077f92324921417e6722faaacaf0ef&txTime=6af75b68",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794577688-0-0-389da7826fb185af9e5e261d23455bca",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=67ccae6b17c98decc84cdf4774097144&txTime=6af762e8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 7",
-          "stream_url": "https://live2.zktsva.app/live/306290.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d41ca9aaa556"
     },
     {
       "status": "LIVE",
@@ -5062,6 +5006,61 @@
       ],
       "isHot": false,
       "id": "evt_f9521ce2453e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Singapore Vs Paraguay",
+      "eventInfo": {
+        "teamA": "Singapore",
+        "teamB": "Paraguay",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4789/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "13/11/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/3301dc12-b310-4708-971d-2cef8a7fd82f.m3u8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/BBBB.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_03b8066de58d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Chinese Taipei Vs Kyrgyzstan",
+      "eventInfo": {
+        "teamA": "Chinese Taipei",
+        "teamB": "Kyrgyzstan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5937/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7930/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "13/11/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_833c9d11f948"
     },
     {
       "status": "ENDED",
