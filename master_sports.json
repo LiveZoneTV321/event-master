@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:00:24 AM 13-11-2026",
+  "last_update_time": "06:10:25 AM 13-11-2026",
   "total_matches": 272,
-  "live_match": 14,
-  "upcoming_match": 224,
-  "ended_match": 34,
+  "live_match": 16,
+  "upcoming_match": 221,
+  "ended_match": 35,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -77,35 +77,6 @@
       ],
       "isHot": false,
       "id": "evt_67ebe00c2f7f"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Primera A Vs Primera A",
-      "eventInfo": {
-        "teamA": "Primera A",
-        "teamB": "Primera A",
-        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "13/11/2026 02:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        },
-        {
-          "channel_name": "Alianza vs Llaneros",
-          "stream_url": "http://193.47.62.44/hls/C555AA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f7a236702985"
     },
     {
       "status": "LIVE",
@@ -337,6 +308,86 @@
       ],
       "isHot": false,
       "id": "evt_ac4f9029cffb"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Minnesota Timberwolves Vs Dallas Mavericks",
+      "eventInfo": {
+        "teamA": "Minnesota Timberwolves",
+        "teamB": "Dallas Mavericks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "13/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b5d0f5162871"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Chicago Blackhawks Vs Buffalo Sabres",
+      "eventInfo": {
+        "teamA": "Chicago Blackhawks",
+        "teamB": "Buffalo Sabres",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "13/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_715c87bf6d05"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Dallas Stars Vs Winnipeg Jets",
+      "eventInfo": {
+        "teamA": "Dallas Stars",
+        "teamB": "Winnipeg Jets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "13/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_cb6d7f5946ab"
     },
     {
       "status": "LIVE",
@@ -1602,29 +1653,6 @@
     {
       "status": "UPCOMING",
       "Category": "Basketball",
-      "event_name": "Minnesota Timberwolves Vs Dallas Mavericks",
-      "eventInfo": {
-        "teamA": "Minnesota Timberwolves",
-        "teamB": "Dallas Mavericks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "13/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b5d0f5162871"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
       "event_name": "Phoenix Suns Vs Charlotte Hornets",
       "eventInfo": {
         "teamA": "Phoenix Suns",
@@ -1644,29 +1672,6 @@
       ],
       "isHot": false,
       "id": "evt_f6f21e60f298"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Chicago Blackhawks Vs Buffalo Sabres",
-      "eventInfo": {
-        "teamA": "Chicago Blackhawks",
-        "teamB": "Buffalo Sabres",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "13/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_715c87bf6d05"
     },
     {
       "status": "UPCOMING",
@@ -1695,40 +1700,6 @@
       ],
       "isHot": false,
       "id": "evt_ee427dafd892"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Dallas Stars Vs Winnipeg Jets",
-      "eventInfo": {
-        "teamA": "Dallas Stars",
-        "teamB": "Winnipeg Jets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "13/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_cb6d7f5946ab"
     },
     {
       "status": "UPCOMING",
@@ -6166,6 +6137,35 @@
       ],
       "isHot": false,
       "id": "evt_62cebb4690d6"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Primera A Vs Primera A",
+      "eventInfo": {
+        "teamA": "Primera A",
+        "teamB": "Primera A",
+        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "13/11/2026 02:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "Alianza vs Llaneros",
+          "stream_url": "http://193.47.62.44/hls/C555AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f7a236702985"
     }
   ]
 }
