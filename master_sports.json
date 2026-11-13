@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:30:18 AM 14-11-2026",
+  "last_update_time": "05:40:13 AM 14-11-2026",
   "total_matches": 371,
-  "live_match": 9,
+  "live_match": 8,
   "upcoming_match": 314,
-  "ended_match": 48,
+  "ended_match": 49,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -50,35 +50,6 @@
       ],
       "isHot": false,
       "id": "evt_56b25222346a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "France Vs South Africa",
-      "eventInfo": {
-        "teamA": "France",
-        "teamB": "South Africa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4224/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4231/image",
-        "eventName": "Nations Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
-        "startTime": "14/11/2026 02:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NOVA1 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/GPPPAAAAQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_1807527b1499"
     },
     {
       "status": "LIVE",
@@ -7699,6 +7670,35 @@
       ],
       "isHot": false,
       "id": "evt_931e7ae8b4de"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "France Vs South Africa",
+      "eventInfo": {
+        "teamA": "France",
+        "teamB": "South Africa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4224/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4231/image",
+        "eventName": "Nations Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "startTime": "14/11/2026 02:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA1 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/GPPPAAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_1807527b1499"
     },
     {
       "status": "ENDED",
