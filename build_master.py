@@ -567,8 +567,35 @@ def apply_status_override(match, manual):
     print(f"[MANUAL STATUS] {eid} -> {new_status}")
     return True
 
-
 def apply_manual_events_and_streams(matches, manual):
+    # ✅ নতুন: merge_events — ২টা ID-র ম্যাচ merge করে এক করো
+    merge_pairs = manual.get("merge_events", []) or []
+    if isinstance(merge_pairs, list) and merge_pairs:
+        by_id = {str(m.get("id", "")).strip(): m for m in matches}
+        drop_ids = set()
+        for pair in merge_pairs:
+            if not isinstance(pair, list) or len(pair) != 2:
+                continue
+            keep_id = str(pair[0]).strip()
+            drop_id = str(pair[1]).strip()
+            if keep_id == drop_id:
+                continue
+            keep_m = by_id.get(keep_id)
+            drop_m = by_id.get(drop_id)
+            if not keep_m or not drop_m:
+                print(f"[MANUAL MERGE] skipped: {pair} (one id missing)")
+                continue
+            added = merge_streams_into(
+                keep_m.setdefault("streams", []),
+                drop_m.get("streams", [])
+            )
+            keep_m["isHot"] = bool(keep_m.get("isHot") or drop_m.get("isHot"))
+            drop_ids.add(drop_id)
+            print(f"[MANUAL MERGE] {drop_id} -> {keep_id} (+{added} streams)")
+        if drop_ids:
+            matches = [m for m in matches if str(m.get("id", "")).strip() not in drop_ids]
+            print(f"[MANUAL MERGE] Removed duplicate events: {len(drop_ids)}")
+
     remove_ids = {str(x).strip() for x in manual.get("remove_events", []) or [] if str(x).strip()}
     if remove_ids:
         before = len(matches)
