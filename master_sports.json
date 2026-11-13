@@ -1,53 +1,16 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:00:24 AM 14-11-2026",
+  "last_update_time": "01:10:13 AM 14-11-2026",
   "total_matches": 372,
-  "live_match": 14,
-  "upcoming_match": 335,
-  "ended_match": 23,
+  "live_match": 24,
+  "upcoming_match": 323,
+  "ended_match": 25,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
   ],
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Boxing",
-      "event_name": "One Friday Fights Vs One Friday Fights",
-      "eventInfo": {
-        "teamA": "One Friday Fights",
-        "teamB": "One Friday Fights",
-        "teamAFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "teamBFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "eventName": "One Friday Fights",
-        "event_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "startTime": "13/11/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server 1",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
-          "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
-        },
-        {
-          "channel_name": "Server 2",
-          "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
-          "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271"
-        },
-        {
-          "channel_name": "Server 3",
-          "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
-        },
-        {
-          "channel_name": "MMA Fighting",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59937/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_38747064c422"
-    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -177,110 +140,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Kuwait Vs Syria",
-      "eventInfo": {
-        "teamA": "Kuwait",
-        "teamB": "Syria",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5368/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4731/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "13/11/2026 10:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/WAWAWAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_7e38df066492"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Anadolu Efes Vs Virtus Bologna",
-      "eventInfo": {
-        "teamA": "Anadolu Efes",
-        "teamB": "Virtus Bologna",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3515/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5621/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "13/11/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/RPPPAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/RPPPAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8f4a2350bac7"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Sweden Vs Switzerland",
-      "eventInfo": {
-        "teamA": "Sweden",
-        "teamB": "Switzerland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5724/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5725/image",
-        "eventName": "World Championship Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "startTime": "14/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59944/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3bc21b0da0ea"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "USA Vs Denmark",
-      "eventInfo": {
-        "teamA": "USA",
-        "teamB": "Denmark",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5726/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/95003/image",
-        "eventName": "World Championship Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
-        "startTime": "14/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59943/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_645d655dcb0a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Bermuda Vs Saint Lucia",
       "eventInfo": {
         "teamA": "Bermuda",
@@ -323,42 +182,6 @@
       ],
       "isHot": false,
       "id": "evt_c5c5171856d5"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Leganés Vs Burgos Club de Fútbol",
-      "eventInfo": {
-        "teamA": "Leganés",
-        "teamB": "Burgos Club de Fútbol",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "14/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001794590581-0-0-a9d06987576ed3abeaf91600b28d95ef",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_55ee3a815859"
     },
     {
       "status": "LIVE",
@@ -442,6 +265,391 @@
       ],
       "isHot": false,
       "id": "evt_21b5ca2da8f1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Anadolu Efes Vs Virtus Bologna",
+      "eventInfo": {
+        "teamA": "Anadolu Efes",
+        "teamB": "Virtus Bologna",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3515/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5621/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "13/11/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/RPPPAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/RPPPAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8f4a2350bac7"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Sweden Vs Switzerland",
+      "eventInfo": {
+        "teamA": "Sweden",
+        "teamB": "Switzerland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5724/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5725/image",
+        "eventName": "World Championship Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "startTime": "14/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59944/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3bc21b0da0ea"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "USA Vs Denmark",
+      "eventInfo": {
+        "teamA": "USA",
+        "teamB": "Denmark",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5726/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/95003/image",
+        "eventName": "World Championship Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+        "startTime": "14/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59943/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_645d655dcb0a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Slovakia Vs Faroe Islands",
+      "eventInfo": {
+        "teamA": "Slovakia",
+        "teamB": "Faroe Islands",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4697/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4760/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "14/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "http://162.251.160.53:8089/2489/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0047c2975fcc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Slovenia Vs Switzerland",
+      "eventInfo": {
+        "teamA": "Slovenia",
+        "teamB": "Switzerland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4484/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4699/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "14/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "http://162.251.160.53:8089/2010/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_167d4bb5dbc2"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Netherlands Vs Greece",
+      "eventInfo": {
+        "teamA": "Netherlands",
+        "teamB": "Greece",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4705/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4710/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "14/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "SPORT2 TV CZ FHD ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_2498ae2cced5"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Serbia Vs Germany",
+      "eventInfo": {
+        "teamA": "Serbia",
+        "teamB": "Germany",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6355/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4711/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "14/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SPORT1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_503cdb809ffe"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Scotland Vs North Macedonia",
+      "eventInfo": {
+        "teamA": "Scotland",
+        "teamB": "North Macedonia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4695/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4777/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "14/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "http://162.251.160.53:8089/1920/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_640e53a32e76"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Luxembourg Vs Estonia",
+      "eventInfo": {
+        "teamA": "Luxembourg",
+        "teamB": "Estonia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4478/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4759/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "14/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "http://162.251.160.53:8089/2325/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e62bb3253ef9"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Bulgaria Vs Iceland",
+      "eventInfo": {
+        "teamA": "Bulgaria",
+        "teamB": "Iceland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4716/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4708/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "14/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_95ddfc7b_066d_4f9d_9430_1493811b9564/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_57240ad332ee"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Liechtenstein Vs Azerbaijan",
+      "eventInfo": {
+        "teamA": "Liechtenstein",
+        "teamB": "Azerbaijan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4830/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4742/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "14/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_cd77b381_1df5_4c85_8d84_38bc54dfa781/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_039509eabdb8"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Andorra Vs Gibraltar",
+      "eventInfo": {
+        "teamA": "Andorra",
+        "teamB": "Gibraltar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4818/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/129264/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "14/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_b6de2f2c_861b_4c28_abbf_40e51123ff89/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_022baa77f5a2"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Grenada Vs Saint Kitts and Nevis",
+      "eventInfo": {
+        "teamA": "Grenada",
+        "teamB": "Saint Kitts and Nevis",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21814/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21819/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "14/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f0e5fd3e55b2"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Leganés Vs Burgos Club de Fútbol",
+      "eventInfo": {
+        "teamA": "Leganés",
+        "teamB": "Burgos Club de Fútbol",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "14/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001794590581-0-0-a9d06987576ed3abeaf91600b28d95ef",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_55ee3a815859"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Morocco Vs Niger",
+      "eventInfo": {
+        "teamA": "Morocco",
+        "teamB": "Niger",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4778/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8031/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "14/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hngws76v/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8d181d75e559"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Salamanca UDS Vs Celta Vigo",
+      "eventInfo": {
+        "teamA": "Salamanca UDS",
+        "teamB": "Celta Vigo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/263916/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+        "eventName": "Copa del Rey",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "startTime": "14/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4149ef8d9350"
     },
     {
       "status": "LIVE",
@@ -1046,211 +1254,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Slovakia Vs Faroe Islands",
-      "eventInfo": {
-        "teamA": "Slovakia",
-        "teamB": "Faroe Islands",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4697/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4760/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "14/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY+ HD",
-          "stream_url": "http://162.251.160.53:8089/2489/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0047c2975fcc"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Slovenia Vs Switzerland",
-      "eventInfo": {
-        "teamA": "Slovenia",
-        "teamB": "Switzerland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4484/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4699/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "14/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY+ HD",
-          "stream_url": "http://162.251.160.53:8089/2010/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_167d4bb5dbc2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Netherlands Vs Greece",
-      "eventInfo": {
-        "teamA": "Netherlands",
-        "teamB": "Greece",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4705/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4710/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "14/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "SPORT2 TV CZ FHD ",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_2498ae2cced5"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Serbia Vs Germany",
-      "eventInfo": {
-        "teamA": "Serbia",
-        "teamB": "Germany",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6355/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4711/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "14/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORT1 CZ FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_503cdb809ffe"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Scotland Vs North Macedonia",
-      "eventInfo": {
-        "teamA": "Scotland",
-        "teamB": "North Macedonia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4695/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4777/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "14/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY+ HD",
-          "stream_url": "http://162.251.160.53:8089/1920/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_640e53a32e76"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Luxembourg Vs Estonia",
-      "eventInfo": {
-        "teamA": "Luxembourg",
-        "teamB": "Estonia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4478/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4759/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "14/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY+ HD",
-          "stream_url": "http://162.251.160.53:8089/2325/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e62bb3253ef9"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Bulgaria Vs Iceland",
-      "eventInfo": {
-        "teamA": "Bulgaria",
-        "teamB": "Iceland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4716/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4708/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "14/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY+ HD",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_95ddfc7b_066d_4f9d_9430_1493811b9564/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_57240ad332ee"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Liechtenstein Vs Azerbaijan",
-      "eventInfo": {
-        "teamA": "Liechtenstein",
-        "teamB": "Azerbaijan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4830/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4742/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "14/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY+ HD",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_cd77b381_1df5_4c85_8d84_38bc54dfa781/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_039509eabdb8"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Andorra Vs Gibraltar",
-      "eventInfo": {
-        "teamA": "Andorra",
-        "teamB": "Gibraltar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4818/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/129264/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "14/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY+ HD",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_b6de2f2c_861b_4c28_abbf_40e51123ff89/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_022baa77f5a2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Georgia Vs Hungary",
       "eventInfo": {
         "teamA": "Georgia",
@@ -1835,29 +1838,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Grenada Vs Saint Kitts and Nevis",
-      "eventInfo": {
-        "teamA": "Grenada",
-        "teamB": "Saint Kitts and Nevis",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21814/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21819/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "14/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f0e5fd3e55b2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Montserrat Vs Nicaragua",
       "eventInfo": {
         "teamA": "Montserrat",
@@ -1946,51 +1926,6 @@
       ],
       "isHot": false,
       "id": "evt_912f62b0f71e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Morocco Vs Niger",
-      "eventInfo": {
-        "teamA": "Morocco",
-        "teamB": "Niger",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4778/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/8031/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "14/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hngws76v/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8d181d75e559"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Salamanca UDS Vs Celta Vigo",
-      "eventInfo": {
-        "teamA": "Salamanca UDS",
-        "teamB": "Celta Vigo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/263916/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "startTime": "14/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_4149ef8d9350"
     },
     {
       "status": "UPCOMING",
@@ -7087,6 +7022,43 @@
     },
     {
       "status": "ENDED",
+      "Category": "Boxing",
+      "event_name": "One Friday Fights Vs One Friday Fights",
+      "eventInfo": {
+        "teamA": "One Friday Fights",
+        "teamB": "One Friday Fights",
+        "teamAFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "teamBFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "eventName": "One Friday Fights",
+        "event_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "startTime": "13/11/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server 1",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+          "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
+        },
+        {
+          "channel_name": "Server 2",
+          "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+          "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271"
+        },
+        {
+          "channel_name": "Server 3",
+          "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
+        },
+        {
+          "channel_name": "MMA Fighting",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59937/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_38747064c422"
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "Qatar Vs Australia",
       "eventInfo": {
@@ -7420,6 +7392,34 @@
       ],
       "isHot": false,
       "id": "evt_2419e79db2ff"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Kuwait Vs Syria",
+      "eventInfo": {
+        "teamA": "Kuwait",
+        "teamB": "Syria",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5368/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4731/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "13/11/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/WAWAWAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7e38df066492"
     },
     {
       "status": "ENDED",
