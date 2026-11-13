@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:00:25 PM 13-11-2026",
-  "total_matches": 253,
-  "live_match": 6,
-  "upcoming_match": 223,
-  "ended_match": 24,
+  "last_update_time": "01:10:13 PM 13-11-2026",
+  "total_matches": 251,
+  "live_match": 5,
+  "upcoming_match": 221,
+  "ended_match": 25,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -89,29 +89,6 @@
       ],
       "isHot": false,
       "id": "evt_f9521ce2453e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "MLB Awards 2026 Vs MLB Awards 2026",
-      "eventInfo": {
-        "teamA": "MLB Awards 2026",
-        "teamB": "MLB Awards 2026",
-        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "eventName": "MLB",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "10/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59907/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_7cab2a8821eb"
     },
     {
       "status": "LIVE",
@@ -2332,40 +2309,6 @@
       },
       "streams": [],
       "id": "evt_77177d717f4a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Kathmandu Gorkhas Vs Sudur Paschim Royals",
-      "eventInfo": {
-        "teamA": "Kathmandu Gorkhas",
-        "teamB": "Sudur Paschim Royals",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/PT.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-        "eventName": "NPL 2026 - 24th Match",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "startTime": "13/11/2026 12:45:00 PM"
-      },
-      "streams": [],
-      "id": "evt_cf4988ece1e1",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Chitwan Rhinos Vs Janakpur Bolts",
-      "eventInfo": {
-        "teamA": "Chitwan Rhinos",
-        "teamB": "Janakpur Bolts",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/PV.png",
-        "eventName": "NPL 2026 - 25th Match",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "startTime": "13/11/2026 05:15:00 PM"
-      },
-      "streams": [],
-      "id": "evt_bba0eef5ecaf",
       "isHot": false
     },
     {
@@ -5363,6 +5306,29 @@
       ],
       "isHot": false,
       "id": "evt_e41b08c21951"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "MLB Awards 2026 Vs MLB Awards 2026",
+      "eventInfo": {
+        "teamA": "MLB Awards 2026",
+        "teamB": "MLB Awards 2026",
+        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "eventName": "MLB",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "10/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59907/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7cab2a8821eb"
     },
     {
       "status": "ENDED",
