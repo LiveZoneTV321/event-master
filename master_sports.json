@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:00:24 AM 14-11-2026",
+  "last_update_time": "04:10:12 AM 14-11-2026",
   "total_matches": 371,
-  "live_match": 16,
-  "upcoming_match": 322,
-  "ended_match": 33,
+  "live_match": 17,
+  "upcoming_match": 320,
+  "ended_match": 34,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -834,42 +834,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Leganés Vs Burgos Club de Fútbol",
-      "eventInfo": {
-        "teamA": "Leganés",
-        "teamB": "Burgos Club de Fútbol",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "14/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001794590581-0-0-a9d06987576ed3abeaf91600b28d95ef",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_55ee3a815859"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Morocco Vs Niger",
       "eventInfo": {
         "teamA": "Morocco",
@@ -1048,6 +1012,46 @@
       ],
       "isHot": false,
       "id": "evt_1807527b1499"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Argentina Vs Uruguay",
+      "eventInfo": {
+        "teamA": "Argentina",
+        "teamB": "Uruguay",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4725/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "14/11/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_6d19ac1fe6b8"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Saint Martin Vs El Salvador",
+      "eventInfo": {
+        "teamA": "Saint Martin",
+        "teamB": "El Salvador",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/33812/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4825/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "14/11/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_56b25222346a"
     },
     {
       "status": "UPCOMING",
@@ -1533,23 +1537,6 @@
       ],
       "isHot": false,
       "id": "evt_bc68f7ef9b33"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Argentina Vs Uruguay",
-      "eventInfo": {
-        "teamA": "Argentina",
-        "teamB": "Uruguay",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4725/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "14/11/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_6d19ac1fe6b8"
     },
     {
       "status": "UPCOMING",
@@ -2199,29 +2186,6 @@
       ],
       "isHot": false,
       "id": "evt_e210297e0dc2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Saint Martin Vs El Salvador",
-      "eventInfo": {
-        "teamA": "Saint Martin",
-        "teamB": "El Salvador",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/33812/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4825/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "14/11/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_56b25222346a"
     },
     {
       "status": "UPCOMING",
@@ -7833,6 +7797,42 @@
       ],
       "isHot": false,
       "id": "evt_1a1cd2c639c8"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Leganés Vs Burgos Club de Fútbol",
+      "eventInfo": {
+        "teamA": "Leganés",
+        "teamB": "Burgos Club de Fútbol",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "14/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001794590581-0-0-a9d06987576ed3abeaf91600b28d95ef",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_55ee3a815859"
     },
     {
       "status": "ENDED",
