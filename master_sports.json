@@ -1,9 +1,9 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:50:14 PM 13-11-2026",
-  "total_matches": 250,
-  "live_match": 11,
+  "last_update_time": "09:00:38 PM 13-11-2026",
+  "total_matches": 251,
+  "live_match": 12,
   "upcoming_match": 212,
   "ended_match": 27,
   "sources": [
@@ -464,6 +464,40 @@
       ],
       "isHot": false,
       "id": "evt_2419e79db2ff"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Friendly international",
+      "event_name": "Iraq Vs Lebanon",
+      "eventInfo": {
+        "teamA": "Iraq",
+        "teamB": "Lebanon",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5078",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5088",
+        "eventName": "Friendly international",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+        "startTime": "13/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=af4eac140a81728eafc3769659aace32&txTime=6af76c84",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=af4eac140a81728eafc3769659aace32&txTime=6af76c84",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "http://193.47.62.41/hls/BBBBAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_502f5d49dc08",
+      "isHot": false
     },
     {
       "status": "LIVE",
