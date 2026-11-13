@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:30:22 PM 13-11-2026",
+  "last_update_time": "11:40:13 PM 13-11-2026",
   "total_matches": 373,
-  "live_match": 20,
+  "live_match": 18,
   "upcoming_match": 340,
-  "ended_match": 13,
+  "ended_match": 15,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -84,39 +84,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Qatar Vs Australia",
-      "eventInfo": {
-        "teamA": "Qatar",
-        "teamB": "Australia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4792/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4741/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "13/11/2026 08:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel24.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/BBBBAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "TV QUALITY+",
-          "stream_url": "https://www.rtmpcdn.com/live/32e50e4d-d9fd-4d58-bf03-e5bd0aed8f8f.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b71784c8f75d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Moldova Vs Kazakhstan",
       "eventInfo": {
         "teamA": "Moldova",
@@ -145,6 +112,12 @@
           "stream_url": "https://chatgpt.hereisman.net/playlist/59938/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/d351739b-0801-4292-a255-8e0d3d82a701.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -517,36 +490,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Iraq Vs Lebanon",
-      "eventInfo": {
-        "teamA": "Iraq",
-        "teamB": "Lebanon",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22614/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/385283/image",
-        "eventName": "Friendly Match",
-        "event_logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-        "startTime": "13/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/BBBBAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/BBBBAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_2419e79db2ff"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Kuwait Vs Syria",
       "eventInfo": {
         "teamA": "Kuwait",
@@ -598,6 +541,29 @@
       ],
       "isHot": false,
       "id": "evt_7e38df066492"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Anadolu Efes Vs Virtus Bologna",
+      "eventInfo": {
+        "teamA": "Anadolu Efes",
+        "teamB": "Virtus Bologna",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3515/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5621/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "13/11/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8f4a2350bac7"
     },
     {
       "status": "LIVE",
@@ -666,29 +632,6 @@
       ],
       "isHot": false,
       "id": "evt_1e7ae65d29f7"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Anadolu Efes Vs Virtus Bologna",
-      "eventInfo": {
-        "teamA": "Anadolu Efes",
-        "teamB": "Virtus Bologna",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3515/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5621/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "13/11/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8f4a2350bac7"
     },
     {
       "status": "LIVE",
@@ -7502,6 +7445,39 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Qatar Vs Australia",
+      "eventInfo": {
+        "teamA": "Qatar",
+        "teamB": "Australia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4792/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4741/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "13/11/2026 08:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel24.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/BBBBAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "TV QUALITY+",
+          "stream_url": "https://www.rtmpcdn.com/live/32e50e4d-d9fd-4d58-bf03-e5bd0aed8f8f.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b71784c8f75d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Saudi Arabia Vs South Korea",
       "eventInfo": {
         "teamA": "Saudi Arabia",
@@ -7531,6 +7507,36 @@
       ],
       "isHot": false,
       "id": "evt_d41ca9aaa556"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Iraq Vs Lebanon",
+      "eventInfo": {
+        "teamA": "Iraq",
+        "teamB": "Lebanon",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22614/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/385283/image",
+        "eventName": "Friendly Match",
+        "event_logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+        "startTime": "13/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/BBBBAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/BBBBAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_2419e79db2ff"
     },
     {
       "status": "ENDED",
