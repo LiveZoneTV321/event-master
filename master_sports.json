@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:50:13 PM 13-11-2026",
+  "last_update_time": "07:00:29 PM 13-11-2026",
   "total_matches": 250,
   "live_match": 11,
   "upcoming_match": 214,
@@ -185,6 +185,11 @@
           "stream_url": "http://193.47.62.41/hls/BBBB.m3u8",
           "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live2.zktsva.app/live/289650.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -270,6 +275,11 @@
           "stream_url": "http://193.47.62.59/hls/HTTTA.m3u8",
           "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live2.zktsva.app/live/303098.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -346,6 +356,11 @@
           "channel_name": "Server - 4",
           "stream_url": "http://193.47.62.50/hls/HTTTAA.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live2.zktsva.app/live/307240.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
