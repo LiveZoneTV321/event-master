@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:00:24 AM 13-11-2026",
+  "last_update_time": "07:10:19 AM 13-11-2026",
   "total_matches": 272,
-  "live_match": 16,
-  "upcoming_match": 220,
+  "live_match": 21,
+  "upcoming_match": 215,
   "ended_match": 36,
   "sources": [
     "api1:events.json",
@@ -97,6 +97,29 @@
       ],
       "isHot": false,
       "id": "evt_3744c3acf69e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Minnesota Timberwolves Vs Dallas Mavericks",
+      "eventInfo": {
+        "teamA": "Minnesota Timberwolves",
+        "teamB": "Dallas Mavericks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "13/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b5d0f5162871"
     },
     {
       "status": "LIVE",
@@ -228,6 +251,29 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
+      "event_name": "Chicago Blackhawks Vs Buffalo Sabres",
+      "eventInfo": {
+        "teamA": "Chicago Blackhawks",
+        "teamB": "Buffalo Sabres",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "13/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_715c87bf6d05"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
       "event_name": "Toronto Maple Leafs Vs Minnesota Wild",
       "eventInfo": {
         "teamA": "Toronto Maple Leafs",
@@ -284,79 +330,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Curaçao Vs Panama",
-      "eventInfo": {
-        "teamA": "Curaçao",
-        "teamB": "Panama",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/55827/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5164/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "13/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c31a3d12d696"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Minnesota Timberwolves Vs Dallas Mavericks",
-      "eventInfo": {
-        "teamA": "Minnesota Timberwolves",
-        "teamB": "Dallas Mavericks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "13/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b5d0f5162871"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Chicago Blackhawks Vs Buffalo Sabres",
-      "eventInfo": {
-        "teamA": "Chicago Blackhawks",
-        "teamB": "Buffalo Sabres",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "13/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_715c87bf6d05"
-    },
-    {
-      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Dallas Stars Vs Winnipeg Jets",
       "eventInfo": {
@@ -388,6 +361,126 @@
       ],
       "isHot": false,
       "id": "evt_cb6d7f5946ab"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Curaçao Vs Panama",
+      "eventInfo": {
+        "teamA": "Curaçao",
+        "teamB": "Panama",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/55827/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5164/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "13/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c31a3d12d696"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "New Zealand Vs India",
+      "eventInfo": {
+        "teamA": "New Zealand",
+        "teamB": "India",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "eventName": "One Day International",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "13/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f9521ce2453e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Brigham Young Cougars Vs Montana State Bobcats",
+      "eventInfo": {
+        "teamA": "Brigham Young Cougars",
+        "teamB": "Montana State Bobcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34604/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86710/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "13/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_db708ab70bda"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Phoenix Suns Vs Charlotte Hornets",
+      "eventInfo": {
+        "teamA": "Phoenix Suns",
+        "teamB": "Charlotte Hornets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "13/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f6f21e60f298"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Utah Mammoth Vs St. Louis Blues",
+      "eventInfo": {
+        "teamA": "Utah Mammoth",
+        "teamB": "St. Louis Blues",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "13/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_391a0c355fb0"
     },
     {
       "status": "LIVE",
@@ -430,6 +523,23 @@
       ],
       "isHot": false,
       "id": "evt_e41b08c21951"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Club Atlético Morelia Vs Leones Negros",
+      "eventInfo": {
+        "teamA": "Club Atlético Morelia",
+        "teamB": "Leones Negros",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36529/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36535/image",
+        "eventName": "Liga de Expansión MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11611/image/dark",
+        "startTime": "13/11/2026 08:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_f51d7f52f863"
     },
     {
       "status": "UPCOMING",
@@ -774,30 +884,6 @@
       ],
       "isHot": false,
       "id": "evt_c3a162aa9f82"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "New Zealand Vs India",
-      "eventInfo": {
-        "teamA": "New Zealand",
-        "teamB": "India",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "eventName": "One Day International",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "13/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f9521ce2453e"
     },
     {
       "status": "UPCOMING",
@@ -1644,52 +1730,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Brigham Young Cougars Vs Montana State Bobcats",
-      "eventInfo": {
-        "teamA": "Brigham Young Cougars",
-        "teamB": "Montana State Bobcats",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34604/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/86710/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "13/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_db708ab70bda"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Phoenix Suns Vs Charlotte Hornets",
-      "eventInfo": {
-        "teamA": "Phoenix Suns",
-        "teamB": "Charlotte Hornets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3430/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "13/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f6f21e60f298"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Hockey",
       "event_name": "Los Angeles Kings Vs New York Islanders",
       "eventInfo": {
@@ -1715,29 +1755,6 @@
       ],
       "isHot": false,
       "id": "evt_ee427dafd892"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Utah Mammoth Vs St. Louis Blues",
-      "eventInfo": {
-        "teamA": "Utah Mammoth",
-        "teamB": "St. Louis Blues",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "13/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_391a0c355fb0"
     },
     {
       "status": "UPCOMING",
@@ -2076,23 +2093,6 @@
       ],
       "isHot": false,
       "id": "evt_e210297e0dc2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Club Atlético Morelia Vs Leones Negros",
-      "eventInfo": {
-        "teamA": "Club Atlético Morelia",
-        "teamB": "Leones Negros",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/36529/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36535/image",
-        "eventName": "Liga de Expansión MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11611/image/dark",
-        "startTime": "13/11/2026 08:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_f51d7f52f863"
     },
     {
       "status": "UPCOMING",
