@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:40:14 PM 13-11-2026",
+  "last_update_time": "06:50:13 PM 13-11-2026",
   "total_matches": 250,
-  "live_match": 10,
-  "upcoming_match": 215,
+  "live_match": 11,
+  "upcoming_match": 214,
   "ended_match": 25,
   "sources": [
     "api1:events.json",
@@ -375,6 +375,48 @@
       ],
       "isHot": false,
       "id": "evt_9676794a1aab"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Comoros Vs Congo",
+      "eventInfo": {
+        "teamA": "Comoros",
+        "teamB": "Congo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23494/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8040/image",
+        "eventName": "Africa Cup of Nations Qualification",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+        "startTime": "13/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001794568866-0-0-bd3c8b7a777b61b286597c503f289b87",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "http://193.47.62.44/hls/HTTT.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_f8dc26497354",
+      "isHot": false
     },
     {
       "status": "LIVE",
@@ -2136,48 +2178,6 @@
       ],
       "isHot": false,
       "id": "evt_55ee3a815859"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Comoros Vs Congo",
-      "eventInfo": {
-        "teamA": "Comoros",
-        "teamB": "Congo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23494/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/8040/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "13/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN ENGLISH FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001794568866-0-0-bd3c8b7a777b61b286597c503f289b87",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "http://193.47.62.44/hls/HTTT.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_f8dc26497354",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
