@@ -1,45 +1,51 @@
 {
   "remove_events": [],
   
-  "status_override": {"evt_8b8e774bdacf":"ENDED",
-  "evt_dfa6ba76db50":"ENDED",
-  "evt_cb92eaad2884":"ENDED",
-  "evt_a6252405842b":"ENDED",
-  "evt_f9521ce2453e":"ENDED"},
+  "merge_events": [
+    ["evt_f8dc26497354", "evt_9676794a1aab"]
+  ],
+  
+  "status_override": {
+    "evt_8b8e774bdacf": "ENDED",
+    "evt_dfa6ba76db50": "ENDED",
+    "evt_cb92eaad2884": "ENDED",
+    "evt_a6252405842b": "ENDED",
+    "evt_f9521ce2453e": "ENDED"
+  },
   
   "remove_streams": {},
   
   "add_streams": {
-    "" : [
+    "": [
       {
         "channel_name": "LiveZone TV",
         "stream_url": ""
       },
       {
-          "channel_name": "SonyLiv (ENG)",
-          "stream_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
-        },
+        "channel_name": "SonyLiv (ENG)",
+        "stream_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
+      },
       {
-          "channel_name": "SonyLiv (HIN)",
-          "stream_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
-        },
+        "channel_name": "SonyLiv (HIN)",
+        "stream_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
+      },
       {
-          "channel_name": "SonyLiv (TAM)",
-          "stream_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
-        },
+        "channel_name": "SonyLiv (TAM)",
+        "stream_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
+      },
       {
-          "channel_name": "SonyLiv (TEL)",
-          "stream_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
-        },
+        "channel_name": "SonyLiv (TEL)",
+        "stream_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
+      },
       {
-          "channel_name": "SonyLiv (KAN)",
-          "stream_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
-        },
+        "channel_name": "SonyLiv (KAN)",
+        "stream_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
+      },
       {
-          "channel_name": "Prime English",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/di53wexuc7/out/v1/40b0a31c1c5b4f4aa41286cb1313cf87/cenc.mpd",
-          "drm_key": "01501c3401dabab0e68c1d58b2ed5bde:4c1167220c5d1358d630245281ceba58"
-        },
+        "channel_name": "Prime English",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/di53wexuc7/out/v1/40b0a31c1c5b4f4aa41286cb1313cf87/cenc.mpd",
+        "drm_key": "01501c3401dabab0e68c1d58b2ed5bde:4c1167220c5d1358d630245281ceba58"
+      },
       {
         "channel_name": "Star Sports 2",
         "stream_url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
@@ -49,7 +55,7 @@
         "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8"
       }
     ],
-   "": [
+    "": [
       {
         "channel_name": "Tapmad",
         "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
