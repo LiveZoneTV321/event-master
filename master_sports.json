@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:50:15 AM 14-11-2026",
+  "last_update_time": "11:00:25 AM 14-11-2026",
   "total_matches": 421,
-  "live_match": 14,
-  "upcoming_match": 390,
+  "live_match": 16,
+  "upcoming_match": 388,
   "ended_match": 17,
   "sources": [
     "api1:events.json",
@@ -492,6 +492,66 @@
       ],
       "isHot": false,
       "id": "evt_4ab261a393d6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Pakistan U19 Vs India U19",
+      "eventInfo": {
+        "teamA": "Pakistan U19",
+        "teamB": "India U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6081/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
+        "eventName": "U19 Asia Cup 2026 - Final",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+        "startTime": "14/11/2026 11:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7"
+        }
+      ],
+      "id": "evt_74f5a29b8ab7",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Hobart Hurricanes Women Vs Brisbane Heat Women",
+      "eventInfo": {
+        "teamA": "Hobart Hurricanes Women",
+        "teamB": "Brisbane Heat Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274885/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274884/image",
+        "eventName": "Womens Big Bash League 2026 - 21st Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "14/11/2026 10:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "f703fd09044cca52e2574b38fb30a6f9:35494900afade256b06dce9fbd4e3018"
+        },
+        {
+          "channel_name": "cbs sports - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "f703fd09044cca52e2574b38fb30a6f9:35494900afade256b06dce9fbd4e3018"
+        }
+      ],
+      "id": "evt_31d9c960cd9e",
+      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -3779,23 +3839,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Pakistan U19 Vs India U19",
-      "eventInfo": {
-        "teamA": "Pakistan U19",
-        "teamB": "India U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6081/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-        "eventName": "U19 Asia Cup 2026 - Final",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-        "startTime": "14/11/2026 11:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_74f5a29b8ab7",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Wycombe Vs Huddersfield",
       "eventInfo": {
@@ -3911,23 +3954,6 @@
       },
       "streams": [],
       "id": "evt_267c2e9dac75",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Hobart Hurricanes Women Vs Brisbane Heat Women",
-      "eventInfo": {
-        "teamA": "Hobart Hurricanes Women",
-        "teamB": "Brisbane Heat Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274885/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274884/image",
-        "eventName": "Womens Big Bash League 2026 - 21st Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "14/11/2026 10:40:00 AM"
-      },
-      "streams": [],
-      "id": "evt_31d9c960cd9e",
       "isHot": false
     },
     {
