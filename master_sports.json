@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:00:26 AM 15-11-2026",
+  "last_update_time": "03:10:12 AM 15-11-2026",
   "total_matches": 378,
-  "live_match": 36,
-  "upcoming_match": 311,
-  "ended_match": 31,
+  "live_match": 34,
+  "upcoming_match": 310,
+  "ended_match": 34,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -709,34 +709,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Carolina Hurricanes Vs Seattle Kraken",
-      "eventInfo": {
-        "teamA": "Carolina Hurricanes",
-        "teamB": "Seattle Kraken",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "15/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NOVA1 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + NHL",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60052/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b2f0b5d2fa38"
-    },
-    {
-      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "Ireland Vs Fiji",
       "eventInfo": {
@@ -880,35 +852,6 @@
     {
       "status": "LIVE",
       "Category": "American football",
-      "event_name": "Clemson Tigers Vs Georgia Tech Yellow Jackets",
-      "eventInfo": {
-        "teamA": "Clemson Tigers",
-        "teamB": "Georgia Tech Yellow Jackets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4308/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4320/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "14/11/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60044/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/DVVVAAAAQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ab2b719506e9"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
       "event_name": "Vanderbilt Commodores Vs Alabama Crimson Tide",
       "eventInfo": {
         "teamA": "Vanderbilt Commodores",
@@ -934,35 +877,6 @@
       ],
       "isHot": false,
       "id": "evt_a36aee80625a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Rutgers Scarlet Knights Vs Nebraska Cornhuskers",
-      "eventInfo": {
-        "teamA": "Rutgers Scarlet Knights",
-        "teamB": "Nebraska Cornhuskers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4354/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4282/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "14/11/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60045/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/DVVVAAAAQQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5f12059cfbed"
     },
     {
       "status": "LIVE",
@@ -1239,6 +1153,29 @@
       "streams": [],
       "isHot": false,
       "id": "evt_f49d09f36b3c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Banfield Vs Boca Juniors",
+      "eventInfo": {
+        "teamA": "Banfield",
+        "teamB": "Boca Juniors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3219/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+        "eventName": "Copa Argentina",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1024/image/dark",
+        "startTime": "15/11/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TYC Sports Inter",
+          "stream_url": "https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?",
+          "referer": "https://zlive.st/"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_729d945f7f73"
     },
     {
       "status": "LIVE",
@@ -2079,29 +2016,6 @@
       ],
       "isHot": false,
       "id": "evt_ddf4960f6df6"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Banfield Vs Boca Juniors",
-      "eventInfo": {
-        "teamA": "Banfield",
-        "teamB": "Boca Juniors",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3219/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3202/image",
-        "eventName": "Copa Argentina",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1024/image/dark",
-        "startTime": "15/11/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TYC Sports Inter",
-          "stream_url": "https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?",
-          "referer": "https://zlive.st/"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_729d945f7f73"
     },
     {
       "status": "UPCOMING",
@@ -8025,6 +7939,34 @@
     },
     {
       "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Carolina Hurricanes Vs Seattle Kraken",
+      "eventInfo": {
+        "teamA": "Carolina Hurricanes",
+        "teamB": "Seattle Kraken",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "15/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA1 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "STREAM TV + NHL",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60052/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b2f0b5d2fa38"
+    },
+    {
+      "status": "ENDED",
       "Category": "Rugby",
       "event_name": "England Vs Japan",
       "eventInfo": {
@@ -8229,6 +8171,64 @@
       ],
       "isHot": false,
       "id": "evt_40aceedef170"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Clemson Tigers Vs Georgia Tech Yellow Jackets",
+      "eventInfo": {
+        "teamA": "Clemson Tigers",
+        "teamB": "Georgia Tech Yellow Jackets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4308/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4320/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "14/11/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60044/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/DVVVAAAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ab2b719506e9"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Rutgers Scarlet Knights Vs Nebraska Cornhuskers",
+      "eventInfo": {
+        "teamA": "Rutgers Scarlet Knights",
+        "teamB": "Nebraska Cornhuskers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4354/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4282/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "14/11/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60045/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/DVVVAAAAQQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5f12059cfbed"
     },
     {
       "status": "ENDED",
