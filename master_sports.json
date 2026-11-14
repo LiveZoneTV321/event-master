@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:00:27 PM 14-11-2026",
+  "last_update_time": "05:10:13 PM 14-11-2026",
   "total_matches": 414,
-  "live_match": 13,
-  "upcoming_match": 384,
+  "live_match": 17,
+  "upcoming_match": 380,
   "ended_match": 17,
   "sources": [
     "api1:events.json",
@@ -193,6 +193,29 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "RCD Espanyol de Barcelona Vs Costa Adeje Tenerife",
+      "eventInfo": {
+        "teamA": "RCD Espanyol de Barcelona",
+        "teamB": "Costa Adeje Tenerife",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/38323/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/202971/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "14/11/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d083538b2298"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "India Vs Bhutan",
       "eventInfo": {
         "teamA": "India",
@@ -377,15 +400,15 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "RCD Espanyol de Barcelona Vs Costa Adeje Tenerife",
+      "event_name": "China Vs Malaysia",
       "eventInfo": {
-        "teamA": "RCD Espanyol de Barcelona",
-        "teamB": "Costa Adeje Tenerife",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/38323/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/202971/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "14/11/2026 05:00:00 PM"
+        "teamA": "China",
+        "teamB": "Malaysia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4755/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6912/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "14/11/2026 06:00:00 PM"
       },
       "streams": [
         {
@@ -395,7 +418,30 @@
         }
       ],
       "isHot": false,
-      "id": "evt_d083538b2298"
+      "id": "evt_f82e5d41eb3d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Chinese Taipei Vs Kyrgyzstan",
+      "eventInfo": {
+        "teamA": "Chinese Taipei",
+        "teamB": "Kyrgyzstan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5937/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7930/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "14/11/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_833c9d11f948"
     },
     {
       "status": "LIVE",
@@ -435,6 +481,35 @@
       ],
       "isHot": false,
       "id": "evt_8aee1a65641b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Italy Vs Argentina",
+      "eventInfo": {
+        "teamA": "Italy",
+        "teamB": "Argentina",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7057/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4225/image",
+        "eventName": "Nations Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "startTime": "14/11/2026 05:40:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA1 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/OOOOAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_2875e529e3d8"
     },
     {
       "status": "LIVE",
@@ -549,6 +624,36 @@
         }
       ],
       "id": "evt_a139476a24aa",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Biratnagar Kings Vs Lumbini Lions",
+      "eventInfo": {
+        "teamA": "Biratnagar Kings",
+        "teamB": "Lumbini Lions",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/PU.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/PS.png",
+        "eventName": "Nepal Premier League 2026 - 26th Match",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "startTime": "14/11/2026 05:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FANCODE - FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "channel_name": "FANCODE - SD",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f"
+        }
+      ],
+      "id": "evt_5b9e9a4addd0",
       "isHot": false
     },
     {
@@ -1410,52 +1515,6 @@
       ],
       "isHot": false,
       "id": "evt_e210297e0dc2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "China Vs Malaysia",
-      "eventInfo": {
-        "teamA": "China",
-        "teamB": "Malaysia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4755/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6912/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "14/11/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f82e5d41eb3d"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Chinese Taipei Vs Kyrgyzstan",
-      "eventInfo": {
-        "teamA": "Chinese Taipei",
-        "teamB": "Kyrgyzstan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5937/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7930/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "14/11/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_833c9d11f948"
     },
     {
       "status": "UPCOMING",
@@ -3704,35 +3763,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Italy Vs Argentina",
-      "eventInfo": {
-        "teamA": "Italy",
-        "teamB": "Argentina",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7057/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4225/image",
-        "eventName": "Nations Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
-        "startTime": "14/11/2026 05:40:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "NOVA1 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/OOOOAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_2875e529e3d8"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Other",
       "event_name": "Horse Racing Vs Horse Racing",
       "eventInfo": {
@@ -3814,36 +3844,6 @@
       "streams": [],
       "isHot": false,
       "id": "evt_3fa888022f18"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Biratnagar Kings Vs Lumbini Lions",
-      "eventInfo": {
-        "teamA": "Biratnagar Kings",
-        "teamB": "Lumbini Lions",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/PU.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/PS.png",
-        "eventName": "Nepal Premier League 2026 - 26th Match",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "startTime": "14/11/2026 05:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FANCODE - FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "channel_name": "FANCODE - SD",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f"
-        }
-      ],
-      "id": "evt_5b9e9a4addd0",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
