@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:40:12 PM 14-11-2026",
+  "last_update_time": "09:50:15 PM 14-11-2026",
   "total_matches": 407,
-  "live_match": 46,
-  "upcoming_match": 328,
+  "live_match": 47,
+  "upcoming_match": 327,
   "ended_match": 33,
   "sources": [
     "api1:events.json",
@@ -314,16 +314,16 @@
           "stream_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8"
         },
         {
-          "channel_name": "Server 5",
-          "stream_url": "https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8",
-          "referer": "https://www.btvlive.gov.bd",
-          "user_agent": "Mozilla/5.0"
-        },
-        {
-          "channel_name": "Server - 1",
+          "channel_name": "No Buffer- Fmd",
           "stream_url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server 6",
+          "stream_url": "https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8",
+          "referer": "https://www.btvlive.gov.bd",
+          "user_agent": "Mozilla/5.0"
         },
         {
           "channel_name": "Server - 2",
@@ -1343,6 +1343,35 @@
         }
       ],
       "id": "evt_de16d900a5ab",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Yas Lions Vs UAE Bulls",
+      "eventInfo": {
+        "teamA": "Yas Lions",
+        "teamB": "UAE Bulls",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LH.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/78.png",
+        "eventName": "Abu Dhabi T10 League 2026 - 18th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+        "startTime": "14/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "a sports - aq",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_99ee26577556",
       "isHot": false
     },
     {
@@ -3532,35 +3561,6 @@
         }
       ],
       "id": "evt_1bf99f5adc15",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Yas Lions Vs UAE Bulls",
-      "eventInfo": {
-        "teamA": "Yas Lions",
-        "teamB": "UAE Bulls",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/78.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 18th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "14/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS - aq",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "a sports - aq",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_99ee26577556",
       "isHot": false
     },
     {
