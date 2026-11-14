@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:00:23 PM 14-11-2026",
+  "last_update_time": "04:10:11 PM 14-11-2026",
   "total_matches": 414,
-  "live_match": 10,
-  "upcoming_match": 387,
+  "live_match": 11,
+  "upcoming_match": 386,
   "ended_match": 17,
   "sources": [
     "api1:events.json",
@@ -350,6 +350,29 @@
       ],
       "isHot": false,
       "id": "evt_081d5e303edd"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "RCD Espanyol de Barcelona Vs Costa Adeje Tenerife",
+      "eventInfo": {
+        "teamA": "RCD Espanyol de Barcelona",
+        "teamB": "Costa Adeje Tenerife",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/38323/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/202971/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "14/11/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d083538b2298"
     },
     {
       "status": "LIVE",
@@ -1490,29 +1513,6 @@
       ],
       "isHot": false,
       "id": "evt_9a8202bb6ef6"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "RCD Espanyol de Barcelona Vs Costa Adeje Tenerife",
-      "eventInfo": {
-        "teamA": "RCD Espanyol de Barcelona",
-        "teamB": "Costa Adeje Tenerife",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/38323/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/202971/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "14/11/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d083538b2298"
     },
     {
       "status": "UPCOMING",
