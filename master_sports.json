@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:40:12 AM 15-11-2026",
+  "last_update_time": "05:50:12 AM 15-11-2026",
   "total_matches": 363,
-  "live_match": 53,
-  "upcoming_match": 290,
+  "live_match": 54,
+  "upcoming_match": 289,
   "ended_match": 20,
   "sources": [
     "api1:events.json",
@@ -1684,6 +1684,30 @@
       "isHot": false
     },
     {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Sydney Sixers Women Vs Melbourne Renegades Women",
+      "eventInfo": {
+        "teamA": "Sydney Sixers Women",
+        "teamB": "Melbourne Renegades Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274883/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274887/image",
+        "eventName": "Womens Big Bash League 2026",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "15/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "willow sports - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "id": "evt_1bf99f5adc15",
+      "isHot": false
+    },
+    {
       "status": "UPCOMING",
       "Category": "Boxing",
       "event_name": "WWE NXT Vs WWE NXT",
@@ -2848,30 +2872,6 @@
       ],
       "isHot": false,
       "id": "evt_e6c2ae8ebbb9"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Sydney Sixers Women Vs Melbourne Renegades Women",
-      "eventInfo": {
-        "teamA": "Sydney Sixers Women",
-        "teamB": "Melbourne Renegades Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274883/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274887/image",
-        "eventName": "Womens Big Bash League 2026",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "15/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "willow sports - aq",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ],
-      "id": "evt_1bf99f5adc15",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
