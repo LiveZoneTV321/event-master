@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:50:12 PM 14-11-2026",
+  "last_update_time": "05:00:27 PM 14-11-2026",
   "total_matches": 414,
   "live_match": 13,
   "upcoming_match": 384,
@@ -3818,6 +3818,36 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
+      "event_name": "Biratnagar Kings Vs Lumbini Lions",
+      "eventInfo": {
+        "teamA": "Biratnagar Kings",
+        "teamB": "Lumbini Lions",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/PU.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/PS.png",
+        "eventName": "Nepal Premier League 2026 - 26th Match",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "startTime": "14/11/2026 05:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FANCODE - FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "channel_name": "FANCODE - SD",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f"
+        }
+      ],
+      "id": "evt_5b9e9a4addd0",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
       "event_name": "Royal Desert Champions Vs United Tigers",
       "eventInfo": {
         "teamA": "Royal Desert Champions",
@@ -3955,23 +3985,6 @@
       },
       "streams": [],
       "id": "evt_267c2e9dac75",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Biratnagar Kings Vs Lumbini Lions",
-      "eventInfo": {
-        "teamA": "Biratnagar Kings",
-        "teamB": "Lumbini Lions",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/PU.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/PS.png",
-        "eventName": "Nepal Premier League 2026 - 26th Match",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "startTime": "14/11/2026 05:15:00 PM"
-      },
-      "streams": [],
-      "id": "evt_5b9e9a4addd0",
       "isHot": false
     },
     {
