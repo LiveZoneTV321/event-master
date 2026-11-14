@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:00:25 AM 14-11-2026",
+  "last_update_time": "09:10:12 AM 14-11-2026",
   "total_matches": 372,
   "live_match": 16,
-  "upcoming_match": 302,
-  "ended_match": 54,
+  "upcoming_match": 300,
+  "ended_match": 56,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -86,12 +86,6 @@
           "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8"
         },
         {
-          "channel_name": "HD STREAM ",
-          "stream_url": "https://edgestream3.pro/hls/zeuryuegn48.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
           "channel_name": "HD QUALITY SMACK",
           "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8"
         },
@@ -102,17 +96,6 @@
         {
           "channel_name": "HD QUALITY SMK",
           "stream_url": "https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "channel_name": "HD SERVER",
-          "stream_url": "https://daffodil.demonpvp.fun/wwe.m3u8",
-          "referer": "https://roxiestreams.info"
-        },
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://edgestream1.pro/hls/zeuryuegn48.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         },
         {
           "channel_name": "SmackDown HD",
@@ -397,80 +380,31 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Orlando Magic Vs Milwaukee Bucks",
+      "event_name": "Sacramento Kings Vs Portland Trail Blazers",
       "eventInfo": {
-        "teamA": "Orlando Magic",
-        "teamB": "Milwaukee Bucks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+        "teamA": "Sacramento Kings",
+        "teamB": "Portland Trail Blazers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
         "eventName": "NBA",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "14/11/2026 06:00:00 AM"
+        "startTime": "14/11/2026 09:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "NBA LEAGUEPASS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tlpl6fazmv/out/v1/4239550bb72e4c40890a9cc1258c5c05/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7cc473383b5aaf46741951bf34fab665:8ef8e3b49621fc60456ab814b6e383c9"
-        },
-        {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59976/load-playlist-multi?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
-          "channel_name": "TV QUALITY+ HD",
-          "stream_url": "https://www.rtmpcdn.com/live/f2a7b79f-6c48-45cd-89e2-aa6b4c59ada0.m3u8"
-        },
-        {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/RFRFRF.m3u8",
+          "stream_url": "http://193.47.62.55/hls/RFRFRFAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_2d9861be3cd8"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Indiana Pacers Vs New York Knicks",
-      "eventInfo": {
-        "teamA": "Indiana Pacers",
-        "teamB": "New York Knicks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "14/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NBA LEAGUEPASS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/veoa0nikl5/out/v1/d465fd2ab39041e288685c485be5b42b/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "5958401c99ba93b21beafce785b66bf0:5c94e32edb27ee3161dd6e9e82071523"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59966/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "TV QUALITY+ HD",
-          "stream_url": "https://www.rtmpcdn.com/live/19b85780-60e4-4b8c-8b57-29436886cfea.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/XAXAXA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c880d006dfdb"
+      "id": "evt_1d6d7dc88b85"
     },
     {
       "status": "LIVE",
@@ -589,32 +523,77 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Sacramento Kings Vs Portland Trail Blazers",
+      "Category": "Hockey",
+      "event_name": "Vegas Golden Knights Vs Nashville Predators",
       "eventInfo": {
-        "teamA": "Sacramento Kings",
-        "teamB": "Portland Trail Blazers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamA": "Vegas Golden Knights",
+        "teamB": "Nashville Predators",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "startTime": "14/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_29082611d2d1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Melbourne City Vs Newcastle Jets",
+      "eventInfo": {
+        "teamA": "Melbourne City",
+        "teamB": "Newcastle Jets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/207680/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174102/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "14/11/2026 10:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/RFRFRFAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_1d6d7dc88b85"
+      "id": "evt_e75462f8f762"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Melbourne Victory Vs Adelaide United",
+      "eventInfo": {
+        "teamA": "Melbourne Victory",
+        "teamB": "Adelaide United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174100/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174076/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "14/11/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5ecf48b0979c"
     },
     {
       "status": "LIVE",
@@ -644,34 +623,6 @@
       ],
       "isHot": false,
       "id": "evt_b72bd7f9f950"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Vegas Golden Knights Vs Nashville Predators",
-      "eventInfo": {
-        "teamA": "Vegas Golden Knights",
-        "teamB": "Nashville Predators",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "14/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_29082611d2d1"
     },
     {
       "status": "UPCOMING",
@@ -1611,52 +1562,6 @@
       ],
       "isHot": false,
       "id": "evt_e210297e0dc2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Melbourne City Vs Newcastle Jets",
-      "eventInfo": {
-        "teamA": "Melbourne City",
-        "teamB": "Newcastle Jets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/207680/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174102/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "14/11/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e75462f8f762"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Melbourne Victory Vs Adelaide United",
-      "eventInfo": {
-        "teamA": "Melbourne Victory",
-        "teamB": "Adelaide United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174100/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174076/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "14/11/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5ecf48b0979c"
     },
     {
       "status": "UPCOMING",
@@ -6497,28 +6402,6 @@
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://live2.jorvakstreamcache.com/live/channel22.m3u8?",
           "referer": "https://xlz.domainkqt.cc/"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001794601268-0-0-3a0c944e454c771365c7f68ec9dda49c",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=2ff966b1607d595c5d251888cd85d705&txTime=6af75c1c",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://playback.livetl004.com/live/69cf6331585c5992182f4160.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -7775,6 +7658,84 @@
       ],
       "isHot": false,
       "id": "evt_e6cb2f8a33ed"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Orlando Magic Vs Milwaukee Bucks",
+      "eventInfo": {
+        "teamA": "Orlando Magic",
+        "teamB": "Milwaukee Bucks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "14/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NBA LEAGUEPASS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tlpl6fazmv/out/v1/4239550bb72e4c40890a9cc1258c5c05/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7cc473383b5aaf46741951bf34fab665:8ef8e3b49621fc60456ab814b6e383c9"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59976/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "https://www.rtmpcdn.com/live/f2a7b79f-6c48-45cd-89e2-aa6b4c59ada0.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/RFRFRF.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_2d9861be3cd8"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Indiana Pacers Vs New York Knicks",
+      "eventInfo": {
+        "teamA": "Indiana Pacers",
+        "teamB": "New York Knicks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "14/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NBA LEAGUEPASS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/veoa0nikl5/out/v1/d465fd2ab39041e288685c485be5b42b/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "5958401c99ba93b21beafce785b66bf0:5c94e32edb27ee3161dd6e9e82071523"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59966/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "TV QUALITY+ HD",
+          "stream_url": "https://www.rtmpcdn.com/live/19b85780-60e4-4b8c-8b57-29436886cfea.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/XAXAXA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c880d006dfdb"
     },
     {
       "status": "ENDED",
