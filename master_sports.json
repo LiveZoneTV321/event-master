@@ -1,9 +1,9 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:40:13 PM 14-11-2026",
-  "total_matches": 415,
-  "live_match": 10,
+  "last_update_time": "01:50:19 PM 14-11-2026",
+  "total_matches": 414,
+  "live_match": 9,
   "upcoming_match": 391,
   "ended_match": 14,
   "sources": [
@@ -363,48 +363,6 @@
       ],
       "id": "evt_74f5a29b8ab7",
       "isHot": true
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Hobart Hurricanes Women Vs Brisbane Heat Women",
-      "eventInfo": {
-        "teamA": "Hobart Hurricanes Women",
-        "teamB": "Brisbane Heat Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274885/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274884/image",
-        "eventName": "Womens Big Bash League 2026 - 21st Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "14/11/2026 10:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "f703fd09044cca52e2574b38fb30a6f9:35494900afade256b06dce9fbd4e3018"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "f703fd09044cca52e2574b38fb30a6f9:35494900afade256b06dce9fbd4e3018"
-        },
-        {
-          "channel_name": "willow sports - aq",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "Tapmad - (bd)",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_31d9c960cd9e",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -3802,6 +3760,30 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Perth Scorchers Women Vs Adelaide Strikers Women",
+      "eventInfo": {
+        "teamA": "Perth Scorchers Women",
+        "teamB": "Adelaide Strikers Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274888/image",
+        "eventName": "Womens Big Bash League 2026 - 22nd Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "14/11/2026 02:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "willow sports - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "id": "evt_66df2bad8117",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Wycombe Vs Huddersfield",
       "eventInfo": {
@@ -3917,23 +3899,6 @@
       },
       "streams": [],
       "id": "evt_267c2e9dac75",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Perth Scorchers Women Vs Adelaide Strikers Women",
-      "eventInfo": {
-        "teamA": "Perth Scorchers Women",
-        "teamB": "Adelaide Strikers Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274888/image",
-        "eventName": "Womens Big Bash League 2026 - 22nd Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "14/11/2026 02:10:00 PM"
-      },
-      "streams": [],
-      "id": "evt_66df2bad8117",
       "isHot": false
     },
     {
