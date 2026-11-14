@@ -1,62 +1,16 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:50:13 PM 14-11-2026",
+  "last_update_time": "08:51:28 PM 14-11-2026",
   "total_matches": 413,
-  "live_match": 54,
+  "live_match": 53,
   "upcoming_match": 334,
-  "ended_match": 25,
+  "ended_match": 26,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
   ],
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Pakistan Under-19 Vs India Under-19",
-      "eventInfo": {
-        "teamA": "Pakistan Under-19",
-        "teamB": "India Under-19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/213104/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/213112/image",
-        "eventName": "U19 Asia Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
-        "startTime": "14/11/2026 11:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
-          "drm_key": "6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7"
-        },
-        {
-          "channel_name": "SonyLiv PRIME FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2fqqd9w1dv/out/v1/640bbe357b4e4656a3a25ef401b40943/cenc.mpd",
-          "drm_key": "c32f4ea1b4dd4e4736ee667ee02aa8bb:3ae921b11d3dcabb54a7433f065c2efa"
-        },
-        {
-          "channel_name": "WILLOW2 HD",
-          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
-        },
-        {
-          "channel_name": "WILLOW RED HD",
-          "stream_url": "http://103.114.11.37:8081/Willow-TV/index.m3u8"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
-          "drm_key": "6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7"
-        },
-        {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_237973e6665e"
-    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -8138,6 +8092,52 @@
       ],
       "isHot": false,
       "id": "evt_a6252405842b"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Cricket",
+      "event_name": "Pakistan Under-19 Vs India Under-19",
+      "eventInfo": {
+        "teamA": "Pakistan Under-19",
+        "teamB": "India Under-19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213104/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213112/image",
+        "eventName": "U19 Asia Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
+        "startTime": "14/11/2026 11:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "drm_key": "6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7"
+        },
+        {
+          "channel_name": "SonyLiv PRIME FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2fqqd9w1dv/out/v1/640bbe357b4e4656a3a25ef401b40943/cenc.mpd",
+          "drm_key": "c32f4ea1b4dd4e4736ee667ee02aa8bb:3ae921b11d3dcabb54a7433f065c2efa"
+        },
+        {
+          "channel_name": "WILLOW2 HD",
+          "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+        },
+        {
+          "channel_name": "WILLOW RED HD",
+          "stream_url": "http://103.114.11.37:8081/Willow-TV/index.m3u8"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "drm_key": "6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7"
+        },
+        {
+          "channel_name": "WILLOW SPORTS",
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_237973e6665e"
     },
     {
       "status": "ENDED",
