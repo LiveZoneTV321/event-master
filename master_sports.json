@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:50:12 PM 14-11-2026",
+  "last_update_time": "06:00:24 PM 14-11-2026",
   "total_matches": 415,
-  "live_match": 18,
-  "upcoming_match": 378,
+  "live_match": 19,
+  "upcoming_match": 377,
   "ended_match": 19,
   "sources": [
     "api1:events.json",
@@ -366,6 +366,28 @@
           "stream_url": "http://193.47.62.44/hls/KUUUA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794655639-0-0-b315c675383e46756eb1d53f0418f00a",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://playback.livetl004.com/live/6a9776215126529dede9bf51.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -396,6 +418,23 @@
           "stream_url": "http://193.47.62.44/hls/KUUUAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001794655279-0-0-92910147b3d667141ee891a8920afdd4",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -602,6 +641,51 @@
       ],
       "id": "evt_74f5a29b8ab7",
       "isHot": true
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Thailand Vs Tajikistan",
+      "eventInfo": {
+        "teamA": "Thailand",
+        "teamB": "Tajikistan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8581",
+        "eventName": "Friendly International",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+        "startTime": "14/11/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001794655615-0-0-cba3eb9a028fda94bd6ac3f3984de8d4",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=f76e0e754c496bc23ddacfc989e85da4&txTime=6af82d2c",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1794631448-0-0-0330254d5e227e09bb09d510640e2ab5",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel18.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_c5b2db92bb67",
+      "isHot": false
     },
     {
       "status": "LIVE",
@@ -3864,6 +3948,78 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Sydney Sixers Women Vs Melbourne Renegades Women",
+      "eventInfo": {
+        "teamA": "Sydney Sixers Women",
+        "teamB": "Melbourne Renegades Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274883/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274887/image",
+        "eventName": "Womens Big Bash League 2026",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "15/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "willow sports - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "id": "evt_1bf99f5adc15",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Sydney Thunder Women Vs Melbourne Stars Women",
+      "eventInfo": {
+        "teamA": "Sydney Thunder Women",
+        "teamB": "Melbourne Stars Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274889/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274886/image",
+        "eventName": "Womens Big Bash League 2026 - 24th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "16/11/2026 02:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "willow sports - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "id": "evt_ab834eace457",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Adelaide Strikers Women Vs Sydney Sixers Women",
+      "eventInfo": {
+        "teamA": "Adelaide Strikers Women",
+        "teamB": "Sydney Sixers Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274888/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274883/image",
+        "eventName": "Womens Big Bash League 2026 - 25th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "17/11/2026 02:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "willow sports - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "id": "evt_bcbd1d81965d",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Wycombe Vs Huddersfield",
       "eventInfo": {
@@ -3911,23 +4067,6 @@
       },
       "streams": [],
       "id": "evt_de16d900a5ab",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Thailand Vs Tajikistan",
-      "eventInfo": {
-        "teamA": "Thailand",
-        "teamB": "Tajikistan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4730/image",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8581",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "14/11/2026 06:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_c5b2db92bb67",
       "isHot": false
     },
     {
@@ -4132,23 +4271,6 @@
       },
       "streams": [],
       "id": "evt_0b149741d8b0",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Sydney Sixers Women Vs Melbourne Renegades Women",
-      "eventInfo": {
-        "teamA": "Sydney Sixers Women",
-        "teamB": "Melbourne Renegades Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274883/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274887/image",
-        "eventName": "Womens Big Bash League 2026",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "15/11/2026 06:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_1bf99f5adc15",
       "isHot": false
     },
     {
@@ -4540,23 +4662,6 @@
       },
       "streams": [],
       "id": "evt_452fb60ba2fa",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Sydney Thunder Women Vs Melbourne Stars Women",
-      "eventInfo": {
-        "teamA": "Sydney Thunder Women",
-        "teamB": "Melbourne Stars Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274889/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274886/image",
-        "eventName": "Womens Big Bash League 2026 - 24th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "16/11/2026 02:10:00 PM"
-      },
-      "streams": [],
-      "id": "evt_ab834eace457",
       "isHot": false
     },
     {
@@ -5118,23 +5223,6 @@
       },
       "streams": [],
       "id": "evt_79cbf1fbfe30",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Adelaide Strikers Women Vs Sydney Sixers Women",
-      "eventInfo": {
-        "teamA": "Adelaide Strikers Women",
-        "teamB": "Sydney Sixers Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274888/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274883/image",
-        "eventName": "Womens Big Bash League 2026 - 25th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "17/11/2026 02:10:00 PM"
-      },
-      "streams": [],
-      "id": "evt_bcbd1d81965d",
       "isHot": false
     },
     {
