@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:40:12 PM 14-11-2026",
+  "last_update_time": "05:50:12 PM 14-11-2026",
   "total_matches": 415,
-  "live_match": 17,
-  "upcoming_match": 379,
+  "live_match": 18,
+  "upcoming_match": 378,
   "ended_match": 19,
   "sources": [
     "api1:events.json",
@@ -482,6 +482,53 @@
       ],
       "isHot": false,
       "id": "evt_3859b34100e0"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Royal Desert Champions Vs United Tigers",
+      "eventInfo": {
+        "teamA": "Royal Desert Champions",
+        "teamB": "United Tigers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "eventName": "Abu Dhabi T10 League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "startTime": "14/11/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "b5cbb452aa747899eec0423039edd4a1:ef75fa617bda5097c77888502c656b07"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "b5cbb452aa747899eec0423039edd4a1:ef75fa617bda5097c77888502c656b07"
+        },
+        {
+          "channel_name": "Premier Sports - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "a sports - aq",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qu4sfeik4v/out/v1/5e68b5b688b547cdb087eb4c7f34a512/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "b5cbb452aa747899eec0423039edd4a1:ef75fa617bda5097c77888502c656b07"
+        }
+      ],
+      "id": "evt_98800944607c",
+      "isHot": false
     },
     {
       "status": "LIVE",
@@ -3814,29 +3861,6 @@
       "streams": [],
       "isHot": false,
       "id": "evt_3fa888022f18"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Royal Desert Champions Vs United Tigers",
-      "eventInfo": {
-        "teamA": "Royal Desert Champions",
-        "teamB": "United Tigers",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 16th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "14/11/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "a sports - aq",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_cb5fd92345bf",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
