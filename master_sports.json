@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:20:13 PM 14-11-2026",
+  "last_update_time": "03:30:18 PM 14-11-2026",
   "total_matches": 414,
   "live_match": 8,
   "upcoming_match": 389,
@@ -133,7 +133,8 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
+          "referer": "https://xlz.domainkqt.cc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "t sports hd",
@@ -170,6 +171,16 @@
         {
           "channel_name": "Server - 3",
           "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794648731-0-0-741b0e8b1c7210e4978b7d68066e3237",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=c5de382b151ac3ef909d43c2727671c3&txTime=6af870e8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
@@ -3746,6 +3757,29 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Royal Desert Champions Vs United Tigers",
+      "eventInfo": {
+        "teamA": "Royal Desert Champions",
+        "teamB": "United Tigers",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LL.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
+        "eventName": "Abu Dhabi T10 League 2026 - 16th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+        "startTime": "14/11/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "a sports - aq",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_cb5fd92345bf",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Wycombe Vs Huddersfield",
       "eventInfo": {
@@ -4099,23 +4133,6 @@
       },
       "streams": [],
       "id": "evt_3758e9a31f9b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Royal Desert Champions Vs United Tigers",
-      "eventInfo": {
-        "teamA": "Royal Desert Champions",
-        "teamB": "United Tigers",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 16th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "14/11/2026 03:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_cb5fd92345bf",
       "isHot": false
     },
     {
