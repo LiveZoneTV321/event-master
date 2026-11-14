@@ -1,61 +1,16 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:30:18 PM 14-11-2026",
-  "total_matches": 372,
-  "live_match": 36,
-  "upcoming_match": 316,
-  "ended_match": 20,
+  "last_update_time": "11:40:13 PM 14-11-2026",
+  "total_matches": 384,
+  "live_match": 28,
+  "upcoming_match": 317,
+  "ended_match": 39,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
   ],
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Afghanistan Vs Zimbabwe",
-      "eventInfo": {
-        "teamA": "Afghanistan",
-        "teamB": "Zimbabwe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-        "eventName": "Test Series",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark",
-        "startTime": "14/11/2026 11:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd",
-          "drm_key": "9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02"
-        },
-        {
-          "channel_name": "FANCODE2 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "channel_name": "FANCODE1 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/D222A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd",
-          "drm_key": "9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_fe585796ba9e"
-    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -321,15 +276,15 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Tottenham FC Vs Everton",
+      "event_name": "Brighton Vs Liverpool FC",
       "eventInfo": {
-        "teamA": "Tottenham FC",
-        "teamB": "Everton",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/273547/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36704/image",
+        "teamA": "Brighton",
+        "teamB": "Liverpool FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/266376/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/66774/image",
         "eventName": "Women's Super League",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
+        "startTime": "14/11/2026 11:15:00 PM"
       },
       "streams": [
         {
@@ -340,20 +295,110 @@
           "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
         },
         {
-          "channel_name": "SKY SPORTS EPL FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f"
-        },
-        {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/R777AAAQQQQ.m3u8",
+          "stream_url": "http://193.47.62.59/hls/VVVVAAAAAQAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_85db2516d864"
+      "id": "evt_c16fe5609b12"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Mallorca Vs Córdoba",
+      "eventInfo": {
+        "teamA": "Mallorca",
+        "teamB": "Córdoba",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2826/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2850/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "14/11/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/VVVVAAAAAQAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LaLiga Hypermotion",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LaLiga Hypermotion2",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
+          "drm_key": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001794673546-0-0-a43d6819ee58f72d18a6672a87c50d21",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0b27d49602e4"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Almería Vs FC Andorra",
+      "eventInfo": {
+        "teamA": "Almería",
+        "teamB": "FC Andorra",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2858/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/324871/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "14/11/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/VVVVAAAAAQAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LaLiga Hypermotion",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LaLiga Hypermotion2",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
+          "drm_key": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001794673174-0-0-31b80ef21eced845a2c67fbd4a3d730a",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a1714916bd20"
     },
     {
       "status": "LIVE",
@@ -372,26 +417,7 @@
         {
           "channel_name": "LaLiga Hypermotion",
           "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794666337-0-0-f0baadddacfc14e3b8e63e14917bf721",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "http://193.47.62.59/hls/BEEEAAAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
         }
       ],
       "isHot": false,
@@ -477,445 +503,32 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Stenhousemuir Vs Queen's Park FC",
+      "event_name": "Fleetwood Town Vs Tranmere Rovers",
       "eventInfo": {
-        "teamA": "Stenhousemuir",
-        "teamB": "Queen's Park FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2370/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2379/image",
-        "eventName": "Scottish Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/206/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/R777AAAQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_008a0b6e5af7"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Partick Thistle Vs Inverness Caledonian Thistle",
-      "eventInfo": {
-        "teamA": "Partick Thistle",
-        "teamB": "Inverness Caledonian Thistle",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2358/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2362/image",
-        "eventName": "Scottish Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/206/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/R777AA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/R777AA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0a0530190765"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Ayr United Vs Raith Rovers",
-      "eventInfo": {
-        "teamA": "Ayr United",
-        "teamB": "Raith Rovers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2364/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2361/image",
-        "eventName": "Scottish Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/206/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/R777.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_308e6c11800d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Livingston Vs Greenock Morton",
-      "eventInfo": {
-        "teamA": "Livingston",
-        "teamB": "Greenock Morton",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2356/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2374/image",
-        "eventName": "Scottish Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/206/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/R777A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0e7da9c92d79"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sheffield Wednesday Vs Plymouth Argyle",
-      "eventInfo": {
-        "teamA": "Sheffield Wednesday",
-        "teamB": "Plymouth Argyle",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/12/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/71/image",
-        "eventName": "League One",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/Y777A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/Y777A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d2094d84623a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Stockport County Vs Reading",
-      "eventInfo": {
-        "teamA": "Stockport County",
-        "teamB": "Reading",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/10/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/28/image",
-        "eventName": "League One",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/Y777AA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/Y777AA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_03ed472620eb"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Wigan Athletic Vs Barnsley",
-      "eventInfo": {
-        "teamA": "Wigan Athletic",
-        "teamB": "Barnsley",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/49/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/23/image",
-        "eventName": "League One",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/Y777AAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/Y777AAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c0bf9ac55588"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Crewe Alexandra Vs Newport County",
-      "eventInfo": {
-        "teamA": "Crewe Alexandra",
-        "teamB": "Newport County",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/19/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/79/image",
+        "teamA": "Fleetwood Town",
+        "teamB": "Tranmere Rovers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23959/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/51/image",
         "eventName": "League Two",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
+        "startTime": "14/11/2026 11:30:00 PM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/T000AA.m3u8",
+          "stream_url": "http://193.47.62.50/hls/T000AAAAAQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/T000AA.m3u8",
+          "stream_url": "http://193.47.62.50/hls/T000AAAAAQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_88a11708d351"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Bristol Rovers Vs Chesterfield",
-      "eventInfo": {
-        "teamA": "Bristol Rovers",
-        "teamB": "Chesterfield",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/76/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/68/image",
-        "eventName": "League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/T000.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/T000.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9e6a8f0e1225"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Colchester United Vs Gillingham",
-      "eventInfo": {
-        "teamA": "Colchester United",
-        "teamB": "Gillingham",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/66/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/20/image",
-        "eventName": "League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/T000A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/T000A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a27cb816a6cc"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Port Vale Vs Accrington Stanley",
-      "eventInfo": {
-        "teamA": "Port Vale",
-        "teamB": "Accrington Stanley",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/55/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187/image",
-        "eventName": "League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/T000AAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/T000AAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_2454b93a8132"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Salford City Vs Northampton Town",
-      "eventInfo": {
-        "teamA": "Salford City",
-        "teamB": "Northampton Town",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/37998/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/57/image",
-        "eventName": "League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/T000AAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/T000AAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_4e7f8bf547b4"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Shrewsbury Town Vs Oldham Athletic",
-      "eventInfo": {
-        "teamA": "Shrewsbury Town",
-        "teamB": "Oldham Athletic",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/82/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/65/image",
-        "eventName": "League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/T000AAAAAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b42f981b6f64"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Walsall Vs Barnet",
-      "eventInfo": {
-        "teamA": "Walsall",
-        "teamB": "Barnet",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/26/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/77/image",
-        "eventName": "League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3f1abbf394d6"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Rochdale Vs York City",
-      "eventInfo": {
-        "teamA": "Rochdale",
-        "teamB": "York City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/103/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/73/image",
-        "eventName": "League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/T000AAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_dfaf7d877e6e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Swindon Town Vs Grimsby Town",
-      "eventInfo": {
-        "teamA": "Swindon Town",
-        "teamB": "Grimsby Town",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/53/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/18/image",
-        "eventName": "League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/T000AAAAAQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/T000AAAAAQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_230f41874412"
+      "id": "evt_200942754303"
     },
     {
       "status": "LIVE",
@@ -958,59 +571,6 @@
       ],
       "isHot": false,
       "id": "evt_2d90c36299af"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Dulwich Hamlet Vs Portishead Town",
-      "eventInfo": {
-        "teamA": "Dulwich Hamlet",
-        "teamB": "Portishead Town",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/456128/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/334624/image",
-        "eventName": "England - FA Women's Cup",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11666/image",
-        "startTime": "14/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3cdef46fb65a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Wales Vs New Zealand",
-      "eventInfo": {
-        "teamA": "Wales",
-        "teamB": "New Zealand",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7058/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4227/image",
-        "eventName": "Nations Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
-        "startTime": "14/11/2026 08:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "NOVA1 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/OOOOAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9ee92c406b5d"
     },
     {
       "status": "LIVE",
@@ -1067,132 +627,256 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Brighton Vs Liverpool FC",
+      "Category": "Boxing",
+      "event_name": "PFL Vs PFL",
       "eventInfo": {
-        "teamA": "Brighton",
-        "teamB": "Liverpool FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/266376/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/66774/image",
-        "eventName": "Women's Super League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "startTime": "14/11/2026 11:15:00 PM"
+        "teamA": "PFL",
+        "teamB": "PFL",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNz1AjjyGras69k8XQnaRt7IvqqzmLl7dBOV8jcrjr2OfChUb_tFgJwrKa&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNz1AjjyGras69k8XQnaRt7IvqqzmLl7dBOV8jcrjr2OfChUb_tFgJwrKa&s=10",
+        "eventName": "PFL",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNz1AjjyGras69k8XQnaRt7IvqqzmLl7dBOV8jcrjr2OfChUb_tFgJwrKa&s=10",
+        "startTime": "14/11/2026 10:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/VVVVAAAAAQAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "Link 1",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59992/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
-      "id": "evt_c16fe5609b12"
+      "id": "evt_a22d4b7efc72"
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Mallorca Vs Córdoba",
+      "Category": "Boxing",
+      "event_name": "RAF Vs RAF",
       "eventInfo": {
-        "teamA": "Mallorca",
-        "teamB": "Córdoba",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2850/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "14/11/2026 11:30:00 PM"
+        "teamA": "RAF",
+        "teamB": "RAF",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1961150067060215811/PVB20pQZ_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1961150067060215811/PVB20pQZ_400x400.jpg",
+        "eventName": "RAF",
+        "event_logo": "https://pbs.twimg.com/profile_images/1961150067060215811/PVB20pQZ_400x400.jpg",
+        "startTime": "14/11/2026 10:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/VVVVAAAAAQAAAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LaLiga Hypermotion",
-          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
-        },
-        {
-          "channel_name": "LaLiga Hypermotion2",
-          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
-          "drm_key": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f"
+          "channel_name": "Link 1",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60043/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
-      "id": "evt_0b27d49602e4"
+      "id": "evt_bcfde2c91e4d"
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Almería Vs FC Andorra",
+      "Category": "Boxing",
+      "event_name": "UFC Vs UFC",
       "eventInfo": {
-        "teamA": "Almería",
-        "teamB": "FC Andorra",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2858/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/324871/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "14/11/2026 11:30:00 PM"
+        "teamA": "UFC",
+        "teamB": "UFC",
+        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+        "eventName": "UFC",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+        "startTime": "14/11/2026 10:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/VVVVAAAAAQAAAQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LaLiga Hypermotion",
-          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
-        },
-        {
-          "channel_name": "LaLiga Hypermotion2",
-          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
-          "drm_key": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f"
+          "channel_name": "Link 1",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60029/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
-      "id": "evt_a1714916bd20"
+      "id": "evt_f708d8dbe793"
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Fleetwood Town Vs Tranmere Rovers",
+      "Category": "American football",
+      "event_name": "Miami Hurricanes Vs Duke Blue Devils",
       "eventInfo": {
-        "teamA": "Fleetwood Town",
-        "teamB": "Tranmere Rovers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23959/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/51/image",
-        "eventName": "League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "teamA": "Miami Hurricanes",
+        "teamB": "Duke Blue Devils",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47357/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4296/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "14/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60037/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7390f5156f75"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Ohio State Buckeyes Vs Northwestern Wildcats",
+      "eventInfo": {
+        "teamA": "Ohio State Buckeyes",
+        "teamB": "Northwestern Wildcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4352/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4366/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "14/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60036/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_2aa42ad271ab"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Southern Methodist Mustangs Vs Wake Forest Demon Deacons",
+      "eventInfo": {
+        "teamA": "Southern Methodist Mustangs",
+        "teamB": "Wake Forest Demon Deacons",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4305/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4327/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "14/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60042/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_85abc7b68af5"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Maryland Terrapins Vs Wisconsin Badgers",
+      "eventInfo": {
+        "teamA": "Maryland Terrapins",
+        "teamB": "Wisconsin Badgers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4306/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4301/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "14/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60034/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_bc572382bdd2"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Iowa State Cyclones Vs Cincinnati Bearcats",
+      "eventInfo": {
+        "teamA": "Iowa State Cyclones",
+        "teamB": "Cincinnati Bearcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4374/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4316/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "14/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60035/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_631614a22557"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Connecticut Huskies Vs James Madison Dukes",
+      "eventInfo": {
+        "teamA": "Connecticut Huskies",
+        "teamB": "James Madison Dukes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4382/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/296503/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "14/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60040/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_619b7849e5bc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "North Carolina State Wolfpack Vs Syracuse Orange",
+      "eventInfo": {
+        "teamA": "North Carolina State Wolfpack",
+        "teamB": "Syracuse Orange",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/188107/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4329/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "14/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60039/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_40aceedef170"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Clemson Tigers Vs Georgia Tech Yellow Jackets",
+      "eventInfo": {
+        "teamA": "Clemson Tigers",
+        "teamB": "Georgia Tech Yellow Jackets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4308/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4320/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
         "startTime": "14/11/2026 11:30:00 PM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/T000AAAAAQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/T000AAAAAQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60044/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
-      "id": "evt_200942754303"
+      "id": "evt_ab2b719506e9"
     },
     {
       "status": "LIVE",
@@ -1221,6 +905,28 @@
       ],
       "isHot": false,
       "id": "evt_b2f0b5d2fa38"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Vanderbilt Commodores Vs Alabama Crimson Tide",
+      "eventInfo": {
+        "teamA": "Vanderbilt Commodores",
+        "teamB": "Alabama Crimson Tide",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4383/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4312/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "14/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a36aee80625a"
     },
     {
       "status": "LIVE",
@@ -1554,6 +1260,51 @@
       ],
       "isHot": false,
       "id": "evt_f9521ce2453e"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Afghanistan Vs Zimbabwe",
+      "eventInfo": {
+        "teamA": "Afghanistan",
+        "teamB": "Zimbabwe",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
+        "eventName": "Test Series",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark",
+        "startTime": "15/11/2026 11:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd",
+          "drm_key": "9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02"
+        },
+        {
+          "channel_name": "FANCODE2 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "channel_name": "FANCODE1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/D222A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd",
+          "drm_key": "9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_fe585796ba9e"
     },
     {
       "status": "UPCOMING",
@@ -7876,6 +7627,43 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Tottenham FC Vs Everton",
+      "eventInfo": {
+        "teamA": "Tottenham FC",
+        "teamB": "Everton",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/273547/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36704/image",
+        "eventName": "Women's Super League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "SKY SPORTS EPL FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/R777AAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_85db2516d864"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Bangladesh Vs Pakistan",
       "eventInfo": {
         "teamA": "Bangladesh",
@@ -7914,6 +7702,502 @@
       ],
       "isHot": true,
       "id": "evt_32fc54de46e0"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Stenhousemuir Vs Queen's Park FC",
+      "eventInfo": {
+        "teamA": "Stenhousemuir",
+        "teamB": "Queen's Park FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2370/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2379/image",
+        "eventName": "Scottish Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/206/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/R777AAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_008a0b6e5af7"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Partick Thistle Vs Inverness Caledonian Thistle",
+      "eventInfo": {
+        "teamA": "Partick Thistle",
+        "teamB": "Inverness Caledonian Thistle",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2358/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2362/image",
+        "eventName": "Scottish Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/206/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/R777AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/R777AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0a0530190765"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Ayr United Vs Raith Rovers",
+      "eventInfo": {
+        "teamA": "Ayr United",
+        "teamB": "Raith Rovers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2364/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2361/image",
+        "eventName": "Scottish Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/206/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/R777.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_308e6c11800d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Livingston Vs Greenock Morton",
+      "eventInfo": {
+        "teamA": "Livingston",
+        "teamB": "Greenock Morton",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2356/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2374/image",
+        "eventName": "Scottish Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/206/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/R777A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0e7da9c92d79"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Sheffield Wednesday Vs Plymouth Argyle",
+      "eventInfo": {
+        "teamA": "Sheffield Wednesday",
+        "teamB": "Plymouth Argyle",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/12/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/71/image",
+        "eventName": "League One",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/Y777A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/Y777A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d2094d84623a"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Stockport County Vs Reading",
+      "eventInfo": {
+        "teamA": "Stockport County",
+        "teamB": "Reading",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/10/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/28/image",
+        "eventName": "League One",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/Y777AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/Y777AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_03ed472620eb"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Wigan Athletic Vs Barnsley",
+      "eventInfo": {
+        "teamA": "Wigan Athletic",
+        "teamB": "Barnsley",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/49/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/23/image",
+        "eventName": "League One",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/Y777AAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/Y777AAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c0bf9ac55588"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Crewe Alexandra Vs Newport County",
+      "eventInfo": {
+        "teamA": "Crewe Alexandra",
+        "teamB": "Newport County",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/19/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/79/image",
+        "eventName": "League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/T000AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/T000AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_88a11708d351"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Bristol Rovers Vs Chesterfield",
+      "eventInfo": {
+        "teamA": "Bristol Rovers",
+        "teamB": "Chesterfield",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/76/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/68/image",
+        "eventName": "League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/T000.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/T000.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_9e6a8f0e1225"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Colchester United Vs Gillingham",
+      "eventInfo": {
+        "teamA": "Colchester United",
+        "teamB": "Gillingham",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/66/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/20/image",
+        "eventName": "League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/T000A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/T000A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a27cb816a6cc"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Port Vale Vs Accrington Stanley",
+      "eventInfo": {
+        "teamA": "Port Vale",
+        "teamB": "Accrington Stanley",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/55/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187/image",
+        "eventName": "League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/T000AAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/T000AAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_2454b93a8132"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Salford City Vs Northampton Town",
+      "eventInfo": {
+        "teamA": "Salford City",
+        "teamB": "Northampton Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/37998/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/57/image",
+        "eventName": "League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/T000AAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/T000AAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4e7f8bf547b4"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Shrewsbury Town Vs Oldham Athletic",
+      "eventInfo": {
+        "teamA": "Shrewsbury Town",
+        "teamB": "Oldham Athletic",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/82/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/65/image",
+        "eventName": "League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/T000AAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b42f981b6f64"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Walsall Vs Barnet",
+      "eventInfo": {
+        "teamA": "Walsall",
+        "teamB": "Barnet",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/26/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77/image",
+        "eventName": "League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3f1abbf394d6"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Rochdale Vs York City",
+      "eventInfo": {
+        "teamA": "Rochdale",
+        "teamB": "York City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/103/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/73/image",
+        "eventName": "League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/T000AAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_dfaf7d877e6e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Swindon Town Vs Grimsby Town",
+      "eventInfo": {
+        "teamA": "Swindon Town",
+        "teamB": "Grimsby Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/53/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/18/image",
+        "eventName": "League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/T000AAAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/T000AAAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_230f41874412"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Dulwich Hamlet Vs Portishead Town",
+      "eventInfo": {
+        "teamA": "Dulwich Hamlet",
+        "teamB": "Portishead Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/456128/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/334624/image",
+        "eventName": "England - FA Women's Cup",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11666/image",
+        "startTime": "14/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3cdef46fb65a"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Wales Vs New Zealand",
+      "eventInfo": {
+        "teamA": "Wales",
+        "teamB": "New Zealand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7058/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4227/image",
+        "eventName": "Nations Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "startTime": "14/11/2026 08:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA1 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/OOOOAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_9ee92c406b5d"
     },
     {
       "status": "ENDED",
