@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:30:17 PM 14-11-2026",
-  "total_matches": 414,
+  "last_update_time": "05:40:12 PM 14-11-2026",
+  "total_matches": 415,
   "live_match": 17,
-  "upcoming_match": 380,
-  "ended_match": 17,
+  "upcoming_match": 379,
+  "ended_match": 19,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -206,8 +206,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "stream_url": "http://193.47.62.41/hls/OOOOA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/OOOOA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -216,87 +223,19 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "India Vs Bhutan",
+      "event_name": "Napoli Vs Milan",
       "eventInfo": {
-        "teamA": "India",
-        "teamB": "Bhutan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/191564/image",
-        "eventName": "SAFF Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
-        "startTime": "14/11/2026 03:00:00 PM"
+        "teamA": "Napoli",
+        "teamB": "Milan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/354947/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/298858/image",
+        "eventName": "Serie A Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "startTime": "14/11/2026 05:30:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "BTV BD FHD",
-          "stream_url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "BACKUP HD",
-          "stream_url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1794650288-0-0-c84e283d6670dae79c28ad58d5c2f1d8"
-        },
-        {
-          "channel_name": "t sports hd",
-          "stream_url": "http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "t sports hd 2",
-          "stream_url": "http://103.209.196.22:84/feed1001/index.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "server - hd",
-          "stream_url": "httpS://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "VETO TV (IND)",
-          "stream_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001794640803-0-0-cb6bfed79e8c8350a56f468031462c4f",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794648731-0-0-741b0e8b1c7210e4978b7d68066e3237",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=c5de382b151ac3ef909d43c2727671c3&txTime=6af870e8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 7",
-          "stream_url": "http://193.47.62.59/hls/SASASAB.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
+      "streams": [],
       "isHot": false,
-      "id": "evt_728aa946cd54"
+      "id": "evt_b17f39ec1d11"
     },
     {
       "status": "LIVE",
@@ -365,6 +304,28 @@
     },
     {
       "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Italy Women's Vs Argentina Women",
+      "eventInfo": {
+        "teamA": "Italy Women's",
+        "teamB": "Argentina Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6129/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+        "eventName": "INTERNATIONAL FRIENDLY Women's",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/36627/image/dark",
+        "startTime": "14/11/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + RUGBY",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8aee1a65641b"
+    },
+    {
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Perth Wildcats Vs Illawarra Hawks",
       "eventInfo": {
@@ -382,23 +343,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Melbourne United Vs South East Melbourne Phoenix",
-      "eventInfo": {
-        "teamA": "Melbourne United",
-        "teamB": "South East Melbourne Phoenix",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3608/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/325629/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "14/11/2026 02:30:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_bae1257c84f0"
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "China Vs Malaysia",
       "eventInfo": {
@@ -413,8 +357,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "stream_url": "http://193.47.62.44/hls/KUUUA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/KUUUA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -436,8 +387,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "stream_url": "http://193.47.62.44/hls/KUUUAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/KUUUAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -446,41 +404,31 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Napoli Vs Milan",
+      "event_name": "Exeter City Vs Cheltenham Town",
       "eventInfo": {
-        "teamA": "Napoli",
-        "teamB": "Milan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/354947/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/298858/image",
-        "eventName": "Serie A Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10640/image/dark",
-        "startTime": "14/11/2026 05:30:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_b17f39ec1d11"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Italy Women's Vs Argentina Women",
-      "eventInfo": {
-        "teamA": "Italy Women's",
-        "teamB": "Argentina Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6129/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
-        "eventName": "INTERNATIONAL FRIENDLY Women's",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/36627/image/dark",
-        "startTime": "14/11/2026 05:30:00 PM"
+        "teamA": "Exeter City",
+        "teamB": "Cheltenham Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/86/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/69/image",
+        "eventName": "League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "startTime": "14/11/2026 06:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + RUGBY",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "BeIN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/KUUUAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_8aee1a65641b"
+      "id": "evt_7ae5bcacadb8"
     },
     {
       "status": "LIVE",
@@ -510,6 +458,30 @@
       ],
       "isHot": false,
       "id": "evt_2875e529e3d8"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Thailand Vs Brunei",
+      "eventInfo": {
+        "teamA": "Thailand",
+        "teamB": "Brunei",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+        "teamBFlag": "b",
+        "eventName": "Friendly Match",
+        "event_logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+        "startTime": "14/11/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.44/hls/KUUUAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3859b34100e0"
     },
     {
       "status": "LIVE",
@@ -1686,6 +1658,12 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/KUUUAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -2575,29 +2553,6 @@
       ],
       "isHot": false,
       "id": "evt_88a11708d351"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Exeter City Vs Cheltenham Town",
-      "eventInfo": {
-        "teamA": "Exeter City",
-        "teamB": "Cheltenham Town",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/86/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/69/image",
-        "eventName": "League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
-        "startTime": "14/11/2026 06:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_7ae5bcacadb8"
     },
     {
       "status": "UPCOMING",
@@ -4234,7 +4189,7 @@
         "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LK.png",
         "eventName": "Abu Dhabi T10 League 2026 - 17th Match",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "14/11/2026 05:45:00 PM"
+        "startTime": "14/11/2026 07:45:00 PM"
       },
       "streams": [],
       "id": "evt_febef8882f60",
@@ -8641,6 +8596,91 @@
     },
     {
       "status": "ENDED",
+      "Category": "Football",
+      "event_name": "India Vs Bhutan",
+      "eventInfo": {
+        "teamA": "India",
+        "teamB": "Bhutan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/191564/image",
+        "eventName": "SAFF Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
+        "startTime": "14/11/2026 03:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BTV BD FHD",
+          "stream_url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "BACKUP HD",
+          "stream_url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1794650288-0-0-c84e283d6670dae79c28ad58d5c2f1d8"
+        },
+        {
+          "channel_name": "t sports hd",
+          "stream_url": "http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "t sports hd 2",
+          "stream_url": "http://103.209.196.22:84/feed1001/index.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "server - hd",
+          "stream_url": "httpS://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "VETO TV (IND)",
+          "stream_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001794640803-0-0-cb6bfed79e8c8350a56f468031462c4f",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794648731-0-0-741b0e8b1c7210e4978b7d68066e3237",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=c5de382b151ac3ef909d43c2727671c3&txTime=6af870e8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 7",
+          "stream_url": "http://193.47.62.59/hls/SASASAB.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_728aa946cd54"
+    },
+    {
+      "status": "ENDED",
       "Category": "American football",
       "event_name": "Colorado Buffaloes Vs Houston Cougars",
       "eventInfo": {
@@ -8690,6 +8730,23 @@
       ],
       "isHot": false,
       "id": "evt_ec58d54a14be"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Melbourne United Vs South East Melbourne Phoenix",
+      "eventInfo": {
+        "teamA": "Melbourne United",
+        "teamB": "South East Melbourne Phoenix",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3608/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/325629/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "14/11/2026 02:30:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_bae1257c84f0"
     },
     {
       "status": "ENDED",
