@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:51:28 PM 14-11-2026",
+  "last_update_time": "08:54:43 PM 14-11-2026",
   "total_matches": 413,
   "live_match": 53,
   "upcoming_match": 334,
@@ -308,7 +308,7 @@
           "stream_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8"
         }
       ],
-      "isHot": false,
+      "isHot": true,
       "id": "evt_32fc54de46e0"
     },
     {
