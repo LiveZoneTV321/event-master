@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:27:00 AM 14-11-2026",
+  "last_update_time": "11:28:48 AM 14-11-2026",
   "total_matches": 422,
   "live_match": 18,
   "upcoming_match": 393,
@@ -556,7 +556,7 @@
         }
       ],
       "id": "evt_74f5a29b8ab7",
-      "isHot": false
+      "isHot": true
     },
     {
       "status": "LIVE",
