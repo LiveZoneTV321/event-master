@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:00:28 PM 15-11-2026",
+  "last_update_time": "03:10:12 PM 15-11-2026",
   "total_matches": 424,
-  "live_match": 9,
+  "live_match": 8,
   "upcoming_match": 382,
-  "ended_match": 33,
+  "ended_match": 34,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -381,20 +381,26 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Brisbane Bullets Vs Tasmania Jackjumpers",
+      "Category": "Rugby",
+      "event_name": "Australia Vs New Zealand",
       "eventInfo": {
-        "teamA": "Brisbane Bullets",
-        "teamB": "Tasmania Jackjumpers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/233139/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/400450/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "15/11/2026 12:00:00 PM"
+        "teamA": "Australia",
+        "teamB": "New Zealand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24235/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24240/image",
+        "eventName": "World Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "startTime": "15/11/2026 02:35:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ],
       "isHot": false,
-      "id": "evt_19b795d3981e"
+      "id": "evt_8b1ee00744f1"
     },
     {
       "status": "LIVE",
@@ -444,29 +450,6 @@
       ],
       "isHot": false,
       "id": "evt_3dab98028949"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Australia Vs New Zealand",
-      "eventInfo": {
-        "teamA": "Australia",
-        "teamB": "New Zealand",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24235/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24240/image",
-        "eventName": "World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "startTime": "15/11/2026 02:35:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8b1ee00744f1"
     },
     {
       "status": "LIVE",
@@ -8403,6 +8386,23 @@
       ],
       "isHot": false,
       "id": "evt_29b9fe24af4d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Brisbane Bullets Vs Tasmania Jackjumpers",
+      "eventInfo": {
+        "teamA": "Brisbane Bullets",
+        "teamB": "Tasmania Jackjumpers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/233139/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/400450/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "15/11/2026 12:00:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_19b795d3981e"
     },
     {
       "status": "ENDED",
