@@ -1,9 +1,9 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:30:19 PM 15-11-2026",
-  "total_matches": 422,
-  "live_match": 13,
+  "last_update_time": "05:40:13 PM 15-11-2026",
+  "total_matches": 424,
+  "live_match": 15,
   "upcoming_match": 375,
   "ended_match": 34,
   "sources": [
@@ -132,6 +132,39 @@
       ],
       "isHot": false,
       "id": "evt_fe585796ba9e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE",
+      "eventInfo": {
+        "teamA": "ABU DHABI T10 LEAGUE",
+        "teamB": "ABU DHABI T10 LEAGUE",
+        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "eventName": "ABU DHABI T10 LEAGUE",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "startTime": "15/11/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd",
+          "drm_key": "c9416419990931400d04e62d657c0cc8:7aa33c302380249e86295685656c2a97"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8eb0a1acb4eb"
     },
     {
       "status": "LIVE",
@@ -340,12 +373,42 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/HMMM.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/HMMM.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e64a699b3da6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sassuolo Vs Ternana",
+      "eventInfo": {
+        "teamA": "Sassuolo",
+        "teamB": "Ternana",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/269819/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/492465/image",
+        "eventName": "Serie A Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "startTime": "15/11/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
-      "id": "evt_e64a699b3da6"
+      "id": "evt_41269dca7793"
     },
     {
       "status": "LIVE",
@@ -433,36 +496,33 @@
     },
     {
       "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE",
+      "Category": "Football",
+      "event_name": "Real Sociedad Vs Athletic Club",
       "eventInfo": {
-        "teamA": "ABU DHABI T10 LEAGUE",
-        "teamB": "ABU DHABI T10 LEAGUE",
-        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "eventName": "ABU DHABI T10 LEAGUE",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "startTime": "15/11/2026 05:30:00 PM"
+        "teamA": "Real Sociedad",
+        "teamB": "Athletic Club",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77897/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77877/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "15/11/2026 05:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/HMMMA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd",
-          "drm_key": "c9416419990931400d04e62d657c0cc8:7aa33c302380249e86295685656c2a97"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8"
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/HMMMA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_8eb0a1acb4eb"
+      "id": "evt_cc99408afda0"
     },
     {
       "status": "LIVE",
@@ -512,29 +572,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sassuolo Vs Ternana",
-      "eventInfo": {
-        "teamA": "Sassuolo",
-        "teamB": "Ternana",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/269819/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/492465/image",
-        "eventName": "Serie A Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10640/image/dark",
-        "startTime": "15/11/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_41269dca7793"
-    },
-    {
-      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Royal Desert Champions Vs Arabian Aces",
       "eventInfo": {
@@ -572,6 +609,35 @@
         }
       ],
       "id": "evt_6859cfa21f14",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Emirates Eagles Vs UAE Bulls",
+      "eventInfo": {
+        "teamA": "Emirates Eagles",
+        "teamB": "UAE Bulls",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LK.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/78.png",
+        "eventName": "Abu Dhabi T10 League 2026 - 20th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+        "startTime": "15/11/2026 05:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "a sports - aq",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_d68b0ec04a59",
       "isHot": false
     },
     {
@@ -2312,32 +2378,27 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Emirates Eagles Vs UAE Bulls",
+      "Category": "Football",
+      "event_name": "Ajax Legends Vs FC Barcelona Legends",
       "eventInfo": {
-        "teamA": "Emirates Eagles",
-        "teamB": "UAE Bulls",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LK.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/78.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 20th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "15/11/2026 05:45:00 PM"
+        "teamA": "Ajax Legends",
+        "teamB": "FC Barcelona Legends",
+        "teamAFlag": "j",
+        "teamBFlag": "k",
+        "eventName": "Friendly Match",
+        "event_logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+        "startTime": "15/11/2026 07:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "a sports - aq",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.44/hls/F111.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_d68b0ec04a59",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_090b055a7247"
     },
     {
       "status": "UPCOMING",
