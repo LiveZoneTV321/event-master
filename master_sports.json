@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:30:18 AM 15-11-2026",
+  "last_update_time": "11:40:11 AM 15-11-2026",
   "total_matches": 425,
-  "live_match": 19,
-  "upcoming_match": 385,
-  "ended_match": 21,
+  "live_match": 18,
+  "upcoming_match": 384,
+  "ended_match": 23,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -293,29 +293,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "CD Guadalajara Vs FC Juárez",
-      "eventInfo": {
-        "teamA": "CD Guadalajara",
-        "teamB": "FC Juárez",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/264823/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/321814/image",
-        "eventName": "Liga MX, Women, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13593/image/dark",
-        "startTime": "15/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_20e879dc0884"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Canberra United Vs Brisbane Roar",
       "eventInfo": {
         "teamA": "Canberra United",
@@ -513,29 +490,6 @@
     {
       "status": "LIVE",
       "Category": "American football",
-      "event_name": "UTSA Roadrunners Vs North Texas Mean Green",
-      "eventInfo": {
-        "teamA": "UTSA Roadrunners",
-        "teamB": "North Texas Mean Green",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/188116/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4302/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "15/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60126/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_74c9e698cec0"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
       "event_name": "Oklahoma State Cowboys Vs Texas Tech Red Raiders",
       "eventInfo": {
         "teamA": "Oklahoma State Cowboys",
@@ -676,6 +630,29 @@
       ],
       "isHot": false,
       "id": "evt_e6c2ae8ebbb9"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Australia Vs New Zealand",
+      "eventInfo": {
+        "teamA": "Australia",
+        "teamB": "New Zealand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/272011/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/272009/image",
+        "eventName": "World Cup, Women ",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10683/image/dark",
+        "startTime": "15/11/2026 11:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_12c1bc3259e6"
     },
     {
       "status": "LIVE",
@@ -2083,29 +2060,6 @@
       ],
       "isHot": false,
       "id": "evt_a78f648f69a0"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Australia Vs New Zealand",
-      "eventInfo": {
-        "teamA": "Australia",
-        "teamB": "New Zealand",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24235/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24240/image",
-        "eventName": "World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "startTime": "15/11/2026 02:35:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8b1ee00744f1"
     },
     {
       "status": "UPCOMING",
@@ -8420,6 +8374,29 @@
     },
     {
       "status": "ENDED",
+      "Category": "Football",
+      "event_name": "CD Guadalajara Vs FC Juárez",
+      "eventInfo": {
+        "teamA": "CD Guadalajara",
+        "teamB": "FC Juárez",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/264823/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/321814/image",
+        "eventName": "Liga MX, Women, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13593/image/dark",
+        "startTime": "15/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_20e879dc0884"
+    },
+    {
+      "status": "ENDED",
       "Category": "Basketball",
       "event_name": "Miami Heat Vs Detroit Pistons",
       "eventInfo": {
@@ -8641,6 +8618,29 @@
       ],
       "isHot": false,
       "id": "evt_ef8d3607c053"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "UTSA Roadrunners Vs North Texas Mean Green",
+      "eventInfo": {
+        "teamA": "UTSA Roadrunners",
+        "teamB": "North Texas Mean Green",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/188116/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4302/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "15/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60126/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_74c9e698cec0"
     },
     {
       "status": "ENDED",
