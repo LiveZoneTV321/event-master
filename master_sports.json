@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:40:18 PM 15-11-2026",
+  "last_update_time": "07:50:12 PM 15-11-2026",
   "total_matches": 426,
-  "live_match": 23,
-  "upcoming_match": 366,
+  "live_match": 24,
+  "upcoming_match": 365,
   "ended_match": 37,
   "sources": [
     "api1:events.json",
@@ -905,6 +905,35 @@
         }
       ],
       "id": "evt_d68b0ec04a59",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "United Tigers Vs Yas Lions",
+      "eventInfo": {
+        "teamA": "United Tigers",
+        "teamB": "Yas Lions",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LH.png",
+        "eventName": "Abu Dhabi T10 League 2026 - 21st Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+        "startTime": "15/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "a sports - aq",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_5ddb56cd3ab1",
       "isHot": false
     },
     {
@@ -2417,35 +2446,6 @@
       ],
       "isHot": false,
       "id": "evt_bbabdfce7d90"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "United Tigers Vs Yas Lions",
-      "eventInfo": {
-        "teamA": "United Tigers",
-        "teamB": "Yas Lions",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 21st Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "15/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "a sports - aq",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_5ddb56cd3ab1",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
