@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:20:13 AM 15-11-2026",
-  "total_matches": 328,
+  "last_update_time": "10:30:19 AM 15-11-2026",
+  "total_matches": 413,
   "live_match": 23,
-  "upcoming_match": 287,
+  "upcoming_match": 372,
   "ended_match": 18,
   "sources": [
     "api1:events.json",
@@ -6297,6 +6297,1451 @@
       },
       "streams": [],
       "id": "evt_7fee65f2ec5e",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Rosario Central Vs Gimnasia Mendoza",
+      "eventInfo": {
+        "teamA": "Rosario Central",
+        "teamB": "Gimnasia Mendoza",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3217/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/188441/image",
+        "eventName": "Liga Profesional",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+        "startTime": "23/11/2026 01:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_a203d295ac13",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "River Vs Lanus",
+      "eventInfo": {
+        "teamA": "River",
+        "teamB": "Lanus",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3211/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3218/image",
+        "eventName": "Liga Profesional",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+        "startTime": "23/11/2026 04:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_6467b58691a2",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Instituto Cordoba Vs Club Atletico Huracan",
+      "eventInfo": {
+        "teamA": "Instituto Cordoba",
+        "teamB": "Club Atletico Huracan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4937/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7629/image",
+        "eventName": "Liga Profesional",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+        "startTime": "23/11/2026 07:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_c5b76b2c8439",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Neftchi Fargona Vs Al Hilal Riyadh",
+      "eventInfo": {
+        "teamA": "Neftchi Fargona",
+        "teamB": "Al Hilal Riyadh",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36256/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "23/11/2026 07:45:00 PM"
+      },
+      "streams": [],
+      "id": "evt_f9bbea94be79",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al Ain Vs Esteghlal FC Tehran",
+      "eventInfo": {
+        "teamA": "Al Ain",
+        "teamB": "Esteghlal FC Tehran",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/37082/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34316/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "23/11/2026 10:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_e0e28e8fb5be",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Tractor FC Vs Al Wasl",
+      "eventInfo": {
+        "teamA": "Tractor FC",
+        "teamB": "Al Wasl",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/53715/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47674/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "23/11/2026 10:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_327d99a7a1d9",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al Shamal Vs Al Ahli Jeddah",
+      "eventInfo": {
+        "teamA": "Al Shamal",
+        "teamB": "Al Ahli Jeddah",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/170366/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "23/11/2026 10:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_bdab16c01964",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Athletico-PR Vs Remo",
+      "eventInfo": {
+        "teamA": "Athletico-PR",
+        "teamB": "Remo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "23/11/2026 01:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_91e7cfad4dce",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Fluminense Vs Mirassol Futebol Clube",
+      "eventInfo": {
+        "teamA": "Fluminense",
+        "teamB": "Mirassol Futebol Clube",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "23/11/2026 03:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_89db833cce77",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Bragantino Vs Vasco da Gama",
+      "eventInfo": {
+        "teamA": "Bragantino",
+        "teamB": "Vasco da Gama",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "23/11/2026 04:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_6743acb6dafc",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Orense Vs Mushuc Runa",
+      "eventInfo": {
+        "teamA": "Orense",
+        "teamB": "Mushuc Runa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/277525/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/134976/image",
+        "eventName": "Liga Pro",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
+        "startTime": "23/11/2026 01:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_b21a884ed944",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "LDU Vs SD Aucas",
+      "eventInfo": {
+        "teamA": "LDU",
+        "teamB": "SD Aucas",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5257/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5249/image",
+        "eventName": "Liga Pro",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
+        "startTime": "23/11/2026 03:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_366a2e4edf6f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Marseille Vs Le Mans",
+      "eventInfo": {
+        "teamA": "Marseille",
+        "teamB": "Le Mans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1672/image",
+        "eventName": "Ligue 1",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
+        "startTime": "23/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_06d96c748b52",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Atalanta Vs Inter Milan",
+      "eventInfo": {
+        "teamA": "Atalanta",
+        "teamB": "Inter Milan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2686/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
+        "eventName": "Serie A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+        "startTime": "23/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_f5b339c93ea4",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Rubio Ñu Vs Libertad PY",
+      "eventInfo": {
+        "teamA": "Rubio Ñu",
+        "teamB": "Libertad PY",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8774",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5996/image",
+        "eventName": "Copa de Primera",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+        "startTime": "23/11/2026 03:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_cd665a8188ce",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Olimpia Vs Sportivo Trinidense",
+      "eventInfo": {
+        "teamA": "Olimpia",
+        "teamB": "Sportivo Trinidense",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5997/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/39722/image",
+        "eventName": "Copa de Primera",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+        "startTime": "23/11/2026 03:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_0f55137c69cb",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Getafe Vs Club Atlético de Madrid",
+      "eventInfo": {
+        "teamA": "Getafe",
+        "teamB": "Club Atlético de Madrid",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
+        "eventName": "LaLiga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
+        "startTime": "23/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_5be6b51dac89",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Burgos Vs Albacete Balompié",
+      "eventInfo": {
+        "teamA": "Burgos",
+        "teamB": "Albacete Balompié",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2854/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+        "startTime": "23/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_9dbc21ae5768",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Başakşehir Vs Corum Belediyespor",
+      "eventInfo": {
+        "teamA": "Başakşehir",
+        "teamB": "Corum Belediyespor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3086/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77629/image",
+        "eventName": "Super Lig",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+        "startTime": "23/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_7c3a549835c6",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Chicago Fire Vs Charlotte FC",
+      "eventInfo": {
+        "teamA": "Chicago Fire",
+        "teamB": "Charlotte FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2505/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/404108/image",
+        "eventName": "MLS",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
+        "startTime": "23/11/2026 05:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_4c785351c201",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Galatasaray Vs Aston Villa",
+      "eventInfo": {
+        "teamA": "Galatasaray",
+        "teamB": "Aston Villa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
+        "eventName": "UEFA Champions League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+        "startTime": "24/11/2026 11:45:00 PM"
+      },
+      "streams": [],
+      "id": "evt_1ca25a8de290",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Bodo Glimt Vs LASK",
+      "eventInfo": {
+        "teamA": "Bodo Glimt",
+        "teamB": "LASK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/656/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2058/image",
+        "eventName": "UEFA Champions League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+        "startTime": "24/11/2026 11:45:00 PM"
+      },
+      "streams": [],
+      "id": "evt_7a10016d69cd",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Gimnasia La Plata Vs Newell's",
+      "eventInfo": {
+        "teamA": "Gimnasia La Plata",
+        "teamB": "Newell's",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3205/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3212/image",
+        "eventName": "Liga Profesional",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+        "startTime": "24/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_937b31f310f8",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al Ittihad Vs Pakhtakor",
+      "eventInfo": {
+        "teamA": "Al Ittihad",
+        "teamB": "Pakhtakor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34310/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "24/11/2026 12:15:00 AM"
+      },
+      "streams": [],
+      "id": "evt_03c19776e7b6",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Quwa Al Jawiya Vs Al Gharafa",
+      "eventInfo": {
+        "teamA": "Quwa Al Jawiya",
+        "teamB": "Al Gharafa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213877/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34312/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "24/11/2026 12:15:00 AM"
+      },
+      "streams": [],
+      "id": "evt_4b9e4948068a",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Newcastle Jets Vs Kashiwa Reysol",
+      "eventInfo": {
+        "teamA": "Newcastle Jets",
+        "teamB": "Kashiwa Reysol",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2934/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3140/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "24/11/2026 01:45:00 PM"
+      },
+      "streams": [],
+      "id": "evt_2637d3d97d39",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Kyoto Vs Pohang Steelers",
+      "eventInfo": {
+        "teamA": "Kyoto",
+        "teamB": "Pohang Steelers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3149/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7650/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "24/11/2026 04:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_7b52041daf7e",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Daejeon Citizen Vs Beijing Guoan",
+      "eventInfo": {
+        "teamA": "Daejeon Citizen",
+        "teamB": "Beijing Guoan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7645/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3376/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "24/11/2026 04:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_bc77cc854868",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Ratchaburi FC Vs Johor Darul Ta’zim",
+      "eventInfo": {
+        "teamA": "Ratchaburi FC",
+        "teamB": "Johor Darul Ta’zim",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/85743/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3327/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "24/11/2026 06:15:00 PM"
+      },
+      "streams": [],
+      "id": "evt_eab667a28eb2",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Shanghai Port Vs Buriram United",
+      "eventInfo": {
+        "teamA": "Shanghai Port",
+        "teamB": "Buriram United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41537/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34218/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "24/11/2026 06:15:00 PM"
+      },
+      "streams": [],
+      "id": "evt_e1c9c30c7fbd",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Công An Hà Nội Vs Vissel Kobe",
+      "eventInfo": {
+        "teamA": "Công An Hà Nội",
+        "teamB": "Vissel Kobe",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/193616/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3146/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "24/11/2026 06:15:00 PM"
+      },
+      "streams": [],
+      "id": "evt_348475fa67e6",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Shabab Al Ahly Vs Al Qadsiah",
+      "eventInfo": {
+        "teamA": "Shabab Al Ahly",
+        "teamB": "Al Qadsiah",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/264111/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "24/11/2026 10:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_1a822953f168",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "East Bengal Vs Al Hussein",
+      "eventInfo": {
+        "teamA": "East Bengal",
+        "teamB": "Al Hussein",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/40655/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/117204/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+        "startTime": "24/11/2026 07:45:00 PM"
+      },
+      "streams": [],
+      "id": "evt_4b3258eefc14",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al Seeb SC Vs Al Shorta Baghdad",
+      "eventInfo": {
+        "teamA": "Al Seeb SC",
+        "teamB": "Al Shorta Baghdad",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/71044/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/61532/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+        "startTime": "24/11/2026 10:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_ef82aa8f360f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Internacional Vs Vitoria",
+      "eventInfo": {
+        "teamA": "Internacional",
+        "teamB": "Vitoria",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1966/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "24/11/2026 04:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_20b88e358bbf",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Botafogo Vs São Paulo",
+      "eventInfo": {
+        "teamA": "Botafogo",
+        "teamB": "São Paulo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "24/11/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_8ee8468ff827",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Santos Vs Gremio",
+      "eventInfo": {
+        "teamA": "Santos",
+        "teamB": "Gremio",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "24/11/2026 06:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_7db251287e28",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Brentford Vs Everton",
+      "eventInfo": {
+        "teamA": "Brentford",
+        "teamB": "Everton",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image",
+        "eventName": "Premier League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
+        "startTime": "24/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_9833eeb3b384",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Monza Vs Fiorentina",
+      "eventInfo": {
+        "teamA": "Monza",
+        "teamB": "Fiorentina",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2729/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+        "eventName": "Serie A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+        "startTime": "24/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_e8b2ada9d69f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "2 de Mayo Vs Sp. San Lorenzo",
+      "eventInfo": {
+        "teamA": "2 de Mayo",
+        "teamB": "Sp. San Lorenzo",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/14642",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
+        "eventName": "Copa de Primera",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+        "startTime": "24/11/2026 03:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_7434d6fd50b9",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Club Nacional Vs Cerro Porteño",
+      "eventInfo": {
+        "teamA": "Club Nacional",
+        "teamB": "Cerro Porteño",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/33001/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5991/image",
+        "eventName": "Copa de Primera",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+        "startTime": "24/11/2026 05:15:00 AM"
+      },
+      "streams": [],
+      "id": "evt_ab1add705188",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Levante Vs Elche",
+      "eventInfo": {
+        "teamA": "Levante",
+        "teamB": "Elche",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2846/image",
+        "eventName": "LaLiga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
+        "startTime": "24/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_d6a43d2ae58c",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "AD Ceuta Vs UD Almería",
+      "eventInfo": {
+        "teamA": "AD Ceuta",
+        "teamB": "UD Almería",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2869/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2858/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+        "startTime": "24/11/2026 01:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_2c36d8f3aa34",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "St. Louis City Vs Los Angeles FC",
+      "eventInfo": {
+        "teamA": "St. Louis City",
+        "teamB": "Los Angeles FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/407803/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274650/image",
+        "eventName": "MLS",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
+        "startTime": "24/11/2026 07:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_6c3ae8a69ba6",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Como Vs AEK Athens FC",
+      "eventInfo": {
+        "teamA": "Como",
+        "teamB": "AEK Athens FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3250/image",
+        "eventName": "UEFA Champions League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+        "startTime": "25/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_351bb5f3bb91",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Feyenoord Vs FC Porto",
+      "eventInfo": {
+        "teamA": "Feyenoord",
+        "teamB": "FC Porto",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+        "eventName": "UEFA Champions League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+        "startTime": "25/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_f1a65b7d349a",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Arsenal Vs Borussia Dortmund",
+      "eventInfo": {
+        "teamA": "Arsenal",
+        "teamB": "Borussia Dortmund",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
+        "eventName": "UEFA Champions League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+        "startTime": "25/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_480eac2bb75e",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Slovan Bratislava Vs Real Betis Balompié",
+      "eventInfo": {
+        "teamA": "Slovan Bratislava",
+        "teamB": "Real Betis Balompié",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2404/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+        "eventName": "UEFA Champions League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+        "startTime": "25/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_76ee6644c10b",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Man City Vs SSC Napoli",
+      "eventInfo": {
+        "teamA": "Man City",
+        "teamB": "SSC Napoli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
+        "eventName": "UEFA Champions League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+        "startTime": "25/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_79f215c715dd",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Real Madrid Vs PSV Eindhoven",
+      "eventInfo": {
+        "teamA": "Real Madrid",
+        "teamB": "PSV Eindhoven",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2952/image",
+        "eventName": "UEFA Champions League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+        "startTime": "25/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_4921262948df",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "RB Leipzig Vs RC Lens",
+      "eventInfo": {
+        "teamA": "RB Leipzig",
+        "teamB": "RC Lens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36360/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+        "eventName": "UEFA Champions League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+        "startTime": "25/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_f9a5cfabeefb",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Slavia Praha Vs Villarreal",
+      "eventInfo": {
+        "teamA": "Slavia Praha",
+        "teamB": "Villarreal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2216/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
+        "eventName": "UEFA Champions League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+        "startTime": "25/11/2026 11:45:00 PM"
+      },
+      "streams": [],
+      "id": "evt_0c3572743ae9",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Sabah Vs FC Barcelona",
+      "eventInfo": {
+        "teamA": "Sabah",
+        "teamB": "FC Barcelona",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/267828/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+        "eventName": "UEFA Champions League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+        "startTime": "25/11/2026 11:45:00 PM"
+      },
+      "streams": [],
+      "id": "evt_03b27884a216",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al-Nassr Vs Al Sadd",
+      "eventInfo": {
+        "teamA": "Al-Nassr",
+        "teamB": "Al Sadd",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/39733/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "25/11/2026 12:15:00 AM"
+      },
+      "streams": [],
+      "id": "evt_5b818de33230",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Gamba Osaka Vs Thai Port FC",
+      "eventInfo": {
+        "teamA": "Gamba Osaka",
+        "teamB": "Thai Port FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3138/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/40661/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "25/11/2026 04:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_11f7bb8dcd30",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Kashima Antlers Vs Jeonbuk Hyundai Motors",
+      "eventInfo": {
+        "teamA": "Kashima Antlers",
+        "teamB": "Jeonbuk Hyundai Motors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3134/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6908/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "25/11/2026 04:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_48262b6210ca",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Melbourne Victory Vs Viettel",
+      "eventInfo": {
+        "teamA": "Melbourne Victory",
+        "teamB": "Viettel",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5970/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/231270/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+        "startTime": "25/11/2026 01:45:00 PM"
+      },
+      "streams": [],
+      "id": "evt_e128522a820b",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Persib Bandung Vs FC Seoul",
+      "eventInfo": {
+        "teamA": "Persib Bandung",
+        "teamB": "FC Seoul",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/64289/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7646/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+        "startTime": "25/11/2026 06:15:00 PM"
+      },
+      "streams": [],
+      "id": "evt_1858f7c4e3a9",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Nasaf Vs Al Khalidiyah",
+      "eventInfo": {
+        "teamA": "Nasaf",
+        "teamB": "Al Khalidiyah",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34017/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/371631/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+        "startTime": "25/11/2026 07:45:00 PM"
+      },
+      "streams": [],
+      "id": "evt_885acee991c4",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Kuwait SC Vs Wahda Abu Dhabi",
+      "eventInfo": {
+        "teamA": "Kuwait SC",
+        "teamB": "Wahda Abu Dhabi",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/32525/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/264115/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+        "startTime": "25/11/2026 10:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_abe49659f025",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al Faisaly Vs Al Rayyan",
+      "eventInfo": {
+        "teamA": "Al Faisaly",
+        "teamB": "Al Rayyan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47482/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/40660/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+        "startTime": "25/11/2026 10:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_e870f1b9a792",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Muharraq SC Vs Arkadag",
+      "eventInfo": {
+        "teamA": "Muharraq SC",
+        "teamB": "Arkadag",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/45474/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/469420/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+        "startTime": "25/11/2026 10:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_78d400dfc997",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al-Jazira Vs Gol Gohar",
+      "eventInfo": {
+        "teamA": "Al-Jazira",
+        "teamB": "Gol Gohar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/8090/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/275525/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+        "startTime": "25/11/2026 10:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_37f859576d9e",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Chapecoense Vs Palmeiras",
+      "eventInfo": {
+        "teamA": "Chapecoense",
+        "teamB": "Palmeiras",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "25/11/2026 03:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_3db89cbe51da",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Barcelona SC Vs Independiente del Valle",
+      "eventInfo": {
+        "teamA": "Barcelona SC",
+        "teamB": "Independiente del Valle",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5250/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/39723/image",
+        "eventName": "Liga Pro",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
+        "startTime": "25/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_7b426f147e3c",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Sheff Utd Vs Southampton",
+      "eventInfo": {
+        "teamA": "Sheff Utd",
+        "teamB": "Southampton",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/15/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
+        "eventName": "England Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_d2d63d08eec7",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Portsmouth Vs West Ham",
+      "eventInfo": {
+        "teamA": "Portsmouth",
+        "teamB": "West Ham",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
+        "eventName": "England Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_0b36709f4c3b",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Norwich Vs QPR",
+      "eventInfo": {
+        "teamA": "Norwich",
+        "teamB": "QPR",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/263/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1/image",
+        "eventName": "England Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_250a5c1a6328",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Middlesbrough Vs Swansea",
+      "eventInfo": {
+        "teamA": "Middlesbrough",
+        "teamB": "Swansea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/74/image",
+        "eventName": "England Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_597a8bc77d90",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Charlton Vs Lincoln",
+      "eventInfo": {
+        "teamA": "Charlton",
+        "teamB": "Lincoln",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/92/image",
+        "eventName": "England Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_48ec8d6b551f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Cardiff Vs Preston",
+      "eventInfo": {
+        "teamA": "Cardiff",
+        "teamB": "Preston",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/61/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image",
+        "eventName": "England Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_8fb53b29b598",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Bristol City Vs Wrexham",
+      "eventInfo": {
+        "teamA": "Bristol City",
+        "teamB": "Wrexham",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image",
+        "eventName": "England Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_b090ae6a3048",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Wolves Vs Derby",
+      "eventInfo": {
+        "teamA": "Wolves",
+        "teamB": "Derby",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/27/image",
+        "eventName": "England Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "25/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_fe034b4a1207",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Bromley Vs Wycombe",
+      "eventInfo": {
+        "teamA": "Bromley",
+        "teamB": "Wycombe",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/180/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/62/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_08949e551102",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Blackpool Vs Leicester City",
+      "eventInfo": {
+        "teamA": "Blackpool",
+        "teamB": "Leicester City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/67/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/31/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_b41a3527e395",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Stevenage Vs Sheffield Wed",
+      "eventInfo": {
+        "teamA": "Stevenage",
+        "teamB": "Sheffield Wed",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/133/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/12/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_d25d754d1565",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Bradford Vs Barnsley",
+      "eventInfo": {
+        "teamA": "Bradford",
+        "teamB": "Barnsley",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/23/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_b0c0d594aff7",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Cerro Porteño Vs Club Guarani",
+      "eventInfo": {
+        "teamA": "Cerro Porteño",
+        "teamB": "Club Guarani",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/1294",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/7739",
+        "eventName": "Primera Division, Clausura",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+        "startTime": "25/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_d0dbec935d5d",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Sportivo Luqueño Vs Olimpia",
+      "eventInfo": {
+        "teamA": "Sportivo Luqueño",
+        "teamB": "Olimpia",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8548",
+        "eventName": "Primera Division, Clausura",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+        "startTime": "25/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_4de6dbef1d4a",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Sportivo Trinidense Vs Recoleta FC",
+      "eventInfo": {
+        "teamA": "Sportivo Trinidense",
+        "teamB": "Recoleta FC",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14640",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/53209",
+        "eventName": "Primera Division, Clausura",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+        "startTime": "25/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_57c0041ad2ba",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "CS San Lorenzo Vs Sportivo Ameliano",
+      "eventInfo": {
+        "teamA": "CS San Lorenzo",
+        "teamB": "Sportivo Ameliano",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/56588",
+        "eventName": "Primera Division, Clausura",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+        "startTime": "25/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_e008343ad609",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Libertad Vs 2 de Mayo",
+      "eventInfo": {
+        "teamA": "Libertad",
+        "teamB": "2 de Mayo",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1286",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/14642",
+        "eventName": "Primera Division, Clausura",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+        "startTime": "25/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_8dca1e9249eb",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Club Nacional Vs Rubio Ñu",
+      "eventInfo": {
+        "teamA": "Club Nacional",
+        "teamB": "Rubio Ñu",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1280",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8774",
+        "eventName": "Primera Division, Clausura",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+        "startTime": "25/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_f1712b85617c",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "San Jose Vs Houston Dynamo FC",
+      "eventInfo": {
+        "teamA": "San Jose",
+        "teamB": "Houston Dynamo FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21825/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2508/image",
+        "eventName": "MLS",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
+        "startTime": "25/11/2026 09:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_e713c889b603",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Melbourne Renegades Women Vs Brisbane Heat Women",
+      "eventInfo": {
+        "teamA": "Melbourne Renegades Women",
+        "teamB": "Brisbane Heat Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274887/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274884/image",
+        "eventName": "WBBL 2026 - 33rd Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "25/11/2026 10:40:00 AM"
+      },
+      "streams": [],
+      "id": "evt_2047b0a9cfbe",
       "isHot": false
     },
     {
