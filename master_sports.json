@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:30:19 AM 15-11-2026",
+  "last_update_time": "06:40:13 AM 15-11-2026",
   "total_matches": 363,
-  "live_match": 50,
+  "live_match": 48,
   "upcoming_match": 282,
-  "ended_match": 31,
+  "ended_match": 33,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -116,31 +116,27 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Banfield Vs Boca Juniors",
+      "event_name": "Charlotte Independence Vs AC Boise",
       "eventInfo": {
-        "teamA": "Banfield",
-        "teamB": "Boca Juniors",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3219/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3202/image",
-        "eventName": "Copa Argentina",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1024/image/dark",
-        "startTime": "15/11/2026 04:00:00 AM"
+        "teamA": "Charlotte Independence",
+        "teamB": "AC Boise",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/197072/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1158834/image",
+        "eventName": "USL League One",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13362/image/dark",
+        "startTime": "15/11/2026 06:30:00 AM"
       },
       "streams": [
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/VOOOAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "TYC Sports Inter",
-          "stream_url": "https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?",
-          "referer": "https://zlive.st/"
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
         }
       ],
       "isHot": false,
-      "id": "evt_729d945f7f73"
+      "id": "evt_ddf4960f6df6"
     },
     {
       "status": "LIVE",
@@ -259,6 +255,29 @@
       ],
       "isHot": false,
       "id": "evt_e9b9aba0c3f9"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Cleveland Cavaliers Vs Dallas Mavericks",
+      "eventInfo": {
+        "teamA": "Cleveland Cavaliers",
+        "teamB": "Dallas Mavericks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "15/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + NBA",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0f3546134a0e"
     },
     {
       "status": "LIVE",
@@ -668,29 +687,6 @@
     {
       "status": "LIVE",
       "Category": "American football",
-      "event_name": "Texas State Bobcats Vs Fresno State Bulldogs",
-      "eventInfo": {
-        "teamA": "Texas State Bobcats",
-        "teamB": "Fresno State Bulldogs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/188144/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4298/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "15/11/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60075/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_4b63bf9e198d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
       "event_name": "Michigan State Spartans Vs Washington Huskies",
       "eventInfo": {
         "teamA": "Michigan State Spartans",
@@ -805,6 +801,58 @@
     },
     {
       "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Iowa Hawkeyes Vs Purdue Boilermakers",
+      "eventInfo": {
+        "teamA": "Iowa Hawkeyes",
+        "teamB": "Purdue Boilermakers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4322/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4317/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "15/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_545575d1b5ae"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "LSU Tigers Vs Texas Longhorns",
+      "eventInfo": {
+        "teamA": "LSU Tigers",
+        "teamB": "Texas Longhorns",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4284/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4332/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "15/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3b3309edba00"
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Jamaica Vs Mexico",
       "eventInfo": {
@@ -826,31 +874,6 @@
       ],
       "isHot": false,
       "id": "evt_3ab680057f91"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Charlotte Independence Vs AC Boise",
-      "eventInfo": {
-        "teamA": "Charlotte Independence",
-        "teamB": "AC Boise",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/197072/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1158834/image",
-        "eventName": "USL League One",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13362/image/dark",
-        "startTime": "15/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ddf4960f6df6"
     },
     {
       "status": "LIVE",
@@ -937,29 +960,6 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Cleveland Cavaliers Vs Dallas Mavericks",
-      "eventInfo": {
-        "teamA": "Cleveland Cavaliers",
-        "teamB": "Dallas Mavericks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "15/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + NBA",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0f3546134a0e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
       "event_name": "Memphis Grizzlies Vs Brooklyn Nets",
       "eventInfo": {
         "teamA": "Memphis Grizzlies",
@@ -1006,29 +1006,6 @@
     {
       "status": "LIVE",
       "Category": "American football",
-      "event_name": "Iowa Hawkeyes Vs Purdue Boilermakers",
-      "eventInfo": {
-        "teamA": "Iowa Hawkeyes",
-        "teamB": "Purdue Boilermakers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4322/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4317/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "15/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_545575d1b5ae"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
       "event_name": "Arkansas Razorbacks Vs South Carolina Gamecocks",
       "eventInfo": {
         "teamA": "Arkansas Razorbacks",
@@ -1048,35 +1025,6 @@
       ],
       "isHot": false,
       "id": "evt_ef8d3607c053"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "LSU Tigers Vs Texas Longhorns",
-      "eventInfo": {
-        "teamA": "LSU Tigers",
-        "teamB": "Texas Longhorns",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4284/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4332/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "15/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3b3309edba00"
     },
     {
       "status": "LIVE",
@@ -7300,6 +7248,35 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Banfield Vs Boca Juniors",
+      "eventInfo": {
+        "teamA": "Banfield",
+        "teamB": "Boca Juniors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3219/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+        "eventName": "Copa Argentina",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1024/image/dark",
+        "startTime": "15/11/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/VOOOAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "TYC Sports Inter",
+          "stream_url": "https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?",
+          "referer": "https://zlive.st/"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_729d945f7f73"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Mirassol Vs Atlético Mineiro",
       "eventInfo": {
         "teamA": "Mirassol",
@@ -7691,6 +7668,29 @@
       ],
       "isHot": false,
       "id": "evt_2612bffe8ee3"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Texas State Bobcats Vs Fresno State Bulldogs",
+      "eventInfo": {
+        "teamA": "Texas State Bobcats",
+        "teamB": "Fresno State Bulldogs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/188144/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4298/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "15/11/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60075/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4b63bf9e198d"
     },
     {
       "status": "ENDED",
