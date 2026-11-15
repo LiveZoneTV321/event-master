@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:00:23 PM 15-11-2026",
+  "last_update_time": "04:10:11 PM 15-11-2026",
   "total_matches": 424,
-  "live_match": 9,
-  "upcoming_match": 381,
+  "live_match": 10,
+  "upcoming_match": 380,
   "ended_match": 34,
   "sources": [
     "api1:events.json",
@@ -457,6 +457,29 @@
       ],
       "isHot": false,
       "id": "evt_3dab98028949"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Madrid CFF Vs Logroño United",
+      "eventInfo": {
+        "teamA": "Madrid CFF",
+        "teamB": "Logroño United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/253896/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/861598/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "15/11/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e64a699b3da6"
     },
     {
       "status": "LIVE",
@@ -1669,29 +1692,6 @@
       ],
       "isHot": false,
       "id": "evt_b0c0e957db39"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Madrid CFF Vs Logroño United",
-      "eventInfo": {
-        "teamA": "Madrid CFF",
-        "teamB": "Logroño United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/253896/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/861598/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "15/11/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e64a699b3da6"
     },
     {
       "status": "UPCOMING",
