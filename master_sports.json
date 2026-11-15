@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:00:24 PM 15-11-2026",
+  "last_update_time": "06:10:12 PM 15-11-2026",
   "total_matches": 424,
-  "live_match": 15,
-  "upcoming_match": 375,
-  "ended_match": 34,
+  "live_match": 17,
+  "upcoming_match": 372,
+  "ended_match": 35,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -288,6 +288,52 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Macau Vs Hong Kong",
+      "eventInfo": {
+        "teamA": "Macau",
+        "teamB": "Hong Kong",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23492/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4765/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "15/11/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a254f5f8dcb8"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Kyrgyzstan Vs Vietnam",
+      "eventInfo": {
+        "teamA": "Kyrgyzstan",
+        "teamB": "Vietnam",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7930/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7050/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "15/11/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_64ed2be6a31e"
+    },
+    {
+      "status": "LIVE",
       "Category": "Boxing",
       "event_name": "Ciryl Gane Vs Josh Hokit",
       "eventInfo": {
@@ -412,29 +458,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Australia Vs New Zealand",
-      "eventInfo": {
-        "teamA": "Australia",
-        "teamB": "New Zealand",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24235/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24240/image",
-        "eventName": "World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "startTime": "15/11/2026 02:35:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8b1ee00744f1"
-    },
-    {
-      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "South Africa Vs Bangladesh",
       "eventInfo": {
@@ -527,48 +550,73 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Macau Vs Hong Kong",
+      "event_name": "CD Tenerife Vs AD Ceuta",
       "eventInfo": {
-        "teamA": "Macau",
-        "teamB": "Hong Kong",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23492/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4765/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "15/11/2026 06:00:00 PM"
+        "teamA": "CD Tenerife",
+        "teamB": "AD Ceuta",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2822/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "15/11/2026 07:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "channel_name": "LaLiga Hypermotion",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
         }
       ],
       "isHot": false,
-      "id": "evt_a254f5f8dcb8"
+      "id": "evt_56e6f019e32a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Leicester Tigers Vs Saracens",
+      "eventInfo": {
+        "teamA": "Leicester Tigers",
+        "teamB": "Saracens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4193/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4197/image",
+        "eventName": "Premiership Rugby Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11543/image/dark",
+        "startTime": "15/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a78f648f69a0"
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Kyrgyzstan Vs Vietnam",
+      "event_name": "Ajax Legends Vs FC Barcelona Legends",
       "eventInfo": {
-        "teamA": "Kyrgyzstan",
-        "teamB": "Vietnam",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7930/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7050/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "15/11/2026 06:00:00 PM"
+        "teamA": "Ajax Legends",
+        "teamB": "FC Barcelona Legends",
+        "teamAFlag": "j",
+        "teamBFlag": "k",
+        "eventName": "Friendly Match",
+        "event_logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+        "startTime": "15/11/2026 07:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.44/hls/F111.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_64ed2be6a31e"
+      "id": "evt_090b055a7247"
     },
     {
       "status": "LIVE",
@@ -1203,29 +1251,6 @@
       ],
       "isHot": false,
       "id": "evt_6fd0681c3a4c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "CD Tenerife Vs AD Ceuta",
-      "eventInfo": {
-        "teamA": "CD Tenerife",
-        "teamB": "AD Ceuta",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2822/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "15/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LaLiga Hypermotion",
-          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_56e6f019e32a"
     },
     {
       "status": "UPCOMING",
@@ -1884,30 +1909,6 @@
     {
       "status": "UPCOMING",
       "Category": "Rugby",
-      "event_name": "Leicester Tigers Vs Saracens",
-      "eventInfo": {
-        "teamA": "Leicester Tigers",
-        "teamB": "Saracens",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4193/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4197/image",
-        "eventName": "Premiership Rugby Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11543/image/dark",
-        "startTime": "15/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a78f648f69a0"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
       "event_name": "Scotland Vs Australia",
       "eventInfo": {
         "teamA": "Scotland",
@@ -2375,30 +2376,6 @@
       ],
       "isHot": false,
       "id": "evt_bbabdfce7d90"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Ajax Legends Vs FC Barcelona Legends",
-      "eventInfo": {
-        "teamA": "Ajax Legends",
-        "teamB": "FC Barcelona Legends",
-        "teamAFlag": "j",
-        "teamBFlag": "k",
-        "eventName": "Friendly Match",
-        "event_logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-        "startTime": "15/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "http://193.47.62.44/hls/F111.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_090b055a7247"
     },
     {
       "status": "UPCOMING",
@@ -8678,6 +8655,29 @@
       ],
       "isHot": false,
       "id": "evt_e6c2ae8ebbb9"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Australia Vs New Zealand",
+      "eventInfo": {
+        "teamA": "Australia",
+        "teamB": "New Zealand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24235/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24240/image",
+        "eventName": "World Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "startTime": "15/11/2026 02:35:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8b1ee00744f1"
     },
     {
       "status": "ENDED",
