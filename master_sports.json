@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:10:12 PM 15-11-2026",
+  "last_update_time": "03:20:12 PM 15-11-2026",
   "total_matches": 424,
-  "live_match": 8,
-  "upcoming_match": 382,
+  "live_match": 9,
+  "upcoming_match": 381,
   "ended_match": 34,
   "sources": [
     "api1:events.json",
@@ -479,6 +479,35 @@
         }
       ],
       "id": "evt_4efd6cb36493",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Royal Desert Champions Vs Arabian Aces",
+      "eventInfo": {
+        "teamA": "Royal Desert Champions",
+        "teamB": "Arabian Aces",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LL.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LI.png",
+        "eventName": "Abu Dhabi T10 League 2026 - 19th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+        "startTime": "15/11/2026 03:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "a sports - aq",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_6859cfa21f14",
       "isHot": false
     },
     {
@@ -2341,35 +2370,6 @@
       ],
       "isHot": false,
       "id": "evt_bbabdfce7d90"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Royal Desert Champions Vs Arabian Aces",
-      "eventInfo": {
-        "teamA": "Royal Desert Champions",
-        "teamB": "Arabian Aces",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 19th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "15/11/2026 03:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "a sports - aq",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_6859cfa21f14",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
