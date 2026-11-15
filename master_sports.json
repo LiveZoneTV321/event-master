@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:30:18 PM 15-11-2026",
+  "last_update_time": "02:40:12 PM 15-11-2026",
   "total_matches": 424,
   "live_match": 9,
   "upcoming_match": 382,
@@ -398,29 +398,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Australia Vs New Zealand",
-      "eventInfo": {
-        "teamA": "Australia",
-        "teamB": "New Zealand",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/272011/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/272009/image",
-        "eventName": "World Cup, Women ",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10683/image/dark",
-        "startTime": "15/11/2026 11:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_12c1bc3259e6"
-    },
-    {
-      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "South Africa Vs Bangladesh",
       "eventInfo": {
@@ -467,6 +444,29 @@
       ],
       "isHot": false,
       "id": "evt_3dab98028949"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Australia Vs New Zealand",
+      "eventInfo": {
+        "teamA": "Australia",
+        "teamB": "New Zealand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24235/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24240/image",
+        "eventName": "World Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "startTime": "15/11/2026 02:35:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8b1ee00744f1"
     },
     {
       "status": "LIVE",
