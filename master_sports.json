@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:30:18 AM 15-11-2026",
+  "last_update_time": "08:40:17 AM 15-11-2026",
   "total_matches": 357,
-  "live_match": 43,
-  "upcoming_match": 273,
-  "ended_match": 41,
+  "live_match": 45,
+  "upcoming_match": 270,
+  "ended_match": 42,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -137,29 +137,6 @@
       ],
       "isHot": false,
       "id": "evt_3ab680057f91"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Saint Vincent and the Grenadines Vs Belize",
-      "eventInfo": {
-        "teamA": "Saint Vincent and the Grenadines",
-        "teamB": "Belize",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21821/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21809/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "15/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b5076b9bec85"
     },
     {
       "status": "LIVE",
@@ -891,6 +868,29 @@
     {
       "status": "LIVE",
       "Category": "American football",
+      "event_name": "Oklahoma State Cowboys Vs Texas Tech Red Raiders",
+      "eventInfo": {
+        "teamA": "Oklahoma State Cowboys",
+        "teamB": "Texas Tech Red Raiders",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4281/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4357/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "15/11/2026 08:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_790987ee0314"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
       "event_name": "LSU Tigers Vs Texas Longhorns",
       "eventInfo": {
         "teamA": "LSU Tigers",
@@ -916,6 +916,84 @@
       ],
       "isHot": false,
       "id": "evt_3b3309edba00"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "San Diego State Aztecs Vs Utah State Aggies",
+      "eventInfo": {
+        "teamA": "San Diego State Aztecs",
+        "teamB": "Utah State Aggies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4363/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4300/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "15/11/2026 08:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_39e4eaf092dc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Australia Vs England",
+      "eventInfo": {
+        "teamA": "Australia",
+        "teamB": "England",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "eventName": "One Day International",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "15/11/2026 09:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "EUROSPORT FHD",
+          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/vvvve.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e210297e0dc2"
     },
     {
       "status": "LIVE",
@@ -1012,15 +1090,15 @@
     {
       "status": "LIVE",
       "Category": "American football",
-      "event_name": "Oklahoma State Cowboys Vs Texas Tech Red Raiders",
+      "event_name": "Arizona Wildcats Vs Utah Utes",
       "eventInfo": {
-        "teamA": "Oklahoma State Cowboys",
-        "teamB": "Texas Tech Red Raiders",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4281/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4357/image",
+        "teamA": "Arizona Wildcats",
+        "teamB": "Utah Utes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4343/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47352/image",
         "eventName": "NCAA Division FBS",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "15/11/2026 08:30:00 AM"
+        "startTime": "15/11/2026 09:30:00 AM"
       },
       "streams": [
         {
@@ -1030,20 +1108,20 @@
         }
       ],
       "isHot": false,
-      "id": "evt_790987ee0314"
+      "id": "evt_b781d8da9b91"
     },
     {
       "status": "LIVE",
       "Category": "American football",
-      "event_name": "San Diego State Aztecs Vs Utah State Aggies",
+      "event_name": "Washington State Cougars Vs Colorado State Rams",
       "eventInfo": {
-        "teamA": "San Diego State Aztecs",
-        "teamB": "Utah State Aggies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4363/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4300/image",
+        "teamA": "Washington State Cougars",
+        "teamB": "Colorado State Rams",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4358/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4341/image",
         "eventName": "NCAA Division FBS",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "15/11/2026 08:30:00 AM"
+        "startTime": "15/11/2026 09:30:00 AM"
       },
       "streams": [
         {
@@ -1053,7 +1131,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_39e4eaf092dc"
+      "id": "evt_33f662b68c9d"
     },
     {
       "status": "LIVE",
@@ -1662,61 +1740,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Australia Vs England",
-      "eventInfo": {
-        "teamA": "Australia",
-        "teamB": "England",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-        "eventName": "One Day International",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "15/11/2026 09:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "EUROSPORT FHD",
-          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
-        },
-        {
-          "channel_name": "WILLOW HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/vvvve.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e210297e0dc2"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Macau Vs Hong Kong",
       "eventInfo": {
@@ -1826,29 +1849,6 @@
     {
       "status": "UPCOMING",
       "Category": "American football",
-      "event_name": "Arizona Wildcats Vs Utah Utes",
-      "eventInfo": {
-        "teamA": "Arizona Wildcats",
-        "teamB": "Utah Utes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4343/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47352/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "15/11/2026 09:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b781d8da9b91"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
       "event_name": "Hawaii Rainbow Warriors Vs North Dakota State Bison",
       "eventInfo": {
         "teamA": "Hawaii Rainbow Warriors",
@@ -1868,29 +1868,6 @@
       ],
       "isHot": false,
       "id": "evt_bddeeec4d169"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Washington State Cougars Vs Colorado State Rams",
-      "eventInfo": {
-        "teamA": "Washington State Cougars",
-        "teamB": "Colorado State Rams",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4358/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4341/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "15/11/2026 09:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_33f662b68c9d"
     },
     {
       "status": "UPCOMING",
@@ -6583,6 +6560,29 @@
       ],
       "isHot": false,
       "id": "evt_f49d09f36b3c"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Saint Vincent and the Grenadines Vs Belize",
+      "eventInfo": {
+        "teamA": "Saint Vincent and the Grenadines",
+        "teamB": "Belize",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21821/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21809/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "15/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b5076b9bec85"
     },
     {
       "status": "ENDED",
