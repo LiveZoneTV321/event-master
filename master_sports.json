@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:00:23 PM 15-11-2026",
-  "total_matches": 424,
-  "live_match": 17,
-  "upcoming_match": 372,
+  "last_update_time": "07:10:13 PM 15-11-2026",
+  "total_matches": 425,
+  "live_match": 23,
+  "upcoming_match": 367,
   "ended_match": 35,
   "sources": [
     "api1:events.json",
@@ -388,6 +388,48 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "CD Tenerife Vs AD Ceuta",
+      "eventInfo": {
+        "teamA": "CD Tenerife",
+        "teamB": "AD Ceuta",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2822/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "15/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LaLiga Hypermotion",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001794745558-0-0-133c2d62cf06149abf98ffce7ee6d160",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "http://193.47.62.44/hls/HMMMAAAAAQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_56e6f019e32a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Madrid CFF Vs Logroño United",
       "eventInfo": {
         "teamA": "Madrid CFF",
@@ -437,6 +479,30 @@
       ],
       "isHot": false,
       "id": "evt_41269dca7793"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Leicester Tigers Vs Saracens",
+      "eventInfo": {
+        "teamA": "Leicester Tigers",
+        "teamB": "Saracens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4193/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4197/image",
+        "eventName": "Premiership Rugby Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11543/image/dark",
+        "startTime": "15/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a78f648f69a0"
     },
     {
       "status": "LIVE",
@@ -532,72 +598,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "CD Tenerife Vs AD Ceuta",
-      "eventInfo": {
-        "teamA": "CD Tenerife",
-        "teamB": "AD Ceuta",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2822/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "15/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LaLiga Hypermotion",
-          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001794745558-0-0-133c2d62cf06149abf98ffce7ee6d160",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "http://193.47.62.44/hls/HMMMAAAAAQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_56e6f019e32a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Leicester Tigers Vs Saracens",
-      "eventInfo": {
-        "teamA": "Leicester Tigers",
-        "teamB": "Saracens",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4193/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4197/image",
-        "eventName": "Premiership Rugby Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11543/image/dark",
-        "startTime": "15/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a78f648f69a0"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Ajax Legends Vs FC Barcelona Legends",
       "eventInfo": {
         "teamA": "Ajax Legends",
@@ -618,6 +618,209 @@
       ],
       "isHot": false,
       "id": "evt_090b055a7247"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "NFL STREAM Vs NFL STREAM",
+      "eventInfo": {
+        "teamA": "NFL STREAM",
+        "teamB": "NFL STREAM",
+        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "eventName": "NFL STREAM",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "15/11/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/54923/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_581cc9e2d21e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Aston Villa Vs Birmingham City W.F.C.",
+      "eventInfo": {
+        "teamA": "Aston Villa",
+        "teamB": "Birmingham City W.F.C.",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/266375/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/66766/image",
+        "eventName": "Women's Super League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "startTime": "15/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY SPORTS EPL - FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        },
+        {
+          "channel_name": "SKY SPORTS EPL FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/K555AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_96ca5dd7e6c0"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cyprus Vs Montenegro",
+      "eventInfo": {
+        "teamA": "Cyprus",
+        "teamB": "Montenegro",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4482/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7139/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "15/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "SPORT1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/K555.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a594335821a4"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Latvia Vs Armenia",
+      "eventInfo": {
+        "teamA": "Latvia",
+        "teamB": "Armenia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4706/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4740/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "15/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "SPORT2 TV CZ FHD ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/K555A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b25e9822a77d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Inter Vs Juventus",
+      "eventInfo": {
+        "teamA": "Inter",
+        "teamB": "Juventus",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/325685/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/269824/image",
+        "eventName": "Serie A Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "startTime": "15/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.59/hls/K555AAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/K555AAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b75c818f6e6f"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "West Ham Vs Charlton Athletic WFC",
+      "eventInfo": {
+        "teamA": "West Ham",
+        "teamB": "Charlton Athletic WFC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/297802/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/234203/image",
+        "eventName": "Women's Super League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "startTime": "15/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/K555AAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_9d721a624653"
     },
     {
       "status": "LIVE",
@@ -918,7 +1121,23 @@
         },
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60146/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/K555AAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "NFL SERVER 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60144/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "NFL SERVER 3",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60145/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         }
       ],
@@ -1336,35 +1555,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Aston Villa Vs Birmingham City W.F.C.",
-      "eventInfo": {
-        "teamA": "Aston Villa",
-        "teamB": "Birmingham City W.F.C.",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/266375/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/66766/image",
-        "eventName": "Women's Super League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "startTime": "15/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY SPORTS EPL - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        },
-        {
-          "channel_name": "SKY SPORTS EPL FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_96ca5dd7e6c0"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Suriname Vs Eswatini",
       "eventInfo": {
         "teamA": "Suriname",
@@ -1451,78 +1641,6 @@
       ],
       "isHot": false,
       "id": "evt_1946c27fe712"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Cyprus Vs Montenegro",
-      "eventInfo": {
-        "teamA": "Cyprus",
-        "teamB": "Montenegro",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4482/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7139/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "15/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "SPORT1 CZ FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a594335821a4"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Latvia Vs Armenia",
-      "eventInfo": {
-        "teamA": "Latvia",
-        "teamB": "Armenia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4706/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4740/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "15/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "SPORT2 TV CZ FHD ",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b25e9822a77d"
     },
     {
       "status": "UPCOMING",
@@ -1785,29 +1903,6 @@
       ],
       "isHot": false,
       "id": "evt_7782890efc2f"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Inter Vs Juventus",
-      "eventInfo": {
-        "teamA": "Inter",
-        "teamB": "Juventus",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/325685/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/269824/image",
-        "eventName": "Serie A Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10640/image/dark",
-        "startTime": "15/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b75c818f6e6f"
     },
     {
       "status": "UPCOMING",
@@ -2329,31 +2424,6 @@
       ],
       "isHot": false,
       "id": "evt_ac8eccf7deb8"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "West Ham Vs Charlton Athletic WFC",
-      "eventInfo": {
-        "teamA": "West Ham",
-        "teamB": "Charlton Athletic WFC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/297802/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/234203/image",
-        "eventName": "Women's Super League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "startTime": "15/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9d721a624653"
     },
     {
       "status": "UPCOMING",
@@ -8083,7 +8153,19 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
         "startTime": "15/11/2026 02:15:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "SIM QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/VOOO.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
       "isHot": false,
       "id": "evt_f7a236702985"
     },
