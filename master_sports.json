@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:10:14 PM 16-11-2026",
+  "last_update_time": "10:20:15 PM 16-11-2026",
   "total_matches": 442,
   "live_match": 13,
   "upcoming_match": 406,
@@ -655,6 +655,18 @@
           "channel_name": "a sports - aq",
           "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531"
         }
       ],
       "id": "evt_e84e708949fb",
@@ -8557,12 +8569,6 @@
           "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
         },
         {
-          "channel_name": "beIN SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
-        },
-        {
           "channel_name": "HD QUALITY ",
           "stream_url": "https://www.rtmpcdn.com/live/7006e7e6-d7d5-4606-919e-5eac410b4fd1.m3u8",
           "referer": "http://www.fawanews.sc/",
@@ -8577,35 +8583,7 @@
         {
           "channel_name": "FASTER ",
           "stream_url": "https://live.vivo155.com/live/sd-1-4642764.m3u8?txSecret=504fd65c5964a252965887e5696c5aee&txTime=6AFB0F59",
-          "referer": "https://player.on8on8.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001794824827-0-0-dbe59f61eb1bf58f390dc0859e81d39f",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://playback.livetl004.com/live/6a5df755b89dded67b39b8bc.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live2.zktsva.app/live/432017.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "referer": "https://player.on8on8.com/"
         }
       ],
       "isHot": false,
