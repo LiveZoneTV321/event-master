@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:40:14 PM 16-11-2026",
+  "last_update_time": "08:50:13 PM 16-11-2026",
   "total_matches": 441,
   "live_match": 10,
   "upcoming_match": 410,
@@ -494,6 +494,11 @@
           "channel_name": "Server - 8",
           "stream_url": "https://playback.livetl004.com/live/6a5b13ceb36a14387baeddaa.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - aq",
+          "stream_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2120299/footlive1611/ENG/master.m3u8?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -549,6 +554,17 @@
         {
           "channel_name": "Server - 6",
           "stream_url": "https://playback.livetl004.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - aq",
+          "stream_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120301/Footlive1611/ENG/master.m3u8?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
