@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:00:25 AM 17-11-2026",
+  "last_update_time": "02:10:15 AM 17-11-2026",
   "total_matches": 443,
   "live_match": 18,
   "upcoming_match": 405,
@@ -205,156 +205,6 @@
       ],
       "isHot": false,
       "id": "evt_3dab98028949"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Andorra Vs Azerbaijan",
-      "eventInfo": {
-        "teamA": "Andorra",
-        "teamB": "Azerbaijan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4818/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4742/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "17/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Sport3 Tv BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-          "drm_key": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "hd quality",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=842196f54b4725afd29e44339a9ed473&wsABSTime=1794892758",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "low quality",
-          "stream_url": "http://193.47.62.41/hls/UOOOAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "sonyliv - aq",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_591b58305e6e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Albacete Balompié Vs Celta Fortuna",
-      "eventInfo": {
-        "teamA": "Albacete Balompié",
-        "teamB": "Celta Fortuna",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "17/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LaLiga Hypermotion ",
-          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_cbcdf9e47430"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Universidad Técnica de Cajamarca Vs Los Chankas CYC",
-      "eventInfo": {
-        "teamA": "Universidad Técnica de Cajamarca",
-        "teamB": "Los Chankas CYC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/87854/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/252254/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "17/11/2026 12:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_8724298eb51a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Cuba Vs Grenada",
-      "eventInfo": {
-        "teamA": "Cuba",
-        "teamB": "Grenada",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4824/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21814/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "17/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5c67066669ec"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Guadeloupe Vs Bermuda",
-      "eventInfo": {
-        "teamA": "Guadeloupe",
-        "teamB": "Bermuda",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7299/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4745/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "17/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_de474d481d43"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Guyana Vs Puerto Rico",
-      "eventInfo": {
-        "teamA": "Guyana",
-        "teamB": "Puerto Rico",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22113/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21818/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "17/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_6a3b70a4b482"
     },
     {
       "status": "LIVE",
@@ -781,6 +631,156 @@
       ],
       "isHot": false,
       "id": "evt_592c0fd56584"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Andorra Vs Azerbaijan",
+      "eventInfo": {
+        "teamA": "Andorra",
+        "teamB": "Azerbaijan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4818/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4742/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "17/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Sport3 Tv BR FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+          "drm_key": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "hd quality",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=842196f54b4725afd29e44339a9ed473&wsABSTime=1794892758",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "low quality",
+          "stream_url": "http://193.47.62.41/hls/UOOOAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - aq",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_591b58305e6e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Albacete Balompié Vs Celta Fortuna",
+      "eventInfo": {
+        "teamA": "Albacete Balompié",
+        "teamB": "Celta Fortuna",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "17/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LaLiga Hypermotion ",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_cbcdf9e47430"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Universidad Técnica de Cajamarca Vs Los Chankas CYC",
+      "eventInfo": {
+        "teamA": "Universidad Técnica de Cajamarca",
+        "teamB": "Los Chankas CYC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/87854/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/252254/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "17/11/2026 12:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_8724298eb51a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cuba Vs Grenada",
+      "eventInfo": {
+        "teamA": "Cuba",
+        "teamB": "Grenada",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4824/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21814/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "17/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5c67066669ec"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Guadeloupe Vs Bermuda",
+      "eventInfo": {
+        "teamA": "Guadeloupe",
+        "teamB": "Bermuda",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7299/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4745/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "17/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_de474d481d43"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Guyana Vs Puerto Rico",
+      "eventInfo": {
+        "teamA": "Guyana",
+        "teamB": "Puerto Rico",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22113/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21818/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "17/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_6a3b70a4b482"
     },
     {
       "status": "LIVE",
