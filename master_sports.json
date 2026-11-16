@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:40:13 PM 16-11-2026",
+  "last_update_time": "09:50:14 PM 16-11-2026",
   "total_matches": 441,
-  "live_match": 9,
-  "upcoming_match": 409,
+  "live_match": 10,
+  "upcoming_match": 408,
   "ended_match": 23,
   "sources": [
     "api1:events.json",
@@ -489,6 +489,35 @@
         }
       ],
       "id": "evt_63e64b27eb11",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Emirates Eagles Vs Royal Desert Champions",
+      "eventInfo": {
+        "teamA": "Emirates Eagles",
+        "teamB": "Royal Desert Champions",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LK.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LL.png",
+        "eventName": "Abu Dhabi T10 League 2026 - 23rd Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+        "startTime": "16/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "a sports - aq",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_e84e708949fb",
       "isHot": false
     },
     {
@@ -1849,35 +1878,6 @@
       ],
       "isHot": false,
       "id": "evt_e989c31fac96"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Emirates Eagles Vs Royal Desert Champions",
-      "eventInfo": {
-        "teamA": "Emirates Eagles",
-        "teamB": "Royal Desert Champions",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LK.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 23rd Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "16/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "a sports - aq",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_e84e708949fb",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
