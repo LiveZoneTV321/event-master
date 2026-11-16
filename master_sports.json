@@ -1,9 +1,9 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:10:14 PM 16-11-2026",
-  "total_matches": 371,
-  "live_match": 5,
+  "last_update_time": "06:20:13 PM 16-11-2026",
+  "total_matches": 370,
+  "live_match": 4,
   "upcoming_match": 346,
   "ended_match": 20,
   "sources": [
@@ -248,48 +248,6 @@
       ],
       "isHot": false,
       "id": "evt_3b87feb4d75e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Sydney Thunder Women Vs Melbourne Stars Women",
-      "eventInfo": {
-        "teamA": "Sydney Thunder Women",
-        "teamB": "Melbourne Stars Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274889/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274886/image",
-        "eventName": "Womens Big Bash League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "16/11/2026 02:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "willow sports - aq",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkhwpl0tzw/out/v1/59557ba485b04e81863a3fa533d8179d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkhwpl0tzw/out/v1/59557ba485b04e81863a3fa533d8179d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba"
-        },
-        {
-          "channel_name": "Tapmad - (bd)",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_7b3ad8419443",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
