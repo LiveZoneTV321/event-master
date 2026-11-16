@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:50:13 PM 16-11-2026",
+  "last_update_time": "04:00:24 PM 16-11-2026",
   "total_matches": 397,
   "live_match": 4,
   "upcoming_match": 333,
@@ -1773,7 +1773,7 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/4756/image",
         "eventName": "Friendly International",
         "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "17/11/2026 05:00:00 AM"
+        "startTime": "18/11/2026 05:00:00 AM"
       },
       "streams": [],
       "id": "evt_0da69f044222",
