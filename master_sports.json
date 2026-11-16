@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:30:24 PM 16-11-2026",
+  "last_update_time": "07:40:13 PM 16-11-2026",
   "total_matches": 441,
   "live_match": 7,
-  "upcoming_match": 414,
-  "ended_match": 20,
+  "upcoming_match": 413,
+  "ended_match": 21,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -73,45 +73,6 @@
       ],
       "isHot": false,
       "id": "evt_fe585796ba9e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "WBBL Vs WBBL",
-      "eventInfo": {
-        "teamA": "WBBL",
-        "teamB": "WBBL",
-        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "eventName": "Women's Big Bash League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "startTime": "16/11/2026 02:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd",
-          "drm_key": "93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba"
-        },
-        {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "WILLOW HD",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd",
-          "drm_key": "93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba"
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": "http://193.47.62.41/hls/ZZZZAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ccd3e7a5895d"
     },
     {
       "status": "LIVE",
@@ -375,6 +336,35 @@
         }
       ],
       "id": "evt_cef8bdfc9d1f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Arabian Aces Vs United Tigers",
+      "eventInfo": {
+        "teamA": "Arabian Aces",
+        "teamB": "United Tigers",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LI.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
+        "eventName": "Abu Dhabi T10 League 2026 - 22nd Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+        "startTime": "16/11/2026 07:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "a sports - aq",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_63e64b27eb11",
       "isHot": false
     },
     {
@@ -1684,35 +1674,6 @@
       ],
       "isHot": false,
       "id": "evt_e989c31fac96"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Arabian Aces Vs United Tigers",
-      "eventInfo": {
-        "teamA": "Arabian Aces",
-        "teamB": "United Tigers",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 22nd Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "16/11/2026 07:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "a sports - aq",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_63e64b27eb11",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -8315,6 +8276,45 @@
       ],
       "isHot": false,
       "id": "evt_f7a236702985"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Cricket",
+      "event_name": "WBBL Vs WBBL",
+      "eventInfo": {
+        "teamA": "WBBL",
+        "teamB": "WBBL",
+        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "eventName": "Women's Big Bash League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "startTime": "16/11/2026 02:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd",
+          "drm_key": "93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba"
+        },
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd",
+          "drm_key": "93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba"
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": "http://193.47.62.41/hls/ZZZZAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ccd3e7a5895d"
     },
     {
       "status": "ENDED",
