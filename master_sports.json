@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:30:21 AM 17-11-2026",
+  "last_update_time": "01:40:12 AM 17-11-2026",
   "total_matches": 443,
-  "live_match": 20,
-  "upcoming_match": 407,
-  "ended_match": 16,
+  "live_match": 18,
+  "upcoming_match": 405,
+  "ended_match": 20,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -209,147 +209,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Lithuania Vs Liechtenstein",
-      "eventInfo": {
-        "teamA": "Lithuania",
-        "teamB": "Liechtenstein",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4776/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4830/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "16/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX SOCCER+ HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60250/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://www.rtmpcdn.com/live/c54ee57a-06dc-4f0a-b02d-f26c22c40b87.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/TOOOAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SonyLiv (Asia) ",
-          "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8",
-          "referer": "https://www.sonyliv.com/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ca0b10c41562"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Iceland Vs Luxembourg",
-      "eventInfo": {
-        "teamA": "Iceland",
-        "teamB": "Luxembourg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4708/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4478/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "16/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN2 ENGLISH FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "FUBO SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
-        },
-        {
-          "channel_name": "HD QUALITY 4",
-          "stream_url": "https://www.rtmpcdn.com/live/7eec54af-6462-4b54-a0bc-9baaf8e340f8.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/TOOOA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SonyLiv (Asia) ",
-          "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Footlive1611/ENG/std_lrh-800300010.m3u8",
-          "referer": "https://www.sonyliv.com/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_452fb60ba2fa"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Estonia Vs Bulgaria",
-      "eventInfo": {
-        "teamA": "Estonia",
-        "teamB": "Bulgaria",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4759/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4716/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "16/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "beIN3 ENGLISH FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "SPORT2 TV CZ FHD ",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "SPORTV2 BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
-        },
-        {
-          "channel_name": "HD QUALITY 5",
-          "stream_url": "https://www.rtmpcdn.com/live/0a7bb239-1182-4945-9d9c-f621c1ce74f6.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/TOOO.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SonyLiv (Asia)",
-          "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8",
-          "referer": "https://www.sonyliv.com/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_70db99ee9857"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Andorra Vs Azerbaijan",
       "eventInfo": {
         "teamA": "Andorra",
@@ -387,6 +246,29 @@
       ],
       "isHot": false,
       "id": "evt_591b58305e6e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Albacete Balompié Vs Celta Fortuna",
+      "eventInfo": {
+        "teamA": "Albacete Balompié",
+        "teamB": "Celta Fortuna",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "17/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LaLiga Hypermotion ",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_cbcdf9e47430"
     },
     {
       "status": "LIVE",
@@ -473,30 +355,6 @@
       ],
       "isHot": false,
       "id": "evt_6a3b70a4b482"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "VfB Stuttgart Vs Bayer Leverkusen",
-      "eventInfo": {
-        "teamA": "VfB Stuttgart",
-        "teamB": "Bayer Leverkusen",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/527815/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36623/image",
-        "eventName": "Frauen-Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/232/image/dark",
-        "startTime": "16/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/BTBTBTAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3372b4346213"
     },
     {
       "status": "LIVE",
@@ -733,7 +591,53 @@
         {
           "channel_name": "SPORT2 TV CZ FHD ",
           "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "beIN2 ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001794849721-0-0-decbe8698dcc9f1d1ed8a6637fca2b82",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel16.flv?wsSecret=5894c86862e0d5f70ee49f22cbde6e87&wsABSTime=1794892921",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794849721-0-0-28d63dbee0efe8be408c16dd6b84fa83",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1794835628-0-0-0bb97d2da3f21e75e8867898d3fa4f8f",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1794835868-0-0-981098f5e84f04f31d9e492e0df290d6",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 7",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -742,25 +646,36 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Albacete Balompié Vs Celta Fortuna",
+      "event_name": "CD Moquegua Vs Club Atlético Grau",
       "eventInfo": {
-        "teamA": "Albacete Balompié",
-        "teamB": "Celta Fortuna",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "17/11/2026 01:30:00 AM"
+        "teamA": "CD Moquegua",
+        "teamB": "Club Atlético Grau",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/492848/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/282538/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "17/11/2026 02:15:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "LaLiga Hypermotion ",
-          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
-        }
-      ],
+      "streams": [],
       "isHot": false,
-      "id": "evt_cbcdf9e47430"
+      "id": "evt_c52247ac3648"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cusco FC Vs Asociación Deportiva Tarma",
+      "eventInfo": {
+        "teamA": "Cusco FC",
+        "teamB": "Asociación Deportiva Tarma",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/63760/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/335557/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "17/11/2026 02:15:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_932461cb6158"
     },
     {
       "status": "LIVE",
@@ -1369,40 +1284,6 @@
       ],
       "isHot": false,
       "id": "evt_b658c4c69c21"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "CD Moquegua Vs Club Atlético Grau",
-      "eventInfo": {
-        "teamA": "CD Moquegua",
-        "teamB": "Club Atlético Grau",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/492848/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/282538/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "17/11/2026 02:15:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_c52247ac3648"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Cusco FC Vs Asociación Deportiva Tarma",
-      "eventInfo": {
-        "teamA": "Cusco FC",
-        "teamB": "Asociación Deportiva Tarma",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/63760/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/335557/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "17/11/2026 02:15:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_932461cb6158"
     },
     {
       "status": "UPCOMING",
@@ -8586,6 +8467,45 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Lithuania Vs Liechtenstein",
+      "eventInfo": {
+        "teamA": "Lithuania",
+        "teamB": "Liechtenstein",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4776/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4830/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "16/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX SOCCER+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60250/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://www.rtmpcdn.com/live/c54ee57a-06dc-4f0a-b02d-f26c22c40b87.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/TOOOAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SonyLiv (Asia) ",
+          "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8",
+          "referer": "https://www.sonyliv.com/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ca0b10c41562"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Faroe Islands Vs Moldova",
       "eventInfo": {
         "teamA": "Faroe Islands",
@@ -8635,6 +8555,52 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Iceland Vs Luxembourg",
+      "eventInfo": {
+        "teamA": "Iceland",
+        "teamB": "Luxembourg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4708/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4478/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "16/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN2 ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "FUBO SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
+        },
+        {
+          "channel_name": "HD QUALITY 4",
+          "stream_url": "https://www.rtmpcdn.com/live/7eec54af-6462-4b54-a0bc-9baaf8e340f8.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/TOOOA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SonyLiv (Asia) ",
+          "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Footlive1611/ENG/std_lrh-800300010.m3u8",
+          "referer": "https://www.sonyliv.com/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_452fb60ba2fa"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Kazakhstan Vs Slovakia",
       "eventInfo": {
         "teamA": "Kazakhstan",
@@ -8680,6 +8646,62 @@
       ],
       "isHot": false,
       "id": "evt_719a5fa1a0ec"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Estonia Vs Bulgaria",
+      "eventInfo": {
+        "teamA": "Estonia",
+        "teamB": "Bulgaria",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4759/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4716/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "16/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "beIN3 ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "SPORT2 TV CZ FHD ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "SPORTV2 BR FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+          "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
+        },
+        {
+          "channel_name": "HD QUALITY 5",
+          "stream_url": "https://www.rtmpcdn.com/live/0a7bb239-1182-4945-9d9c-f621c1ce74f6.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/TOOO.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SonyLiv (Asia)",
+          "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8",
+          "referer": "https://www.sonyliv.com/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_70db99ee9857"
     },
     {
       "status": "ENDED",
@@ -8782,6 +8804,30 @@
       ],
       "isHot": false,
       "id": "evt_724525681b40"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "VfB Stuttgart Vs Bayer Leverkusen",
+      "eventInfo": {
+        "teamA": "VfB Stuttgart",
+        "teamB": "Bayer Leverkusen",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/527815/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36623/image",
+        "eventName": "Frauen-Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/232/image/dark",
+        "startTime": "16/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/BTBTBTAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3372b4346213"
     },
     {
       "status": "ENDED",
