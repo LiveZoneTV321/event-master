@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:00:28 AM 17-11-2026",
+  "last_update_time": "01:10:13 AM 17-11-2026",
   "total_matches": 443,
-  "live_match": 14,
-  "upcoming_match": 413,
+  "live_match": 19,
+  "upcoming_match": 408,
   "ended_match": 16,
   "sources": [
     "api1:events.json",
@@ -576,53 +576,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "VfB Stuttgart Vs Bayer Leverkusen",
-      "eventInfo": {
-        "teamA": "VfB Stuttgart",
-        "teamB": "Bayer Leverkusen",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/527815/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36623/image",
-        "eventName": "Frauen-Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/232/image/dark",
-        "startTime": "16/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/BTBTBTAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3372b4346213"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Albacete Balompié Vs Celta Fortuna",
-      "eventInfo": {
-        "teamA": "Albacete Balompié",
-        "teamB": "Celta Fortuna",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "17/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LaLiga Hypermotion ",
-          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_cbcdf9e47430"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Cuba Vs Grenada",
       "eventInfo": {
         "teamA": "Cuba",
@@ -688,6 +641,199 @@
       ],
       "isHot": false,
       "id": "evt_6a3b70a4b482"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "VfB Stuttgart Vs Bayer Leverkusen",
+      "eventInfo": {
+        "teamA": "VfB Stuttgart",
+        "teamB": "Bayer Leverkusen",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/527815/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36623/image",
+        "eventName": "Frauen-Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/232/image/dark",
+        "startTime": "16/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/BTBTBTAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3372b4346213"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Germany Vs Netherlands",
+      "eventInfo": {
+        "teamA": "Germany",
+        "teamB": "Netherlands",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4711/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4705/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "17/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "beIN3 ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "TVE La 1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54"
+        },
+        {
+          "channel_name": "SPORT 1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e43f487d6276"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Gibraltar Vs Malta",
+      "eventInfo": {
+        "teamA": "Gibraltar",
+        "teamB": "Malta",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/129264/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4483/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "17/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4e4cfedfcfc8"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "North Macedonia Vs Slovenia",
+      "eventInfo": {
+        "teamA": "North Macedonia",
+        "teamB": "Slovenia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4777/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4484/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "17/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_68b5b0f69c42"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Switzerland Vs Scotland",
+      "eventInfo": {
+        "teamA": "Switzerland",
+        "teamB": "Scotland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4699/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4695/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "17/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_1ee423fad3ed"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Greece Vs Serbia",
+      "eventInfo": {
+        "teamA": "Greece",
+        "teamB": "Serbia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4710/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6355/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "17/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "beIN2 ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "SPORT2 TV CZ FHD ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_592c0fd56584"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Albacete Balompié Vs Celta Fortuna",
+      "eventInfo": {
+        "teamA": "Albacete Balompié",
+        "teamB": "Celta Fortuna",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "17/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LaLiga Hypermotion ",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_cbcdf9e47430"
     },
     {
       "status": "UPCOMING",
@@ -1254,152 +1400,6 @@
       ],
       "isHot": false,
       "id": "evt_b658c4c69c21"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Germany Vs Netherlands",
-      "eventInfo": {
-        "teamA": "Germany",
-        "teamB": "Netherlands",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4711/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4705/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "17/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "beIN3 ENGLISH FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "TVE La 1 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54"
-        },
-        {
-          "channel_name": "SPORT 1 CZ FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e43f487d6276"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Gibraltar Vs Malta",
-      "eventInfo": {
-        "teamA": "Gibraltar",
-        "teamB": "Malta",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/129264/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4483/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "17/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_4e4cfedfcfc8"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "North Macedonia Vs Slovenia",
-      "eventInfo": {
-        "teamA": "North Macedonia",
-        "teamB": "Slovenia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4777/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4484/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "17/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_68b5b0f69c42"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Switzerland Vs Scotland",
-      "eventInfo": {
-        "teamA": "Switzerland",
-        "teamB": "Scotland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4699/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4695/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "17/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_1ee423fad3ed"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Greece Vs Serbia",
-      "eventInfo": {
-        "teamA": "Greece",
-        "teamB": "Serbia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4710/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6355/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "17/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "beIN2 ENGLISH FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "SPORT2 TV CZ FHD ",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_592c0fd56584"
     },
     {
       "status": "UPCOMING",
