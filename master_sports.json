@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:40:13 PM 16-11-2026",
+  "last_update_time": "02:50:20 PM 16-11-2026",
   "total_matches": 397,
   "live_match": 4,
   "upcoming_match": 333,
@@ -197,7 +197,7 @@
         "teamB": "Melbourne Stars Women",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/274889/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/274886/image",
-        "eventName": "Womens Big Bash League 2026 - 24th Match",
+        "eventName": "Womens Big Bash League",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
         "startTime": "16/11/2026 02:10:00 PM"
       },
@@ -227,7 +227,7 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_ab834eace457",
+      "id": "evt_7b3ad8419443",
       "isHot": false
     },
     {
@@ -1278,7 +1278,7 @@
         "teamB": "Sydney Sixers Women",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/274888/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/274883/image",
-        "eventName": "Womens Big Bash League 2026 - 25th Match",
+        "eventName": "Womens Big Bash League",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
         "startTime": "17/11/2026 02:10:00 PM"
       },
@@ -1290,7 +1290,7 @@
           "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
         }
       ],
-      "id": "evt_bcbd1d81965d",
+      "id": "evt_69822f2efd3f",
       "isHot": false
     },
     {
@@ -2492,12 +2492,12 @@
         "teamB": "Perth Scorchers Women",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/274885/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/274890/image",
-        "eventName": "Womens Big Bash League 2026 - 26th Match",
+        "eventName": "Womens Big Bash League",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
         "startTime": "19/11/2026 02:40:00 PM"
       },
       "streams": [],
-      "id": "evt_1679ec3a91f3",
+      "id": "evt_daf6e89e97bd",
       "isHot": false
     },
     {
