@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:30:21 PM 16-11-2026",
+  "last_update_time": "05:50:22 PM 16-11-2026",
   "total_matches": 371,
   "live_match": 4,
   "upcoming_match": 347,
@@ -2296,12 +2296,12 @@
         "teamB": "Pakistan",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "eventName": "Sri Lanka tour of Pakistan 2026 - 2nd Test, Day 1",
+        "eventName": "SL vs PAK, 2026 - 2nd Test, Day 1",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
         "startTime": "17/11/2026 10:30:00 AM"
       },
       "streams": [],
-      "id": "evt_f4200b534493",
+      "id": "evt_92ba71e575d7",
       "isHot": false
     },
     {
