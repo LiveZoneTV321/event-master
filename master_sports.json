@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:30:20 AM 17-11-2026",
+  "last_update_time": "12:40:13 AM 17-11-2026",
   "total_matches": 443,
-  "live_match": 15,
-  "upcoming_match": 414,
-  "ended_match": 14,
+  "live_match": 14,
+  "upcoming_match": 413,
+  "ended_match": 16,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -576,72 +576,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Central African Republic Vs Benin",
-      "eventInfo": {
-        "teamA": "Central African Republic",
-        "teamB": "Benin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23470/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4744/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "16/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/935d94ec-c8b6-4e71-8584-bf84faa24209.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/BTBTBT.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_dc450d2e7e7b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Eritrea Vs Guinea",
-      "eventInfo": {
-        "teamA": "Eritrea",
-        "teamB": "Guinea",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8041/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4826/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "16/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN Español FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/260fda44-c0a8-4e78-9bc0-4fb4dfc6e5c7.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/BTBTBTA.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_724525681b40"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "VfB Stuttgart Vs Bayer Leverkusen",
       "eventInfo": {
         "teamA": "VfB Stuttgart",
@@ -662,6 +596,29 @@
       ],
       "isHot": false,
       "id": "evt_3372b4346213"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Albacete Balompié Vs Celta Fortuna",
+      "eventInfo": {
+        "teamA": "Albacete Balompié",
+        "teamB": "Celta Fortuna",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "17/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LaLiga Hypermotion ",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_cbcdf9e47430"
     },
     {
       "status": "LIVE",
@@ -1447,29 +1404,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Albacete Balompié Vs Celta Fortuna",
-      "eventInfo": {
-        "teamA": "Albacete Balompié",
-        "teamB": "Celta Fortuna",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "17/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LaLiga Hypermotion ",
-          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_cbcdf9e47430"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "CD Moquegua Vs Club Atlético Grau",
       "eventInfo": {
         "teamA": "CD Moquegua",
@@ -1927,7 +1861,7 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/4749/image",
         "eventName": "Africa Cup of Nations Qualification",
         "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "17/11/2026 01:00:00 AM"
+        "startTime": "18/11/2026 01:00:00 AM"
       },
       "streams": [],
       "id": "evt_5be5e39e7b12",
@@ -8798,6 +8732,40 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Central African Republic Vs Benin",
+      "eventInfo": {
+        "teamA": "Central African Republic",
+        "teamB": "Benin",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23470/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4744/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "16/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/935d94ec-c8b6-4e71-8584-bf84faa24209.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/BTBTBT.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_dc450d2e7e7b"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Somalia Vs Ghana",
       "eventInfo": {
         "teamA": "Somalia",
@@ -8830,6 +8798,38 @@
       ],
       "isHot": false,
       "id": "evt_c59ce2f00f6e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Eritrea Vs Guinea",
+      "eventInfo": {
+        "teamA": "Eritrea",
+        "teamB": "Guinea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/8041/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4826/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "16/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN Español FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/260fda44-c0a8-4e78-9bc0-4fb4dfc6e5c7.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/BTBTBTA.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_724525681b40"
     },
     {
       "status": "ENDED",
