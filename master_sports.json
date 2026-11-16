@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:30:19 PM 16-11-2026",
+  "last_update_time": "08:40:14 PM 16-11-2026",
   "total_matches": 441,
   "live_match": 10,
   "upcoming_match": 410,
@@ -220,7 +220,8 @@
         {
           "channel_name": "FASTER ",
           "stream_url": "https://live.vivo155.com/live/sd-1-4642764.m3u8?txSecret=504fd65c5964a252965887e5696c5aee&txTime=6AFB0F59",
-          "referer": "https://player.on8on8.com/"
+          "referer": "https://player.on8on8.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 1",
@@ -372,9 +373,16 @@
           "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
         },
         {
+          "channel_name": "beIN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
           "channel_name": "HD QUALITY ",
           "stream_url": "https://live.vivo155.com/live/sd-1-4642756.m3u8?txSecret=6f2c96c763cfae8803e1c997e01da3aa&txTime=6AFB0F04",
-          "referer": "https://player.on8on8.com/"
+          "referer": "https://player.on8on8.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "HD QUALITY 2",
@@ -384,7 +392,8 @@
         },
         {
           "channel_name": "HD QUALITY 3",
-          "stream_url": "https://pulltx.cqsycw.com/live/sd-6MxjZAMSgJ3b1yt4XQ.m3u8?txSecret=08089cd70fa8adcbd893300259b44897&txTime=6AFB0288&sid=0Jli-uEPe4n1ebmY4AcQiBBFeyByUsFd0T-athKIktdLVF4PhrSDNvjKyD3aDsLL"
+          "stream_url": "https://pulltx.cqsycw.com/live/sd-6MxjZAMSgJ3b1yt4XQ.m3u8?txSecret=08089cd70fa8adcbd893300259b44897&txTime=6AFB0288&sid=0Jli-uEPe4n1ebmY4AcQiBBFeyByUsFd0T-athKIktdLVF4PhrSDNvjKyD3aDsLL",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
