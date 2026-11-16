@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:30:33 AM 17-11-2026",
+  "last_update_time": "02:40:14 AM 17-11-2026",
   "total_matches": 443,
-  "live_match": 18,
+  "live_match": 15,
   "upcoming_match": 405,
-  "ended_match": 20,
+  "ended_match": 23,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -82,45 +82,6 @@
       ],
       "isHot": false,
       "id": "evt_8164e402a2e1"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE",
-      "eventInfo": {
-        "teamA": "ABU DHABI T10 LEAGUE",
-        "teamB": "ABU DHABI T10 LEAGUE",
-        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "eventName": "ABU DHABI T10 LEAGUE",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "startTime": "16/11/2026 07:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xctbh0jely/out/v1/5fa99c274f9d4ba896fa7d398393398b/cenc.mpd",
-          "drm_key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531"
-        },
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8eb0a1acb4eb"
     },
     {
       "status": "LIVE",
@@ -635,29 +596,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Andorra Vs Azerbaijan",
-      "eventInfo": {
-        "teamA": "Andorra",
-        "teamB": "Azerbaijan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4818/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4742/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "17/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Sport3 Tv BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-          "drm_key": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_591b58305e6e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Albacete Balompié Vs Celta Fortuna",
       "eventInfo": {
         "teamA": "Albacete Balompié",
@@ -681,19 +619,36 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Universidad Técnica de Cajamarca Vs Los Chankas CYC",
+      "event_name": "CD Moquegua Vs Club Atlético Grau",
       "eventInfo": {
-        "teamA": "Universidad Técnica de Cajamarca",
-        "teamB": "Los Chankas CYC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/87854/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/252254/image",
+        "teamA": "CD Moquegua",
+        "teamB": "Club Atlético Grau",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/492848/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/282538/image",
         "eventName": "Liga 1 Te Apuesto",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "17/11/2026 12:00:00 AM"
+        "startTime": "17/11/2026 02:15:00 AM"
       },
       "streams": [],
       "isHot": false,
-      "id": "evt_8724298eb51a"
+      "id": "evt_c52247ac3648"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cusco FC Vs Asociación Deportiva Tarma",
+      "eventInfo": {
+        "teamA": "Cusco FC",
+        "teamB": "Asociación Deportiva Tarma",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/63760/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/335557/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "17/11/2026 02:15:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_932461cb6158"
     },
     {
       "status": "LIVE",
@@ -763,40 +718,6 @@
       ],
       "isHot": false,
       "id": "evt_6a3b70a4b482"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CD Moquegua Vs Club Atlético Grau",
-      "eventInfo": {
-        "teamA": "CD Moquegua",
-        "teamB": "Club Atlético Grau",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/492848/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/282538/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "17/11/2026 02:15:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_c52247ac3648"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Cusco FC Vs Asociación Deportiva Tarma",
-      "eventInfo": {
-        "teamA": "Cusco FC",
-        "teamB": "Asociación Deportiva Tarma",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/63760/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/335557/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "17/11/2026 02:15:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_932461cb6158"
     },
     {
       "status": "LIVE",
@@ -8559,6 +8480,45 @@
     },
     {
       "status": "ENDED",
+      "Category": "Cricket",
+      "event_name": "ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE",
+      "eventInfo": {
+        "teamA": "ABU DHABI T10 LEAGUE",
+        "teamB": "ABU DHABI T10 LEAGUE",
+        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "eventName": "ABU DHABI T10 LEAGUE",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "startTime": "16/11/2026 07:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xctbh0jely/out/v1/5fa99c274f9d4ba896fa7d398393398b/cenc.mpd",
+          "drm_key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531"
+        },
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8eb0a1acb4eb"
+    },
+    {
+      "status": "ENDED",
       "Category": "Other",
       "event_name": "Horse Racing Vs Horse Racing",
       "eventInfo": {
@@ -8823,6 +8783,46 @@
       ],
       "isHot": false,
       "id": "evt_70db99ee9857"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Andorra Vs Azerbaijan",
+      "eventInfo": {
+        "teamA": "Andorra",
+        "teamB": "Azerbaijan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4818/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4742/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "17/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Sport3 Tv BR FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+          "drm_key": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_591b58305e6e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Universidad Técnica de Cajamarca Vs Los Chankas CYC",
+      "eventInfo": {
+        "teamA": "Universidad Técnica de Cajamarca",
+        "teamB": "Los Chankas CYC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/87854/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/252254/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "17/11/2026 12:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_8724298eb51a"
     },
     {
       "status": "ENDED",
