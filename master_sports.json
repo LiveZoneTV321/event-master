@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:30:20 PM 16-11-2026",
-  "total_matches": 430,
-  "live_match": 16,
-  "upcoming_match": 403,
-  "ended_match": 11,
+  "last_update_time": "11:40:14 PM 16-11-2026",
+  "total_matches": 444,
+  "live_match": 13,
+  "upcoming_match": 417,
+  "ended_match": 14,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -178,6 +178,10 @@
           "referer": "https://gooz.aapmains.net"
         },
         {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://www.rtmpcdn.com/live/c54ee57a-06dc-4f0a-b02d-f26c22c40b87.m3u8"
+        },
+        {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/TOOOAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
@@ -251,55 +255,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Faroe Islands Vs Moldova",
-      "eventInfo": {
-        "teamA": "Faroe Islands",
-        "teamB": "Moldova",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4760/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4782/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "16/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORT2 TV CZ FHD ",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "FOX SOCCER+ HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60250/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://www.rtmpcdn.com/live/9b18ae86-ec93-4bec-a114-f1640a6add80.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/EAEAEAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "FASTER QUALITY ",
-          "stream_url": "https://live.vivo155.com/live/hd-en-1-4518115.m3u8?txSecret=42a5a72389b471de9603b027e5943dd2&txTime=6AFB2C18",
-          "referer": "https://player.on8on8.com/"
-        },
-        {
-          "channel_name": "SonyLiv (Asia)",
-          "stream_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2120299/footlive1611/ENG/master.m3u8?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_70558b21d373"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Iceland Vs Luxembourg",
       "eventInfo": {
         "teamA": "Iceland",
@@ -328,6 +283,10 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "HD QUALITY 4",
+          "stream_url": "https://www.rtmpcdn.com/live/7eec54af-6462-4b54-a0bc-9baaf8e340f8.m3u8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -403,55 +362,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Kazakhstan Vs Slovakia",
-      "eventInfo": {
-        "teamA": "Kazakhstan",
-        "teamB": "Slovakia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4772/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4697/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "16/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "FOX SPORTS HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60251/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://www.rtmpcdn.com/live/a5f22229-2144-4036-b355-d6b8242daa33.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/EAEAEAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "FASTER QUALITY ",
-          "stream_url": "https://live.vivo155.com/live/hd-en-1-4518116.m3u8?txSecret=4d81ec34260bff6b8ec4dff3ce28abce&txTime=6AFB2C1A",
-          "referer": "https://player.on8on8.com/"
-        },
-        {
-          "channel_name": "SonyLiv (Asia)",
-          "stream_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120301/Footlive1611/ENG/master.m3u8?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_719a5fa1a0ec"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Estonia Vs Bulgaria",
       "eventInfo": {
         "teamA": "Estonia",
@@ -486,6 +396,10 @@
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
           "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY 5",
+          "stream_url": "https://www.rtmpcdn.com/live/0a7bb239-1182-4945-9d9c-f621c1ce74f6.m3u8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -618,42 +532,6 @@
       ],
       "isHot": false,
       "id": "evt_dc450d2e7e7b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Somalia Vs Ghana",
-      "eventInfo": {
-        "teamA": "Somalia",
-        "teamB": "Ghana",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23472/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "16/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/e1730e93-10ba-4cd5-a2ef-df10b2c8d746.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/EAEAEA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c59ce2f00f6e"
     },
     {
       "status": "LIVE",
@@ -2617,6 +2495,23 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
+      "event_name": "Lumbini Lions Vs Sudurpaschim Royals",
+      "eventInfo": {
+        "teamA": "Lumbini Lions",
+        "teamB": "Sudurpaschim Royals",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/PS.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/ZY.png",
+        "eventName": "Nepal Premier League 2026 - Qualifier 1",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "startTime": "17/11/2026 05:15:00 PM"
+      },
+      "streams": [],
+      "id": "evt_6172224213bb",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
       "event_name": "Yas Lions Vs Arabian Aces",
       "eventInfo": {
         "teamA": "Yas Lions",
@@ -2935,6 +2830,23 @@
       },
       "streams": [],
       "id": "evt_5ed4089159b5",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Kathmandu Gurkhas Vs Chitwan Rhinos",
+      "eventInfo": {
+        "teamA": "Kathmandu Gurkhas",
+        "teamB": "Chitwan Rhinos",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/PT.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/ZV.png",
+        "eventName": "Nepal Premier League 2026 - Eliminator",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "startTime": "18/11/2026 05:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_491f48e96d2d",
       "isHot": false
     },
     {
@@ -8310,6 +8222,210 @@
       "isHot": false
     },
     {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Bangladesh A Vs Hong Kong, China",
+      "eventInfo": {
+        "teamA": "Bangladesh A",
+        "teamB": "Hong Kong, China",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4765/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "19/11/2026 12:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_6ed2d385969a",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Sri Lanka A Vs Afghanistan A",
+      "eventInfo": {
+        "teamA": "Sri Lanka A",
+        "teamB": "Afghanistan A",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "19/11/2026 04:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_0a30286a0bdb",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Pakistan A Vs United Arab Emirates",
+      "eventInfo": {
+        "teamA": "Pakistan A",
+        "teamB": "United Arab Emirates",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4727/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "20/11/2026 12:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_d538652cb5b4",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "India A Vs Nepal",
+      "eventInfo": {
+        "teamA": "India A",
+        "teamB": "Nepal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "20/11/2026 04:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_f13778a75223",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Sri Lanka A Vs Hong Kong, China",
+      "eventInfo": {
+        "teamA": "Sri Lanka A",
+        "teamB": "Hong Kong, China",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4765/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "21/11/2026 12:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_7dcdd9030bcf",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Bangladesh A Vs Afghanistan A",
+      "eventInfo": {
+        "teamA": "Bangladesh A",
+        "teamB": "Afghanistan A",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "21/11/2026 04:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_b6329aebf258",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "United Arab Emirates Vs Nepal",
+      "eventInfo": {
+        "teamA": "United Arab Emirates",
+        "teamB": "Nepal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4727/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "22/11/2026 12:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_2414814093f7",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "India A Vs Pakistan A",
+      "eventInfo": {
+        "teamA": "India A",
+        "teamB": "Pakistan A",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "22/11/2026 04:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_5912a25e2c32",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Afghanistan A Vs Hong Kong, China",
+      "eventInfo": {
+        "teamA": "Afghanistan A",
+        "teamB": "Hong Kong, China",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4765/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "23/11/2026 12:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_fc7b79779a5f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Sri Lanka A Vs Bangladesh A",
+      "eventInfo": {
+        "teamA": "Sri Lanka A",
+        "teamB": "Bangladesh A",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "23/11/2026 04:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_15743433e843",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "India A Vs United Arab Emirates",
+      "eventInfo": {
+        "teamA": "India A",
+        "teamB": "United Arab Emirates",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4727/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "24/11/2026 12:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_30b028a036b3",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Pakistan A Vs Nepal",
+      "eventInfo": {
+        "teamA": "Pakistan A",
+        "teamB": "Nepal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "24/11/2026 04:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_229b7e64267c",
+      "isHot": false
+    },
+    {
       "status": "ENDED",
       "Category": "Other",
       "event_name": "GOLF EVENTO Vs GOLF EVENTO",
@@ -8680,6 +8796,140 @@
       ],
       "isHot": false,
       "id": "evt_3c671d56b0ab"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Faroe Islands Vs Moldova",
+      "eventInfo": {
+        "teamA": "Faroe Islands",
+        "teamB": "Moldova",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4760/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4782/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "16/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SPORT2 TV CZ FHD ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "FOX SOCCER+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60250/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://www.rtmpcdn.com/live/9b18ae86-ec93-4bec-a114-f1640a6add80.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/EAEAEAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "FASTER QUALITY ",
+          "stream_url": "https://live.vivo155.com/live/hd-en-1-4518115.m3u8?txSecret=42a5a72389b471de9603b027e5943dd2&txTime=6AFB2C18",
+          "referer": "https://player.on8on8.com/"
+        },
+        {
+          "channel_name": "SonyLiv (Asia)",
+          "stream_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2120299/footlive1611/ENG/master.m3u8?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_70558b21d373"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Kazakhstan Vs Slovakia",
+      "eventInfo": {
+        "teamA": "Kazakhstan",
+        "teamB": "Slovakia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4772/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4697/image",
+        "eventName": "UEFA Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "16/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "FOX SPORTS HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60251/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://www.rtmpcdn.com/live/a5f22229-2144-4036-b355-d6b8242daa33.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/EAEAEAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "FASTER QUALITY ",
+          "stream_url": "https://live.vivo155.com/live/hd-en-1-4518116.m3u8?txSecret=4d81ec34260bff6b8ec4dff3ce28abce&txTime=6AFB2C1A",
+          "referer": "https://player.on8on8.com/"
+        },
+        {
+          "channel_name": "SonyLiv (Asia)",
+          "stream_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120301/Footlive1611/ENG/master.m3u8?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_719a5fa1a0ec"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Somalia Vs Ghana",
+      "eventInfo": {
+        "teamA": "Somalia",
+        "teamB": "Ghana",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23472/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "16/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/e1730e93-10ba-4cd5-a2ef-df10b2c8d746.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/EAEAEA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c59ce2f00f6e"
     },
     {
       "status": "ENDED",
