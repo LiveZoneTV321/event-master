@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:10:14 PM 16-11-2026",
-  "total_matches": 372,
+  "last_update_time": "04:20:17 PM 16-11-2026",
+  "total_matches": 371,
   "live_match": 4,
-  "upcoming_match": 348,
+  "upcoming_match": 347,
   "ended_match": 20,
   "sources": [
     "api1:events.json",
@@ -2432,23 +2432,6 @@
       },
       "streams": [],
       "id": "evt_b72d18c3df47",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Israel Vs Austria",
-      "eventInfo": {
-        "teamA": "Israel",
-        "teamB": "Austria",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4480/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4718/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-        "startTime": "18/11/2026 01:45:00 AM"
-      },
-      "streams": [],
-      "id": "evt_98bfa58f0d6a",
       "isHot": false
     },
     {
