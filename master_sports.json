@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:00:27 PM 17-11-2026",
+  "last_update_time": "04:10:14 PM 17-11-2026",
   "total_matches": 435,
   "live_match": 7,
   "upcoming_match": 395,
@@ -297,34 +297,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Oman Vs Brunei Darussalam",
-      "eventInfo": {
-        "teamA": "Oman",
-        "teamB": "Brunei Darussalam",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4787/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/23491/image",
-        "eventName": "King's Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10416/image/dark",
-        "startTime": "17/11/2026 03:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/QVVV.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_1a4389a42214"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Singapore Vs Brazil",
       "eventInfo": {
         "teamA": "Singapore",
@@ -389,6 +361,34 @@
       ],
       "isHot": false,
       "id": "evt_25eedd46d0d1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Oman Vs Brunei Darussalam",
+      "eventInfo": {
+        "teamA": "Oman",
+        "teamB": "Brunei Darussalam",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4787/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/23491/image",
+        "eventName": "King's Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10416/image/dark",
+        "startTime": "17/11/2026 03:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/QVVV.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_1a4389a42214"
     },
     {
       "status": "LIVE",
