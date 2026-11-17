@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:50:12 AM 17-11-2026",
+  "last_update_time": "11:00:25 AM 17-11-2026",
   "total_matches": 435,
   "live_match": 7,
   "upcoming_match": 401,
@@ -100,6 +100,18 @@
           "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
           "referer": "https://www.tapmad.com/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7"
         }
       ],
       "isHot": false,
