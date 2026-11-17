@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:30:22 PM 17-11-2026",
+  "last_update_time": "10:40:12 PM 17-11-2026",
   "total_matches": 424,
-  "live_match": 20,
+  "live_match": 17,
   "upcoming_match": 390,
-  "ended_match": 14,
+  "ended_match": 17,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -448,70 +448,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Qatar Vs South Korea",
-      "eventInfo": {
-        "teamA": "Qatar",
-        "teamB": "South Korea",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4792/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "17/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/DGGGAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "ALKASS 1",
-          "stream_url": "http://193.47.62.41/hls/DGGGAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f6f857c6c9c9"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "United Arab Emirates Vs Syria",
-      "eventInfo": {
-        "teamA": "United Arab Emirates",
-        "teamB": "Syria",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4727/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4731/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "17/11/2026 08:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/DGGGAAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Dubai Sports 1",
-          "stream_url": "http://193.47.62.41/hls/DGGGAAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Abu Dhabi Sports 1",
-          "stream_url": "j"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_04df6290638a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Jordan Vs Australia",
       "eventInfo": {
         "teamA": "Jordan",
@@ -591,79 +527,27 @@
           "stream_url": "http://193.47.62.41/hls/JJJJGAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d92ea0ae5249"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "India Vs Pakistan",
-      "eventInfo": {
-        "teamA": "India",
-        "teamB": "Pakistan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6081/image",
-        "eventName": "SAFF Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
-        "startTime": "17/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BTV BD FHD",
-          "stream_url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8"
-        },
-        {
-          "channel_name": "BTV BD FHD",
-          "stream_url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "T SPORTS HD",
-          "stream_url": "http://116.204.149.16/T_SportsFHD/index.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "T SPORTS HD",
-          "stream_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "t sports hd",
-          "stream_url": "http://103.209.196.22:84/feed1001/index.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/DGGGAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "FASTER TV ",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4669474.m3u8?txSecret=1ed73fd0e716a25fb5200e8db10fe530&txTime=6AFC73AC",
-          "referer": "https://player.on8on8.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "VETO TV (IND)",
-          "stream_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 1",
-          "stream_url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=915590d9c1b03e64e9207d16726fd8b5&txTime=6afc8200",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 2",
-          "stream_url": "https://playback.livetl004.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001794928976-0-0-5ac2cbad74c5d7824672ae34416bb5f2",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_81f5e2057ddb"
+      "id": "evt_d92ea0ae5249"
     },
     {
       "status": "LIVE",
@@ -8606,6 +8490,119 @@
       ],
       "isHot": false,
       "id": "evt_3c671d56b0ab"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Qatar Vs South Korea",
+      "eventInfo": {
+        "teamA": "Qatar",
+        "teamB": "South Korea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4792/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4735/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "17/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/DGGGAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "ALKASS 1",
+          "stream_url": "http://193.47.62.41/hls/DGGGAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f6f857c6c9c9"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "United Arab Emirates Vs Syria",
+      "eventInfo": {
+        "teamA": "United Arab Emirates",
+        "teamB": "Syria",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4727/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4731/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "17/11/2026 08:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/DGGGAAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Dubai Sports 1",
+          "stream_url": "http://193.47.62.41/hls/DGGGAAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Abu Dhabi Sports 1",
+          "stream_url": "j"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_04df6290638a"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "India Vs Pakistan",
+      "eventInfo": {
+        "teamA": "India",
+        "teamB": "Pakistan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6081/image",
+        "eventName": "SAFF Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
+        "startTime": "17/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BTV BD FHD",
+          "stream_url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8"
+        },
+        {
+          "channel_name": "BTV BD FHD",
+          "stream_url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8"
+        },
+        {
+          "channel_name": "T SPORTS HD",
+          "stream_url": "http://116.204.149.16/T_SportsFHD/index.m3u8"
+        },
+        {
+          "channel_name": "T SPORTS HD",
+          "stream_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
+        },
+        {
+          "channel_name": "QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/DGGGAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "FASTER TV ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4669474.m3u8?txSecret=1ed73fd0e716a25fb5200e8db10fe530&txTime=6AFC73AC",
+          "referer": "https://player.on8on8.com/"
+        },
+        {
+          "channel_name": "VETO TV (IND)",
+          "stream_url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_81f5e2057ddb"
     },
     {
       "status": "ENDED",
