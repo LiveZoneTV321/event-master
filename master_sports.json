@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:30:21 AM 18-11-2026",
-  "total_matches": 423,
-  "live_match": 26,
-  "upcoming_match": 379,
-  "ended_match": 18,
+  "last_update_time": "12:40:15 AM 18-11-2026",
+  "total_matches": 434,
+  "live_match": 22,
+  "upcoming_match": 386,
+  "ended_match": 26,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -110,204 +110,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Gambia Vs Côte d'Ivoire",
-      "eventInfo": {
-        "teamA": "Gambia",
-        "teamB": "Côte d'Ivoire",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4762/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4768/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN ENGLISH FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "beIN SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
-        },
-        {
-          "channel_name": "HD QUALITY + ",
-          "stream_url": "https://www.rtmpcdn.com/live/345a6ca0-7a8c-42f2-829c-40fcbfce3b22.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/tbbbA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_68a9ad75a5cf"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Togo Vs Algeria",
-      "eventInfo": {
-        "teamA": "Togo",
-        "teamB": "Algeria",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4836/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4691/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN ENGLISH FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "HD QUALITY + ",
-          "stream_url": "https://www.rtmpcdn.com/live/92f14f98-fc9b-4764-a9b9-2e823f7c8029.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/tbbbAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_176b753a2768"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Kenya Vs South Africa",
-      "eventInfo": {
-        "teamA": "Kenya",
-        "teamB": "South Africa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4773/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4736/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/452f0645-0606-43ae-8692-9948da007c23.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/tbbb.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_bdececc06447"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Libya Vs Tunisia",
-      "eventInfo": {
-        "teamA": "Libya",
-        "teamB": "Tunisia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4775/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4729/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + ",
-          "stream_url": "https://www.rtmpcdn.com/live/8bc39f53-705d-4846-9657-f661e6d41d29.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/tbbbAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_78c0f84192e9"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Guinea-Bissau Vs Madagascar",
-      "eventInfo": {
-        "teamA": "Guinea-Bissau",
-        "teamB": "Madagascar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23478/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/8035/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + ",
-          "stream_url": "https://www.rtmpcdn.com/live/f1672970-f83d-4ed6-8c96-4db04cac96b2.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/tbbbAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9e851be2ce04"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sierra Leone Vs DR Congo",
-      "eventInfo": {
-        "teamA": "Sierra Leone",
-        "teamB": "DR Congo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4737/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4823/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
-        },
-        {
-          "channel_name": "HD QUALITY + ",
-          "stream_url": "https://www.rtmpcdn.com/live/5905dc85-a3e6-46d6-ad51-e26a7d93302b.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/tbbbAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_19705f5c4146"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Kuwait Vs Honduras",
       "eventInfo": {
         "teamA": "Kuwait",
@@ -316,7 +118,7 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/4827/image",
         "eventName": "International Friendly Games",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "17/11/2026 10:00:00 PM"
+        "startTime": "17/11/2026 10:30:00 PM"
       },
       "streams": [
         {
@@ -338,62 +140,6 @@
       ],
       "isHot": false,
       "id": "evt_1cf012f63d67"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Jordan Vs Australia",
-      "eventInfo": {
-        "teamA": "Jordan",
-        "teamB": "Australia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4771/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4741/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://www.rtmpcdn.com/live/324ebf4a-01d6-44bb-ae1c-ef0870baaf9c.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/JJJJGA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_84047bb08b43"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Russia Vs Venezuela",
-      "eventInfo": {
-        "teamA": "Russia",
-        "teamB": "Venezuela",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4694/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4722/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://www.rtmpcdn.com/live/593bde94-727e-49d9-a807-e6694c1baa28.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/JJJJGAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d92ea0ae5249"
     },
     {
       "status": "LIVE",
@@ -754,6 +500,92 @@
       ],
       "isHot": false,
       "id": "evt_fb1031ac6d5d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Barça Basket Vs Paris Basketball",
+      "eventInfo": {
+        "teamA": "Barça Basket",
+        "teamB": "Paris Basketball",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3543/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/295374/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "18/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS ++ FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+          "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d2d904461ab1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Kosner Baskonia Vs Hapoel Tel-Aviv",
+      "eventInfo": {
+        "teamA": "Kosner Baskonia",
+        "teamB": "Hapoel Tel-Aviv",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3553/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/82179/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "18/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f15a01525bd2"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "EA7 Emporio Armani Milano Vs KK Crvena zvezda",
+      "eventInfo": {
+        "teamA": "EA7 Emporio Armani Milano",
+        "teamB": "KK Crvena zvezda",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3580/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/57183/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "18/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_9df4c54d11c5"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Houston Cougars Vs Rutgers Scarlet Knights",
+      "eventInfo": {
+        "teamA": "Houston Cougars",
+        "teamB": "Rutgers Scarlet Knights",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41223/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86666/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 01:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_e46494557dff"
     },
     {
       "status": "UPCOMING",
@@ -1460,7 +1292,14 @@
         {
           "channel_name": "TYC SPORTS INT ",
           "stream_url": "https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?",
-          "referer": "https://zlive.st/"
+          "referer": "https://zlive.st/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -1783,29 +1622,6 @@
     {
       "status": "UPCOMING",
       "Category": "Basketball",
-      "event_name": "Barça Basket Vs Paris Basketball",
-      "eventInfo": {
-        "teamA": "Barça Basket",
-        "teamB": "Paris Basketball",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3543/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/295374/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "18/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS ++ FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-          "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d2d904461ab1"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
       "event_name": "Virtus Bologna Vs Panathinaikos BC",
       "eventInfo": {
         "teamA": "Virtus Bologna",
@@ -1830,52 +1646,6 @@
       ],
       "isHot": false,
       "id": "evt_16ea260b7966"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Kosner Baskonia Vs Hapoel Tel-Aviv",
-      "eventInfo": {
-        "teamA": "Kosner Baskonia",
-        "teamB": "Hapoel Tel-Aviv",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3553/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/82179/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "18/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f15a01525bd2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "EA7 Emporio Armani Milano Vs KK Crvena zvezda",
-      "eventInfo": {
-        "teamA": "EA7 Emporio Armani Milano",
-        "teamB": "KK Crvena zvezda",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3580/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/57183/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "18/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9df4c54d11c5"
     },
     {
       "status": "UPCOMING",
@@ -2219,6 +1989,176 @@
       ],
       "isHot": false,
       "id": "evt_44cab9f82c57"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Florida Gators Vs Notre Dame Fighting Irish",
+      "eventInfo": {
+        "teamA": "Florida Gators",
+        "teamB": "Notre Dame Fighting Irish",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41197/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/41198/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 03:30:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_e6fdfde416a0"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Duke Blue Devils Vs Illinois Fighting Illini",
+      "eventInfo": {
+        "teamA": "Duke Blue Devils",
+        "teamB": "Illinois Fighting Illini",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34622/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34628/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 06:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_65b8a5e7c7b7"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Miami Hurricanes Vs Rider Broncs",
+      "eventInfo": {
+        "teamA": "Miami Hurricanes",
+        "teamB": "Rider Broncs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/86752/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86830/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 06:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_fced223a5663"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Alabama Crimson Tide Vs Kennesaw State Owls",
+      "eventInfo": {
+        "teamA": "Alabama Crimson Tide",
+        "teamB": "Kennesaw State Owls",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/66366/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/191017/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 06:30:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_646b06ca9ed7"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Arkansas Razorbacks Vs Indiana Hoosiers",
+      "eventInfo": {
+        "teamA": "Arkansas Razorbacks",
+        "teamB": "Indiana Hoosiers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/87830/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/66358/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 06:30:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_ec5c5812298c"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Vanderbilt Commodores Vs Eastern Illinois Panthers",
+      "eventInfo": {
+        "teamA": "Vanderbilt Commodores",
+        "teamB": "Eastern Illinois Panthers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41200/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86794/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 07:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_26e7801785bb"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Tennessee Volunteers Vs Michigan State Spartans",
+      "eventInfo": {
+        "teamA": "Tennessee Volunteers",
+        "teamB": "Michigan State Spartans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34633/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34656/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 08:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_af8554de84c7"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Virginia Cavaliers Vs Old Dominion Monarchs",
+      "eventInfo": {
+        "teamA": "Virginia Cavaliers",
+        "teamB": "Old Dominion Monarchs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/66378/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/41199/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 08:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_ebbe17928f85"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "UNLV Rebels Vs Rice Owls",
+      "eventInfo": {
+        "teamA": "UNLV Rebels",
+        "teamB": "Rice Owls",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/271212/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/271025/image",
+        "eventName": "NCAA Women's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33655/image/dark",
+        "startTime": "18/11/2026 08:30:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_1f1492c6e5b8"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Gonzaga Bulldogs Vs Montana State Bobcats",
+      "eventInfo": {
+        "teamA": "Gonzaga Bulldogs",
+        "teamB": "Montana State Bobcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34620/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86710/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 10:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_e62e7651bbc9"
     },
     {
       "status": "UPCOMING",
@@ -8336,6 +8276,204 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Gambia Vs Côte d'Ivoire",
+      "eventInfo": {
+        "teamA": "Gambia",
+        "teamB": "Côte d'Ivoire",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4762/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4768/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "17/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "beIN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "channel_name": "HD QUALITY + ",
+          "stream_url": "https://www.rtmpcdn.com/live/345a6ca0-7a8c-42f2-829c-40fcbfce3b22.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/tbbbA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_68a9ad75a5cf"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Togo Vs Algeria",
+      "eventInfo": {
+        "teamA": "Togo",
+        "teamB": "Algeria",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4836/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4691/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "17/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "HD QUALITY + ",
+          "stream_url": "https://www.rtmpcdn.com/live/92f14f98-fc9b-4764-a9b9-2e823f7c8029.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/tbbbAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_176b753a2768"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Kenya Vs South Africa",
+      "eventInfo": {
+        "teamA": "Kenya",
+        "teamB": "South Africa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4773/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4736/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "17/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/452f0645-0606-43ae-8692-9948da007c23.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/tbbb.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_bdececc06447"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Libya Vs Tunisia",
+      "eventInfo": {
+        "teamA": "Libya",
+        "teamB": "Tunisia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4775/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4729/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "17/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + ",
+          "stream_url": "https://www.rtmpcdn.com/live/8bc39f53-705d-4846-9657-f661e6d41d29.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/tbbbAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_78c0f84192e9"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Guinea-Bissau Vs Madagascar",
+      "eventInfo": {
+        "teamA": "Guinea-Bissau",
+        "teamB": "Madagascar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23478/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8035/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "17/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + ",
+          "stream_url": "https://www.rtmpcdn.com/live/f1672970-f83d-4ed6-8c96-4db04cac96b2.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/tbbbAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_9e851be2ce04"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Sierra Leone Vs DR Congo",
+      "eventInfo": {
+        "teamA": "Sierra Leone",
+        "teamB": "DR Congo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4737/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4823/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "17/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        },
+        {
+          "channel_name": "HD QUALITY + ",
+          "stream_url": "https://www.rtmpcdn.com/live/5905dc85-a3e6-46d6-ad51-e26a7d93302b.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/tbbbAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_19705f5c4146"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Saudi Arabia Vs Uzbekistan",
       "eventInfo": {
         "teamA": "Saudi Arabia",
@@ -8430,6 +8568,62 @@
       ],
       "isHot": false,
       "id": "evt_04df6290638a"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Jordan Vs Australia",
+      "eventInfo": {
+        "teamA": "Jordan",
+        "teamB": "Australia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4771/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4741/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "17/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/324ebf4a-01d6-44bb-ae1c-ef0870baaf9c.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/JJJJGA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_84047bb08b43"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Russia Vs Venezuela",
+      "eventInfo": {
+        "teamA": "Russia",
+        "teamB": "Venezuela",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4694/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4722/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "17/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/593bde94-727e-49d9-a807-e6694c1baa28.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/JJJJGAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d92ea0ae5249"
     },
     {
       "status": "ENDED",
