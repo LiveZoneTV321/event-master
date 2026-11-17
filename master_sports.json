@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:20:19 AM 17-11-2026",
+  "last_update_time": "10:30:18 AM 17-11-2026",
   "total_matches": 435,
   "live_match": 6,
   "upcoming_match": 402,
@@ -287,6 +287,12 @@
           "channel_name": "WILLOW ALT",
           "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd",
           "drm_key": "5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb"
+        },
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
