@@ -1,9 +1,9 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:40:14 PM 17-11-2026",
-  "total_matches": 438,
-  "live_match": 18,
+  "last_update_time": "09:50:13 PM 17-11-2026",
+  "total_matches": 437,
+  "live_match": 17,
   "upcoming_match": 394,
   "ended_match": 26,
   "sources": [
@@ -676,41 +676,6 @@
       ],
       "isHot": false,
       "id": "evt_b8f3152439f5"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Lumbini Lions Vs Sudurpaschim Royals",
-      "eventInfo": {
-        "teamA": "Lumbini Lions",
-        "teamB": "Sudurpaschim Royals",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/PS.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-        "eventName": "Nepal Premier League 2026 - Qualifier 1",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "startTime": "17/11/2026 05:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FANCODE - sd",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f"
-        },
-        {
-          "channel_name": "fancode - Aq",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "star sports 2",
-          "stream_url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_6172224213bb",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
