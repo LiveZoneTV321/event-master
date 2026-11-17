@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:50:14 AM 18-11-2026",
+  "last_update_time": "01:00:26 AM 18-11-2026",
   "total_matches": 434,
-  "live_match": 22,
-  "upcoming_match": 386,
+  "live_match": 24,
+  "upcoming_match": 384,
   "ended_match": 26,
   "sources": [
     "api1:events.json",
@@ -123,13 +123,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "hd quality",
-          "stream_url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "stream_url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -623,6 +617,66 @@
       "streams": [],
       "isHot": false,
       "id": "evt_e46494557dff"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Liberia Vs Cape Verde",
+      "eventInfo": {
+        "teamA": "Liberia",
+        "teamB": "Cape Verde",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/8034/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4753/image",
+        "eventName": "Africa Cup of Nations Qualification",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+        "startTime": "18/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001794939757-0-0-9f5edd6bc7422d448e559377484fbfed",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_6d690170ff0d",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Congo Vs Comoros",
+      "eventInfo": {
+        "teamA": "Congo",
+        "teamB": "Comoros",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/8040/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/23494/image",
+        "eventName": "Africa Cup of Nations Qualification",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+        "startTime": "18/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel14/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001794939643-0-0-4fc82251c5fdc64dd468c8eb7e0a112b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_69046fe0a1ca",
+      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -2196,40 +2250,6 @@
       "streams": [],
       "isHot": false,
       "id": "evt_e62e7651bbc9"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Liberia Vs Cape Verde",
-      "eventInfo": {
-        "teamA": "Liberia",
-        "teamB": "Cape Verde",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8034/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4753/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "18/11/2026 01:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_6d690170ff0d",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Congo Vs Comoros",
-      "eventInfo": {
-        "teamA": "Congo",
-        "teamB": "Comoros",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8040/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/23494/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "18/11/2026 01:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_69046fe0a1ca",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
