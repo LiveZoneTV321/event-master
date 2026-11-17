@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:50:13 PM 17-11-2026",
+  "last_update_time": "10:00:27 PM 17-11-2026",
   "total_matches": 437,
-  "live_match": 17,
-  "upcoming_match": 394,
+  "live_match": 19,
+  "upcoming_match": 392,
   "ended_match": 26,
   "sources": [
     "api1:events.json",
@@ -488,7 +488,25 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
         "startTime": "17/11/2026 10:00:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794929080-0-0-6ea10e88df3939e467f84cc0fd77e29b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
       "isHot": false,
       "id": "evt_176b753a2768"
     },
@@ -511,6 +529,18 @@
           "stream_url": "http://193.47.62.59/hls/tbbb.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001794928908-0-0-5fd30f8e1641699d6e50f2bea3daff68",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -529,7 +559,20 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
         "startTime": "17/11/2026 10:00:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001794928922-0-0-6dbe19f899286ed376a29f9311063f38",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
       "isHot": false,
       "id": "evt_78c0f84192e9"
     },
@@ -546,7 +589,20 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
         "startTime": "17/11/2026 10:00:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001794928875-0-0-a23cb4d96018f234a8aa523b8861680a",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
       "isHot": false,
       "id": "evt_9e851be2ce04"
     },
@@ -563,7 +619,20 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
         "startTime": "17/11/2026 10:00:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001794929063-0-0-813b19f4430be1e10fabad5fd2a840df",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
       "isHot": false,
       "id": "evt_19705f5c4146"
     },
@@ -619,6 +688,33 @@
           "stream_url": "http://193.47.62.41/hls/JJJJGA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001794928907-0-0-f0fb58d62259ec39892efb3b23d813aa",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1794922748-0-0-44d5e89dfe49b66e65da1cae72f9dd8d",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1794922748-0-0-e152bab0345883076071e7695060e9e2",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel4.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -676,6 +772,80 @@
       ],
       "isHot": false,
       "id": "evt_b8f3152439f5"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Gambia Vs Ivory Coast",
+      "eventInfo": {
+        "teamA": "Gambia",
+        "teamB": "Ivory Coast",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4762/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4768/image",
+        "eventName": "Africa Cup of Nations Qualification",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+        "startTime": "17/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001794928866-0-0-133a0bfe82d15725e4b0b3112ea06f47",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-9912129_lhd.m3u8?auth_key=1794922748-0-0-4327ebe46908d911f5e04fe47f8ad0a4",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1794922808-0-0-409874b63a4fa50889614cf0e8c97ff7",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_8101f941aab9",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "UAE Bulls Vs Royal Desert Champions",
+      "eventInfo": {
+        "teamA": "UAE Bulls",
+        "teamB": "Royal Desert Champions",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/78.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LL.png",
+        "eventName": "Abu Dhabi T10 League 2026 - 25th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+        "startTime": "17/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "a sports fhd",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_50ae1f83d68c",
+      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -2284,23 +2454,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Gambia Vs Ivory Coast",
-      "eventInfo": {
-        "teamA": "Gambia",
-        "teamB": "Ivory Coast",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4762/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4768/image",
-        "eventName": "Africa Cup of Nations Qualification",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_8101f941aab9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Iraq Vs Iran",
       "eventInfo": {
         "teamA": "Iraq",
@@ -2313,23 +2466,6 @@
       },
       "streams": [],
       "id": "evt_0232cb982bcc",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "UAE Bulls Vs Royal Desert Champions",
-      "eventInfo": {
-        "teamA": "UAE Bulls",
-        "teamB": "Royal Desert Champions",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/78.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 25th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_50ae1f83d68c",
       "isHot": false
     },
     {
