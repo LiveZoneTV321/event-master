@@ -1,9 +1,9 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:20:15 PM 17-11-2026",
-  "total_matches": 439,
-  "live_match": 19,
+  "last_update_time": "08:30:21 PM 17-11-2026",
+  "total_matches": 438,
+  "live_match": 18,
   "upcoming_match": 405,
   "ended_match": 15,
   "sources": [
@@ -541,55 +541,6 @@
           "stream_url": "http://193.47.62.41/hls/DGGGA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001794914527-0-0-d0e772728b84c2d4fef1ec8107db125d",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=8d1c13aaa653efefdafdbe5f866da9fa&wsABSTime=1794957727",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001794914528-0-0-26d84c10cd193348fbac009aaab9e02e",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live2.zktsva.app/live/304565.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794887108-0-0-b5a05681b07d8d375d34e3c1d3bb216c",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 7",
-          "stream_url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794887108-0-0-d2206198869ab5f73e847c4c099dd6a4",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 8",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 9",
-          "stream_url": "https://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -626,38 +577,6 @@
         {
           "channel_name": "Bahrain Sports2",
           "stream_url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001794914729-0-0-febc0ec63f3dde581d3be47e1f448673",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1794915308-0-0-a2a36c1b4ba3b9247e4fae1d464a34c1",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel23.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://playback.livetl004.com/live/6a7c0d8f65997681f18cacc4.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "https://live2.zktsva.app/live/300523.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -953,43 +872,6 @@
       ],
       "isHot": false,
       "id": "evt_04df6290638a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Afghanistan Vs Zimbabwe",
-      "eventInfo": {
-        "teamA": "Afghanistan",
-        "teamB": "Zimbabwe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-        "eventName": "AFG vs ZIM in UAE, 2026 - 2nd Test, Day 5",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-        "startTime": "17/11/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
-          "referer": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c"
-        },
-        {
-          "channel_name": "Tapmad - (bd)",
-          "stream_url": "https://t-prod-bd.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_279d1baa8975",
-      "isHot": false
     },
     {
       "status": "LIVE",
