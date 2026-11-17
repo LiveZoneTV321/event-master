@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:30:18 AM 17-11-2026",
+  "last_update_time": "09:40:13 AM 17-11-2026",
   "total_matches": 442,
-  "live_match": 17,
-  "upcoming_match": 404,
-  "ended_match": 21,
+  "live_match": 14,
+  "upcoming_match": 403,
+  "ended_match": 25,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -148,45 +148,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Canada Vs Guatemala",
-      "eventInfo": {
-        "teamA": "Canada",
-        "teamB": "Guatemala",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4752/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5163/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "17/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/c3d9e0d5-dd8b-4152-8e01-3685fa454274.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/CUUUAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_df5f1406442f"
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "New Orleans Pelicans Vs Golden State Warriors",
       "eventInfo": {
@@ -217,82 +178,6 @@
       ],
       "isHot": false,
       "id": "evt_598c0f6c1d7b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Brooklyn Nets Vs Philadelphia 76ers",
-      "eventInfo": {
-        "teamA": "Brooklyn Nets",
-        "teamB": "Philadelphia 76ers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3420/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "17/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60292/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60290/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY+",
-          "stream_url": "https://www.rtmpcdn.com/live/bb12293e-bb54-45cd-adc0-f7fa92e26dd7.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/TKKKA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_33e8be31bd20"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Miami Heat Vs Houston Rockets",
-      "eventInfo": {
-        "teamA": "Miami Heat",
-        "teamB": "Houston Rockets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "17/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60289/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60293/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/62c33bbd-9d9f-4d5d-8603-235b75e939ab.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/RGGGAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5313b4d3bf4a"
     },
     {
       "status": "LIVE",
@@ -392,45 +277,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "New York Rangers Vs Montréal Canadiens",
-      "eventInfo": {
-        "teamA": "New York Rangers",
-        "teamB": "Montréal Canadiens",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "17/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60291/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SKY SPORTS MIX",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0b501ef9-a9d9-4463-90cc-8a1cac530097/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_1298775572f9"
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "UCLA Bruins Vs Long Beach State 49ers",
       "eventInfo": {
@@ -451,6 +297,44 @@
       ],
       "isHot": false,
       "id": "evt_b6afe9a4757b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Pakistan Vs Sri Lanka",
+      "eventInfo": {
+        "teamA": "Pakistan",
+        "teamB": "Sri Lanka",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+        "eventName": "ICC World Test Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "startTime": "17/11/2026 10:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd",
+          "drm_key": "5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb"
+        },
+        {
+          "channel_name": "T SPORTS HD",
+          "stream_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/RREGEGE.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd",
+          "drm_key": "5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ef30158142c8"
     },
     {
       "status": "LIVE",
@@ -1211,44 +1095,6 @@
       ],
       "isHot": false,
       "id": "evt_fe585796ba9e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Pakistan Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "Pakistan",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "ICC World Test Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-        "startTime": "17/11/2026 10:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd",
-          "drm_key": "5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb"
-        },
-        {
-          "channel_name": "T SPORTS HD",
-          "stream_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/RREGEGE.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd",
-          "drm_key": "5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ef30158142c8"
     },
     {
       "status": "UPCOMING",
@@ -8986,6 +8832,45 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Canada Vs Guatemala",
+      "eventInfo": {
+        "teamA": "Canada",
+        "teamB": "Guatemala",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4752/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5163/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "17/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/c3d9e0d5-dd8b-4152-8e01-3685fa454274.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/CUUUAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_df5f1406442f"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Martinique Vs Aruba",
       "eventInfo": {
         "teamA": "Martinique",
@@ -9128,6 +9013,82 @@
     {
       "status": "ENDED",
       "Category": "Basketball",
+      "event_name": "Brooklyn Nets Vs Philadelphia 76ers",
+      "eventInfo": {
+        "teamA": "Brooklyn Nets",
+        "teamB": "Philadelphia 76ers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "17/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60292/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60290/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY+",
+          "stream_url": "https://www.rtmpcdn.com/live/bb12293e-bb54-45cd-adc0-f7fa92e26dd7.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/TKKKA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_33e8be31bd20"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Miami Heat Vs Houston Rockets",
+      "eventInfo": {
+        "teamA": "Miami Heat",
+        "teamB": "Houston Rockets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "17/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60289/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60293/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/62c33bbd-9d9f-4d5d-8603-235b75e939ab.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/RGGGAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5313b4d3bf4a"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
       "event_name": "Boston Celtics Vs Orlando Magic",
       "eventInfo": {
         "teamA": "Boston Celtics",
@@ -9173,6 +9134,45 @@
       ],
       "isHot": false,
       "id": "evt_e004ebe9e278"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "New York Rangers Vs Montréal Canadiens",
+      "eventInfo": {
+        "teamA": "New York Rangers",
+        "teamB": "Montréal Canadiens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "17/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60291/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SKY SPORTS MIX",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0b501ef9-a9d9-4463-90cc-8a1cac530097/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_1298775572f9"
     },
     {
       "status": "ENDED",
