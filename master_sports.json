@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:40:12 PM 17-11-2026",
+  "last_update_time": "10:50:15 PM 17-11-2026",
   "total_matches": 424,
   "live_match": 17,
   "upcoming_match": 390,
@@ -623,6 +623,18 @@
         "startTime": "17/11/2026 10:00:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "beIN ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "beIN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
         {
           "channel_name": "Server - 1",
           "stream_url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
