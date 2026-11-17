@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:10:14 PM 17-11-2026",
+  "last_update_time": "10:20:14 PM 17-11-2026",
   "total_matches": 424,
-  "live_match": 19,
-  "upcoming_match": 391,
+  "live_match": 20,
+  "upcoming_match": 390,
   "ended_match": 14,
   "sources": [
     "api1:events.json",
@@ -817,6 +817,36 @@
         }
       ],
       "id": "evt_8101f941aab9",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Iraq Vs Iran",
+      "eventInfo": {
+        "teamA": "Iraq",
+        "teamB": "Iran",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5078",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5091",
+        "eventName": "Friendly International",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+        "startTime": "17/11/2026 10:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001794928893-0-0-42088748e6a6da90a78930a09f87b454",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_0232cb982bcc",
       "isHot": false
     },
     {
@@ -2500,23 +2530,6 @@
       "streams": [],
       "isHot": false,
       "id": "evt_44cab9f82c57"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Iraq Vs Iran",
-      "eventInfo": {
-        "teamA": "Iraq",
-        "teamB": "Iran",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5078",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5091",
-        "eventName": "Friendly International",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-        "startTime": "17/11/2026 10:15:00 PM"
-      },
-      "streams": [],
-      "id": "evt_0232cb982bcc",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
