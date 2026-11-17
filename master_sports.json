@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:00:33 AM 18-11-2026",
+  "last_update_time": "04:10:13 AM 18-11-2026",
   "total_matches": 436,
   "live_match": 21,
-  "upcoming_match": 371,
-  "ended_match": 44,
+  "upcoming_match": 370,
+  "ended_match": 45,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -1064,29 +1064,6 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Houston Cougars Vs Rutgers Scarlet Knights",
-      "eventInfo": {
-        "teamA": "Houston Cougars",
-        "teamB": "Rutgers Scarlet Knights",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/41223/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/86666/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "18/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60319/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e46494557dff"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
       "event_name": "Florida Gators Vs Notre Dame Fighting Irish",
       "eventInfo": {
         "teamA": "Florida Gators",
@@ -1100,6 +1077,23 @@
       "streams": [],
       "isHot": false,
       "id": "evt_e6fdfde416a0"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Chile Vs Colombia",
+      "eventInfo": {
+        "teamA": "Chile",
+        "teamB": "Colombia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4754/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4820/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "18/11/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_bf4c05f21d11"
     },
     {
       "status": "LIVE",
@@ -1629,23 +1623,6 @@
       "streams": [],
       "isHot": false,
       "id": "evt_b440fad54db5"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Chile Vs Colombia",
-      "eventInfo": {
-        "teamA": "Chile",
-        "teamB": "Colombia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4820/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "18/11/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_bf4c05f21d11"
     },
     {
       "status": "UPCOMING",
@@ -9435,6 +9412,29 @@
       ],
       "isHot": false,
       "id": "evt_2788c63a81b3"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Houston Cougars Vs Rutgers Scarlet Knights",
+      "eventInfo": {
+        "teamA": "Houston Cougars",
+        "teamB": "Rutgers Scarlet Knights",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41223/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86666/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60319/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e46494557dff"
     },
     {
       "status": "ENDED",
