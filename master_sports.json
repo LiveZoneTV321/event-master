@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:50:14 PM 18-11-2026",
-  "total_matches": 383,
-  "live_match": 4,
-  "upcoming_match": 365,
+  "last_update_time": "10:00:35 PM 18-11-2026",
+  "total_matches": 381,
+  "live_match": 3,
+  "upcoming_match": 364,
   "ended_match": 14,
   "sources": [
     "api1:events.json",
@@ -172,43 +172,15 @@
     {
       "status": "LIVE",
       "Category": "Cricket",
-      "event_name": "Kathmandu Gurkhas Vs Chitwan Rhinos",
+      "event_name": "Emirates Eagles Vs Yas Lions",
       "eventInfo": {
-        "teamA": "Kathmandu Gurkhas",
-        "teamB": "Chitwan Rhinos",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/PT.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-        "eventName": "Nepal Premier League 2026 - Eliminator",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "startTime": "18/11/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Myco - (bd)1",
-          "stream_url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LiveZone TV",
-          "stream_url": "https://ott-edge-mtdc.nettv.com.np/npl/live_match3/index.mpd",
-          "drm_key": "b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936"
-        }
-      ],
-      "id": "evt_491f48e96d2d",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "UAE Bulls Vs United Tigers",
-      "eventInfo": {
-        "teamA": "UAE Bulls",
-        "teamB": "United Tigers",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/78.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 26th Match",
+        "teamA": "Emirates Eagles",
+        "teamB": "Yas Lions",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LK.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LH.png",
+        "eventName": "Abu Dhabi T10 League 2026 - 27th Match",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "18/11/2026 07:45:00 PM"
+        "startTime": "18/11/2026 10:00:00 PM"
       },
       "streams": [
         {
@@ -221,21 +193,9 @@
           "channel_name": "a sports fhd",
           "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o5raaf1w01/out/v1/5327ed7dbb71426fb7d1ab8f15df4abc/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "4d847b9651a3ac01b953fbfc68752074:c989999872b1859ca9609d9ee6552ec5"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3tfs6xw8wk/out/v1/2eff5d3fd0da4e878a40e6765496a321/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "4d847b9651a3ac01b953fbfc68752074:c989999872b1859ca9609d9ee6552ec5"
         }
       ],
-      "id": "evt_088d1a274d85",
+      "id": "evt_f0b9e7cc3309",
       "isHot": false
     },
     {
@@ -1655,23 +1615,6 @@
       ],
       "isHot": false,
       "id": "evt_ed2116159a41"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Emirates Eagles Vs Yas Lions",
-      "eventInfo": {
-        "teamA": "Emirates Eagles",
-        "teamB": "Yas Lions",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LK.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 27th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "18/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_f0b9e7cc3309",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
