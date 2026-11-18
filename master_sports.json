@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:00:34 PM 18-11-2026",
+  "last_update_time": "12:10:13 PM 18-11-2026",
   "total_matches": 437,
-  "live_match": 9,
+  "live_match": 5,
   "upcoming_match": 335,
-  "ended_match": 93,
+  "ended_match": 97,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -214,63 +214,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "San Jose Sharks Vs Calgary Flames",
-      "eventInfo": {
-        "teamA": "San Jose Sharks",
-        "teamB": "Calgary Flames",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "18/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3b40a0899a05"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Vegas Golden Knights Vs Dallas Stars",
-      "eventInfo": {
-        "teamA": "Vegas Golden Knights",
-        "teamB": "Dallas Stars",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "18/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "NOVA1 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9f6298fc6675"
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Gonzaga Bulldogs Vs Montana State Bobcats",
       "eventInfo": {
@@ -291,52 +234,6 @@
       ],
       "isHot": false,
       "id": "evt_e62e7651bbc9"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "California Baptist Lancers Vs Seattle Redhawks",
-      "eventInfo": {
-        "teamA": "California Baptist Lancers",
-        "teamB": "Seattle Redhawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/303671/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/86802/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "18/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60370/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_66d8b48b4f8d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Stanford Cardinal Vs UC Irvine Anteaters",
-      "eventInfo": {
-        "teamA": "Stanford Cardinal",
-        "teamB": "UC Irvine Anteaters",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/86766/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/86662/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "18/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60371/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e8972c360b91"
     },
     {
       "status": "UPCOMING",
@@ -8851,6 +8748,29 @@
     {
       "status": "ENDED",
       "Category": "Hockey",
+      "event_name": "San Jose Sharks Vs Calgary Flames",
+      "eventInfo": {
+        "teamA": "San Jose Sharks",
+        "teamB": "Calgary Flames",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "18/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3b40a0899a05"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
       "event_name": "Chicago Blackhawks Vs Toronto Maple Leafs",
       "eventInfo": {
         "teamA": "Chicago Blackhawks",
@@ -8927,6 +8847,40 @@
       ],
       "isHot": false,
       "id": "evt_c9c609bc1692"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Vegas Golden Knights Vs Dallas Stars",
+      "eventInfo": {
+        "teamA": "Vegas Golden Knights",
+        "teamB": "Dallas Stars",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "18/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "NOVA1 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_9f6298fc6675"
     },
     {
       "status": "ENDED",
@@ -9195,6 +9149,52 @@
       ],
       "isHot": false,
       "id": "evt_4deb46358d67"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "California Baptist Lancers Vs Seattle Redhawks",
+      "eventInfo": {
+        "teamA": "California Baptist Lancers",
+        "teamB": "Seattle Redhawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/303671/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86802/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60370/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_66d8b48b4f8d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Stanford Cardinal Vs UC Irvine Anteaters",
+      "eventInfo": {
+        "teamA": "Stanford Cardinal",
+        "teamB": "UC Irvine Anteaters",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/86766/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86662/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60371/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e8972c360b91"
     },
     {
       "status": "ENDED",
