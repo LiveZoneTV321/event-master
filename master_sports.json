@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:00:24 AM 19-11-2026",
+  "last_update_time": "02:10:25 AM 19-11-2026",
   "total_matches": 377,
-  "live_match": 19,
+  "live_match": 18,
   "upcoming_match": 344,
-  "ended_match": 14,
+  "ended_match": 15,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -291,239 +291,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Real Madrid Vs Inter",
-      "eventInfo": {
-        "teamA": "Real Madrid",
-        "teamB": "Inter",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/305051/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/325685/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "startTime": "18/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FANCODE1 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "FANCODE2 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "channel_name": "HD QUALITY + TV",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hmkgxkgc/index.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY + TV",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/3333AAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001795019080-0-0-4447fa810e75991ca667c4c091fd6e4a",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=e1260631beeaa8c87a76ee5aa4d92733&wsABSTime=1795062281",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001795019081-0-0-4189555a927bd6cf0efa61399bb6694c",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1795018688-0-0-97606b44dacf2b1888ac7104d41c6a8f",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=5036f0cfb5f5fe7b28214a9388ca26b0&txTime=6afe1610",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 7",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a92695f3dcb4"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Manchester United Vs Everton",
-      "eventInfo": {
-        "teamA": "Manchester United",
-        "teamB": "Everton",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/301455/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36704/image",
-        "eventName": "FA Women's League Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11667/image/dark",
-        "startTime": "19/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "MUTV SPORTS HD ",
-          "stream_url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8"
-        },
-        {
-          "channel_name": "MUTV SPORTS HD 2",
-          "stream_url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_74c8db5933a0"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Nottingham Forest Vs Liverpool FC",
-      "eventInfo": {
-        "teamA": "Nottingham Forest",
-        "teamB": "Liverpool FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/307282/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/66774/image",
-        "eventName": "FA Women's League Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11667/image/dark",
-        "startTime": "19/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://raw.githubusercontent.com/mdumarfaruksuk/LFCTV/refs/heads/main/live.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9aa874e3cc19"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Beşiktaş JK Vs Real Madrid",
-      "eventInfo": {
-        "teamA": "Beşiktaş JK",
-        "teamB": "Real Madrid",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6678/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3540/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "18/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/3333.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/3333.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5087e53b3992"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Utebo FC Vs CE Sabadell",
-      "eventInfo": {
-        "teamA": "Utebo FC",
-        "teamB": "CE Sabadell",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/212294/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24335/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "startTime": "19/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/6666AAAAQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/6666AAAAQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001795019199-0-0-a2956520cd270eafffbe6f2d985d712e",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_1c6efd566924"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Club Portugalete Vs Real Unión Club",
-      "eventInfo": {
-        "teamA": "Club Portugalete",
-        "teamB": "Real Unión Club",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25403/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2881/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "startTime": "19/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/6666.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/6666.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_57627dc590d8"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Juventus Vs Oud-Heverlee Leuven",
       "eventInfo": {
         "teamA": "Juventus",
@@ -653,6 +420,89 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Real Madrid Vs Inter",
+      "eventInfo": {
+        "teamA": "Real Madrid",
+        "teamB": "Inter",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/305051/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/325685/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "startTime": "18/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FANCODE1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "FANCODE2 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "channel_name": "HD QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hmkgxkgc/index.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY + TV",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/3333AAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001795019080-0-0-4447fa810e75991ca667c4c091fd6e4a",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=e1260631beeaa8c87a76ee5aa4d92733&wsABSTime=1795062281",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001795019081-0-0-4189555a927bd6cf0efa61399bb6694c",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1795018688-0-0-97606b44dacf2b1888ac7104d41c6a8f",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=5036f0cfb5f5fe7b28214a9388ca26b0&txTime=6afe1610",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 7",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a92695f3dcb4"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Alianza Atlético de Sullana Vs Melgar",
       "eventInfo": {
         "teamA": "Alianza Atlético de Sullana",
@@ -666,6 +516,126 @@
       "streams": [],
       "isHot": false,
       "id": "evt_8bd9688ac877"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Manchester United Vs Everton",
+      "eventInfo": {
+        "teamA": "Manchester United",
+        "teamB": "Everton",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/301455/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36704/image",
+        "eventName": "FA Women's League Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11667/image/dark",
+        "startTime": "19/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "MUTV SPORTS HD ",
+          "stream_url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8"
+        },
+        {
+          "channel_name": "MUTV SPORTS HD 2",
+          "stream_url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_74c8db5933a0"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Nottingham Forest Vs Liverpool FC",
+      "eventInfo": {
+        "teamA": "Nottingham Forest",
+        "teamB": "Liverpool FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/307282/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/66774/image",
+        "eventName": "FA Women's League Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11667/image/dark",
+        "startTime": "19/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://raw.githubusercontent.com/mdumarfaruksuk/LFCTV/refs/heads/main/live.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_9aa874e3cc19"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Utebo FC Vs CE Sabadell",
+      "eventInfo": {
+        "teamA": "Utebo FC",
+        "teamB": "CE Sabadell",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/212294/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24335/image",
+        "eventName": "Copa del Rey",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "startTime": "19/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/6666AAAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/6666AAAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001795019199-0-0-a2956520cd270eafffbe6f2d985d712e",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_1c6efd566924"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Club Portugalete Vs Real Unión Club",
+      "eventInfo": {
+        "teamA": "Club Portugalete",
+        "teamB": "Real Unión Club",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25403/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2881/image",
+        "eventName": "Copa del Rey",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "startTime": "19/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/6666.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/6666.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_57627dc590d8"
     },
     {
       "status": "LIVE",
@@ -7658,6 +7628,36 @@
       ],
       "isHot": false,
       "id": "evt_3c671d56b0ab"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Beşiktaş JK Vs Real Madrid",
+      "eventInfo": {
+        "teamA": "Beşiktaş JK",
+        "teamB": "Real Madrid",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6678/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3540/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "18/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/3333.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/3333.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5087e53b3992"
     },
     {
       "status": "ENDED",
