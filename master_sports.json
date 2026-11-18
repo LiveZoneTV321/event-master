@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:00:23 PM 18-11-2026",
-  "total_matches": 437,
+  "last_update_time": "02:10:11 PM 18-11-2026",
+  "total_matches": 395,
   "live_match": 3,
-  "upcoming_match": 334,
-  "ended_match": 100,
+  "upcoming_match": 335,
+  "ended_match": 57,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -435,6 +435,55 @@
       ],
       "isHot": false,
       "id": "evt_f9521ce2453e"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "WBBL Vs WBBL",
+      "eventInfo": {
+        "teamA": "WBBL",
+        "teamB": "WBBL",
+        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "eventName": "Women's Big Bash League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "startTime": "19/11/2026 10:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd",
+          "drm_key": "82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf"
+        },
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "EUROSPORT FHD",
+          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd",
+          "drm_key": "93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba"
+        },
+        {
+          "channel_name": "SD QUALITY ",
+          "stream_url": "http://193.47.62.41/hls/ZZZZAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd",
+          "drm_key": "82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ccd3e7a5895d"
     },
     {
       "status": "UPCOMING",
@@ -6245,45 +6294,6 @@
     {
       "status": "ENDED",
       "Category": "Boxing",
-      "event_name": "WWE NXT Vs WWE NXT",
-      "eventInfo": {
-        "teamA": "WWE NXT",
-        "teamB": "WWE NXT",
-        "teamAFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "teamBFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "eventName": "WWE NXT",
-        "event_logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "startTime": "18/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Sport3 Tv BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-          "drm_key": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3"
-        },
-        {
-          "channel_name": "HD QUALITY + TV",
-          "stream_url": "https://navidrome.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
-        },
-        {
-          "channel_name": "WWE TV4 + HD",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        },
-        {
-          "channel_name": "WWE LIVE HD",
-          "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8"
-        },
-        {
-          "channel_name": "WWE TV5 + HD",
-          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_41c37aa9edfb"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Boxing",
       "event_name": "One Friday Fights Vs One Friday Fights",
       "eventInfo": {
         "teamA": "One Friday Fights",
@@ -6653,55 +6663,6 @@
       ],
       "isHot": false,
       "id": "evt_8eb0a1acb4eb"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Cricket",
-      "event_name": "WBBL Vs WBBL",
-      "eventInfo": {
-        "teamA": "WBBL",
-        "teamB": "WBBL",
-        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "eventName": "Women's Big Bash League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "startTime": "17/11/2026 02:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd",
-          "drm_key": "82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf"
-        },
-        {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "EUROSPORT FHD",
-          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
-        },
-        {
-          "channel_name": "WILLOW HD",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd",
-          "drm_key": "93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba"
-        },
-        {
-          "channel_name": "SD QUALITY ",
-          "stream_url": "http://193.47.62.41/hls/ZZZZAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd",
-          "drm_key": "82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ccd3e7a5895d"
     },
     {
       "status": "ENDED",
@@ -7115,99 +7076,6 @@
     {
       "status": "ENDED",
       "Category": "Football",
-      "event_name": "Hungary Vs Northern Ireland",
-      "eventInfo": {
-        "teamA": "Hungary",
-        "teamB": "Northern Ireland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4709/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4786/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "18/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "Sport3 Tv BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-          "drm_key": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3"
-        },
-        {
-          "channel_name": "FOX SOCCER + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60318/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://www.rtmpcdn.com/live/8fb41f26-6663-4d45-8ed9-794f40761f61.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY 3",
-          "stream_url": "https://play.aarray.cn/rrty/hd-zh-1-4518128_gqzm.m3u8?auth_key=1794948278-0-0-934b9b30d9bd1b4f4f251c441cc2ccc3&token=12b5625e3b10a444&device=4&platform=rrty"
-        },
-        {
-          "channel_name": "HD QUALITY + EX",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel19.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/CCCCAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_2f15fd65e067"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Ireland Vs Kosovo",
-      "eventInfo": {
-        "teamA": "Ireland",
-        "teamB": "Kosovo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4693/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/154426/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "18/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "ITV SPORTS+ HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60315/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://www.rtmpcdn.com/live/a6924d86-da5a-486c-b8e8-508efde22c08.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY 3",
-          "stream_url": "https://play.aarray.cn/rrty/hd-en-1-4518130_gqzm.m3u8?auth_key=1794948522-0-0-b7846eb98f88985920706c2a548fb191&token=187d0577c6605bb0&device=4&platform=rrty"
-        },
-        {
-          "channel_name": "HD QUALITY + ",
-          "stream_url": "http://162.251.160.53:8089/698/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/ZZZZAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_90eff40e91a6"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
       "event_name": "Ukraine Vs Georgia",
       "eventInfo": {
         "teamA": "Ukraine",
@@ -7245,129 +7113,6 @@
       ],
       "isHot": false,
       "id": "evt_9af5f77935e1"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Denmark Vs Norway",
-      "eventInfo": {
-        "teamA": "Denmark",
-        "teamB": "Norway",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4476/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4475/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "18/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "SPORT1 CZ FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60311/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://play.aarray.cn/rrty/hd-zh-1-4518125_gqzm.m3u8?auth_key=1794948278-0-0-65ca155f5c39d60b028dd3a67a4cfa5d&token=9f2af1ab8b282525&device=4&platform=rrty"
-        },
-        {
-          "channel_name": "HD QUALITY 3",
-          "stream_url": "https://www.rtmpcdn.com/live/e6d08dd1-e7b0-4549-ac03-b80dbb305291.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/ZZZZAAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SonyLiv (Asia) ",
-          "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/footlive1711/ENG/std_lrh-800300010.m3u8",
-          "referer": "https://www.sonyliv.com/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_1fcb4e23ff79"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Wales Vs Portugal",
-      "eventInfo": {
-        "teamA": "Wales",
-        "teamB": "Portugal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4702/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4704/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "18/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "SporTV BR FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
-        },
-        {
-          "channel_name": "SPORT2 TV CZ FHD ",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "HD QUALITY + TV",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60317/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://play.aarray.cn/rrty/hd-zh-1-4518126_gqzm.m3u8?auth_key=1794948400-0-0-4325c81d5c8916720850ebf4fc0c007a&token=ceae63ea44822761&device=4&platform=rrty"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://www.rtmpcdn.com/live/aeb19a2e-6ca0-429a-9ec1-a7728336f752.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/CCCCAAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SonyLiv (Asia) ",
-          "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/footlive1711/ENG/std_lrh-800300010.m3u8",
-          "referer": "https://www.sonyliv.com/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5f11563b100b"
     },
     {
       "status": "ENDED",
@@ -7419,104 +7164,6 @@
     {
       "status": "ENDED",
       "Category": "Football",
-      "event_name": "Poland Vs Sweden",
-      "eventInfo": {
-        "teamA": "Poland",
-        "teamB": "Sweden",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4703/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4688/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "18/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORTV2 BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60312/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://www.rtmpcdn.com/live/e65f87e3-68c3-474e-a84b-01536d28f4e0.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY 3",
-          "stream_url": "https://play.aarray.cn/rrty/hd-zh-1-4518132_gqzm.m3u8?auth_key=1794948400-0-0-62d4673a019f33634690b0f05e3de555&token=f2cece748d14e277&device=4&platform=rrty"
-        },
-        {
-          "channel_name": "HD QUALITY + EX",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        },
-        {
-          "channel_name": "HD QUALITY + ",
-          "stream_url": "http://162.251.160.53:8089/800/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/ZZZZAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SonyLiv (Asia) ",
-          "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/footlive1711/ENG/std_lrh-800300010.m3u8",
-          "referer": "https://www.sonyliv.com/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_26b63b73810d"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Bosnia & Herzegovina Vs Romania",
-      "eventInfo": {
-        "teamA": "Bosnia & Herzegovina",
-        "teamB": "Romania",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4479/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4477/image",
-        "eventName": "UEFA Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "18/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + TV",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60314/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://www.rtmpcdn.com/live/5bc03f08-921b-4ef8-a78e-ca64afd7b0e8.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY 3",
-          "stream_url": "https://play.aarray.cn/rrty/hd-zh-1-4518131_gqzm.m3u8?auth_key=1794948644-0-0-a33a62f6f6b5e6f451eeee2e1e8f9c37&token=eee2391dace5296a&device=4&platform=rrty"
-        },
-        {
-          "channel_name": "HD QUALITY + ",
-          "stream_url": "http://162.251.160.53:8089/469/index.m3u8"
-        },
-        {
-          "channel_name": "QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/ZZZZAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b72d18c3df47"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
       "event_name": "Kuwait Vs Honduras",
       "eventInfo": {
         "teamA": "Kuwait",
@@ -7531,297 +7178,10 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/JJJJGAAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
       "id": "evt_1cf012f63d67"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Saudi Arabia Vs Uzbekistan",
-      "eventInfo": {
-        "teamA": "Saudi Arabia",
-        "teamB": "Uzbekistan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4834/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4723/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "17/11/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://fhlsport955.cdx904gouh.xyz/token-cRB%2Fz7CVKfSGu2UqkPY6zG%2FSlMCGjCDjbS2vw6NHRjej77ScHUFbA5QtqRJWWkoGRnzZ3zVnmvt4f5FMXUoY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/p3p81q2rnUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_953812/index.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "DISNEY HD ",
-          "stream_url": "https://www.rtmpcdn.com/live/f9223cd3-8aee-4d4a-ae67-2bc407aaf2cc.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/JJJJG.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d3432972890a"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Qatar Vs South Korea",
-      "eventInfo": {
-        "teamA": "Qatar",
-        "teamB": "South Korea",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4792/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "17/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/DGGGAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "ALKASS 1",
-          "stream_url": "http://193.47.62.41/hls/DGGGAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f6f857c6c9c9"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "United Arab Emirates Vs Syria",
-      "eventInfo": {
-        "teamA": "United Arab Emirates",
-        "teamB": "Syria",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4727/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4731/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "17/11/2026 08:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/DGGGAAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Dubai Sports 1",
-          "stream_url": "http://193.47.62.41/hls/DGGGAAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Abu Dhabi Sports 1",
-          "stream_url": "j"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_04df6290638a"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Jordan Vs Australia",
-      "eventInfo": {
-        "teamA": "Jordan",
-        "teamB": "Australia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4771/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4741/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://www.rtmpcdn.com/live/324ebf4a-01d6-44bb-ae1c-ef0870baaf9c.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/JJJJGA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_84047bb08b43"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Argentina Vs Costa Rica",
-      "eventInfo": {
-        "teamA": "Argentina",
-        "teamB": "Costa Rica",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4756/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "18/11/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SporTV BR FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
-        },
-        {
-          "channel_name": "D SPORTS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        },
-        {
-          "channel_name": "SporTV BR ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
-        },
-        {
-          "channel_name": "TYC SPORTS INT ",
-          "stream_url": "https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?",
-          "referer": "https://zlive.st/"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_564f7628480e"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Ecuador Vs Bolivia",
-      "eventInfo": {
-        "teamA": "Ecuador",
-        "teamB": "Bolivia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4757/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4746/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "18/11/2026 05:30:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_4867f526c8e9"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Uruguay Vs Dominican Republic",
-      "eventInfo": {
-        "teamA": "Uruguay",
-        "teamB": "Dominican Republic",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4725/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21813/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "18/11/2026 05:30:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_b440fad54db5"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Chile Vs Colombia",
-      "eventInfo": {
-        "teamA": "Chile",
-        "teamB": "Colombia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4820/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "18/11/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_bf4c05f21d11"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Russia Vs Venezuela",
-      "eventInfo": {
-        "teamA": "Russia",
-        "teamB": "Venezuela",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4694/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4722/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "17/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://www.rtmpcdn.com/live/593bde94-727e-49d9-a807-e6694c1baa28.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/JJJJGAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d92ea0ae5249"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Dominica Vs Cayman Islands",
-      "eventInfo": {
-        "teamA": "Dominica",
-        "teamB": "Cayman Islands",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21812/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21811/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "18/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/EIIIAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/EIIIAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_85e022b4ece2"
     },
     {
       "status": "ENDED",
@@ -7882,169 +7242,6 @@
       ],
       "isHot": false,
       "id": "evt_9a8cf03c23ae"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "French Guiana Vs Saint Vincent and the Grenadines",
-      "eventInfo": {
-        "teamA": "French Guiana",
-        "teamB": "Saint Vincent and the Grenadines",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/52906/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21821/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "18/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "HD QUALITY + ",
-          "stream_url": "http://162.251.160.53:8089/1009/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_6afc9d94d9c8"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Saint Kitts and Nevis Vs Bonaire",
-      "eventInfo": {
-        "teamA": "Saint Kitts and Nevis",
-        "teamB": "Bonaire",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21819/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/180236/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "18/11/2026 01:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_fb1031ac6d5d"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "El Salvador Vs Saint Martin",
-      "eventInfo": {
-        "teamA": "El Salvador",
-        "teamB": "Saint Martin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4825/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/33812/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "18/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "HD QUALITY + ",
-          "stream_url": "http://162.251.160.53:8089/1121/index.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY + TV",
-          "stream_url": "https://www.rtmpcdn.com/live/29abbc77-a5a8-4306-9ac9-4d765933cc18.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/BHHHAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b262c74df8b1"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "USA Vs Haiti",
-      "eventInfo": {
-        "teamA": "USA",
-        "teamB": "Haiti",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4724/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7229/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "18/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + TV",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4665560.m3u8?txSecret=fa78e34cea65f8773671d5c73ffe0b0b&txTime=6AFD05E7",
-          "referer": "https://player.on8on8.com/"
-        },
-        {
-          "channel_name": "HD QUALITY + ",
-          "stream_url": "http://162.251.160.53:8089/951/index.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel17.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        },
-        {
-          "channel_name": "USA NETWORK ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60345/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3b7e43ecff52"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Mexico Vs Jamaica",
-      "eventInfo": {
-        "teamA": "Mexico",
-        "teamB": "Jamaica",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4769/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "18/11/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CANAL5 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        },
-        {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-        },
-        {
-          "channel_name": "HD QUALITY + TV",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60362/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY + ",
-          "stream_url": "http://162.251.160.53:8089/1266/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/BHHHAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8429bfece94e"
     },
     {
       "status": "ENDED",
@@ -8174,132 +7371,6 @@
     {
       "status": "ENDED",
       "Category": "Basketball",
-      "event_name": "San Antonio Spurs Vs Detroit Pistons",
-      "eventInfo": {
-        "teamA": "San Antonio Spurs",
-        "teamB": "Detroit Pistons",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "18/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NBC SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
-        },
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "NOVA2 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60346/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ec51ae450973"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "Toronto Raptors Vs New York Knicks",
-      "eventInfo": {
-        "teamA": "Toronto Raptors",
-        "teamB": "New York Knicks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "18/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60321/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY + TV",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60322/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8277cb419936"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "Minnesota Timberwolves Vs Portland Trail Blazers",
-      "eventInfo": {
-        "teamA": "Minnesota Timberwolves",
-        "teamB": "Portland Trail Blazers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "18/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60349/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY + TV",
-          "stream_url": "https://www.rtmpcdn.com/live/bb781fc9-f059-4d66-93b7-0dbbc0dfb1bd.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/RUUUAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e1af4686b6bf"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "Los Angeles Clippers Vs Utah Jazz",
-      "eventInfo": {
-        "teamA": "Los Angeles Clippers",
-        "teamB": "Utah Jazz",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3425/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3434/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "18/11/2026 09:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60373/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5b33d005885a"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
       "event_name": "Maccabi Tel Aviv Vs Olympiacos BC",
       "eventInfo": {
         "teamA": "Maccabi Tel Aviv",
@@ -8352,67 +7423,6 @@
       ],
       "isHot": false,
       "id": "evt_b8f3152439f5"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "Fenerbahçe Tarfin Vs LDLC ASVEL Lyon-Villeurbanne",
-      "eventInfo": {
-        "teamA": "Fenerbahçe Tarfin",
-        "teamB": "LDLC ASVEL Lyon-Villeurbanne",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3514/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3536/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "18/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://www.rtmpcdn.com/live/598f92bf-430b-4fbd-8c1e-509801af30df.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/HHHHAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_1ccd004a8c07"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "Kauno Žalgiris Vs Bayern München",
-      "eventInfo": {
-        "teamA": "Kauno Žalgiris",
-        "teamB": "Bayern München",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6662/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/26071/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "18/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS2+ FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-          "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
-        },
-        {
-          "channel_name": "HD QUALITY + TV",
-          "stream_url": "https://www.rtmpcdn.com/live/2ab1dfb1-a9ae-401e-8408-d5894dbf46b9.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/HHHHAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5090d21eb777"
     },
     {
       "status": "ENDED",
@@ -8539,36 +7549,6 @@
     },
     {
       "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "KK Partizan Mozzart Bet Vs Valencia Basket",
-      "eventInfo": {
-        "teamA": "KK Partizan Mozzart Bet",
-        "teamB": "Valencia Basket",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6637/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3545/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "18/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/YDDDA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/YDDDA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9f4851a74b1d"
-    },
-    {
-      "status": "ENDED",
       "Category": "Hockey",
       "event_name": "Philadelphia Flyers Vs Buffalo Sabres",
       "eventInfo": {
@@ -8589,29 +7569,6 @@
       ],
       "isHot": false,
       "id": "evt_f5895fc85564"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Hockey",
-      "event_name": "Boston Bruins Vs Los Angeles Kings",
-      "eventInfo": {
-        "teamA": "Boston Bruins",
-        "teamB": "Los Angeles Kings",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "18/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60338/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c9d1953784f1"
     },
     {
       "status": "ENDED",
@@ -8737,81 +7694,6 @@
     {
       "status": "ENDED",
       "Category": "Hockey",
-      "event_name": "San Jose Sharks Vs Calgary Flames",
-      "eventInfo": {
-        "teamA": "San Jose Sharks",
-        "teamB": "Calgary Flames",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "18/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3b40a0899a05"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Hockey",
-      "event_name": "Chicago Blackhawks Vs Toronto Maple Leafs",
-      "eventInfo": {
-        "teamA": "Chicago Blackhawks",
-        "teamB": "Toronto Maple Leafs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "18/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60340/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_35eec0430f48"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Hockey",
-      "event_name": "St. Louis Blues Vs Anaheim Ducks",
-      "eventInfo": {
-        "teamA": "St. Louis Blues",
-        "teamB": "Anaheim Ducks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "18/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60347/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_be4550394fbc"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Hockey",
       "event_name": "Tampa Bay Lightning Vs Washington Capitals",
       "eventInfo": {
         "teamA": "Tampa Bay Lightning",
@@ -8836,40 +7718,6 @@
       ],
       "isHot": false,
       "id": "evt_c9c609bc1692"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Hockey",
-      "event_name": "Vegas Golden Knights Vs Dallas Stars",
-      "eventInfo": {
-        "teamA": "Vegas Golden Knights",
-        "teamB": "Dallas Stars",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "18/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "NOVA1 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9f6298fc6675"
     },
     {
       "status": "ENDED",
@@ -8976,57 +7824,6 @@
     {
       "status": "ENDED",
       "Category": "Basketball",
-      "event_name": "Duke Blue Devils Vs Illinois Fighting Illini",
-      "eventInfo": {
-        "teamA": "Duke Blue Devils",
-        "teamB": "Illinois Fighting Illini",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34622/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34628/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "18/11/2026 06:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_65b8a5e7c7b7"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "Miami Hurricanes Vs Rider Broncs",
-      "eventInfo": {
-        "teamA": "Miami Hurricanes",
-        "teamB": "Rider Broncs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/86752/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/86830/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "18/11/2026 06:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_fced223a5663"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "Alabama Crimson Tide Vs Kennesaw State Owls",
-      "eventInfo": {
-        "teamA": "Alabama Crimson Tide",
-        "teamB": "Kennesaw State Owls",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/66366/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/191017/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "18/11/2026 06:30:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_646b06ca9ed7"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
       "event_name": "Arkansas Razorbacks Vs Indiana Hoosiers",
       "eventInfo": {
         "teamA": "Arkansas Razorbacks",
@@ -9044,40 +7841,6 @@
     {
       "status": "ENDED",
       "Category": "Basketball",
-      "event_name": "Vanderbilt Commodores Vs Eastern Illinois Panthers",
-      "eventInfo": {
-        "teamA": "Vanderbilt Commodores",
-        "teamB": "Eastern Illinois Panthers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/41200/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/86794/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "18/11/2026 07:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_26e7801785bb"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "Tennessee Volunteers Vs Michigan State Spartans",
-      "eventInfo": {
-        "teamA": "Tennessee Volunteers",
-        "teamB": "Michigan State Spartans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34633/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34656/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "18/11/2026 08:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_af8554de84c7"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
       "event_name": "Virginia Cavaliers Vs Old Dominion Monarchs",
       "eventInfo": {
         "teamA": "Virginia Cavaliers",
@@ -9091,23 +7854,6 @@
       "streams": [],
       "isHot": false,
       "id": "evt_ebbe17928f85"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "UNLV Rebels Vs Rice Owls",
-      "eventInfo": {
-        "teamA": "UNLV Rebels",
-        "teamB": "Rice Owls",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/271212/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/271025/image",
-        "eventName": "NCAA Women's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33655/image/dark",
-        "startTime": "18/11/2026 08:30:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_1f1492c6e5b8"
     },
     {
       "status": "ENDED",
@@ -9131,59 +7877,6 @@
       ],
       "isHot": false,
       "id": "evt_e62e7651bbc9"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Luton Town Vs Peterborough United",
-      "eventInfo": {
-        "teamA": "Luton Town",
-        "teamB": "Peterborough United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/72/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/54/image",
-        "eventName": "Football League Trophy",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
-        "startTime": "18/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/EIIIAAAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/EIIIAAAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_4deb46358d67"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "California Baptist Lancers Vs Seattle Redhawks",
-      "eventInfo": {
-        "teamA": "California Baptist Lancers",
-        "teamB": "Seattle Redhawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/303671/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/86802/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "18/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60370/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_66d8b48b4f8d"
     },
     {
       "status": "ENDED",
