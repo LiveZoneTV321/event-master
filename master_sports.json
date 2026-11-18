@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:00:35 PM 18-11-2026",
-  "total_matches": 381,
-  "live_match": 3,
-  "upcoming_match": 364,
+  "last_update_time": "10:10:14 PM 18-11-2026",
+  "total_matches": 378,
+  "live_match": 4,
+  "upcoming_match": 360,
   "ended_match": 14,
   "sources": [
     "api1:events.json",
@@ -168,6 +168,36 @@
       ],
       "isHot": false,
       "id": "evt_3dab98028949"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Beşiktaş JK Vs Real Madrid",
+      "eventInfo": {
+        "teamA": "Beşiktaş JK",
+        "teamB": "Real Madrid",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6678/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3540/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "18/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/3333.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/3333.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5087e53b3992"
     },
     {
       "status": "LIVE",
@@ -618,6 +648,17 @@
       },
       "streams": [
         {
+          "channel_name": "FANCODE1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "FANCODE2 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
           "channel_name": "HD QUALITY + TV",
           "stream_url": "http://162.251.160.53:8089/prime_us_b0hng1trrl/index.m3u8"
         },
@@ -657,6 +698,17 @@
           "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
         },
         {
+          "channel_name": "FANCODE1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "FANCODE2 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
           "channel_name": "HD QUALITY + TV",
           "stream_url": "http://162.251.160.53:8089/prime_us_b0gy2188pn/index.m3u8"
         },
@@ -691,6 +743,17 @@
           "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
         },
         {
+          "channel_name": "FANCODE1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "FANCODE2 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
           "channel_name": "HD QUALITY + TV",
           "stream_url": "http://162.251.160.53:8089/prime_us_b0hpwbpj18/index.m3u8"
         }
@@ -712,6 +775,17 @@
         "startTime": "18/11/2026 11:45:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "FANCODE1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "FANCODE2 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
         {
           "channel_name": "HD QUALITY + TV",
           "stream_url": "http://162.251.160.53:8089/prime_us_b0hmkgxkgc/index.m3u8"
@@ -901,75 +975,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "West Ham Vs Wolverhampton W.F.C.",
-      "eventInfo": {
-        "teamA": "West Ham",
-        "teamB": "Wolverhampton W.F.C.",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/297802/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/334614/image",
-        "eventName": "FA Women's League Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11667/image/dark",
-        "startTime": "19/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_24d32bec3a78"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Tottenham FC Vs Leicester City",
-      "eventInfo": {
-        "teamA": "Tottenham FC",
-        "teamB": "Leicester City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/273547/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/299289/image",
-        "eventName": "FA Women's League Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11667/image/dark",
-        "startTime": "19/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_93ffda662538"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "London City Lionesses Vs Brighton",
-      "eventInfo": {
-        "teamA": "London City Lionesses",
-        "teamB": "Brighton",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/326573/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/266376/image",
-        "eventName": "FA Women's League Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11667/image/dark",
-        "startTime": "19/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c885dd0fd614"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Manchester United Vs Everton",
       "eventInfo": {
         "teamA": "Manchester United",
@@ -1066,36 +1071,6 @@
       ],
       "isHot": false,
       "id": "evt_510a7aee2c7f"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Beşiktaş JK Vs Real Madrid",
-      "eventInfo": {
-        "teamA": "Beşiktaş JK",
-        "teamB": "Real Madrid",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6678/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3540/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "18/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/3333.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/3333.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5087e53b3992"
     },
     {
       "status": "UPCOMING",
@@ -1520,52 +1495,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Deportiva Minera Vs FC Cartagena",
-      "eventInfo": {
-        "teamA": "Deportiva Minera",
-        "teamB": "FC Cartagena",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/189948/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24329/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "startTime": "19/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f2b3e497d79d"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "CD Alcoyano Vs Mallorca",
-      "eventInfo": {
-        "teamA": "CD Alcoyano",
-        "teamB": "Mallorca",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6585/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "startTime": "19/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_fdabf1abe652"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Club Portugalete Vs Real Unión Club",
       "eventInfo": {
         "teamA": "Club Portugalete",
@@ -1592,29 +1521,6 @@
       ],
       "isHot": false,
       "id": "evt_57627dc590d8"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "CD Badajoz Vs CD Tenerife",
-      "eventInfo": {
-        "teamA": "CD Badajoz",
-        "teamB": "CD Tenerife",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2853/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "startTime": "19/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ed2116159a41"
     },
     {
       "status": "UPCOMING",
@@ -1721,6 +1627,40 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "Alcoyano Vs Mallorca",
+      "eventInfo": {
+        "teamA": "Alcoyano",
+        "teamB": "Mallorca",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/181",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
+        "eventName": "Copa del Rey",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
+        "startTime": "19/11/2026 01:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_b9c8625a9f65",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "CD Badajoz Vs CD Tenerife",
+      "eventInfo": {
+        "teamA": "CD Badajoz",
+        "teamB": "CD Tenerife",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/21942",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image",
+        "eventName": "Copa del Rey",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
+        "startTime": "19/11/2026 01:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_ed2116159a41",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "Reus FC Reddis Vs Barakaldo CF",
       "eventInfo": {
         "teamA": "Reus FC Reddis",
@@ -1733,6 +1673,23 @@
       },
       "streams": [],
       "id": "evt_12bab985e370",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Deportiva Minera Vs Cartagena FC",
+      "eventInfo": {
+        "teamA": "Deportiva Minera",
+        "teamB": "Cartagena FC",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/17992",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5999",
+        "eventName": "Copa del Rey",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
+        "startTime": "19/11/2026 01:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_8baf14438609",
       "isHot": false
     },
     {
