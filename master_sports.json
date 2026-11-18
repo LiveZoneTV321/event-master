@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:30:18 PM 18-11-2026",
+  "last_update_time": "12:40:12 PM 18-11-2026",
   "total_matches": 437,
-  "live_match": 5,
+  "live_match": 4,
   "upcoming_match": 335,
-  "ended_match": 97,
+  "ended_match": 98,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -188,29 +188,6 @@
       ],
       "isHot": false,
       "id": "evt_e73db3b477c0"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Los Angeles Clippers Vs Utah Jazz",
-      "eventInfo": {
-        "teamA": "Los Angeles Clippers",
-        "teamB": "Utah Jazz",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3425/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3434/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "18/11/2026 09:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60373/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5b33d005885a"
     },
     {
       "status": "LIVE",
@@ -8307,6 +8284,29 @@
       ],
       "isHot": false,
       "id": "evt_e1af4686b6bf"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Los Angeles Clippers Vs Utah Jazz",
+      "eventInfo": {
+        "teamA": "Los Angeles Clippers",
+        "teamB": "Utah Jazz",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "18/11/2026 09:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60373/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5b33d005885a"
     },
     {
       "status": "ENDED",
