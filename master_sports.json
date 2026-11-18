@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:30:18 AM 18-11-2026",
+  "last_update_time": "11:40:13 AM 18-11-2026",
   "total_matches": 437,
-  "live_match": 11,
+  "live_match": 9,
   "upcoming_match": 335,
-  "ended_match": 91,
+  "ended_match": 93,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -143,39 +143,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Nicaragua Vs Montserrat",
-      "eventInfo": {
-        "teamA": "Nicaragua",
-        "teamB": "Montserrat",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21817/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21815/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "18/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "HD QUALITY + ",
-          "stream_url": "http://162.251.160.53:8089/1333/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/BHHHAAAAAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c704e835e5ad"
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Los Angeles Lakers Vs Charlotte Hornets",
       "eventInfo": {
@@ -296,23 +263,6 @@
       ],
       "isHot": false,
       "id": "evt_9f6298fc6675"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "UNLV Rebels Vs Rice Owls",
-      "eventInfo": {
-        "teamA": "UNLV Rebels",
-        "teamB": "Rice Owls",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/271212/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/271025/image",
-        "eventName": "NCAA Women's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33655/image/dark",
-        "startTime": "18/11/2026 08:30:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_1f1492c6e5b8"
     },
     {
       "status": "LIVE",
@@ -8274,6 +8224,39 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Nicaragua Vs Montserrat",
+      "eventInfo": {
+        "teamA": "Nicaragua",
+        "teamB": "Montserrat",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21817/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21815/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "18/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "HD QUALITY + ",
+          "stream_url": "http://162.251.160.53:8089/1333/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/BHHHAAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c704e835e5ad"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "India Vs Pakistan",
       "eventInfo": {
         "teamA": "India",
@@ -9160,6 +9143,23 @@
       "streams": [],
       "isHot": false,
       "id": "evt_ebbe17928f85"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "UNLV Rebels Vs Rice Owls",
+      "eventInfo": {
+        "teamA": "UNLV Rebels",
+        "teamB": "Rice Owls",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/271212/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/271025/image",
+        "eventName": "NCAA Women's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33655/image/dark",
+        "startTime": "18/11/2026 08:30:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_1f1492c6e5b8"
     },
     {
       "status": "ENDED",
