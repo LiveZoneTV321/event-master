@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:30:21 PM 18-11-2026",
-  "total_matches": 382,
-  "live_match": 6,
-  "upcoming_match": 362,
+  "last_update_time": "09:40:15 PM 18-11-2026",
+  "total_matches": 383,
+  "live_match": 4,
+  "upcoming_match": 365,
   "ended_match": 14,
   "sources": [
     "api1:events.json",
@@ -49,105 +49,6 @@
       ],
       "isHot": false,
       "id": "evt_8eb0a1acb4eb"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Pakistan Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "Pakistan",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "ICC World Test Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-        "startTime": "18/11/2026 10:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd",
-          "drm_key": "a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3"
-        },
-        {
-          "channel_name": "T SPORTS HD",
-          "stream_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/RREGEGE.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd",
-          "drm_key": "a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ef30158142c8"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Australia Vs England",
-      "eventInfo": {
-        "teamA": "Australia",
-        "teamB": "England",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-        "eventName": "One Day International",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "18/11/2026 09:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd",
-          "drm_key": "205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6"
-        },
-        {
-          "channel_name": "TNT SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "EUROSPORT FHD",
-          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
-        },
-        {
-          "channel_name": "WILLOW HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/qqqq.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd",
-          "drm_key": "205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e210297e0dc2"
     },
     {
       "status": "LIVE",
@@ -474,7 +375,7 @@
         "teamB": "AEW",
         "teamAFlag": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
         "teamBFlag": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
-        "eventName": "AEW",
+        "eventName": "AEW DYNAMIC",
         "event_logo": "https://i.ibb.co/jPLdK3bM/aewlogo24b.png",
         "startTime": "19/11/2026 06:00:00 AM"
       },
@@ -505,7 +406,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_97b6cdd884ba"
+      "id": "evt_bddc5d14ed72"
     },
     {
       "status": "UPCOMING",
@@ -574,6 +475,44 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
+      "event_name": "Pakistan Vs Sri Lanka",
+      "eventInfo": {
+        "teamA": "Pakistan",
+        "teamB": "Sri Lanka",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+        "eventName": "ICC World Test Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "startTime": "19/11/2026 10:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd",
+          "drm_key": "a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3"
+        },
+        {
+          "channel_name": "T SPORTS HD",
+          "stream_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/RREGEGE.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd",
+          "drm_key": "a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ef30158142c8"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
       "event_name": "WBBL Vs WBBL",
       "eventInfo": {
         "teamA": "WBBL",
@@ -622,6 +561,67 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Australia Vs England",
+      "eventInfo": {
+        "teamA": "Australia",
+        "teamB": "England",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "eventName": "T20 International",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "startTime": "21/11/2026 02:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd",
+          "drm_key": "205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6"
+        },
+        {
+          "channel_name": "TNT SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "EUROSPORT FHD",
+          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/qqqq.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd",
+          "drm_key": "205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_71cff774ddc9"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "American football",
       "event_name": "College GameDay Vs College GameDay",
       "eventInfo": {
@@ -658,6 +658,10 @@
       },
       "streams": [
         {
+          "channel_name": "HD QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hng1trrl/index.m3u8"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "http://193.47.62.41/hls/3333AAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
@@ -693,6 +697,10 @@
           "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
         },
         {
+          "channel_name": "HD QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0gy2188pn/index.m3u8"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?",
           "referer": "https://xlz.domainkqt.cc/"
@@ -721,6 +729,10 @@
           "referer": "https://amazon.com",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
           "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "HD QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hpwbpj18/index.m3u8"
         }
       ],
       "isHot": false,
@@ -742,14 +754,18 @@
       "streams": [
         {
           "channel_name": "HD QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hmkgxkgc/index.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY + TV",
           "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?",
           "referer": "https://xlz.domainkqt.cc/"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/3333AAAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -1107,8 +1123,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "stream_url": "http://193.47.62.44/hls/3333.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/3333.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -1506,6 +1529,135 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Utebo FC Vs CE Sabadell",
+      "eventInfo": {
+        "teamA": "Utebo FC",
+        "teamB": "CE Sabadell",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/212294/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24335/image",
+        "eventName": "Copa del Rey",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "startTime": "19/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/6666AAAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/6666AAAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_1c6efd566924"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Deportiva Minera Vs FC Cartagena",
+      "eventInfo": {
+        "teamA": "Deportiva Minera",
+        "teamB": "FC Cartagena",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/189948/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24329/image",
+        "eventName": "Copa del Rey",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "startTime": "19/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f2b3e497d79d"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "CD Alcoyano Vs Mallorca",
+      "eventInfo": {
+        "teamA": "CD Alcoyano",
+        "teamB": "Mallorca",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6585/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
+        "eventName": "Copa del Rey",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "startTime": "19/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_fdabf1abe652"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Club Portugalete Vs Real Unión Club",
+      "eventInfo": {
+        "teamA": "Club Portugalete",
+        "teamB": "Real Unión Club",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25403/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2881/image",
+        "eventName": "Copa del Rey",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "startTime": "19/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/6666.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/6666.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_57627dc590d8"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "CD Badajoz Vs CD Tenerife",
+      "eventInfo": {
+        "teamA": "CD Badajoz",
+        "teamB": "CD Tenerife",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2853/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image",
+        "eventName": "Copa del Rey",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+        "startTime": "19/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ed2116159a41"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "Emirates Eagles Vs Yas Lions",
       "eventInfo": {
@@ -1626,57 +1778,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Utebo FC Vs CE Sabadell FC",
-      "eventInfo": {
-        "teamA": "Utebo FC",
-        "teamB": "CE Sabadell FC",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/17923",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24335/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
-        "startTime": "19/11/2026 12:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_f9b152ea96d4",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Alcoyano Vs Mallorca",
-      "eventInfo": {
-        "teamA": "Alcoyano",
-        "teamB": "Mallorca",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/181",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
-        "startTime": "19/11/2026 01:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_b9c8625a9f65",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "CD Badajoz Vs CD Tenerife",
-      "eventInfo": {
-        "teamA": "CD Badajoz",
-        "teamB": "CD Tenerife",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/21942",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
-        "startTime": "19/11/2026 01:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_ed2116159a41",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Reus FC Reddis Vs Barakaldo CF",
       "eventInfo": {
         "teamA": "Reus FC Reddis",
@@ -1689,23 +1790,6 @@
       },
       "streams": [],
       "id": "evt_12bab985e370",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Deportiva Minera Vs Cartagena FC",
-      "eventInfo": {
-        "teamA": "Deportiva Minera",
-        "teamB": "Cartagena FC",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/17992",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5999",
-        "eventName": "Copa del Rey",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
-        "startTime": "19/11/2026 01:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_8baf14438609",
       "isHot": false
     },
     {
