@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:30:20 AM 18-11-2026",
+  "last_update_time": "06:40:13 AM 18-11-2026",
   "total_matches": 434,
-  "live_match": 25,
+  "live_match": 24,
   "upcoming_match": 347,
-  "ended_match": 62,
+  "ended_match": 63,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -276,6 +276,29 @@
     },
     {
       "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Toronto Raptors Vs New York Knicks",
+      "eventInfo": {
+        "teamA": "Toronto Raptors",
+        "teamB": "New York Knicks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "18/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8277cb419936"
+    },
+    {
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Philadelphia Flyers Vs Buffalo Sabres",
       "eventInfo": {
@@ -414,20 +437,60 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Florida Gators Vs Notre Dame Fighting Irish",
+      "Category": "Hockey",
+      "event_name": "Chicago Blackhawks Vs Toronto Maple Leafs",
       "eventInfo": {
-        "teamA": "Florida Gators",
-        "teamB": "Notre Dame Fighting Irish",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/41197/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/41198/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "18/11/2026 03:30:00 AM"
+        "teamA": "Chicago Blackhawks",
+        "teamB": "Toronto Maple Leafs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "18/11/2026 06:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
       "isHot": false,
-      "id": "evt_e6fdfde416a0"
+      "id": "evt_35eec0430f48"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Tampa Bay Lightning Vs Washington Capitals",
+      "eventInfo": {
+        "teamA": "Tampa Bay Lightning",
+        "teamB": "Washington Capitals",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "18/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c9c609bc1692"
     },
     {
       "status": "LIVE",
@@ -462,6 +525,40 @@
       "streams": [],
       "isHot": false,
       "id": "evt_fced223a5663"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Alabama Crimson Tide Vs Kennesaw State Owls",
+      "eventInfo": {
+        "teamA": "Alabama Crimson Tide",
+        "teamB": "Kennesaw State Owls",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/66366/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/191017/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 06:30:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_646b06ca9ed7"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Arkansas Razorbacks Vs Indiana Hoosiers",
+      "eventInfo": {
+        "teamA": "Arkansas Razorbacks",
+        "teamB": "Indiana Hoosiers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/87830/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/66358/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 06:30:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_ec5c5812298c"
     },
     {
       "status": "LIVE",
@@ -527,29 +624,6 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Toronto Raptors Vs New York Knicks",
-      "eventInfo": {
-        "teamA": "Toronto Raptors",
-        "teamB": "New York Knicks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "18/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8277cb419936"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
       "event_name": "Minnesota Timberwolves Vs Portland Trail Blazers",
       "eventInfo": {
         "teamA": "Minnesota Timberwolves",
@@ -596,35 +670,6 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
-      "event_name": "Chicago Blackhawks Vs Toronto Maple Leafs",
-      "eventInfo": {
-        "teamA": "Chicago Blackhawks",
-        "teamB": "Toronto Maple Leafs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "18/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_35eec0430f48"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
       "event_name": "St. Louis Blues Vs Anaheim Ducks",
       "eventInfo": {
         "teamA": "St. Louis Blues",
@@ -644,68 +689,6 @@
       ],
       "isHot": false,
       "id": "evt_be4550394fbc"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Tampa Bay Lightning Vs Washington Capitals",
-      "eventInfo": {
-        "teamA": "Tampa Bay Lightning",
-        "teamB": "Washington Capitals",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "18/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c9c609bc1692"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Alabama Crimson Tide Vs Kennesaw State Owls",
-      "eventInfo": {
-        "teamA": "Alabama Crimson Tide",
-        "teamB": "Kennesaw State Owls",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/66366/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/191017/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "18/11/2026 06:30:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_646b06ca9ed7"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Arkansas Razorbacks Vs Indiana Hoosiers",
-      "eventInfo": {
-        "teamA": "Arkansas Razorbacks",
-        "teamB": "Indiana Hoosiers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/87830/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/66358/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "18/11/2026 06:30:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_ec5c5812298c"
     },
     {
       "status": "LIVE",
@@ -1267,7 +1250,24 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "startTime": "18/11/2026 09:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "NOVA1 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
       "isHot": false,
       "id": "evt_9f6298fc6675"
     },
@@ -9125,6 +9125,23 @@
       ],
       "isHot": false,
       "id": "evt_e46494557dff"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Florida Gators Vs Notre Dame Fighting Irish",
+      "eventInfo": {
+        "teamA": "Florida Gators",
+        "teamB": "Notre Dame Fighting Irish",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41197/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/41198/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 03:30:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_e6fdfde416a0"
     },
     {
       "status": "ENDED",
