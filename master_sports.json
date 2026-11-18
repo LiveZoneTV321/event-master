@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:40:21 PM 18-11-2026",
+  "last_update_time": "11:50:21 PM 18-11-2026",
   "total_matches": 378,
-  "live_match": 8,
-  "upcoming_match": 356,
+  "live_match": 9,
+  "upcoming_match": 355,
   "ended_match": 14,
   "sources": [
     "api1:events.json",
@@ -222,7 +222,8 @@
         {
           "channel_name": "FANCODE2 FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "HD QUALITY + TV",
@@ -477,6 +478,36 @@
         }
       ],
       "id": "evt_f0b9e7cc3309",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Portugalete Vs Real Union",
+      "eventInfo": {
+        "teamA": "Portugalete",
+        "teamB": "Real Union",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25403/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2881/image",
+        "eventName": "Copa del Rey",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
+        "startTime": "19/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "hd quality",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=062eb4285a1091a76dfa67abae60c3ae&wsABSTime=1795062316",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "low quality",
+          "stream_url": "http://193.47.62.44/hls/6666.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_aa6500f05410",
       "isHot": false
     },
     {
@@ -1623,36 +1654,6 @@
       ],
       "isHot": false,
       "id": "evt_07eee1dfa7d5"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Portugalete Vs Real Union",
-      "eventInfo": {
-        "teamA": "Portugalete",
-        "teamB": "Real Union",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25403/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2881/image",
-        "eventName": "Copa del Rey",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
-        "startTime": "19/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "hd quality",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=062eb4285a1091a76dfa67abae60c3ae&wsABSTime=1795062316",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel9/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "low quality",
-          "stream_url": "http://193.47.62.44/hls/6666.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_aa6500f05410",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
