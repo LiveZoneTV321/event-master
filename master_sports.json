@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:00:26 PM 18-11-2026",
+  "last_update_time": "05:07:21 PM 18-11-2026",
   "total_matches": 395,
-  "live_match": 3,
-  "upcoming_match": 335,
+  "live_match": 4,
+  "upcoming_match": 334,
   "ended_match": 57,
   "sources": [
     "api1:events.json",
@@ -259,6 +259,29 @@
       ],
       "isHot": false,
       "id": "evt_3dab98028949"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Kathmandu Gurkhas Vs Chitwan Rhinos",
+      "eventInfo": {
+        "teamA": "Kathmandu Gurkhas",
+        "teamB": "Chitwan Rhinos",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/PT.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/ZV.png",
+        "eventName": "Nepal Premier League 2026 - Eliminator",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "startTime": "18/11/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Myco - (bd)1",
+          "stream_url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_491f48e96d2d",
+      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -522,23 +545,6 @@
       },
       "streams": [],
       "id": "evt_f00b12e7d466",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Kathmandu Gurkhas Vs Chitwan Rhinos",
-      "eventInfo": {
-        "teamA": "Kathmandu Gurkhas",
-        "teamB": "Chitwan Rhinos",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/PT.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-        "eventName": "Nepal Premier League 2026 - Eliminator",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "startTime": "18/11/2026 05:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_491f48e96d2d",
       "isHot": false
     },
     {
