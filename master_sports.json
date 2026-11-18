@@ -1,16 +1,51 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:00:25 AM 18-11-2026",
+  "last_update_time": "06:10:14 AM 18-11-2026",
   "total_matches": 434,
-  "live_match": 19,
-  "upcoming_match": 353,
+  "live_match": 25,
+  "upcoming_match": 347,
   "ended_match": 62,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
   ],
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Boxing",
+      "event_name": "WWE NXT Vs WWE NXT",
+      "eventInfo": {
+        "teamA": "WWE NXT",
+        "teamB": "WWE NXT",
+        "teamAFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+        "teamBFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+        "eventName": "WWE NXT",
+        "event_logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+        "startTime": "18/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Sport3 Tv BR FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+          "drm_key": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3"
+        },
+        {
+          "channel_name": "WWE TV4 + HD",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
+        },
+        {
+          "channel_name": "WWE LIVE HD",
+          "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8"
+        },
+        {
+          "channel_name": "WWE TV5 + HD",
+          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_41c37aa9edfb"
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -150,58 +185,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Florida Gators Vs Notre Dame Fighting Irish",
-      "eventInfo": {
-        "teamA": "Florida Gators",
-        "teamB": "Notre Dame Fighting Irish",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/41197/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/41198/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "18/11/2026 03:30:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_e6fdfde416a0"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Boxing",
-      "event_name": "WWE NXT Vs WWE NXT",
-      "eventInfo": {
-        "teamA": "WWE NXT",
-        "teamB": "WWE NXT",
-        "teamAFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "teamBFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "eventName": "WWE NXT",
-        "event_logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "startTime": "18/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Sport3 Tv BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-          "drm_key": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3"
-        },
-        {
-          "channel_name": "WWE TV4 + HD",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        },
-        {
-          "channel_name": "WWE LIVE HD",
-          "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8"
-        },
-        {
-          "channel_name": "WWE TV5 + HD",
-          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_41c37aa9edfb"
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "French Guiana Vs Saint Vincent and the Grenadines",
       "eventInfo": {
@@ -290,29 +273,6 @@
       ],
       "isHot": false,
       "id": "evt_3b7e43ecff52"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Toronto Raptors Vs New York Knicks",
-      "eventInfo": {
-        "teamA": "Toronto Raptors",
-        "teamB": "New York Knicks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "18/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8277cb419936"
     },
     {
       "status": "LIVE",
@@ -454,60 +414,20 @@
     },
     {
       "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Chicago Blackhawks Vs Toronto Maple Leafs",
+      "Category": "Basketball",
+      "event_name": "Florida Gators Vs Notre Dame Fighting Irish",
       "eventInfo": {
-        "teamA": "Chicago Blackhawks",
-        "teamB": "Toronto Maple Leafs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "18/11/2026 06:30:00 AM"
+        "teamA": "Florida Gators",
+        "teamB": "Notre Dame Fighting Irish",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41197/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/41198/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 03:30:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
+      "streams": [],
       "isHot": false,
-      "id": "evt_35eec0430f48"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Tampa Bay Lightning Vs Washington Capitals",
-      "eventInfo": {
-        "teamA": "Tampa Bay Lightning",
-        "teamB": "Washington Capitals",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "18/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c9c609bc1692"
+      "id": "evt_e6fdfde416a0"
     },
     {
       "status": "LIVE",
@@ -545,6 +465,216 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "El Salvador Vs Saint Martin",
+      "eventInfo": {
+        "teamA": "El Salvador",
+        "teamB": "Saint Martin",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4825/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/33812/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "18/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "HD QUALITY + ",
+          "stream_url": "http://162.251.160.53:8089/1121/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b262c74df8b1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "San Antonio Spurs Vs Detroit Pistons",
+      "eventInfo": {
+        "teamA": "San Antonio Spurs",
+        "teamB": "Detroit Pistons",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "18/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "NOVA2 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ec51ae450973"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Toronto Raptors Vs New York Knicks",
+      "eventInfo": {
+        "teamA": "Toronto Raptors",
+        "teamB": "New York Knicks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "18/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8277cb419936"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Minnesota Timberwolves Vs Portland Trail Blazers",
+      "eventInfo": {
+        "teamA": "Minnesota Timberwolves",
+        "teamB": "Portland Trail Blazers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "18/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e1af4686b6bf"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Minnesota Wild Vs Nashville Predators",
+      "eventInfo": {
+        "teamA": "Minnesota Wild",
+        "teamB": "Nashville Predators",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "18/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_333ef957cf21"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Chicago Blackhawks Vs Toronto Maple Leafs",
+      "eventInfo": {
+        "teamA": "Chicago Blackhawks",
+        "teamB": "Toronto Maple Leafs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "18/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_35eec0430f48"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "St. Louis Blues Vs Anaheim Ducks",
+      "eventInfo": {
+        "teamA": "St. Louis Blues",
+        "teamB": "Anaheim Ducks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "18/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_be4550394fbc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Tampa Bay Lightning Vs Washington Capitals",
+      "eventInfo": {
+        "teamA": "Tampa Bay Lightning",
+        "teamB": "Washington Capitals",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "18/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c9c609bc1692"
+    },
+    {
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Alabama Crimson Tide Vs Kennesaw State Owls",
       "eventInfo": {
@@ -576,6 +706,23 @@
       "streams": [],
       "isHot": false,
       "id": "evt_ec5c5812298c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Vanderbilt Commodores Vs Eastern Illinois Panthers",
+      "eventInfo": {
+        "teamA": "Vanderbilt Commodores",
+        "teamB": "Eastern Illinois Panthers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41200/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86794/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "18/11/2026 07:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_26e7801785bb"
     },
     {
       "status": "UPCOMING",
@@ -980,33 +1127,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "El Salvador Vs Saint Martin",
-      "eventInfo": {
-        "teamA": "El Salvador",
-        "teamB": "Saint Martin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4825/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/33812/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "18/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "HD QUALITY + ",
-          "stream_url": "http://162.251.160.53:8089/1121/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b262c74df8b1"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Mexico Vs Jamaica",
       "eventInfo": {
         "teamA": "Mexico",
@@ -1091,63 +1211,6 @@
     {
       "status": "UPCOMING",
       "Category": "Basketball",
-      "event_name": "San Antonio Spurs Vs Detroit Pistons",
-      "eventInfo": {
-        "teamA": "San Antonio Spurs",
-        "teamB": "Detroit Pistons",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "18/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "NOVA2 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ec51ae450973"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Minnesota Timberwolves Vs Portland Trail Blazers",
-      "eventInfo": {
-        "teamA": "Minnesota Timberwolves",
-        "teamB": "Portland Trail Blazers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "18/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e1af4686b6bf"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
       "event_name": "Los Angeles Clippers Vs Utah Jazz",
       "eventInfo": {
         "teamA": "Los Angeles Clippers",
@@ -1167,29 +1230,6 @@
       ],
       "isHot": false,
       "id": "evt_5b33d005885a"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Minnesota Wild Vs Nashville Predators",
-      "eventInfo": {
-        "teamA": "Minnesota Wild",
-        "teamB": "Nashville Predators",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "18/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_333ef957cf21"
     },
     {
       "status": "UPCOMING",
@@ -1217,29 +1257,6 @@
     {
       "status": "UPCOMING",
       "Category": "Hockey",
-      "event_name": "St. Louis Blues Vs Anaheim Ducks",
-      "eventInfo": {
-        "teamA": "St. Louis Blues",
-        "teamB": "Anaheim Ducks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "18/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_be4550394fbc"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
       "event_name": "Vegas Golden Knights Vs Dallas Stars",
       "eventInfo": {
         "teamA": "Vegas Golden Knights",
@@ -1250,43 +1267,9 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "startTime": "18/11/2026 09:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "NOVA1 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9f6298fc6675"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Vanderbilt Commodores Vs Eastern Illinois Panthers",
-      "eventInfo": {
-        "teamA": "Vanderbilt Commodores",
-        "teamB": "Eastern Illinois Panthers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/41200/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/86794/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "18/11/2026 07:00:00 AM"
-      },
       "streams": [],
       "isHot": false,
-      "id": "evt_26e7801785bb"
+      "id": "evt_9f6298fc6675"
     },
     {
       "status": "UPCOMING",
