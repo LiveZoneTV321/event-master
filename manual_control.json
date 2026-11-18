@@ -71,14 +71,11 @@
         "stream_url": "https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8"
       }
     ],
-    "evt_1e55dbb0e72f": [
+    "evt_491f48e96d2d": [
       {
-        "channel_name": "Tapmad",
-        "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
-      },
-      {
-        "channel_name": "PTV",
-        "stream_url": "http://198.195.239.50:8095/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8"
+        "channel_name": "LiveZone TV",
+        "stream_url": "https://ott-edge-mtdc.nettv.com.np/npl/live_match3/index.mpd",
+        "drm_key": "b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936"
       }
     ]
   },
