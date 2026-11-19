@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:20:14 PM 19-11-2026",
+  "last_update_time": "03:30:20 PM 19-11-2026",
   "total_matches": 393,
   "live_match": 8,
   "upcoming_match": 351,
@@ -333,37 +333,43 @@
     {
       "status": "LIVE",
       "Category": "Cricket",
-      "event_name": "Hobart Hurricanes Women Vs Perth Scorchers Women",
+      "event_name": "Brisbane Heat Women Vs Sydney Thunder Women",
       "eventInfo": {
-        "teamA": "Hobart Hurricanes Women",
-        "teamB": "Perth Scorchers Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274885/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274890/image",
-        "eventName": "Womens Big Bash League",
+        "teamA": "Brisbane Heat Women",
+        "teamB": "Sydney Thunder Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274884/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274889/image",
+        "eventName": "Womens Big Bash League 2026 - 27th Match",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "19/11/2026 10:10:00 AM"
+        "startTime": "19/11/2026 02:10:00 PM"
       },
       "streams": [
         {
+          "channel_name": "EUROSPORT FHD",
+          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
+        },
+        {
           "channel_name": "Tapmad - (bd)",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
           "referer": "https://www.tapmad.com/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ayg6j8yw1b/out/v1/e02856592bc44834b4edda32878b485a/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "6f87f49f1a51b9c8d7d11a23c3f207ef:0fdd85e00b98637bb97e1b6b319d2be9"
+          "drm_key": "b06dc5848ef623a1ed1bc7c2900007d9:d62ffeb4061bb0bd7f11164761ea694a"
         },
         {
           "channel_name": "willow - alt",
-          "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
+          "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ayg6j8yw1b/out/v1/e02856592bc44834b4edda32878b485a/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "6f87f49f1a51b9c8d7d11a23c3f207ef:0fdd85e00b98637bb97e1b6b319d2be9"
+          "drm_key": "b06dc5848ef623a1ed1bc7c2900007d9:d62ffeb4061bb0bd7f11164761ea694a"
         }
       ],
-      "id": "evt_daf6e89e97bd",
+      "id": "evt_055ee61ca325",
       "isHot": false
     },
     {
@@ -1834,23 +1840,6 @@
       },
       "streams": [],
       "id": "evt_5c8aa237bde9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Brisbane Heat Women Vs Sydney Thunder Women",
-      "eventInfo": {
-        "teamA": "Brisbane Heat Women",
-        "teamB": "Sydney Thunder Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274884/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274889/image",
-        "eventName": "Womens Big Bash League 2026 - 27th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "19/11/2026 06:10:00 PM"
-      },
-      "streams": [],
-      "id": "evt_055ee61ca325",
       "isHot": false
     },
     {
@@ -6781,6 +6770,23 @@
       },
       "streams": [],
       "id": "evt_175b96e79f39",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Perth Scorchers Women Vs Hobart Hurricanes Women",
+      "eventInfo": {
+        "teamA": "Perth Scorchers Women",
+        "teamB": "Hobart Hurricanes Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274885/image",
+        "eventName": "WBBL 2026 - 36th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "27/11/2026 04:10:00 PM"
+      },
+      "streams": [],
+      "id": "evt_ef7176feebd9",
       "isHot": false
     },
     {
