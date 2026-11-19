@@ -1,9 +1,9 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:50:14 PM 19-11-2026",
-  "total_matches": 362,
-  "live_match": 10,
+  "last_update_time": "10:00:29 PM 19-11-2026",
+  "total_matches": 361,
+  "live_match": 9,
   "upcoming_match": 338,
   "ended_match": 14,
   "sources": [
@@ -243,47 +243,6 @@
       ],
       "isHot": false,
       "id": "evt_211f773a3f4b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Yas Lions Vs Royal Desert Champions",
-      "eventInfo": {
-        "teamA": "Yas Lions",
-        "teamB": "Royal Desert Champions",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 29th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "19/11/2026 07:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "a sports fhd",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/onhhok4gqg/out/v1/b286f1b90a364e10976bcc541a8d99c2/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "99a6b8fd062d9ae2feab3f75ef0279d3:1e62605d69d5fd1aa2b38684644a146a"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/t71pl7epzb/out/v1/5e43a94e688d4cd3b1255f2e8fd5a29d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "99a6b8fd062d9ae2feab3f75ef0279d3:1e62605d69d5fd1aa2b38684644a146a"
-        }
-      ],
-      "id": "evt_c611483f4932",
-      "isHot": false
     },
     {
       "status": "LIVE",
