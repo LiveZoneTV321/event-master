@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:00:25 PM 19-11-2026",
-  "total_matches": 394,
+  "last_update_time": "08:10:15 PM 19-11-2026",
+  "total_matches": 393,
   "live_match": 17,
-  "upcoming_match": 340,
+  "upcoming_match": 339,
   "ended_match": 37,
   "sources": [
     "api1:events.json",
@@ -285,6 +285,30 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Saudi Arabia U17 Vs Uruguay U17",
+      "eventInfo": {
+        "teamA": "Saudi Arabia U17",
+        "teamB": "Uruguay U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/468403/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/37322/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "19/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f4ee2952aa57"
+    },
+    {
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Men's Asia Cup Vs Rising Stars 2026",
       "eventInfo": {
@@ -434,26 +458,25 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Saudi Arabia U17 Vs Uruguay U17",
+      "event_name": "Mozambique U17 Vs Denmark U17",
       "eventInfo": {
-        "teamA": "Saudi Arabia U17",
-        "teamB": "Uruguay U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/468403/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/37322/image",
+        "teamA": "Mozambique U17",
+        "teamB": "Denmark U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1126751/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22597/image",
         "eventName": "U17 World Championship",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "19/11/2026 08:00:00 PM"
+        "startTime": "19/11/2026 09:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "D SPORTS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
         }
       ],
       "isHot": false,
-      "id": "evt_f4ee2952aa57"
+      "id": "evt_7220cc62dc9e"
     },
     {
       "status": "LIVE",
@@ -529,52 +552,6 @@
         }
       ],
       "id": "evt_c611483f4932",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Bangladesh A Vs Hong Kong, China",
-      "eventInfo": {
-        "teamA": "Bangladesh A",
-        "teamB": "Hong Kong, China",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4765/image",
-        "eventName": "ACC Emerging Teams Asia Cup",
-        "event_logo": "",
-        "startTime": "19/11/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "hd quality",
-          "stream_url": "https://dai.google.com/linear/hls/event/7cIN-VbvRemT_Gc-OWNing/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "t sports hd",
-          "stream_url": "https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "sonyliv - aq",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795110383~acl=/*~id=48069623606989697975643132091407~hmac=d32366d25b041daf844ab1cd04a2155110b012f1fb87cd41638ef4128e5d9136",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "PRIME VIDEO",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6re2sw5cd/out/v1/8e8f93ec4fe2435c885a283151852080/cenc.mpd",
-          "referer": "https://www.primevideo.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "6300bd600d0c9e459bd1a3d023e2270d:edf53fad044c43f8aae91ad2576cccfd"
-        },
-        {
-          "channel_name": "sony",
-          "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8",
-          "referer": "https://www.sonyliv.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_6ed2d385969a",
       "isHot": false
     },
     {
@@ -1006,29 +983,6 @@
       ],
       "isHot": false,
       "id": "evt_3a5896547d78"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Mozambique U17 Vs Denmark U17",
-      "eventInfo": {
-        "teamA": "Mozambique U17",
-        "teamB": "Denmark U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1126751/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22597/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "19/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_7220cc62dc9e"
     },
     {
       "status": "UPCOMING",
