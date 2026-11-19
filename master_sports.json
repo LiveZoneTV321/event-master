@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:00:29 PM 19-11-2026",
-  "total_matches": 361,
-  "live_match": 9,
-  "upcoming_match": 338,
-  "ended_match": 14,
+  "last_update_time": "10:10:14 PM 19-11-2026",
+  "total_matches": 364,
+  "live_match": 8,
+  "upcoming_match": 341,
+  "ended_match": 15,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -53,32 +53,56 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "South Korea U17 Vs Uganda U17",
+      "event_name": "Argentina U17 Vs Australia U17",
       "eventInfo": {
-        "teamA": "South Korea U17",
-        "teamB": "Uganda U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22652/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1077159/image",
+        "teamA": "Argentina U17",
+        "teamB": "Australia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22576/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22578/image",
         "eventName": "U17 World Championship",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "19/11/2026 07:30:00 PM"
+        "startTime": "19/11/2026 10:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/FYYYSS.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/FYYYSS.m3u8",
+          "channel_name": "QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/XAXAXA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_c678f24e452a"
+      "id": "evt_804c1181ecc5"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Egypt U17 Vs Greece U17",
+      "eventInfo": {
+        "teamA": "Egypt U17",
+        "teamB": "Greece U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/216077/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22607/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "19/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/XAXAXAX.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/XAXAXAX.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_211f773a3f4b"
     },
     {
       "status": "LIVE",
@@ -197,52 +221,6 @@
       ],
       "isHot": false,
       "id": "evt_3a99c82584cc"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Argentina U17 Vs Australia U17",
-      "eventInfo": {
-        "teamA": "Argentina U17",
-        "teamB": "Australia U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22576/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22578/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "19/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_804c1181ecc5"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Egypt U17 Vs Greece U17",
-      "eventInfo": {
-        "teamA": "Egypt U17",
-        "teamB": "Greece U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/216077/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22607/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "19/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_211f773a3f4b"
     },
     {
       "status": "LIVE",
@@ -1444,6 +1422,17 @@
       },
       "streams": [
         {
+          "channel_name": "FANCODE1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "FANCODE2 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
           "channel_name": "SERVER + LIVE",
           "stream_url": "http://162.251.160.53:8089/prime_us_b0hnpy3p65/index.m3u8"
         }
@@ -1495,6 +1484,17 @@
           "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
         },
         {
+          "channel_name": "FANCODE1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "FANCODE2 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
           "channel_name": "SERVER + LIVE",
           "stream_url": "http://162.251.160.53:8089/prime_us_b0hqz3cnfh/index.m3u8"
         }
@@ -1523,6 +1523,57 @@
       ],
       "isHot": false,
       "id": "evt_a112955be7f6"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Club Atlético Peñarol Vs Cerro Largo",
+      "eventInfo": {
+        "teamA": "Club Atlético Peñarol",
+        "teamB": "Cerro Largo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3227/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/25009/image",
+        "eventName": "Liga AUF Uruguaya",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/278/image/dark",
+        "startTime": "20/11/2026 01:30:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_390c9e4aab8c"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Progreso Vs Montevideo City Torque",
+      "eventInfo": {
+        "teamA": "Progreso",
+        "teamB": "Montevideo City Torque",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3238/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174972/image",
+        "eventName": "Liga AUF Uruguaya",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/278/image/dark",
+        "startTime": "20/11/2026 01:30:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_b3e77b41d858"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Boston River Vs Deportivo Maldonado",
+      "eventInfo": {
+        "teamA": "Boston River",
+        "teamB": "Deportivo Maldonado",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174970/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3234/image",
+        "eventName": "Liga AUF Uruguaya",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/278/image/dark",
+        "startTime": "20/11/2026 01:30:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_97955fd89c3c"
     },
     {
       "status": "UPCOMING",
@@ -7068,6 +7119,36 @@
       ],
       "isHot": false,
       "id": "evt_e3198523a08b"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "South Korea U17 Vs Uganda U17",
+      "eventInfo": {
+        "teamA": "South Korea U17",
+        "teamB": "Uganda U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22652/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1077159/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "19/11/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/FYYYSS.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/FYYYSS.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c678f24e452a"
     },
     {
       "status": "ENDED",
