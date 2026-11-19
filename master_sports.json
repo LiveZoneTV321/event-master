@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:50:13 PM 19-11-2026",
+  "last_update_time": "02:00:23 PM 19-11-2026",
   "total_matches": 393,
   "live_match": 8,
   "upcoming_match": 351,
@@ -393,6 +393,19 @@
         {
           "channel_name": "sonyliv - aq",
           "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795110383~acl=/*~id=48069623606989697975643132091407~hmac=d32366d25b041daf844ab1cd04a2155110b012f1fb87cd41638ef4128e5d9136",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "PRIME VIDEO",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6re2sw5cd/out/v1/8e8f93ec4fe2435c885a283151852080/cenc.mpd",
+          "referer": "https://www.primevideo.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "6300bd600d0c9e459bd1a3d023e2270d:edf53fad044c43f8aae91ad2576cccfd"
+        },
+        {
+          "channel_name": "sony",
+          "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8",
+          "referer": "https://www.sonyliv.com/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
