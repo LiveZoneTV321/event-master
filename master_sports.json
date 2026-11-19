@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:30:23 AM 19-11-2026",
+  "last_update_time": "07:40:25 AM 19-11-2026",
   "total_matches": 372,
   "live_match": 21,
-  "upcoming_match": 325,
-  "ended_match": 26,
+  "upcoming_match": 324,
+  "ended_match": 27,
   "sources": [
     "api1:events.json",
     "api2:Sports_data.json"
@@ -195,41 +195,6 @@
       ],
       "isHot": false,
       "id": "evt_83b6d09380e6"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Remo Vs Chapecoense",
-      "eventInfo": {
-        "teamA": "Remo",
-        "teamB": "Chapecoense",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2012/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21845/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "19/11/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001795033566-0-0-05540b5e6d882df1abb9212658964a8c",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_30d5768bc8af"
     },
     {
       "status": "LIVE",
@@ -709,6 +674,35 @@
       ],
       "isHot": false,
       "id": "evt_b034ae775fbe"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Denver Nuggets Vs Boston Celtics",
+      "eventInfo": {
+        "teamA": "Denver Nuggets",
+        "teamB": "Boston Celtics",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "19/11/2026 08:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/GYYYAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_47ece704c302"
     },
     {
       "status": "LIVE",
@@ -1268,35 +1262,6 @@
       ],
       "isHot": false,
       "id": "evt_c678f24e452a"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Denver Nuggets Vs Boston Celtics",
-      "eventInfo": {
-        "teamA": "Denver Nuggets",
-        "teamB": "Boston Celtics",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "19/11/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/GYYYAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_47ece704c302"
     },
     {
       "status": "UPCOMING",
@@ -7360,6 +7325,41 @@
       ],
       "isHot": false,
       "id": "evt_a92695f3dcb4"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Remo Vs Chapecoense",
+      "eventInfo": {
+        "teamA": "Remo",
+        "teamB": "Chapecoense",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "19/11/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001795033566-0-0-05540b5e6d882df1abb9212658964a8c",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_30d5768bc8af"
     },
     {
       "status": "ENDED",
