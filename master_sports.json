@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:10:12 PM 19-11-2026",
+  "last_update_time": "01:20:11 PM 19-11-2026",
   "total_matches": 393,
   "live_match": 7,
   "upcoming_match": 351,
@@ -333,6 +333,11 @@
         {
           "channel_name": "hd quality",
           "stream_url": "https://dai.google.com/linear/hls/event/7cIN-VbvRemT_Gc-OWNing/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "t sports hd",
+          "stream_url": "https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
