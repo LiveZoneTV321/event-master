@@ -1,9 +1,9 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:40:14 PM 19-11-2026",
-  "total_matches": 396,
-  "live_match": 19,
+  "last_update_time": "07:50:21 PM 19-11-2026",
+  "total_matches": 394,
+  "live_match": 17,
   "upcoming_match": 340,
   "ended_match": 37,
   "sources": [
@@ -140,24 +140,6 @@
           "channel_name": "WILLOW ALT",
           "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd",
           "drm_key": "15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aswpco86fq/out/v1/4e6a45a7f0b14c7dad7c57d03b80b638/cenc.mpd"
-        },
-        {
-          "channel_name": "Tapmad - (bd)",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -476,48 +458,6 @@
     {
       "status": "LIVE",
       "Category": "Cricket",
-      "event_name": "Brisbane Heat Women Vs Sydney Thunder Women",
-      "eventInfo": {
-        "teamA": "Brisbane Heat Women",
-        "teamB": "Sydney Thunder Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274884/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274889/image",
-        "eventName": "Womens Big Bash League 2026 - 27th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "19/11/2026 02:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "EUROSPORT FHD",
-          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
-        },
-        {
-          "channel_name": "Tapmad - (bd)",
-          "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ayg6j8yw1b/out/v1/e02856592bc44834b4edda32878b485a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "b06dc5848ef623a1ed1bc7c2900007d9:d62ffeb4061bb0bd7f11164761ea694a"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ayg6j8yw1b/out/v1/e02856592bc44834b4edda32878b485a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "b06dc5848ef623a1ed1bc7c2900007d9:d62ffeb4061bb0bd7f11164761ea694a"
-        }
-      ],
-      "id": "evt_055ee61ca325",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
       "event_name": "Sudurpaschim Royals Vs Chitwan Rhinos",
       "eventInfo": {
         "teamA": "Sudurpaschim Royals",
@@ -553,47 +493,6 @@
     {
       "status": "LIVE",
       "Category": "Cricket",
-      "event_name": "UAE Bulls Vs Arabian Aces",
-      "eventInfo": {
-        "teamA": "UAE Bulls",
-        "teamB": "Arabian Aces",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/78.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-        "eventName": "Abu Dhabi T10 League 2026 - 28th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-        "startTime": "19/11/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "a sports fhd",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oxdfwbm9bd/out/v1/58ee6ff8cf414cd0ac3bf08b8859d811/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "b51f981b4a44e1b874a7958276b765d6:bc42638f3ec4d015524143a6d40ebfd5"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oxdfwbm9bd/out/v1/58ee6ff8cf414cd0ac3bf08b8859d811/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "b51f981b4a44e1b874a7958276b765d6:bc42638f3ec4d015524143a6d40ebfd5"
-        }
-      ],
-      "id": "evt_b4c484eacaad",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
       "event_name": "Yas Lions Vs Royal Desert Champions",
       "eventInfo": {
         "teamA": "Yas Lions",
@@ -615,6 +514,18 @@
           "channel_name": "a sports fhd",
           "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/onhhok4gqg/out/v1/b286f1b90a364e10976bcc541a8d99c2/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "99a6b8fd062d9ae2feab3f75ef0279d3:1e62605d69d5fd1aa2b38684644a146a"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/t71pl7epzb/out/v1/5e43a94e688d4cd3b1255f2e8fd5a29d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "99a6b8fd062d9ae2feab3f75ef0279d3:1e62605d69d5fd1aa2b38684644a146a"
         }
       ],
       "id": "evt_c611483f4932",
