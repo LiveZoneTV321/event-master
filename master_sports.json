@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:30:18 AM 19-11-2026",
-  "total_matches": 372,
+  "last_update_time": "08:40:21 AM 19-11-2026",
+  "total_matches": 378,
   "live_match": 22,
-  "upcoming_match": 321,
+  "upcoming_match": 327,
   "ended_match": 29,
   "sources": [
     "api1:events.json",
@@ -71,6 +71,11 @@
           "channel_name": "WILLOW SPORTS FHD",
           "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd",
           "drm_key": "52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09"
+        },
+        {
+          "channel_name": "PRIME HINDI FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0lonhyyw8/out/v1/78b4a726b305427eb3b8ef5091a28248/cenc.mpd",
+          "drm_key": "5801083a51ccd36670a5cb811543371b:11461d09a300bb9c72364dbc0745ba54"
         },
         {
           "channel_name": "SonyLiv ENG FHD",
@@ -180,6 +185,40 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
+      "event_name": "Denver Nuggets Vs Boston Celtics",
+      "eventInfo": {
+        "teamA": "Denver Nuggets",
+        "teamB": "Boston Celtics",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "19/11/2026 08:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60439/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/GYYYAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SERVER + LIVE",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60438/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_47ece704c302"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
       "event_name": "Dallas Mavericks Vs Golden State Warriors",
       "eventInfo": {
         "teamA": "Dallas Mavericks",
@@ -193,7 +232,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60425/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -201,6 +240,16 @@
           "stream_url": "http://193.47.62.50/hls/KTTTA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SERVER + LIVE 1",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60412/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SERVER + LIVE",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60426/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
@@ -261,7 +310,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60429/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -269,6 +318,11 @@
           "stream_url": "http://193.47.62.55/hls/KTTTAAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SERVER + LIVE",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60414/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
@@ -324,7 +378,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60416/load-playlist-multi?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -377,7 +431,7 @@
         },
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60420/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -385,6 +439,16 @@
           "stream_url": "http://193.47.62.59/hls/GYYYAAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SERVER + LIVE 1",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60403/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SERVER + LIVE",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60421/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
@@ -406,7 +470,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60423/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
@@ -414,6 +478,11 @@
           "stream_url": "http://193.47.62.44/hls/GYYYA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SERVER + LIVE",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60409/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
@@ -601,40 +670,6 @@
       ],
       "isHot": false,
       "id": "evt_b034ae775fbe"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Denver Nuggets Vs Boston Celtics",
-      "eventInfo": {
-        "teamA": "Denver Nuggets",
-        "teamB": "Boston Celtics",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "19/11/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60439/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/GYYYAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SERVER + LIVE",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60438/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_47ece704c302"
     },
     {
       "status": "LIVE",
@@ -1294,6 +1329,190 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "Argentina U17 Vs Australia U17",
+      "eventInfo": {
+        "teamA": "Argentina U17",
+        "teamB": "Australia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22576/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22578/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "19/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_804c1181ecc5"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Egypt U17 Vs Greece U17",
+      "eventInfo": {
+        "teamA": "Egypt U17",
+        "teamB": "Greece U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/216077/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22607/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "19/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_211f773a3f4b"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Qatar U17 Vs Panama U17",
+      "eventInfo": {
+        "teamA": "Qatar U17",
+        "teamB": "Panama U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/468401/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/48866/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "19/11/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3a5896547d78"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Mozambique U17 Vs Denmark U17",
+      "eventInfo": {
+        "teamA": "Mozambique U17",
+        "teamB": "Denmark U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1126751/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22597/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "19/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7220cc62dc9e"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Saudi Arabia U17 Vs Uruguay U17",
+      "eventInfo": {
+        "teamA": "Saudi Arabia U17",
+        "teamB": "Uruguay U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/468403/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/37322/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "19/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f4ee2952aa57"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Vasco da Gama Vs Internacional",
+      "eventInfo": {
+        "teamA": "Vasco da Gama",
+        "teamB": "Internacional",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "20/11/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f59abd4d21d9"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Vitória Vs Red Bull Bragantino",
+      "eventInfo": {
+        "teamA": "Vitória",
+        "teamB": "Red Bull Bragantino",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1962/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "20/11/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_cd1447e2aa58"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "São Paulo Vs Fluminense",
+      "eventInfo": {
+        "teamA": "São Paulo",
+        "teamB": "Fluminense",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "20/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_6f80a0e37d08"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "Paris FC (W) Vs Koge (W)",
       "eventInfo": {
         "teamA": "Paris FC (W)",
@@ -1413,23 +1632,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Vitoria Vs Red Bull Bragantino",
-      "eventInfo": {
-        "teamA": "Vitoria",
-        "teamB": "Red Bull Bragantino",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1962/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
-        "eventName": "Brasileirão Série A",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-        "startTime": "20/11/2026 04:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_a9c87e078f75",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Vasco Vs SC Internacional",
       "eventInfo": {
         "teamA": "Vasco",
@@ -1442,23 +1644,6 @@
       },
       "streams": [],
       "id": "evt_6f68f0c64b9e",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "São Paulo Vs Fluminense",
-      "eventInfo": {
-        "teamA": "São Paulo",
-        "teamB": "Fluminense",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image",
-        "eventName": "Brasileirão Série A",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-        "startTime": "20/11/2026 06:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_7913c2508cce",
       "isHot": false
     },
     {
