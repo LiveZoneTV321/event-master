@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:00:30 PM 19-11-2026",
+  "last_update_time": "06:10:12 PM 19-11-2026",
   "total_matches": 396,
-  "live_match": 15,
-  "upcoming_match": 346,
+  "live_match": 17,
+  "upcoming_match": 344,
   "ended_match": 35,
   "sources": [
     "api1:events.json",
@@ -266,23 +266,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Other",
-      "event_name": "Badminton Hong Kong Open Vs Badminton Hong Kong Open",
-      "eventInfo": {
-        "teamA": "Badminton Hong Kong Open",
-        "teamB": "Badminton Hong Kong Open",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYT5nFj3JypI0tf8ekjCPlSCsdizwBeMDz5nWNcc7lag&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYT5nFj3JypI0tf8ekjCPlSCsdizwBeMDz5nWNcc7lag&s=10",
-        "eventName": "Badminton Hong Kong Open",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYT5nFj3JypI0tf8ekjCPlSCsdizwBeMDz5nWNcc7lag&s=10",
-        "startTime": "19/11/2026 12:00:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_b4d08ffbd064"
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "⚽ AFC Awards 2026 Vs ⚽ AFC Awards 2026",
       "eventInfo": {
@@ -303,6 +286,23 @@
       ],
       "isHot": false,
       "id": "evt_3a99c82584cc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "Badminton Hong Kong Open Vs Badminton Hong Kong Open",
+      "eventInfo": {
+        "teamA": "Badminton Hong Kong Open",
+        "teamB": "Badminton Hong Kong Open",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYT5nFj3JypI0tf8ekjCPlSCsdizwBeMDz5nWNcc7lag&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYT5nFj3JypI0tf8ekjCPlSCsdizwBeMDz5nWNcc7lag&s=10",
+        "eventName": "Badminton Hong Kong Open",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYT5nFj3JypI0tf8ekjCPlSCsdizwBeMDz5nWNcc7lag&s=10",
+        "startTime": "19/11/2026 12:00:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_b4d08ffbd064"
     },
     {
       "status": "LIVE",
@@ -337,36 +337,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Công An Hà Nội Vs Johor Darul Ta'zim",
-      "eventInfo": {
-        "teamA": "Công An Hà Nội",
-        "teamB": "Johor Darul Ta'zim",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/193616/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3327/image",
-        "eventName": "ASEAN Club Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/28308/image/dark",
-        "startTime": "19/11/2026 06:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/BBBBAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/BBBBAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b725c7510239"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Persib Bandung Vs Shan United",
       "eventInfo": {
         "teamA": "Persib Bandung",
@@ -393,6 +363,95 @@
       ],
       "isHot": false,
       "id": "evt_9b562f9cff8e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "New Caledonia U17 Vs Ecuador U17",
+      "eventInfo": {
+        "teamA": "New Caledonia U17",
+        "teamB": "Ecuador U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/265146/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/48835/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "19/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/FYYYS.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/FYYYS.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a665ed5b51d4"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "France U17 Vs Haiti U17",
+      "eventInfo": {
+        "teamA": "France U17",
+        "teamB": "Haiti U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22474/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/190706/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "19/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/FYYY.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e3198523a08b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Công An Hà Nội Vs Johor Darul Ta'zim",
+      "eventInfo": {
+        "teamA": "Công An Hà Nội",
+        "teamB": "Johor Darul Ta'zim",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/193616/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3327/image",
+        "eventName": "ASEAN Club Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/28308/image/dark",
+        "startTime": "19/11/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/BBBBAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/BBBBAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b725c7510239"
     },
     {
       "status": "LIVE",
@@ -957,65 +1016,6 @@
       ],
       "isHot": false,
       "id": "evt_b658c4c69c21"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "New Caledonia U17 Vs Ecuador U17",
-      "eventInfo": {
-        "teamA": "New Caledonia U17",
-        "teamB": "Ecuador U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/265146/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/48835/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "19/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/FYYYS.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/FYYYS.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a665ed5b51d4"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "France U17 Vs Haiti U17",
-      "eventInfo": {
-        "teamA": "France U17",
-        "teamB": "Haiti U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22474/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/190706/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "19/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/FYYY.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e3198523a08b"
     },
     {
       "status": "UPCOMING",
