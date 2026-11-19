@@ -842,7 +842,6 @@ def main():
             "live_match": live,
             "upcoming_match": upcoming,
             "ended_match": ended,
-            "sources": ["api1:events.json", "api2:Sports_data.json"],
             "matches": merged,
         }
 
