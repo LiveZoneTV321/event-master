@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:20:13 PM 19-11-2026",
+  "last_update_time": "12:30:19 PM 19-11-2026",
   "total_matches": 390,
-  "live_match": 6,
-  "upcoming_match": 348,
+  "live_match": 7,
+  "upcoming_match": 347,
   "ended_match": 36,
   "sources": [
     "api1:events.json",
@@ -254,6 +254,42 @@
       ],
       "isHot": false,
       "id": "evt_ec166783663a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Hobart Hurricanes Women Vs Perth Scorchers Women",
+      "eventInfo": {
+        "teamA": "Hobart Hurricanes Women",
+        "teamB": "Perth Scorchers Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274885/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274890/image",
+        "eventName": "Womens Big Bash League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "19/11/2026 10:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "6f87f49f1a51b9c8d7d11a23c3f207ef:0fdd85e00b98637bb97e1b6b319d2be9"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "6f87f49f1a51b9c8d7d11a23c3f207ef:0fdd85e00b98637bb97e1b6b319d2be9"
+        }
+      ],
+      "id": "evt_daf6e89e97bd",
+      "isHot": false
     },
     {
       "status": "LIVE",
@@ -1538,23 +1574,6 @@
       },
       "streams": [],
       "id": "evt_5c8aa237bde9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Hobart Hurricanes Women Vs Perth Scorchers Women",
-      "eventInfo": {
-        "teamA": "Hobart Hurricanes Women",
-        "teamB": "Perth Scorchers Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274885/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274890/image",
-        "eventName": "Womens Big Bash League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "19/11/2026 02:40:00 PM"
-      },
-      "streams": [],
-      "id": "evt_daf6e89e97bd",
       "isHot": false
     },
     {
