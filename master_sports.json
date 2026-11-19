@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:40:14 PM 19-11-2026",
+  "last_update_time": "11:50:13 PM 19-11-2026",
   "total_matches": 364,
-  "live_match": 7,
-  "upcoming_match": 339,
+  "live_match": 8,
+  "upcoming_match": 338,
   "ended_match": 18,
   "matches": [
     {
@@ -196,6 +196,18 @@
         {
           "channel_name": "SERVER + LIVE",
           "stream_url": "http://162.251.160.53:8089/prime_us_b0hm6sqrcg/index.m3u8"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001795109033-0-0-7b187dffde7982493bd7fec82c7fb087",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -233,6 +245,42 @@
       ],
       "isHot": false,
       "id": "evt_a112955be7f6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Austria Wien (W) Vs Bayern München (W)",
+      "eventInfo": {
+        "teamA": "Austria Wien (W)",
+        "teamB": "Bayern München (W)",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2203/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
+        "startTime": "19/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001795108991-0-0-71f375ef7afb2f08017c7c857bf64474",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "http://193.47.62.41/hls/RARARADA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_5c8aa237bde9",
+      "isHot": false
     },
     {
       "status": "LIVE",
@@ -1550,23 +1598,6 @@
       "streams": [],
       "isHot": false,
       "id": "evt_97955fd89c3c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Austria Wien (W) Vs Bayern München (W)",
-      "eventInfo": {
-        "teamA": "Austria Wien (W)",
-        "teamB": "Bayern München (W)",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2203/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-        "startTime": "19/11/2026 11:45:00 PM"
-      },
-      "streams": [],
-      "id": "evt_5c8aa237bde9",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
