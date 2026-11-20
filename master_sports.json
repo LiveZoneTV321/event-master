@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:00:36 PM 20-11-2026",
-  "total_matches": 424,
+  "last_update_time": "07:10:16 PM 20-11-2026",
+  "total_matches": 425,
   "live_match": 15,
   "upcoming_match": 398,
-  "ended_match": 11,
+  "ended_match": 12,
   "matches": [
     {
       "status": "LIVE",
@@ -175,175 +175,6 @@
     {
       "status": "LIVE",
       "Category": "Cricket",
-      "event_name": "New Zealand Vs India",
-      "eventInfo": {
-        "teamA": "New Zealand",
-        "teamB": "India",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "eventName": "One Day International",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "20/11/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd",
-          "drm_key": "766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "PRIME ENG FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2crmhngewx/out/v1/7005e762d047462aa11136773a136dfa/cenc.mpd?",
-          "drm_key": "ebc640cb03dbdf8677190f7e4b2e96b0:7ab2c0204d41d1eefeca0cc04622c4cc"
-        },
-        {
-          "channel_name": "PRIME HINDI FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m0edrlrm8n/out/v1/769e4d71dfec4c4cb8189a0bf5051266/cenc.mpd?",
-          "drm_key": "080deb5f5141f1274093066904865667:af9d012f808345520ac2d3b2cc9026de"
-        },
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/qaqaqa.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "sonyliv - (eng)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "sonyliv - (hin)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "sonyliv - (tam)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "sonyliv - (tel)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "sonyliv - (kan)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09"
-        },
-        {
-          "channel_name": "Tapmad - (bd)",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0"
-        },
-        {
-          "channel_name": "sonyliv - (eng)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795171013~acl=/*~id=68126545528539076359584904735112~hmac=84068abf23168c8c6f8cad46ce59b7ef54a94044256453891210ded040e0ef85",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "sonyliv - (hin)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1911/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795171013~acl=/*~id=68126545528539076359584904735112~hmac=84068abf23168c8c6f8cad46ce59b7ef54a94044256453891210ded040e0ef85",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "sonyliv - (tam)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1911/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795171013~acl=/*~id=68126545528539076359584904735112~hmac=84068abf23168c8c6f8cad46ce59b7ef54a94044256453891210ded040e0ef85",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "sonyliv - (tel)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1911/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795171013~acl=/*~id=68126545528539076359584904735112~hmac=84068abf23168c8c6f8cad46ce59b7ef54a94044256453891210ded040e0ef85",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "sonyliv - (kan)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1911/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795171013~acl=/*~id=68126545528539076359584904735112~hmac=84068abf23168c8c6f8cad46ce59b7ef54a94044256453891210ded040e0ef85",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f9521ce2453e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Pakistan Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "Pakistan",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "ICC World Test Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-        "startTime": "20/11/2026 10:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rga2lws43c/out/v1/1d31ca47c2e24339bb6a939c28924550/cenc.mpd",
-          "drm_key": "d129d1272d5a71f72a74839d021c46a6:b357d476f2f374c66dff8fa650df717b"
-        },
-        {
-          "channel_name": "T SPORTS HD",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8?",
-          "referer": "https://tapmad.com/"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live.msnetworks.net/ptv-sports/master.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/RREGEGE.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rga2lws43c/out/v1/1d31ca47c2e24339bb6a939c28924550/cenc.mpd",
-          "drm_key": "d129d1272d5a71f72a74839d021c46a6:b357d476f2f374c66dff8fa650df717b"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ef30158142c8"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
       "event_name": "Men's Asia Cup Vs Rising Stars 2026",
       "eventInfo": {
         "teamA": "Men's Asia Cup",
@@ -411,92 +242,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "UEFA Nations League Vs UEFA Nations League",
-      "eventInfo": {
-        "teamA": "UEFA Nations League",
-        "teamB": "UEFA Nations League",
-        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "eventName": "UEFA Nations League Draw",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "startTime": "20/11/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_2f11b405d56d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE",
-      "eventInfo": {
-        "teamA": "ABU DHABI T10 LEAGUE",
-        "teamB": "ABU DHABI T10 LEAGUE",
-        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "eventName": "ABU DHABI T10 LEAGUE",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "startTime": "20/11/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd",
-          "drm_key": "b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044"
-        },
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8eb0a1acb4eb"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Mali U17 Vs New Zealand U17",
-      "eventInfo": {
-        "teamA": "Mali U17",
-        "teamB": "New Zealand U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/203876/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22634/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "20/11/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ed3049959a6a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Belgium U17 Vs Vietnam U17",
       "eventInfo": {
         "teamA": "Belgium U17",
@@ -513,6 +258,12 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/RYYYAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 1",
@@ -572,9 +323,15 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/RYYYAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 1",
@@ -613,6 +370,146 @@
       ],
       "isHot": false,
       "id": "evt_79e9a6de298e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Polisi Tanzania Vs Young Africans",
+      "eventInfo": {
+        "teamA": "Polisi Tanzania",
+        "teamB": "Young Africans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/327300/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/134320/image",
+        "eventName": "Tanzania Ligi Kuu Bara",
+        "event_logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+        "startTime": "20/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.44/hls/HHHH.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_afc09f122f56"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE",
+      "eventInfo": {
+        "teamA": "ABU DHABI T10 LEAGUE",
+        "teamB": "ABU DHABI T10 LEAGUE",
+        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "eventName": "ABU DHABI T10 LEAGUE",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "startTime": "20/11/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd",
+          "drm_key": "b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044"
+        },
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8eb0a1acb4eb"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Mali U17 Vs New Zealand U17",
+      "eventInfo": {
+        "teamA": "Mali U17",
+        "teamB": "New Zealand U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/203876/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22634/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "20/11/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/RUUU.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/RUUU.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ed3049959a6a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Spain U17 Vs China U17",
+      "eventInfo": {
+        "teamA": "Spain U17",
+        "teamB": "China U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22479/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/468402/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "20/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_dbb13dad1dce"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "India U17 Vs Malaysia U17",
+      "eventInfo": {
+        "teamA": "India U17",
+        "teamB": "Malaysia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/233785/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/468398/image",
+        "eventName": "AFC U17 Asian Cup Qualification",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23981/image/dark",
+        "startTime": "20/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3d31220ecc9b"
     },
     {
       "status": "LIVE",
@@ -868,6 +765,132 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
+      "event_name": "New Zealand Vs India",
+      "eventInfo": {
+        "teamA": "New Zealand",
+        "teamB": "India",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "eventName": "One Day International",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "21/11/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd",
+          "drm_key": "766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "PRIME ENG FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2crmhngewx/out/v1/7005e762d047462aa11136773a136dfa/cenc.mpd?",
+          "drm_key": "ebc640cb03dbdf8677190f7e4b2e96b0:7ab2c0204d41d1eefeca0cc04622c4cc"
+        },
+        {
+          "channel_name": "PRIME HINDI FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m0edrlrm8n/out/v1/769e4d71dfec4c4cb8189a0bf5051266/cenc.mpd?",
+          "drm_key": "080deb5f5141f1274093066904865667:af9d012f808345520ac2d3b2cc9026de"
+        },
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/qaqaqa.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (eng)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (hin)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (tam)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (tel)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (kan)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09"
+        },
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0"
+        },
+        {
+          "channel_name": "sonyliv - (eng)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795171013~acl=/*~id=68126545528539076359584904735112~hmac=84068abf23168c8c6f8cad46ce59b7ef54a94044256453891210ded040e0ef85",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (hin)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1911/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795171013~acl=/*~id=68126545528539076359584904735112~hmac=84068abf23168c8c6f8cad46ce59b7ef54a94044256453891210ded040e0ef85",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (tam)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1911/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795171013~acl=/*~id=68126545528539076359584904735112~hmac=84068abf23168c8c6f8cad46ce59b7ef54a94044256453891210ded040e0ef85",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (tel)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1911/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795171013~acl=/*~id=68126545528539076359584904735112~hmac=84068abf23168c8c6f8cad46ce59b7ef54a94044256453891210ded040e0ef85",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (kan)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1911/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795171013~acl=/*~id=68126545528539076359584904735112~hmac=84068abf23168c8c6f8cad46ce59b7ef54a94044256453891210ded040e0ef85",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f9521ce2453e"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
       "event_name": "Australia Vs England",
       "eventInfo": {
         "teamA": "Australia",
@@ -1052,29 +1075,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Spain U17 Vs China U17",
-      "eventInfo": {
-        "teamA": "Spain U17",
-        "teamB": "China U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22479/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/468402/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "20/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_dbb13dad1dce"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Côte d'Ivoire U17 Vs Uzbekistan U17",
       "eventInfo": {
         "teamA": "Côte d'Ivoire U17",
@@ -1163,29 +1163,6 @@
       ],
       "isHot": false,
       "id": "evt_cb9d139bdf47"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "India U17 Vs Malaysia U17",
-      "eventInfo": {
-        "teamA": "India U17",
-        "teamB": "Malaysia U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/233785/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/468398/image",
-        "eventName": "AFC U17 Asian Cup Qualification",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23981/image/dark",
-        "startTime": "20/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3d31220ecc9b"
     },
     {
       "status": "UPCOMING",
@@ -3586,6 +3563,23 @@
       },
       "streams": [],
       "id": "evt_7353bc01559b",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Pakistan Vs Sri Lanka",
+      "eventInfo": {
+        "teamA": "Pakistan",
+        "teamB": "Sri Lanka",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+        "eventName": "SL vs PAK, 2026 - 2nd Test, Day 5",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+        "startTime": "21/11/2026 10:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_6d699ebca661",
       "isHot": false
     },
     {
@@ -8457,6 +8451,29 @@
       "streams": [],
       "isHot": false,
       "id": "evt_61ea91429546"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "UEFA Nations League Vs UEFA Nations League",
+      "eventInfo": {
+        "teamA": "UEFA Nations League",
+        "teamB": "UEFA Nations League",
+        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "eventName": "UEFA Nations League Draw",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "startTime": "20/11/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_2f11b405d56d"
     },
     {
       "status": "ENDED",
