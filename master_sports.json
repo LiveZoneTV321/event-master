@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:30:23 PM 20-11-2026",
-  "total_matches": 376,
+  "last_update_time": "05:40:16 PM 20-11-2026",
+  "total_matches": 425,
   "live_match": 11,
-  "upcoming_match": 355,
-  "ended_match": 10,
+  "upcoming_match": 403,
+  "ended_match": 11,
   "matches": [
     {
       "status": "LIVE",
@@ -306,23 +306,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Cairns Taipans Vs Perth Wildcats",
-      "eventInfo": {
-        "teamA": "Cairns Taipans",
-        "teamB": "Perth Wildcats",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3604/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3609/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "20/11/2026 02:30:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_61ea91429546"
-    },
-    {
-      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Men's Asia Cup Vs Rising Stars 2026",
       "eventInfo": {
@@ -410,6 +393,43 @@
       ],
       "isHot": false,
       "id": "evt_2f11b405d56d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Boxing",
+      "event_name": "One Friday Fights Vs One Friday Fights",
+      "eventInfo": {
+        "teamA": "One Friday Fights",
+        "teamB": "One Friday Fights",
+        "teamAFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "teamBFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "eventName": "One Friday Fights",
+        "event_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+        "startTime": "20/11/2026 06:04:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server 1",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+          "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
+        },
+        {
+          "channel_name": "Server 2",
+          "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+          "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271"
+        },
+        {
+          "channel_name": "Server 3",
+          "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
+        },
+        {
+          "channel_name": "MMA Fighting",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59937/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_38747064c422"
     },
     {
       "status": "LIVE",
@@ -553,43 +573,6 @@
       ],
       "id": "evt_f13778a75223",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Boxing",
-      "event_name": "One Friday Fights Vs One Friday Fights",
-      "eventInfo": {
-        "teamA": "One Friday Fights",
-        "teamB": "One Friday Fights",
-        "teamAFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "teamBFlag": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "eventName": "One Friday Fights",
-        "event_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
-        "startTime": "20/11/2026 06:04:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server 1",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
-          "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
-        },
-        {
-          "channel_name": "Server 2",
-          "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
-          "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271"
-        },
-        {
-          "channel_name": "Server 3",
-          "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
-        },
-        {
-          "channel_name": "MMA Fighting",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59937/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_38747064c422"
     },
     {
       "status": "UPCOMING",
@@ -3586,6 +3569,23 @@
       },
       "streams": [],
       "id": "evt_3c5a2d1b5d1c",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Lumbini Lions Vs Sudurpaschim Royals",
+      "eventInfo": {
+        "teamA": "Lumbini Lions",
+        "teamB": "Sudurpaschim Royals",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/PS.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/ZY.png",
+        "eventName": "Nepal Premier League  - Final",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "startTime": "21/11/2026 05:15:00 PM"
+      },
+      "streams": [],
+      "id": "evt_28c7ef45428a",
       "isHot": false
     },
     {
@@ -7261,6 +7261,822 @@
       "isHot": false
     },
     {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Serbia U17 Vs Honduras U17",
+      "eventInfo": {
+        "teamA": "Serbia U17",
+        "teamB": "Honduras U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6355/image",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/2390",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "21/11/2026 06:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_efc67f16078f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Japan U17 Vs Colombia U17",
+      "eventInfo": {
+        "teamA": "Japan U17",
+        "teamB": "Colombia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4820/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "21/11/2026 06:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_8f5af2f369e0",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Tanzania U17 Vs Costa Rica U17",
+      "eventInfo": {
+        "teamA": "Tanzania U17",
+        "teamB": "Costa Rica U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4835/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4756/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "21/11/2026 07:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_ad8116e6c128",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Cameroon U17 Vs Venezuela U17",
+      "eventInfo": {
+        "teamA": "Cameroon U17",
+        "teamB": "Venezuela U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4751/image",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v13/Competitors/5072",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "21/11/2026 07:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_48355067f559",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Dom Rep U20 Vs Montenegro U17",
+      "eventInfo": {
+        "teamA": "Dom Rep U20",
+        "teamB": "Montenegro U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21813/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7139/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "21/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_5cb6ad98f4f4",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Brazil U17 Vs Ireland U17",
+      "eventInfo": {
+        "teamA": "Brazil U17",
+        "teamB": "Ireland U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4748/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4693/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "21/11/2026 09:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_73732f9dd86d",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Mexico U17 Vs Romania U17",
+      "eventInfo": {
+        "teamA": "Mexico U17",
+        "teamB": "Romania U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22629/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4477/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "21/11/2026 09:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_0c28409cd229",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Chile U17 Vs Algeria U17",
+      "eventInfo": {
+        "teamA": "Chile U17",
+        "teamB": "Algeria U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4754/image",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5109",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "21/11/2026 09:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_71f89d04563e",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Greece U17 Vs Panama U17",
+      "eventInfo": {
+        "teamA": "Greece U17",
+        "teamB": "Panama U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4710/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/48866/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "22/11/2026 06:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_94d3cf95971c",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Denmark U17 Vs Australia U17",
+      "eventInfo": {
+        "teamA": "Denmark U17",
+        "teamB": "Australia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4476/image",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2380",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "22/11/2026 06:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_463b10319bef",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "France U17 Vs Saudi Arabia U17",
+      "eventInfo": {
+        "teamA": "France U17",
+        "teamB": "Saudi Arabia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4481/image",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5087",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "22/11/2026 07:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_a2079f138d0c",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "South Korea U17 Vs New Caledonia U17",
+      "eventInfo": {
+        "teamA": "South Korea U17",
+        "teamB": "New Caledonia U17",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2383",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/265146/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "22/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_daadc98018e0",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Qatar U17 Vs Egypt U17",
+      "eventInfo": {
+        "teamA": "Qatar U17",
+        "teamB": "Egypt U17",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5079",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4758/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "22/11/2026 09:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_46a6feb89397",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Uruguay U17 Vs Haiti U17",
+      "eventInfo": {
+        "teamA": "Uruguay U17",
+        "teamB": "Haiti U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4725/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/190706/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "22/11/2026 09:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_a47c87b3e566",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Ecuador U17 Vs Mozambique U17",
+      "eventInfo": {
+        "teamA": "Ecuador U17",
+        "teamB": "Mozambique U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4757/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4783/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "22/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_4ea0a8bc3521",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Argentina U17 Vs Uganda U17",
+      "eventInfo": {
+        "teamA": "Argentina U17",
+        "teamB": "Uganda U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4726/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "22/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_4ae99b93be0c",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Tajikistan U17 Vs Croatia U17",
+      "eventInfo": {
+        "teamA": "Tajikistan U17",
+        "teamB": "Croatia U17",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8581",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4715/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "23/11/2026 06:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_78c7d6ff4f56",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Spain U17 Vs Fiji U17",
+      "eventInfo": {
+        "teamA": "Spain U17",
+        "teamB": "Fiji U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1096685/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "23/11/2026 06:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_7adfacc2102f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Uzbekistan U17 Vs Jamaica U17",
+      "eventInfo": {
+        "teamA": "Uzbekistan U17",
+        "teamB": "Jamaica U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4723/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/48966/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "23/11/2026 07:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_b72f157c0ec6",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Senegal U17 Vs Cuba U17",
+      "eventInfo": {
+        "teamA": "Senegal U17",
+        "teamB": "Cuba U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4739/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/190704/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "23/11/2026 07:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_897959d00ffc",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Italy U17 Vs Ivory Coast U17",
+      "eventInfo": {
+        "teamA": "Italy U17",
+        "teamB": "Ivory Coast U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4707/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4768/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "23/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_fd56ab9fcabe",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Morocco U17 Vs China U17",
+      "eventInfo": {
+        "teamA": "Morocco U17",
+        "teamB": "China U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4778/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4755/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "23/11/2026 09:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_705e470b41db",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Mali U17 Vs Belgium U17",
+      "eventInfo": {
+        "teamA": "Mali U17",
+        "teamB": "Belgium U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4831/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "23/11/2026 09:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_1f68e2396577",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Vietnam U17 Vs New Zealand U17",
+      "eventInfo": {
+        "teamA": "Vietnam U17",
+        "teamB": "New Zealand U17",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5462",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "23/11/2026 09:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_9d9a05dd9f2d",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Costa Rica U17 Vs Ireland U17",
+      "eventInfo": {
+        "teamA": "Costa Rica U17",
+        "teamB": "Ireland U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4756/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4693/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "24/11/2026 06:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_970dcb36c547",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Venezuela U17 Vs Romania U17",
+      "eventInfo": {
+        "teamA": "Venezuela U17",
+        "teamB": "Romania U17",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v13/Competitors/5072",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4477/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "24/11/2026 06:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_b5ce833a5774",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Japan U17 Vs Serbia U17",
+      "eventInfo": {
+        "teamA": "Japan U17",
+        "teamB": "Serbia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6355/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "24/11/2026 07:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_2ae63ac12590",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Mexico U17 Vs Cameroon U17",
+      "eventInfo": {
+        "teamA": "Mexico U17",
+        "teamB": "Cameroon U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4751/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "24/11/2026 07:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_bf7fb48448db",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Dom Rep U20 Vs Chile U17",
+      "eventInfo": {
+        "teamA": "Dom Rep U20",
+        "teamB": "Chile U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21813/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4754/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "24/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_7b9d9d884c96",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Brazil U17 Vs Tanzania U17",
+      "eventInfo": {
+        "teamA": "Brazil U17",
+        "teamB": "Tanzania U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4748/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4835/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "24/11/2026 09:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_735127a566a7",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Honduras U17 Vs Colombia U17",
+      "eventInfo": {
+        "teamA": "Honduras U17",
+        "teamB": "Colombia U17",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/2390",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4820/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "24/11/2026 09:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_804e49ddfe16",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Algeria U17 Vs Montenegro U17",
+      "eventInfo": {
+        "teamA": "Algeria U17",
+        "teamB": "Montenegro U17",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5109",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7139/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "24/11/2026 09:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_de326e22e72c",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Ecuador U17 Vs South Korea U17",
+      "eventInfo": {
+        "teamA": "Ecuador U17",
+        "teamB": "South Korea U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4757/image",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2383",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "25/11/2026 06:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_10499134b379",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Haiti U17 Vs Saudi Arabia U17",
+      "eventInfo": {
+        "teamA": "Haiti U17",
+        "teamB": "Saudi Arabia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7229/image",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5087",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "25/11/2026 07:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_824322d010ca",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Uruguay U17 Vs France U17",
+      "eventInfo": {
+        "teamA": "Uruguay U17",
+        "teamB": "France U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4725/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4481/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "25/11/2026 07:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_ea94627df819",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Greece U17 Vs Qatar U17",
+      "eventInfo": {
+        "teamA": "Greece U17",
+        "teamB": "Qatar U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4710/image",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5079",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "25/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_4cc692aa617a",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Panama U17 Vs Egypt U17",
+      "eventInfo": {
+        "teamA": "Panama U17",
+        "teamB": "Egypt U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5164/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4758/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "25/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_ce2e400f6aea",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Denmark U17 Vs Argentina U17",
+      "eventInfo": {
+        "teamA": "Denmark U17",
+        "teamB": "Argentina U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4476/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "25/11/2026 09:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_bd0f44460c26",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Australia U17 Vs Uganda U17",
+      "eventInfo": {
+        "teamA": "Australia U17",
+        "teamB": "Uganda U17",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2380",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4726/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "25/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_db230e961859",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Mozambique U17 Vs New Caledonia U17",
+      "eventInfo": {
+        "teamA": "Mozambique U17",
+        "teamB": "New Caledonia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4783/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8045/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "25/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_fd5ac713d9ff",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "New Zealand U17 Vs Belgium U17",
+      "eventInfo": {
+        "teamA": "New Zealand U17",
+        "teamB": "Belgium U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4784/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "26/11/2026 07:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_fc407eec15cb",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Vietnam U17 Vs Mali U17",
+      "eventInfo": {
+        "teamA": "Vietnam U17",
+        "teamB": "Mali U17",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5462",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4831/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "26/11/2026 07:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_edd05d2fe8ad",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Uzbekistan U17 Vs Italy U17",
+      "eventInfo": {
+        "teamA": "Uzbekistan U17",
+        "teamB": "Italy U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4723/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4707/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "26/11/2026 08:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_3888682f7bfe",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Jamaica U17 Vs Ivory Coast U17",
+      "eventInfo": {
+        "teamA": "Jamaica U17",
+        "teamB": "Ivory Coast U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4769/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4768/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "26/11/2026 08:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_f48ba7dd4fe9",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Morocco U17 Vs Spain U17",
+      "eventInfo": {
+        "teamA": "Morocco U17",
+        "teamB": "Spain U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4778/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "26/11/2026 09:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_24f88ca09e2d",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "China U17 Vs Fiji U17",
+      "eventInfo": {
+        "teamA": "China U17",
+        "teamB": "Fiji U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4755/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8044/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "26/11/2026 09:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_154d2bc5a91b",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Tajikistan U17 Vs Senegal U17",
+      "eventInfo": {
+        "teamA": "Tajikistan U17",
+        "teamB": "Senegal U17",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8581",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4739/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "26/11/2026 10:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_2f083e61be0b",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Croatia U17 Vs Cuba U17",
+      "eventInfo": {
+        "teamA": "Croatia U17",
+        "teamB": "Cuba U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4715/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4824/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "26/11/2026 10:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_dd35d9980291",
+      "isHot": false
+    },
+    {
       "status": "ENDED",
       "Category": "Other",
       "event_name": "GOLF EVENTO Vs GOLF EVENTO",
@@ -7607,6 +8423,23 @@
       ],
       "isHot": false,
       "id": "evt_7958966f01a3"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Cairns Taipans Vs Perth Wildcats",
+      "eventInfo": {
+        "teamA": "Cairns Taipans",
+        "teamB": "Perth Wildcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3604/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3609/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "20/11/2026 02:30:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_61ea91429546"
     },
     {
       "status": "ENDED",
