@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:10:18 AM 21-11-2026",
+  "last_update_time": "02:20:25 AM 21-11-2026",
   "total_matches": 421,
-  "live_match": 20,
-  "upcoming_match": 368,
+  "live_match": 21,
+  "upcoming_match": 367,
   "ended_match": 33,
   "matches": [
     {
@@ -303,6 +303,12 @@
         {
           "channel_name": "Server - 7",
           "stream_url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
@@ -707,6 +713,30 @@
         }
       ],
       "id": "evt_353889a39a73",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sportivo Ameliano Vs Sportivo Luqueño",
+      "eventInfo": {
+        "teamA": "Sportivo Ameliano",
+        "teamB": "Sportivo Luqueño",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/323510/image",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778",
+        "eventName": "Copa de Primera",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+        "startTime": "21/11/2026 02:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=f1fe0ce53de562a1c262e323afab5ec6&wsABSTime=1795238711",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_217e153d3d6c",
       "isHot": false
     },
     {
@@ -1902,30 +1932,6 @@
         }
       ],
       "id": "evt_527e43766965",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Sportivo Ameliano Vs Sportivo Luqueño",
-      "eventInfo": {
-        "teamA": "Sportivo Ameliano",
-        "teamB": "Sportivo Luqueño",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/323510/image",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778",
-        "eventName": "Copa de Primera",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-        "startTime": "21/11/2026 02:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=f1fe0ce53de562a1c262e323afab5ec6&wsABSTime=1795238711",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_217e153d3d6c",
       "isHot": false
     },
     {
