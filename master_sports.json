@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:30:26 PM 20-11-2026",
-  "total_matches": 432,
-  "live_match": 17,
-  "upcoming_match": 401,
-  "ended_match": 14,
+  "last_update_time": "09:40:20 PM 20-11-2026",
+  "total_matches": 431,
+  "live_match": 15,
+  "upcoming_match": 399,
+  "ended_match": 17,
   "matches": [
     {
       "status": "LIVE",
@@ -188,8 +188,8 @@
       "streams": [
         {
           "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd",
-          "drm_key": "b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044"
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e4htfkwtdn/out/v1/d88e790408ad45d98c84ffe9f812f9d8/cenc.mpd",
+          "drm_key": "b523235faf497e1ce0967946ba01a9c3:1697e8dd99cd9cd940f463f4fdc7385f"
         },
         {
           "channel_name": "PREMIER1 SPORTS FHD",
@@ -284,64 +284,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Belgium U17 Vs Vietnam U17",
-      "eventInfo": {
-        "teamA": "Belgium U17",
-        "teamB": "Vietnam U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22583/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/468404/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "20/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/RYYYAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f289d985ef3b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Cuba U17 Vs Tajikistan U17",
-      "eventInfo": {
-        "teamA": "Cuba U17",
-        "teamB": "Tajikistan U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/190704/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/229664/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "20/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/RYYYAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_19797aa582ba"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Italy U17 Vs Jamaica U17",
       "eventInfo": {
         "teamA": "Italy U17",
@@ -358,6 +300,17 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/DADADAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
         {
           "channel_name": "Server - 1",
@@ -444,47 +397,48 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Lebanon U17 Vs Bahrain U17",
+      "event_name": "Senegal U17 Vs Croatia U17",
       "eventInfo": {
-        "teamA": "Lebanon U17",
-        "teamB": "Bahrain U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/934531/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/934421/image",
-        "eventName": "AFC U17 Asian Cup Qualification",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23981/image/dark",
-        "startTime": "20/11/2026 07:00:00 PM"
+        "teamA": "Senegal U17",
+        "teamB": "Croatia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/323076/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22594/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "20/11/2026 09:30:00 PM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_79e9a6de298e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "India U17 Vs Malaysia U17",
-      "eventInfo": {
-        "teamA": "India U17",
-        "teamB": "Malaysia U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/233785/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/468398/image",
-        "eventName": "AFC U17 Asian Cup Qualification",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23981/image/dark",
-        "startTime": "20/11/2026 08:00:00 PM"
-      },
-      "streams": [
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/CDCDCD.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001795184715-0-0-0928c6a36686c416994a0871e914a158",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_3d31220ecc9b"
+      "id": "evt_a389738b1ba3"
     },
     {
       "status": "LIVE",
@@ -565,42 +519,25 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Senegal U17 Vs Croatia U17",
+      "event_name": "United Arab Emirates U17 Vs Bangladesh U17",
       "eventInfo": {
-        "teamA": "Senegal U17",
-        "teamB": "Croatia U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/323076/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22594/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "20/11/2026 09:30:00 PM"
+        "teamA": "United Arab Emirates U17",
+        "teamB": "Bangladesh U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22660/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/930168/image",
+        "eventName": "AFC U17 Asian Cup Qualification",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23981/image/dark",
+        "startTime": "20/11/2026 10:20:00 PM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
           "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001795184715-0-0-0928c6a36686c416994a0871e914a158",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_a389738b1ba3"
+      "id": "evt_cb9d139bdf47"
     },
     {
       "status": "LIVE",
@@ -623,6 +560,30 @@
       ],
       "isHot": false,
       "id": "evt_003fe3558d16"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Romania Vs Canada",
+      "eventInfo": {
+        "teamA": "Romania",
+        "teamB": "Canada",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7957/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7949/image",
+        "eventName": "Nations Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34898/image/dark",
+        "startTime": "20/11/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7ae234b1c479"
     },
     {
       "status": "LIVE",
@@ -1109,29 +1070,6 @@
       ],
       "isHot": false,
       "id": "evt_bc2beb8eb4e5"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "United Arab Emirates U17 Vs Bangladesh U17",
-      "eventInfo": {
-        "teamA": "United Arab Emirates U17",
-        "teamB": "Bangladesh U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22660/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/930168/image",
-        "eventName": "AFC U17 Asian Cup Qualification",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23981/image/dark",
-        "startTime": "20/11/2026 10:20:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_cb9d139bdf47"
     },
     {
       "status": "UPCOMING",
@@ -2318,30 +2256,6 @@
       ],
       "isHot": false,
       "id": "evt_b281014bb714"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Romania Vs Canada",
-      "eventInfo": {
-        "teamA": "Romania",
-        "teamB": "Canada",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7957/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7949/image",
-        "eventName": "Nations Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34898/image/dark",
-        "startTime": "20/11/2026 10:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_7ae234b1c479"
     },
     {
       "status": "UPCOMING",
@@ -8624,6 +8538,86 @@
       ],
       "isHot": false,
       "id": "evt_2f11b405d56d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Belgium U17 Vs Vietnam U17",
+      "eventInfo": {
+        "teamA": "Belgium U17",
+        "teamB": "Vietnam U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22583/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/468404/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "20/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/RYYYAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f289d985ef3b"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Cuba U17 Vs Tajikistan U17",
+      "eventInfo": {
+        "teamA": "Cuba U17",
+        "teamB": "Tajikistan U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/190704/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/229664/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "20/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/RYYYAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_19797aa582ba"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Lebanon U17 Vs Bahrain U17",
+      "eventInfo": {
+        "teamA": "Lebanon U17",
+        "teamB": "Bahrain U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/934531/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/934421/image",
+        "eventName": "AFC U17 Asian Cup Qualification",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23981/image/dark",
+        "startTime": "20/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_79e9a6de298e"
     },
     {
       "status": "ENDED",
