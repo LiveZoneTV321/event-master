@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:50:20 PM 20-11-2026",
-  "total_matches": 424,
+  "last_update_time": "08:00:30 PM 20-11-2026",
+  "total_matches": 432,
   "live_match": 12,
-  "upcoming_match": 398,
+  "upcoming_match": 406,
   "ended_match": 14,
   "matches": [
     {
@@ -8002,6 +8002,142 @@
       },
       "streams": [],
       "id": "evt_dd35d9980291",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Desert Vipers Vs MI Emirates",
+      "eventInfo": {
+        "teamA": "Desert Vipers",
+        "teamB": "MI Emirates",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/M2.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/M6.png",
+        "eventName": "ILT20 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
+        "startTime": "21/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_405d2c3aee69",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Sharjah Warriorz Vs Gulf Giants",
+      "eventInfo": {
+        "teamA": "Sharjah Warriorz",
+        "teamB": "Gulf Giants",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/M7.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/M5.png",
+        "eventName": "ILT20 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
+        "startTime": "22/11/2026 04:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_7af9fbc0aa06",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Dubai Capitals Vs Abu Dhabi Knight Riders",
+      "eventInfo": {
+        "teamA": "Dubai Capitals",
+        "teamB": "Abu Dhabi Knight Riders",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/M4.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/M3.png",
+        "eventName": "ILT20 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
+        "startTime": "22/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_08c3814e306d",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Sharjah Warriorz Vs Desert Vipers",
+      "eventInfo": {
+        "teamA": "Sharjah Warriorz",
+        "teamB": "Desert Vipers",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/M7.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/M2.png",
+        "eventName": "ILT20 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
+        "startTime": "23/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_728db39d3214",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Gulf Giants Vs MI Emirates",
+      "eventInfo": {
+        "teamA": "Gulf Giants",
+        "teamB": "MI Emirates",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/M5.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/M6.png",
+        "eventName": "ILT20 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
+        "startTime": "24/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_b0fdb07fe5ec",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Dubai Capitals Vs Desert Vipers",
+      "eventInfo": {
+        "teamA": "Dubai Capitals",
+        "teamB": "Desert Vipers",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/M4.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/M2.png",
+        "eventName": "ILT20 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
+        "startTime": "25/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_f25dd799cd9f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Abu Dhabi Knight Riders Vs MI Emirates",
+      "eventInfo": {
+        "teamA": "Abu Dhabi Knight Riders",
+        "teamB": "MI Emirates",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/M3.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/M6.png",
+        "eventName": "ILT20 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
+        "startTime": "26/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_bea4014d760c",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Sharjah Warriorz Vs Dubai Capitals",
+      "eventInfo": {
+        "teamA": "Sharjah Warriorz",
+        "teamB": "Dubai Capitals",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/M7.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/M4.png",
+        "eventName": "ILT20 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
+        "startTime": "27/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_6ebbe4457651",
       "isHot": false
     },
     {
