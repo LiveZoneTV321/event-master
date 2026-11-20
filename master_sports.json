@@ -1,9 +1,9 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:40:16 PM 20-11-2026",
-  "total_matches": 425,
-  "live_match": 11,
+  "last_update_time": "05:50:17 PM 20-11-2026",
+  "total_matches": 424,
+  "live_match": 10,
   "upcoming_match": 403,
   "ended_match": 11,
   "matches": [
@@ -430,42 +430,6 @@
       ],
       "isHot": false,
       "id": "evt_38747064c422"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Adelaide Strikers Women Vs Melbourne Renegades Women",
-      "eventInfo": {
-        "teamA": "Adelaide Strikers Women",
-        "teamB": "Melbourne Renegades Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274888/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274887/image",
-        "eventName": "Womens Big Bash League 2026 - 28th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "20/11/2026 02:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "4db2612086ed985ae029fe71a3b56439:a7e45930ba4fbcf51cb12522ac433ca1"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fk6ka0whhr/out/v1/ef8739158e254282a97530153688db81/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "4db2612086ed985ae029fe71a3b56439:a7e45930ba4fbcf51cb12522ac433ca1"
-        },
-        {
-          "channel_name": "Tapmad - (bd)",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_09e65a64326b",
-      "isHot": false
     },
     {
       "status": "LIVE",
@@ -3546,12 +3510,12 @@
         "teamB": "Sydney Thunder Women",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/274885/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/274889/image",
-        "eventName": "Womens Big Bash League 2026 - 29th Match",
+        "eventName": "Womens Big Bash League",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
         "startTime": "21/11/2026 07:00:00 AM"
       },
       "streams": [],
-      "id": "evt_947216939d3c",
+      "id": "evt_4a837e578d26",
       "isHot": false
     },
     {
@@ -3563,12 +3527,12 @@
         "teamB": "Perth Scorchers Women",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/274883/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/274890/image",
-        "eventName": "Womens Big Bash League 2026 - 30th Match",
+        "eventName": "Womens Big Bash League",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
         "startTime": "21/11/2026 10:30:00 AM"
       },
       "streams": [],
-      "id": "evt_3c5a2d1b5d1c",
+      "id": "evt_7353bc01559b",
       "isHot": false
     },
     {
@@ -4447,12 +4411,12 @@
         "teamB": "Adelaide Strikers Women",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/274884/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/274888/image",
-        "eventName": "Womens Big Bash League 2026 - 31st Match",
+        "eventName": "Womens Big Bash League",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
         "startTime": "22/11/2026 10:40:00 AM"
       },
       "streams": [],
-      "id": "evt_5ae8696c72ec",
+      "id": "evt_d6e47dae0d20",
       "isHot": false
     },
     {
@@ -4464,12 +4428,12 @@
         "teamB": "Melbourne Renegades Women",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/274886/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/274887/image",
-        "eventName": "Womens Big Bash League 2026 - 32nd Match",
+        "eventName": "Womens Big Bash League",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
         "startTime": "22/11/2026 02:10:00 PM"
       },
       "streams": [],
-      "id": "evt_7fee65f2ec5e",
+      "id": "evt_c98a93129ded",
       "isHot": false
     },
     {
