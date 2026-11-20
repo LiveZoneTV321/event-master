@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:50:17 PM 20-11-2026",
+  "last_update_time": "06:00:27 PM 20-11-2026",
   "total_matches": 424,
   "live_match": 10,
   "upcoming_match": 403,
@@ -715,7 +715,8 @@
         },
         {
           "channel_name": "WILLOW ALT",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8"
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
