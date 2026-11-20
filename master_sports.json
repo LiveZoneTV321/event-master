@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:40:15 AM 21-11-2026",
+  "last_update_time": "12:50:17 AM 21-11-2026",
   "total_matches": 422,
   "live_match": 21,
   "upcoming_match": 376,
@@ -130,32 +130,7 @@
         },
         {
           "channel_name": "WILLOW ALT",
-          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ciluyzixht/out/v1/b3ec24213f4b40be9c5644b6eed1774b/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "b523235faf497e1ce0967946ba01a9c3:1697e8dd99cd9cd940f463f4fdc7385f"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ciluyzixht/out/v1/b3ec24213f4b40be9c5644b6eed1774b/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "b523235faf497e1ce0967946ba01a9c3:1697e8dd99cd9cd940f463f4fdc7385f"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1eszvr6hm3/out/v1/f099e57287244d09aeea990398a83c47/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "7e762ae016686583246f1959850eea6e:7ea4fb4356c76bf242b3189458ecea2e"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "7e762ae016686583246f1959850eea6e:7ea4fb4356c76bf242b3189458ecea2e"
+          "stream_url": "https://live.msnetworks.net/a-sports/master.m3u8"
         }
       ],
       "isHot": false,
@@ -2208,6 +2183,36 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "Velez Sarsfield Vs Belgrano",
+      "eventInfo": {
+        "teamA": "Velez Sarsfield",
+        "teamB": "Belgrano",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3208/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3203/image",
+        "eventName": "Liga Profesional",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+        "startTime": "21/11/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001795195554-0-0-f5a775bd401140b9246cfd527668f8d5",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_527e43766965",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "Bayern Vs Köln",
       "eventInfo": {
         "teamA": "Bayern",
@@ -2262,18 +2267,25 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Velez Sarsfield Vs Belgrano",
+      "event_name": "Recoleta FC Vs Club Guarani",
       "eventInfo": {
-        "teamA": "Velez Sarsfield",
-        "teamB": "Belgrano",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3208/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3203/image",
-        "eventName": "Liga Profesional",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+        "teamA": "Recoleta FC",
+        "teamB": "Club Guarani",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/292595/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5994/image",
+        "eventName": "Copa de Primera",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
         "startTime": "21/11/2026 05:00:00 AM"
       },
-      "streams": [],
-      "id": "evt_527e43766965",
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=ff4f5d5599ebe4a6f7b7b1e640db8d30&wsABSTime=1795238462",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_9b539cfef192",
       "isHot": false
     },
     {
@@ -3022,23 +3034,6 @@
       },
       "streams": [],
       "id": "evt_3153737a6d1a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Recoleta FC Vs Club Guarani",
-      "eventInfo": {
-        "teamA": "Recoleta FC",
-        "teamB": "Club Guarani",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/292595/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5994/image",
-        "eventName": "Copa de Primera",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-        "startTime": "21/11/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_9b539cfef192",
       "isHot": false
     },
     {
