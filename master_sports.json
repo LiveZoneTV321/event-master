@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:00:23 AM 20-11-2026",
+  "last_update_time": "08:10:12 AM 20-11-2026",
   "total_matches": 365,
-  "live_match": 24,
-  "upcoming_match": 307,
+  "live_match": 27,
+  "upcoming_match": 304,
   "ended_match": 34,
   "matches": [
     {
@@ -420,6 +420,29 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
+      "event_name": "Colorado Avalanche Vs Anaheim Ducks",
+      "eventInfo": {
+        "teamA": "Colorado Avalanche",
+        "teamB": "Anaheim Ducks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "20/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_6a7c0d90a69b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
       "event_name": "Chicago Blackhawks Vs Columbus Blue Jackets",
       "eventInfo": {
         "teamA": "Chicago Blackhawks",
@@ -763,15 +786,44 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
-      "event_name": "Colorado Avalanche Vs Anaheim Ducks",
+      "event_name": "Vegas Golden Knights Vs Dallas Stars",
       "eventInfo": {
-        "teamA": "Colorado Avalanche",
-        "teamB": "Anaheim Ducks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+        "teamA": "Vegas Golden Knights",
+        "teamB": "Dallas Stars",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
         "eventName": "NHL",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "20/11/2026 08:00:00 AM"
+        "startTime": "20/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_9f6298fc6675"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Seattle Kraken Vs Vancouver Canucks",
+      "eventInfo": {
+        "teamA": "Seattle Kraken",
+        "teamB": "Vancouver Canucks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "20/11/2026 08:40:00 AM"
       },
       "streams": [
         {
@@ -781,7 +833,34 @@
         }
       ],
       "isHot": false,
-      "id": "evt_6a7c0d90a69b"
+      "id": "evt_e63596573ba0"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Seattle Sounders FC Vs Real Salt Lake",
+      "eventInfo": {
+        "teamA": "Seattle Sounders FC",
+        "teamB": "Real Salt Lake",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22009/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5133/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "20/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SERVER + LIVE",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_e733af2e_2359_4a09_9ca6_5736fbb3cd7c/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5432e75a1de9"
     },
     {
       "status": "LIVE",
@@ -1174,85 +1253,6 @@
       "streams": [],
       "isHot": false,
       "id": "evt_61ea91429546"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Vegas Golden Knights Vs Dallas Stars",
-      "eventInfo": {
-        "teamA": "Vegas Golden Knights",
-        "teamB": "Dallas Stars",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "20/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9f6298fc6675"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Seattle Kraken Vs Vancouver Canucks",
-      "eventInfo": {
-        "teamA": "Seattle Kraken",
-        "teamB": "Vancouver Canucks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "20/11/2026 08:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e63596573ba0"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Seattle Sounders FC Vs Real Salt Lake",
-      "eventInfo": {
-        "teamA": "Seattle Sounders FC",
-        "teamB": "Real Salt Lake",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22009/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5133/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "20/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SERVER + LIVE",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_e733af2e_2359_4a09_9ca6_5736fbb3cd7c/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5432e75a1de9"
     },
     {
       "status": "UPCOMING",
