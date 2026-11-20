@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:00:30 PM 20-11-2026",
+  "last_update_time": "08:10:20 PM 20-11-2026",
   "total_matches": 432,
-  "live_match": 12,
-  "upcoming_match": 406,
+  "live_match": 13,
+  "upcoming_match": 405,
   "ended_match": 14,
   "matches": [
     {
@@ -379,52 +379,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Lebanon U17 Vs Bahrain U17",
-      "eventInfo": {
-        "teamA": "Lebanon U17",
-        "teamB": "Bahrain U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/934531/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/934421/image",
-        "eventName": "AFC U17 Asian Cup Qualification",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23981/image/dark",
-        "startTime": "20/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_79e9a6de298e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Polisi Tanzania Vs Young Africans",
-      "eventInfo": {
-        "teamA": "Polisi Tanzania",
-        "teamB": "Young Africans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/327300/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/134320/image",
-        "eventName": "Tanzania Ligi Kuu Bara",
-        "event_logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
-        "startTime": "20/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "http://193.47.62.44/hls/HHHH.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_afc09f122f56"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Spain U17 Vs China U17",
       "eventInfo": {
         "teamA": "Spain U17",
@@ -460,6 +414,28 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Lebanon U17 Vs Bahrain U17",
+      "eventInfo": {
+        "teamA": "Lebanon U17",
+        "teamB": "Bahrain U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/934531/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/934421/image",
+        "eventName": "AFC U17 Asian Cup Qualification",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23981/image/dark",
+        "startTime": "20/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_79e9a6de298e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "India U17 Vs Malaysia U17",
       "eventInfo": {
         "teamA": "India U17",
@@ -479,6 +455,53 @@
       ],
       "isHot": false,
       "id": "evt_3d31220ecc9b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Polisi Tanzania Vs Young Africans",
+      "eventInfo": {
+        "teamA": "Polisi Tanzania",
+        "teamB": "Young Africans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/327300/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/134320/image",
+        "eventName": "Tanzania Ligi Kuu Bara",
+        "event_logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+        "startTime": "20/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.44/hls/HHHH.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_afc09f122f56"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Italy U17 Vs Jamaica U17",
+      "eventInfo": {
+        "teamA": "Italy U17",
+        "teamB": "Jamaica U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22616/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22617/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "20/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5c7ede85ec59"
     },
     {
       "status": "LIVE",
@@ -965,29 +988,6 @@
       ],
       "isHot": false,
       "id": "evt_bc2beb8eb4e5"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Italy U17 Vs Jamaica U17",
-      "eventInfo": {
-        "teamA": "Italy U17",
-        "teamB": "Jamaica U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22616/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22617/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "20/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5c7ede85ec59"
     },
     {
       "status": "UPCOMING",
