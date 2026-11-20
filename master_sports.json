@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:40:20 AM 20-11-2026",
+  "last_update_time": "11:50:13 AM 20-11-2026",
   "total_matches": 340,
-  "live_match": 12,
-  "upcoming_match": 305,
+  "live_match": 13,
+  "upcoming_match": 304,
   "ended_match": 23,
   "matches": [
     {
@@ -537,6 +537,29 @@
       ],
       "isHot": false,
       "id": "evt_7958966f01a3"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Pakistan A Vs United Arab Emirates",
+      "eventInfo": {
+        "teamA": "Pakistan A",
+        "teamB": "United Arab Emirates",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4727/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "20/11/2026 12:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "sonyliv - (bd)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795195986~acl=/*~id=32385250455894596018551937938511~hmac=ef41163e4f8a27bafd051dcb0026e1fca2e8145200b1c4c636a0a88c142c75ec",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_d538652cb5b4",
+      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -5820,23 +5843,6 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
-      "event_name": "Pakistan A Vs United Arab Emirates",
-      "eventInfo": {
-        "teamA": "Pakistan A",
-        "teamB": "United Arab Emirates",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4727/image",
-        "eventName": "ACC Emerging Teams Asia Cup",
-        "event_logo": "",
-        "startTime": "20/11/2026 12:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_d538652cb5b4",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
       "event_name": "India A Vs Nepal",
       "eventInfo": {
         "teamA": "India A",
@@ -6596,18 +6602,6 @@
         {
           "channel_name": "SERVER + LIVE",
           "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_e733af2e_2359_4a09_9ca6_5736fbb3cd7c/index.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001795138156-0-0-8ef16067b5f87876a51ac80ed1199f62",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
