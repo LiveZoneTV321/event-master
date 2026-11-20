@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:10:18 AM 21-11-2026",
+  "last_update_time": "01:20:18 AM 21-11-2026",
   "total_matches": 422,
-  "live_match": 25,
-  "upcoming_match": 371,
+  "live_match": 26,
+  "upcoming_match": 370,
   "ended_match": 26,
   "matches": [
     {
@@ -925,6 +925,36 @@
         }
       ],
       "id": "evt_456d373a7299",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Bayern Vs Köln",
+      "eventInfo": {
+        "teamA": "Bayern",
+        "teamB": "Köln",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image",
+        "eventName": "Bundesliga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
+        "startTime": "21/11/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "SKY TOP EVENT FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        }
+      ],
+      "id": "evt_353889a39a73",
       "isHot": false
     },
     {
@@ -2171,36 +2201,6 @@
         }
       ],
       "id": "evt_527e43766965",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Bayern Vs Köln",
-      "eventInfo": {
-        "teamA": "Bayern",
-        "teamB": "Köln",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-        "eventName": "Bundesliga",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-        "startTime": "21/11/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "SKY TOP EVENT FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
-        }
-      ],
-      "id": "evt_353889a39a73",
       "isHot": false
     },
     {
