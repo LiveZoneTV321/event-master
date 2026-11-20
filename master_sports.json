@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:00:27 PM 20-11-2026",
+  "last_update_time": "06:10:18 PM 20-11-2026",
   "total_matches": 424,
-  "live_match": 10,
-  "upcoming_match": 403,
+  "live_match": 13,
+  "upcoming_match": 400,
   "ended_match": 11,
   "matches": [
     {
@@ -430,6 +430,75 @@
       ],
       "isHot": false,
       "id": "evt_38747064c422"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Belgium U17 Vs Vietnam U17",
+      "eventInfo": {
+        "teamA": "Belgium U17",
+        "teamB": "Vietnam U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22583/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/468404/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "20/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f289d985ef3b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cuba U17 Vs Tajikistan U17",
+      "eventInfo": {
+        "teamA": "Cuba U17",
+        "teamB": "Tajikistan U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/190704/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/229664/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "20/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_19797aa582ba"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Lebanon U17 Vs Bahrain U17",
+      "eventInfo": {
+        "teamA": "Lebanon U17",
+        "teamB": "Bahrain U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/934531/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/934421/image",
+        "eventName": "AFC U17 Asian Cup Qualification",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23981/image/dark",
+        "startTime": "20/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_79e9a6de298e"
     },
     {
       "status": "LIVE",
@@ -909,52 +978,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Belgium U17 Vs Vietnam U17",
-      "eventInfo": {
-        "teamA": "Belgium U17",
-        "teamB": "Vietnam U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22583/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/468404/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "20/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f289d985ef3b"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Cuba U17 Vs Tajikistan U17",
-      "eventInfo": {
-        "teamA": "Cuba U17",
-        "teamB": "Tajikistan U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/190704/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/229664/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "20/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_19797aa582ba"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Italy U17 Vs Jamaica U17",
       "eventInfo": {
         "teamA": "Italy U17",
@@ -1066,28 +1089,6 @@
       ],
       "isHot": false,
       "id": "evt_a389738b1ba3"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Lebanon U17 Vs Bahrain U17",
-      "eventInfo": {
-        "teamA": "Lebanon U17",
-        "teamB": "Bahrain U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/934531/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/934421/image",
-        "eventName": "AFC U17 Asian Cup Qualification",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23981/image/dark",
-        "startTime": "20/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_79e9a6de298e"
     },
     {
       "status": "UPCOMING",
