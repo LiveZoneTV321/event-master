@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:10:17 AM 21-11-2026",
+  "last_update_time": "03:20:21 AM 21-11-2026",
   "total_matches": 421,
   "live_match": 18,
   "upcoming_match": 366,
@@ -758,9 +758,15 @@
       },
       "streams": [
         {
-          "channel_name": "Server - 1",
+          "channel_name": "hd quality",
           "stream_url": "https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=f1fe0ce53de562a1c262e323afab5ec6&wsABSTime=1795238711",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "low quality",
+          "stream_url": "http://193.47.62.50/hls/E666.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
