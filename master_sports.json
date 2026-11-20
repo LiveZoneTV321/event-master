@@ -1,88 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:00:28 PM 20-11-2026",
-  "total_matches": 431,
-  "live_match": 27,
-  "upcoming_match": 385,
-  "ended_match": 19,
+  "last_update_time": "11:10:19 PM 20-11-2026",
+  "total_matches": 419,
+  "live_match": 18,
+  "upcoming_match": 381,
+  "ended_match": 20,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Motorsports",
-      "event_name": "Formula 1 Vs Formula 1",
-      "eventInfo": {
-        "teamA": "Formula 1",
-        "teamB": "Formula 1",
-        "teamAFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
-        "teamBFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
-        "eventName": "Formula 1",
-        "event_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
-        "startTime": "20/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "channel_name": "SKY SPORT F1 FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd",
-          "drm_key": "0d7d09d646a2a4edd51b87563abe77a3:a1e63461298a129daa947f42cbad4aa2"
-        },
-        {
-          "channel_name": "SPORTSCAST FHD ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0a4b8981-9dac-4551-bdfe-b23d10b10693/master.m3u8"
-        },
-        {
-          "channel_name": "SporTV3 BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-          "drm_key": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3"
-        },
-        {
-          "channel_name": "CANAL MX FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        },
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "channel_name": "SKY TOP EVENT FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd",
-          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
-        },
-        {
-          "channel_name": "FORMULA TV HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60456/load-playlist-multi?",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/R333AAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SKY F1 (ITALY)",
-          "stream_url": "https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd",
-          "drm_key": "1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c4e10ab9664c"
-    },
     {
       "status": "LIVE",
       "Category": "Boxing",
@@ -189,8 +113,8 @@
       "streams": [
         {
           "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e4htfkwtdn/out/v1/d88e790408ad45d98c84ffe9f812f9d8/cenc.mpd",
-          "drm_key": "b523235faf497e1ce0967946ba01a9c3:1697e8dd99cd9cd940f463f4fdc7385f"
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd",
+          "drm_key": "7e762ae016686583246f1959850eea6e:7ea4fb4356c76bf242b3189458ecea2e"
         },
         {
           "channel_name": "PREMIER1 SPORTS FHD",
@@ -254,8 +178,7 @@
         {
           "channel_name": "FOX2 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
         },
         {
           "channel_name": "HD QUALITY ",
@@ -267,33 +190,6 @@
           "stream_url": "http://193.47.62.41/hls/DADADAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001795180939-0-0-c637ac9ed8e06eca8ddc55e472ece6fb",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=009921cfeb15688dee11c62da6dcea35&txTime=6b008b20",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1795179728-0-0-4551137405869e16c4e16748720a672a",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel24.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -441,29 +337,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "United Arab Emirates U17 Vs Bangladesh U17",
-      "eventInfo": {
-        "teamA": "United Arab Emirates U17",
-        "teamB": "Bangladesh U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22660/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/930168/image",
-        "eventName": "AFC U17 Asian Cup Qualification",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23981/image/dark",
-        "startTime": "20/11/2026 10:20:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_cb9d139bdf47"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Oman U17 Vs Kuwait U17",
       "eventInfo": {
         "teamA": "Oman U17",
@@ -482,6 +355,36 @@
       ],
       "isHot": false,
       "id": "evt_003fe3558d16"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Piast Gliwice Vs MKS Korona Kielce",
+      "eventInfo": {
+        "teamA": "Piast Gliwice",
+        "teamB": "MKS Korona Kielce",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7918/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5065/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "20/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/R999AAAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/R999AAAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8c34734d8acb"
     },
     {
       "status": "LIVE",
@@ -545,6 +448,57 @@
     },
     {
       "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Florida State Seminoles Vs Wisconsin Green Bay Phoenix",
+      "eventInfo": {
+        "teamA": "Florida State Seminoles",
+        "teamB": "Wisconsin Green Bay Phoenix",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34658/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86650/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "20/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60524/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a2837427dc08"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "DARTS PDC Vs DARTS PDC",
+      "eventInfo": {
+        "teamA": "DARTS PDC",
+        "teamB": "DARTS PDC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "eventName": "DARTS PDC",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "startTime": "21/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA2 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "SPORT 1 DE - FHD",
+          "stream_url": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
+          "drm_key": "98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_bc2beb8eb4e5"
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "1. FC Union Berlin Vs Bayer Leverkusen",
       "eventInfo": {
@@ -559,8 +513,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "stream_url": "http://193.47.62.59/hls/VAVAVAEA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/VAVAVAEA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -584,6 +545,16 @@
           "channel_name": "FOX2 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/VAVAVAE.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/671/index.m3u8"
         }
       ],
       "isHot": false,
@@ -608,6 +579,39 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/VAVAVAEAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001795191668-0-0-918b0232ee4a6c1d155b4b7b60ee41cb",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1795186328-0-0-1cddef959f2312d588763bcfa7acce10",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1795186359-0-0-bdbf180b1d9aa3a56329e0d04893546d",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -616,237 +620,77 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Al-Nassr Vs Al-Qadsiah",
+      "event_name": "Al-Ahli Vs Al-Nassr",
       "eventInfo": {
-        "teamA": "Al-Nassr",
-        "teamB": "Al-Qadsiah",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+        "teamA": "Al-Ahli",
+        "teamB": "Al-Nassr",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image",
         "eventName": "Saudi Pro League",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "20/11/2026 11:00:00 PM"
+        "startTime": "20/11/2026 11:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "channel_name": "FHD STREAMING ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/VAVAVAEAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "SportDigital FussBall",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d80d0488b2b6"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Ahli Vs Al Faisaly",
-      "eventInfo": {
-        "teamA": "Al-Ahli",
-        "teamB": "Al Faisaly",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/56035/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "20/11/2026 11:00:00 PM"
-      },
-      "streams": [
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_364d08740820"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Riyadh Vs Al-Hazem",
-      "eventInfo": {
-        "teamA": "Al-Riyadh",
-        "teamB": "Al-Hazem",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/168088/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "20/11/2026 11:00:00 PM"
-      },
-      "streams": [
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_07f35125249b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Fayha Vs Al-Fateh",
-      "eventInfo": {
-        "teamA": "Al-Fayha",
-        "teamB": "Al-Fateh",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/56023/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "20/11/2026 11:00:00 PM"
-      },
-      "streams": [
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001795191570-0-0-44bf92c51db255755cb90f1390bc3ab2",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_21f4d1622633"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Hilal Vs Diriyah",
-      "eventInfo": {
-        "teamA": "Al-Hilal",
-        "teamB": "Diriyah",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/853574/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "20/11/2026 11:00:00 PM"
-      },
-      "streams": [
+          "channel_name": "Server - 3",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_10692bf15841"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Taawoun Vs Abha",
-      "eventInfo": {
-        "teamA": "Al-Taawoun",
-        "teamB": "Abha",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/56021/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/168090/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "20/11/2026 11:00:00 PM"
-      },
-      "streams": [
+          "channel_name": "Server - 4",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001795191571-0-0-059a33beafb4c1c7160ea1f1858572eb",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_4cde8b8f7e71"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Khaleej Vs Al-Ittihad",
-      "eventInfo": {
-        "teamA": "Al-Khaleej",
-        "teamB": "Al-Ittihad",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/167228/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "20/11/2026 11:00:00 PM"
-      },
-      "streams": [
+          "channel_name": "Server - 5",
+          "stream_url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1795186328-0-0-c25e1a729fb4e08b5ba263b0a1123f9d",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_fa81cdfbfe32"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Shabab Vs Al-Ettifaq",
-      "eventInfo": {
-        "teamA": "Al-Shabab",
-        "teamB": "Al-Ettifaq",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34313/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34318/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "20/11/2026 11:00:00 PM"
-      },
-      "streams": [
+          "channel_name": "Server - 6",
+          "stream_url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=8f2ddcc37d97bd82415422eb6718c216&txTime=6b00a4e8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "channel_name": "Server - 7",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_a83a86271555"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Neom SC Vs Al-Kholood",
-      "eventInfo": {
-        "teamA": "Neom SC",
-        "teamB": "Al-Kholood",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "20/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_66581d13bc89"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Piast Gliwice Vs MKS Korona Kielce",
-      "eventInfo": {
-        "teamA": "Piast Gliwice",
-        "teamB": "MKS Korona Kielce",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7918/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5065/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "20/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8c34734d8acb"
+      "id": "evt_bba93943dbc9"
     },
     {
       "status": "LIVE",
@@ -864,67 +708,95 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "stream_url": "http://193.47.62.59/hls/VAVAVA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/VAVAVA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
       "id": "evt_2b1955f030e0"
     },
     {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "India A Vs Nepal",
+      "status": "UPCOMING",
+      "Category": "Motorsports",
+      "event_name": "Formula 1 Vs Formula 1",
       "eventInfo": {
-        "teamA": "India A",
-        "teamB": "Nepal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
-        "eventName": "ACC Emerging Teams Asia Cup",
-        "event_logo": "",
-        "startTime": "20/11/2026 04:00:00 PM"
+        "teamA": "Formula 1",
+        "teamB": "Formula 1",
+        "teamAFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
+        "teamBFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
+        "eventName": "Formula 1",
+        "event_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
+        "startTime": "21/11/2026 06:30:00 AM"
       },
       "streams": [
         {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7"
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
         },
         {
-          "channel_name": "willow - alt",
-          "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/byni2k8l0r/out/v1/1b41b40c85484b54b4e4d1feb159a80e/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7"
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
         },
         {
-          "channel_name": "sonyliv - (eng)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795210549~acl=/*~id=79138174505256790449263600767178~hmac=470adbd605f867a624797b16b785b7e0277b49e4a691b22faf228409dd08345a",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "channel_name": "SKY SPORT F1 FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd",
+          "drm_key": "0d7d09d646a2a4edd51b87563abe77a3:a1e63461298a129daa947f42cbad4aa2"
         },
         {
-          "channel_name": "sonyliv - (hin)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795210549~acl=/*~id=79138174505256790449263600767178~hmac=470adbd605f867a624797b16b785b7e0277b49e4a691b22faf228409dd08345a",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "channel_name": "SPORTSCAST FHD ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0a4b8981-9dac-4551-bdfe-b23d10b10693/master.m3u8"
         },
         {
-          "channel_name": "sonyliv - (tam)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795210549~acl=/*~id=79138174505256790449263600767178~hmac=470adbd605f867a624797b16b785b7e0277b49e4a691b22faf228409dd08345a",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "channel_name": "SporTV3 BR FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+          "drm_key": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3"
         },
         {
-          "channel_name": "sonyliv - (tel)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795210549~acl=/*~id=79138174505256790449263600767178~hmac=470adbd605f867a624797b16b785b7e0277b49e4a691b22faf228409dd08345a",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "channel_name": "CANAL MX FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
         },
         {
-          "channel_name": "sonyliv - (kan)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795210549~acl=/*~id=79138174505256790449263600767178~hmac=470adbd605f867a624797b16b785b7e0277b49e4a691b22faf228409dd08345a",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "SKY TOP EVENT FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd",
+          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        },
+        {
+          "channel_name": "FORMULA TV HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60456/load-playlist-multi?",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/R333AAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SKY F1 (ITALY)",
+          "stream_url": "https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd",
+          "drm_key": "1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b"
         }
       ],
-      "id": "evt_f13778a75223",
-      "isHot": false
+      "isHot": false,
+      "id": "evt_c4e10ab9664c"
     },
     {
       "status": "UPCOMING",
@@ -1331,34 +1203,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Other",
-      "event_name": "DARTS PDC Vs DARTS PDC",
-      "eventInfo": {
-        "teamA": "DARTS PDC",
-        "teamB": "DARTS PDC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "eventName": "DARTS PDC",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "startTime": "21/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NOVA2 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "SPORT 1 DE - FHD",
-          "stream_url": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
-          "drm_key": "98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_bc2beb8eb4e5"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "FC Bayern München Vs 1. FC Köln",
       "eventInfo": {
@@ -1566,6 +1410,10 @@
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/411/index.m3u8"
         }
       ],
       "isHot": false,
@@ -2265,6 +2113,30 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "Barnsley Vs Sheffield Wednesday",
+      "eventInfo": {
+        "teamA": "Barnsley",
+        "teamB": "Sheffield Wednesday",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/12/image",
+        "eventName": "League One",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "21/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FHD STREAMING ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e92f6d7811de"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "Arminia Vs FC Magdeburg",
       "eventInfo": {
         "teamA": "Arminia",
@@ -2275,76 +2147,42 @@
         "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
         "startTime": "20/11/2026 11:30:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001795191586-0-0-4ecf51cd74698e9920efaea795989765",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1795179788-0-0-356517a511f3078f80d477c32d9e1f29",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1795179788-0-0-4d585e44a5b60353acaa0e994b8d85d5",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel4.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
       "id": "evt_456d373a7299",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Al-Taawon Vs Abha Club",
-      "eventInfo": {
-        "teamA": "Al-Taawon",
-        "teamB": "Abha Club",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/56021/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/168090/image",
-        "eventName": "Saudi League",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-        "startTime": "20/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_9b644d29e6d1",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Al Riyadh Vs Al Hazm",
-      "eventInfo": {
-        "teamA": "Al Riyadh",
-        "teamB": "Al Hazm",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/168088/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image",
-        "eventName": "Saudi League",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-        "startTime": "20/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_ae230b88fe59",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Al Feiha Vs Al Fateh",
-      "eventInfo": {
-        "teamA": "Al Feiha",
-        "teamB": "Al Fateh",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/56023/image",
-        "eventName": "Saudi League",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-        "startTime": "20/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_655f072dd7d6",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Al Ahli Vs Al Faysaly",
-      "eventInfo": {
-        "teamA": "Al Ahli",
-        "teamB": "Al Faysaly",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/56035/image",
-        "eventName": "Saudi League",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-        "startTime": "20/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_88a250cde262",
       "isHot": false
     },
     {
@@ -2651,23 +2489,6 @@
       },
       "streams": [],
       "id": "evt_f81956674163",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Barnsley Vs Sheffield Wed",
-      "eventInfo": {
-        "teamA": "Barnsley",
-        "teamB": "Sheffield Wed",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/12/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "21/11/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_6c64e1c96d6d",
       "isHot": false
     },
     {
@@ -8635,6 +8456,29 @@
       ],
       "isHot": false,
       "id": "evt_79e9a6de298e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Florida State Seminoles Vs Purdue Boilermakers",
+      "eventInfo": {
+        "teamA": "Florida State Seminoles",
+        "teamB": "Purdue Boilermakers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/216434/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/216410/image",
+        "eventName": "NCAA Women's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33655/image/dark",
+        "startTime": "19/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0b89c2c77f29"
     },
     {
       "status": "ENDED",
