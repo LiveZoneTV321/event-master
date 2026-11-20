@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:00:32 AM 20-11-2026",
+  "last_update_time": "11:10:13 AM 20-11-2026",
   "total_matches": 340,
-  "live_match": 15,
-  "upcoming_match": 306,
-  "ended_match": 19,
+  "live_match": 13,
+  "upcoming_match": 305,
+  "ended_match": 22,
   "matches": [
     {
       "status": "LIVE",
@@ -160,34 +160,6 @@
       ],
       "isHot": false,
       "id": "evt_c4e10ab9664c"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Boxing",
-      "event_name": "TNA iMPACT Vs TNA iMPACT",
-      "eventInfo": {
-        "teamA": "TNA iMPACT",
-        "teamB": "TNA iMPACT",
-        "teamAFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
-        "teamBFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
-        "eventName": "TNA iMPACT",
-        "event_logo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
-        "startTime": "20/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNA LIVE HD",
-          "stream_url": "https://word.onnext.site/dailymotion/live/playlist/54.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/RIIIAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ca409592a551"
     },
     {
       "status": "LIVE",
@@ -408,29 +380,6 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
-      "event_name": "Colorado Avalanche Vs Anaheim Ducks",
-      "eventInfo": {
-        "teamA": "Colorado Avalanche",
-        "teamB": "Anaheim Ducks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "20/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60507/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_6a7c0d90a69b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
       "event_name": "Seattle Kraken Vs Vancouver Canucks",
       "eventInfo": {
         "teamA": "Seattle Kraken",
@@ -613,26 +562,26 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Washington Huskies Vs Utah Tech Trailblazers",
+      "Category": "Football",
+      "event_name": "Western Sydney Wanderers Vs Wellington Phoenix",
       "eventInfo": {
-        "teamA": "Washington Huskies",
-        "teamB": "Utah Tech Trailblazers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34612/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/303989/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "20/11/2026 08:00:00 AM"
+        "teamA": "Western Sydney Wanderers",
+        "teamB": "Wellington Phoenix",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174108/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/394912/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "20/11/2026 11:50:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60509/load-playlist-multi?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
-      "id": "evt_ec8ae9dac33d"
+      "id": "evt_7958966f01a3"
     },
     {
       "status": "UPCOMING",
@@ -1025,29 +974,6 @@
       ],
       "isHot": false,
       "id": "evt_da6fe7ee5df8"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Western Sydney Wanderers Vs Wellington Phoenix",
-      "eventInfo": {
-        "teamA": "Western Sydney Wanderers",
-        "teamB": "Wellington Phoenix",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174108/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/394912/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "20/11/2026 11:50:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_7958966f01a3"
     },
     {
       "status": "UPCOMING",
@@ -6295,6 +6221,34 @@
     {
       "status": "ENDED",
       "Category": "Boxing",
+      "event_name": "TNA iMPACT Vs TNA iMPACT",
+      "eventInfo": {
+        "teamA": "TNA iMPACT",
+        "teamB": "TNA iMPACT",
+        "teamAFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+        "teamBFlag": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+        "eventName": "TNA iMPACT",
+        "event_logo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+        "startTime": "20/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNA LIVE HD",
+          "stream_url": "https://word.onnext.site/dailymotion/live/playlist/54.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/RIIIAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ca409592a551"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Boxing",
       "event_name": "AEW Vs AEW",
       "eventInfo": {
         "teamA": "AEW",
@@ -6588,6 +6542,29 @@
     {
       "status": "ENDED",
       "Category": "Hockey",
+      "event_name": "Colorado Avalanche Vs Anaheim Ducks",
+      "eventInfo": {
+        "teamA": "Colorado Avalanche",
+        "teamB": "Anaheim Ducks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "20/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60507/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_6a7c0d90a69b"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
       "event_name": "Chicago Blackhawks Vs Columbus Blue Jackets",
       "eventInfo": {
         "teamA": "Chicago Blackhawks",
@@ -6690,6 +6667,29 @@
       ],
       "isHot": false,
       "id": "evt_cee341397a6d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Washington Huskies Vs Utah Tech Trailblazers",
+      "eventInfo": {
+        "teamA": "Washington Huskies",
+        "teamB": "Utah Tech Trailblazers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34612/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/303989/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "20/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60509/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ec8ae9dac33d"
     },
     {
       "status": "ENDED",
