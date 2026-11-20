@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:30:30 PM 20-11-2026",
+  "last_update_time": "08:40:25 PM 20-11-2026",
   "total_matches": 432,
-  "live_match": 13,
-  "upcoming_match": 405,
+  "live_match": 14,
+  "upcoming_match": 404,
   "ended_match": 14,
   "matches": [
     {
@@ -558,6 +558,29 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Senegal U17 Vs Croatia U17",
+      "eventInfo": {
+        "teamA": "Senegal U17",
+        "teamB": "Croatia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/323076/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22594/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "20/11/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a389738b1ba3"
+    },
+    {
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "India A Vs Nepal",
       "eventInfo": {
@@ -1087,29 +1110,6 @@
       ],
       "isHot": false,
       "id": "evt_f13c4acc5494"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Senegal U17 Vs Croatia U17",
-      "eventInfo": {
-        "teamA": "Senegal U17",
-        "teamB": "Croatia U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/323076/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22594/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "20/11/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a389738b1ba3"
     },
     {
       "status": "UPCOMING",
