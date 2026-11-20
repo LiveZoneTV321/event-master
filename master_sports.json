@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:50:16 PM 20-11-2026",
+  "last_update_time": "05:00:27 PM 20-11-2026",
   "total_matches": 376,
-  "live_match": 11,
-  "upcoming_match": 356,
+  "live_match": 12,
+  "upcoming_match": 355,
   "ended_match": 9,
   "matches": [
     {
@@ -439,6 +439,42 @@
       ],
       "isHot": false,
       "id": "evt_2f11b405d56d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Adelaide Strikers Women Vs Melbourne Renegades Women",
+      "eventInfo": {
+        "teamA": "Adelaide Strikers Women",
+        "teamB": "Melbourne Renegades Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274888/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274887/image",
+        "eventName": "Womens Big Bash League 2026 - 28th Match",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "20/11/2026 02:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "4db2612086ed985ae029fe71a3b56439:a7e45930ba4fbcf51cb12522ac433ca1"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fk6ka0whhr/out/v1/ef8739158e254282a97530153688db81/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "4db2612086ed985ae029fe71a3b56439:a7e45930ba4fbcf51cb12522ac433ca1"
+        },
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_09e65a64326b",
+      "isHot": false
     },
     {
       "status": "LIVE",
@@ -2542,23 +2578,6 @@
       },
       "streams": [],
       "id": "evt_88a250cde262",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Adelaide Strikers Women Vs Melbourne Renegades Women",
-      "eventInfo": {
-        "teamA": "Adelaide Strikers Women",
-        "teamB": "Melbourne Renegades Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274888/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274887/image",
-        "eventName": "Womens Big Bash League 2026 - 28th Match",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "20/11/2026 06:40:00 PM"
-      },
-      "streams": [],
-      "id": "evt_09e65a64326b",
       "isHot": false
     },
     {
