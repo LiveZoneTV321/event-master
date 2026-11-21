@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:00:26 PM 21-11-2026",
+  "last_update_time": "01:10:23 PM 21-11-2026",
   "total_matches": 486,
-  "live_match": 13,
+  "live_match": 12,
   "upcoming_match": 432,
-  "ended_match": 41,
+  "ended_match": 42,
   "matches": [
     {
       "status": "LIVE",
@@ -440,28 +440,6 @@
       "streams": [],
       "isHot": false,
       "id": "evt_5c5975a33e76"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "St Mary's Gaels Vs Saint Louis Billikens",
-      "eventInfo": {
-        "teamA": "St Mary's Gaels",
-        "teamB": "Saint Louis Billikens",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/41207/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/66382/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "21/11/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c33b5fca9f5f"
     },
     {
       "status": "LIVE",
@@ -10116,6 +10094,28 @@
       ],
       "isHot": false,
       "id": "evt_9f8a78bfc121"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "St Mary's Gaels Vs Saint Louis Billikens",
+      "eventInfo": {
+        "teamA": "St Mary's Gaels",
+        "teamB": "Saint Louis Billikens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41207/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/66382/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "21/11/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c33b5fca9f5f"
     },
     {
       "status": "ENDED",
