@@ -1,9 +1,9 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:20:18 PM 21-11-2026",
-  "total_matches": 486,
-  "live_match": 16,
+  "last_update_time": "02:30:27 PM 21-11-2026",
+  "total_matches": 485,
+  "live_match": 15,
   "upcoming_match": 428,
   "ended_match": 42,
   "matches": [
@@ -552,7 +552,8 @@
         {
           "channel_name": "EUROSPORT FHD",
           "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
+          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "WILLOW HD",
@@ -569,6 +570,24 @@
           "channel_name": "WILLOW ALT",
           "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd",
           "drm_key": "205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6"
+        },
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1m5p4laylw/out/v1/d06dee18492d4734b4a35dfa108e3a33/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "ae2b2cc0d4a4ca729178fa33c76c333f:a2cef8a0f497874cedd1c23d13d7cf63"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iitm4x4gyr/out/v1/30469de00e7449b99c3ee113b91c8804/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "ae2b2cc0d4a4ca729178fa33c76c333f:a2cef8a0f497874cedd1c23d13d7cf63"
         }
       ],
       "isHot": false,
@@ -635,48 +654,6 @@
       ],
       "isHot": false,
       "id": "evt_74c950ab9856"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Sydney Sixers Women Vs Perth Scorchers Women",
-      "eventInfo": {
-        "teamA": "Sydney Sixers Women",
-        "teamB": "Perth Scorchers Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274883/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274890/image",
-        "eventName": "Womens Big Bash League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "21/11/2026 10:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "willow sports",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xzhvi2grfc/out/v1/0c7ba1d749ea465c8caac7e84fc34891/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "6012ce4af4cad526b730a7dc830bb35d:80280163cc6aad3985a22ebf2f082e76"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wxizovddui/out/v1/184506c2d6ae4bd7a6e64e76f6b14223/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "6012ce4af4cad526b730a7dc830bb35d:80280163cc6aad3985a22ebf2f082e76"
-        },
-        {
-          "channel_name": "Tapmad - (bd)",
-          "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_7353bc01559b",
-      "isHot": false
     },
     {
       "status": "LIVE",
