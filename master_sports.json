@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:00:25 AM 21-11-2026",
+  "last_update_time": "09:10:17 AM 21-11-2026",
   "total_matches": 386,
   "live_match": 34,
-  "upcoming_match": 340,
-  "ended_match": 12,
+  "upcoming_match": 339,
+  "ended_match": 13,
   "matches": [
     {
       "status": "LIVE",
@@ -30,6 +30,12 @@
           "channel_name": "HD QUALITY 2",
           "stream_url": "https://chatgpt.hereisman.net/playlist/60580/load-playlist-multi?&.m3u8",
           "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/uuuu.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -58,6 +64,12 @@
           "channel_name": "HD QUALITY 2",
           "stream_url": "https://chatgpt.hereisman.net/playlist/60522/load-playlist-multi?&.m3u8",
           "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/4HHH.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -101,7 +113,7 @@
         },
         {
           "channel_name": "SPORTSCAST FHD ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0a4b8981-9dac-4551-bdfe-b23d10b10693/master.m3u8"
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/62c6dc62-673a-4d20-88db-b0603809fb9a/master.m3u8"
         },
         {
           "channel_name": "CANAL MX FHD",
@@ -126,7 +138,7 @@
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/R333AAAA.m3u8",
+          "stream_url": "http://193.47.62.44/hls/QRRRQQQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
@@ -526,6 +538,59 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Club Tijuana Vs Atlante FC",
+      "eventInfo": {
+        "teamA": "Club Tijuana",
+        "teamB": "Atlante FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36525/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1943/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "21/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/QRRRQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_636d495dea1b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Juárez Vs Atlas FC",
+      "eventInfo": {
+        "teamA": "FC Juárez",
+        "teamB": "Atlas FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/201624/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1949/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "21/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/QRRRQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7a0e0082c054"
+    },
+    {
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Michigan State Spartans Vs Oregon Ducks",
       "eventInfo": {
@@ -729,6 +794,35 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
+      "event_name": "Denver Nuggets Vs Houston Rockets",
+      "eventInfo": {
+        "teamA": "Denver Nuggets",
+        "teamB": "Houston Rockets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "21/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/UKKKAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8ca0cc5784e1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
       "event_name": "Detroit Pistons Vs Toronto Raptors",
       "eventInfo": {
         "teamA": "Detroit Pistons",
@@ -753,6 +847,35 @@
       ],
       "isHot": false,
       "id": "evt_7302357f0d42"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Los Angeles Lakers Vs Sacramento Kings",
+      "eventInfo": {
+        "teamA": "Los Angeles Lakers",
+        "teamB": "Sacramento Kings",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3413/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "21/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/UPPPAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b81c30d5d54e"
     },
     {
       "status": "LIVE",
@@ -872,37 +995,6 @@
       ],
       "isHot": false,
       "id": "evt_4739c2aacc1f"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Atlanta Hawks Vs Charlotte Hornets",
-      "eventInfo": {
-        "teamA": "Atlanta Hawks",
-        "teamB": "Charlotte Hornets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3430/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "21/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NBA PASS FHD",
-          "stream_url": "https://fernfiber.s3.ca-central-1.amazonaws.com/hornets.m3u8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60545/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "ATALANTA Live HD",
-          "stream_url": "https://justpasstheball.online/live/charlotte-hornets-vs-atlanta-hawks.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a7a99c3a2c9b"
     },
     {
       "status": "LIVE",
@@ -1136,114 +1228,25 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Club Tijuana Vs Atlante FC",
-      "eventInfo": {
-        "teamA": "Club Tijuana",
-        "teamB": "Atlante FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/36525/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1943/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "21/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/QRRRQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_636d495dea1b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Juárez Vs Atlas FC",
-      "eventInfo": {
-        "teamA": "FC Juárez",
-        "teamB": "Atlas FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/201624/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1949/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "21/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/QRRRQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_7a0e0082c054"
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Denver Nuggets Vs Houston Rockets",
+      "event_name": "St Mary's Gaels Vs Saint Louis Billikens",
       "eventInfo": {
-        "teamA": "Denver Nuggets",
-        "teamB": "Houston Rockets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "21/11/2026 09:00:00 AM"
+        "teamA": "St Mary's Gaels",
+        "teamB": "Saint Louis Billikens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41207/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/66382/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "21/11/2026 10:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/UKKKAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
       "isHot": false,
-      "id": "evt_8ca0cc5784e1"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Los Angeles Lakers Vs Sacramento Kings",
-      "eventInfo": {
-        "teamA": "Los Angeles Lakers",
-        "teamB": "Sacramento Kings",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "21/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/UPPPAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b81c30d5d54e"
+      "id": "evt_c33b5fca9f5f"
     },
     {
       "status": "LIVE",
@@ -1579,28 +1582,6 @@
       ],
       "isHot": false,
       "id": "evt_112c09a751b6"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "St Mary's Gaels Vs Saint Louis Billikens",
-      "eventInfo": {
-        "teamA": "St Mary's Gaels",
-        "teamB": "Saint Louis Billikens",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/41207/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/66382/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "21/11/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c33b5fca9f5f"
     },
     {
       "status": "UPCOMING",
@@ -7645,6 +7626,37 @@
       ],
       "isHot": false,
       "id": "evt_b517ce0d3e18"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Atlanta Hawks Vs Charlotte Hornets",
+      "eventInfo": {
+        "teamA": "Atlanta Hawks",
+        "teamB": "Charlotte Hornets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "21/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NBA PASS FHD",
+          "stream_url": "https://fernfiber.s3.ca-central-1.amazonaws.com/hornets.m3u8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60545/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "ATALANTA Live HD",
+          "stream_url": "https://justpasstheball.online/live/charlotte-hornets-vs-atlanta-hawks.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a7a99c3a2c9b"
     },
     {
       "status": "ENDED",
