@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:00:26 PM 21-11-2026",
+  "last_update_time": "02:10:18 PM 21-11-2026",
   "total_matches": 486,
-  "live_match": 14,
-  "upcoming_match": 430,
+  "live_match": 16,
+  "upcoming_match": 428,
   "ended_match": 42,
   "matches": [
     {
@@ -593,6 +593,51 @@
     },
     {
       "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Hong Kong Vs Tonga",
+      "eventInfo": {
+        "teamA": "Hong Kong",
+        "teamB": "Tonga",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1087211/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7953/image",
+        "eventName": "Nations Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34898/image/dark",
+        "startTime": "21/11/2026 03:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b281014bb714"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Brisbane Roar Vs Sydney FC",
+      "eventInfo": {
+        "teamA": "Brisbane Roar",
+        "teamB": "Sydney FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5968/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5971/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "21/11/2026 02:40:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_74c950ab9856"
+    },
+    {
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Sydney Sixers Women Vs Perth Scorchers Women",
       "eventInfo": {
@@ -834,29 +879,6 @@
       ],
       "isHot": false,
       "id": "evt_3dab98028949"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Hong Kong Vs Tonga",
-      "eventInfo": {
-        "teamA": "Hong Kong",
-        "teamB": "Tonga",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1087211/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7953/image",
-        "eventName": "Nations Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34898/image/dark",
-        "startTime": "21/11/2026 03:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b281014bb714"
     },
     {
       "status": "UPCOMING",
@@ -2591,28 +2613,6 @@
       ],
       "isHot": false,
       "id": "evt_c2ef7a0452f5"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Brisbane Roar Vs Sydney FC",
-      "eventInfo": {
-        "teamA": "Brisbane Roar",
-        "teamB": "Sydney FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5968/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5971/image",
-        "eventName": "A-League Men",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "startTime": "21/11/2026 02:40:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_74c950ab9856"
     },
     {
       "status": "UPCOMING",
