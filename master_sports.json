@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:40:16 PM 21-11-2026",
+  "last_update_time": "08:50:17 PM 21-11-2026",
   "total_matches": 512,
-  "live_match": 111,
-  "upcoming_match": 384,
+  "live_match": 112,
+  "upcoming_match": 383,
   "ended_match": 17,
   "matches": [
     {
@@ -3007,6 +3007,70 @@
       ],
       "isHot": false,
       "id": "evt_b0e92f320beb"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Tottenham Vs Ipswich",
+      "eventInfo": {
+        "teamA": "Tottenham",
+        "teamB": "Ipswich",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
+        "eventName": "Premier League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
+        "startTime": "21/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=b6d8f6d4dfb80f75a50fef89ba3c99e7&wsABSTime=1795314327",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel15/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001795271133-0-0-367377f890f7db713fed21894d54f00a",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001795271134-0-0-65a1efe514e9cd47eb2cf920f723e3ff",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=cacddaa01181febf3ec420813b82e35e&wsABSTime=1795314335",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel24/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001795271136-0-0-4858ecdf18b1c92d01ec2fd940a808f9",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 7",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 8",
+          "stream_url": "https://playback.livetl004.com/live/6a2a59b347bbddd62a8dc4e4.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_490dc5c669a9",
+      "isHot": false
     },
     {
       "status": "LIVE",
@@ -6480,23 +6544,6 @@
       "streams": [],
       "isHot": false,
       "id": "evt_827df903c0a9"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Tottenham Vs Ipswich",
-      "eventInfo": {
-        "teamA": "Tottenham",
-        "teamB": "Ipswich",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
-        "eventName": "Premier League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
-        "startTime": "21/11/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_490dc5c669a9",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
