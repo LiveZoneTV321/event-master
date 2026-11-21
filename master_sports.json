@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:40:18 PM 21-11-2026",
+  "last_update_time": "07:50:27 PM 21-11-2026",
   "total_matches": 554,
   "live_match": 63,
   "upcoming_match": 471,
@@ -63,11 +63,13 @@
         {
           "channel_name": "HD QUALITY ",
           "stream_url": "https://live.vivo155.com/live/hd-en-1-4558489.m3u8?txSecret=4b178d5136886b00aeb93effe05b134c&txTime=6B01A1F1",
-          "referer": "https://player.on8on8.com/"
+          "referer": "https://player.on8on8.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "HD QUALITY 2",
-          "stream_url": "https://www.rtmpcdn.com/live/c146aa6b-a552-4a21-8781-aa878a63c43b.m3u8"
+          "stream_url": "https://www.rtmpcdn.com/live/c146aa6b-a552-4a21-8781-aa878a63c43b.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "PREMIER LEAGUE+ HD",
@@ -1598,7 +1600,40 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
         "startTime": "21/11/2026 08:30:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel23.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel23/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001795267565-0-0-214612453cf774a81942a51f9b5699ce",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-23/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-9912129_lhd.m3u8?auth_key=1795261568-0-0-fc116cf5577b6728949f15ccbdaf7743",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1795261509-0-0-437819c95ffc2d7afc33cf2f3482aecb",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel23.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://playback.livetl004.com/live/69be75e0a0a45974afb67776.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
       "isHot": false,
       "id": "evt_2418e4968b1f"
     },
@@ -1959,6 +1994,12 @@
         {
           "channel_name": "Server - 5",
           "stream_url": "https://playback.livetl004.com/live/6aef22d1f72fb30b985aafbe.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
@@ -7003,6 +7044,176 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "Elversberg Vs Freiburg",
+      "eventInfo": {
+        "teamA": "Elversberg",
+        "teamB": "Freiburg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2598/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+        "eventName": "Bundesliga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
+        "startTime": "21/11/2026 08:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001795267534-0-0-59394f97b9bfb56ab3277c8c857bff20",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_efaf80c1b1d6",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Gladbach Vs Dortmund",
+      "eventInfo": {
+        "teamA": "Gladbach",
+        "teamB": "Dortmund",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
+        "eventName": "Bundesliga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
+        "startTime": "21/11/2026 08:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001795267181-0-0-e770a78928b7477ce1e2e6b1f5a82e8b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel18.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://playback.livetl004.com/live/6a7c0d8f65997681f18cacc4.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_5b62064f0f4d",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Eintracht Vs Hoffenheim",
+      "eventInfo": {
+        "teamA": "Eintracht",
+        "teamB": "Hoffenheim",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2674/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image",
+        "eventName": "Bundesliga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
+        "startTime": "21/11/2026 08:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001795267264-0-0-f5d7882fa74464d46fa3e90017d968b8",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://playback.livetl004.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_1d271f5fb2f7",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Leverkusen Vs SC Paderborn",
+      "eventInfo": {
+        "teamA": "Leverkusen",
+        "teamB": "SC Paderborn",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2561/image",
+        "eventName": "Bundesliga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
+        "startTime": "21/11/2026 08:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001795267186-0-0-3334dcc1472050e991bacc23bdcd9ffc",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1795261088-0-0-a22993dffeeacadf484bd23365aa825d",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=8b4d9caf8c82cdb631b0bf8401791cca&txTime=6b01c8b5",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel8.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://playback.livetl004.com/live/69cf6331585c5992182f4160.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_3781c74375fe",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "Tottenham Vs Ipswich",
       "eventInfo": {
         "teamA": "Tottenham",
@@ -7168,74 +7379,6 @@
       },
       "streams": [],
       "id": "evt_ba2175548f6e",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Elversberg Vs Freiburg",
-      "eventInfo": {
-        "teamA": "Elversberg",
-        "teamB": "Freiburg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2598/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-        "eventName": "Bundesliga",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-        "startTime": "21/11/2026 08:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_efaf80c1b1d6",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Gladbach Vs Dortmund",
-      "eventInfo": {
-        "teamA": "Gladbach",
-        "teamB": "Dortmund",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-        "eventName": "Bundesliga",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-        "startTime": "21/11/2026 08:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_5b62064f0f4d",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Eintracht Vs Hoffenheim",
-      "eventInfo": {
-        "teamA": "Eintracht",
-        "teamB": "Hoffenheim",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2674/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-        "eventName": "Bundesliga",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-        "startTime": "21/11/2026 08:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_1d271f5fb2f7",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Leverkusen Vs SC Paderborn",
-      "eventInfo": {
-        "teamA": "Leverkusen",
-        "teamB": "SC Paderborn",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2561/image",
-        "eventName": "Bundesliga",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-        "startTime": "21/11/2026 08:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_3781c74375fe",
       "isHot": false
     },
     {
