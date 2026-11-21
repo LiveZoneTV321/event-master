@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:20:17 PM 21-11-2026",
-  "total_matches": 516,
-  "live_match": 111,
-  "upcoming_match": 392,
+  "last_update_time": "08:30:22 PM 21-11-2026",
+  "total_matches": 513,
+  "live_match": 109,
+  "upcoming_match": 391,
   "ended_match": 13,
   "matches": [
     {
@@ -494,7 +494,8 @@
         {
           "channel_name": "CBS NETWORK HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist/60594/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "referer": "https://gooz.aapmains.net",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 1",
@@ -561,7 +562,8 @@
         {
           "channel_name": "CBS NETWORK HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist/60595/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "referer": "https://gooz.aapmains.net",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 1",
@@ -2986,111 +2988,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Nurnberg Vs Braunschweig",
-      "eventInfo": {
-        "teamA": "Nurnberg",
-        "teamB": "Braunschweig",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2523/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2557/image",
-        "eventName": "Bundesliga 2",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-        "startTime": "21/11/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001795256659-0-0-573b13d0e802052af8db38891b68f6da",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_036e67a6f624",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Hannover Vs Greuther Fürth",
-      "eventInfo": {
-        "teamA": "Hannover",
-        "teamB": "Greuther Fürth",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2541/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2551/image",
-        "eventName": "Bundesliga 2",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-        "startTime": "21/11/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001795256498-0-0-90d2a65c4234e95ac26a7b022932eee0",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_bb7f79f1ba8b",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Wolfsburg Vs Holstein Kiel",
-      "eventInfo": {
-        "teamA": "Wolfsburg",
-        "teamB": "Holstein Kiel",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2524/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-        "eventName": "Bundesliga 2",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-        "startTime": "21/11/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001795256775-0-0-b98c0922f08f26915c4c8e89d63372d8",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795253649-0-0-039e34d4747f4ad4996e3858e94df842",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795260968-0-0-ef77e9ce896f0d35275b52397037a943",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel13.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_3a774a8a1273",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Alaves Vs Deportivo",
       "eventInfo": {
         "teamA": "Alaves",
@@ -3248,6 +3145,36 @@
         }
       ],
       "id": "evt_b6329aebf258",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Desert Vipers Vs MI Emirates",
+      "eventInfo": {
+        "teamA": "Desert Vipers",
+        "teamB": "MI Emirates",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/M2.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/M6.png",
+        "eventName": "ILT20 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
+        "startTime": "21/11/2026 08:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7thf3dqfv/out/v1/b6a0f070688648ac849771947211a8fb/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "61403ba13e0032108b86ec3078314ec9:ec2ac53d37954d51dd4d9eb11ecf322b"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7thf3dqfv/out/v1/b6a0f070688648ac849771947211a8fb/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "61403ba13e0032108b86ec3078314ec9:ec2ac53d37954d51dd4d9eb11ecf322b"
+        }
+      ],
+      "id": "evt_405d2c3aee69",
       "isHot": false
     },
     {
@@ -10864,23 +10791,6 @@
       },
       "streams": [],
       "id": "evt_dd35d9980291",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Desert Vipers Vs MI Emirates",
-      "eventInfo": {
-        "teamA": "Desert Vipers",
-        "teamB": "MI Emirates",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/M2.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/M6.png",
-        "eventName": "ILT20 2026",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
-        "startTime": "21/11/2026 08:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_405d2c3aee69",
       "isHot": false
     },
     {
