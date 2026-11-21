@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:50:16 AM 21-11-2026",
+  "last_update_time": "12:00:25 PM 21-11-2026",
   "total_matches": 486,
-  "live_match": 18,
-  "upcoming_match": 433,
+  "live_match": 19,
+  "upcoming_match": 432,
   "ended_match": 35,
   "matches": [
     {
@@ -814,6 +814,29 @@
         }
       ],
       "id": "evt_7353bc01559b",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Sri Lanka A Vs Hong Kong, China",
+      "eventInfo": {
+        "teamA": "Sri Lanka A",
+        "teamB": "Hong Kong, China",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4765/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "21/11/2026 12:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "sonyliv - aq",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795282335~acl=/*~id=62149777860658370208685505764532~hmac=f1208fc027d34823a2ecb8f71321e8d9418978f4c0bcbbe5552e47232aac243a",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_7dcdd9030bcf",
       "isHot": false
     },
     {
@@ -8218,23 +8241,6 @@
       },
       "streams": [],
       "id": "evt_ef7176feebd9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Sri Lanka A Vs Hong Kong, China",
-      "eventInfo": {
-        "teamA": "Sri Lanka A",
-        "teamB": "Hong Kong, China",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4765/image",
-        "eventName": "ACC Emerging Teams Asia Cup",
-        "event_logo": "",
-        "startTime": "21/11/2026 12:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_7dcdd9030bcf",
       "isHot": false
     },
     {
